@@ -8,3 +8,7 @@ DOMAIN-SUFFIX,facal.one
 # Emby服务
 DOMAIN-SUFFIX,313445.xyz
 DOMAIN-SUFFIX,saturday.video
+
+# 机场订阅
+DOMAIN-SUFFIX,dler.cloud
+DOMAIN,dler.cloud
