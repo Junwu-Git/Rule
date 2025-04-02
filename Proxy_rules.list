@@ -2,13 +2,19 @@
 DOMAIN-SUFFIX,fmta.boo
 DOMAIN,amz.fmta.boo
 DOMAIN-KEYWORD,fmta
-DOMAIN,neo.facal.one
-DOMAIN-SUFFIX,facal.one
 
 # Emby服务
 DOMAIN-SUFFIX,313445.xyz
 DOMAIN-SUFFIX,saturday.video
 
 # 机场订阅
-DOMAIN-SUFFIX,dler.cloud
 DOMAIN,dler.cloud
+DOMAIN-SUFFIX,dler.cloud
+DOMAIN,bujidao.cc
+DOMAIN-SUFFIX,bujidao.cc
+DOMAIN,neo.facal.one
+DOMAIN-SUFFIX,facal.one
+DOMAIN,sub2.smallstrawberry.com
+DOMAIN-SUFFIX,smallstrawberry.com
+DOMAIN,tunnel.jwan.site
+DOMAIN-SUFFIX,jwan.site
