@@ -2,6 +2,18 @@
 DOMAIN-SUFFIX,fmta.boo
 DOMAIN-KEYWORD,fmta
 
+# Ccat服务
+DOMAIN,cccat.io
+DOMAIN-SUFFIX,cccat.io
+
+# 布吉岛
+DOMAIN,app.bujidao.org
+DOMAIN-SUFFIX,bujidao.org
+
+# 一元机场
+DOMAIN,一元机场.com
+DOMAIN-SUFFIX,一元机场.com
+
 # Emby服务
 DOMAIN-SUFFIX,313445.xyz
 DOMAIN-SUFFIX,saturday.video
@@ -17,3 +29,7 @@ DOMAIN,sub2.smallstrawberry.com
 DOMAIN-SUFFIX,smallstrawberry.com
 DOMAIN,tunnel.jwan.site
 DOMAIN-SUFFIX,jwan.site
+DOMAIN,a.subcat.link
+DOMAIN-SUFFIX,subcat.link
+DOMAIN,bujidao.cc
+DOMAIN-SUFFIX,bujidao.cc
