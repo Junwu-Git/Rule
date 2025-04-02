@@ -2,6 +2,8 @@
 DOMAIN-SUFFIX,fmta.boo
 DOMAIN,amz.fmta.boo
 DOMAIN-KEYWORD,fmta
+DOMAIN,neo.facal.one
+DOMAIN-SUFFIX,facal.one
 
 # Emby服务
 DOMAIN-SUFFIX,313445.xyz
