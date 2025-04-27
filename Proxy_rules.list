@@ -33,3 +33,7 @@ DOMAIN,a.subcat.link
 DOMAIN-SUFFIX,subcat.link
 DOMAIN,bujidao.cc
 DOMAIN-SUFFIX,bujidao.cc
+
+# 其它
+DOMAIN,linux.do
+DOMAIN-SUFFIX,linux.do
