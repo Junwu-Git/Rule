@@ -23,10 +23,10 @@ jobs:
 
       - name: Process files (add ,no-resolve to non-comment lines)
         run: |
-          mkdir -p ip-lists
+          mkdir -p ActionRules
           for f in private google netflix telegram twitter; do
             awk '{ if ($0 ~ /^#/) print $0; else print $0",no-resolve" }' \
-              meta-rules-dat/geo/geoip/classical/$f.list > ip-lists/$f.list
+              meta-rules-dat/geo/geoip/classical/$f.list > ActionRules/$f.list
           done
 
       - name: Commit and push
@@ -36,10 +36,7 @@ jobs:
           git config --global user.name "GitHub Action"
           git config --global user.email "action@github.com"
 
-          # 覆盖原有文件
-          cp -f ip-lists/*.list ./
-
-          git add *.list
+          git add ActionRules/*.list
           git commit -m "Auto update IP lists with ,no-resolve" || echo "No changes"
 
           git remote remove origin
