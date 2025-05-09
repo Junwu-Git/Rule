@@ -35,4 +35,4 @@ jobs:
           git add *.list
           git commit -m "Auto update IP lists with ,no-resolve" || echo "No changes"
           git remote set-url origin https://x-access-token:${GH_TOKEN}@github.com/${{ github.repository }}
-          git push
+          git push origin HEAD:main
