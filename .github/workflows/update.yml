@@ -18,23 +18,29 @@ jobs:
       - name: Install Git
         run: sudo apt-get update && sudo apt-get install -y git
 
-      - name: Clone source repo from meta branch
+      - name: Clone MetaCubeX/meta-rules-dat (meta branch)
         run: git clone --branch meta https://github.com/MetaCubeX/meta-rules-dat.git --depth=1
 
-      - name: Process IP list files (add ,no-resolve)
+      - name: Clone 666OS/YYDS (main branch)
+        run: git clone --branch main https://github.com/666OS/YYDS.git yyds-repo --depth=1
+
+      - name: Create ActionRules directory
+        run: mkdir -p ActionRules
+
+      - name: Process IP lists (add ,no-resolve)
         run: |
-          mkdir -p ActionRules
           for f in private google netflix telegram twitter; do
             awk '{ if ($0 ~ /^#/) print $0; else print $0",no-resolve" }' \
               meta-rules-dat/geo/geoip/classical/$f.list > ActionRules/$f.list
           done
 
-      - name: Convert mihomo YAML rules to list format
+      - name: Convert YAML files from 666OS/YYDS to list format
         run: |
-          for f in mihomo/rules/XPTV.yaml mihomo/rules/download.yaml mihomo/rules/fix-direct.yaml; do
-            name=$(basename "$f" .yaml)
-            grep -vE '^(payload:|[[:space:]]*# PROCESS-NAME|[[:space:]]*- PROCESS-NAME|^$)' "$f" \
-              | sed -E 's/^[[:space:]]*-[[:space:]]*//' > ActionRules/"$name".list
+          for f in XPTV download fix-direct; do
+            src="yyds-repo/mihomo/rules/$f.yaml"
+            dst="ActionRules/$f.list"
+            grep -vE '^(payload:|[[:space:]]*# PROCESS-NAME|[[:space:]]*- PROCESS-NAME|^$)' "$src" \
+              | sed -E 's/^[[:space:]]*-[[:space:]]*//' > "$dst"
           done
 
       - name: Commit and Push Changes
@@ -45,7 +51,7 @@ jobs:
           git config --global user.email "action@github.com"
 
           git add ActionRules/*.list
-          git commit -m "Auto update IP lists and convert YAML rules to list format" || echo "No changes"
+          git commit -m "Auto update IP and rule lists" || echo "No changes"
 
           git remote remove origin
           git remote add origin https://x-access-token:${GH_TOKEN}@github.com/${{ github.repository }}
