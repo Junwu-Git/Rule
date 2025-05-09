@@ -1,10 +1,10 @@
 # 名称: 直连修正
 DST-PORT,123
-  # DOMAIN
+# DOMAIN
 DOMAIN,gst.prod.dl.playstation.net
 DOMAIN,ottsdk.itv.video
 DOMAIN,tempmail.plus
-  # DOMAIN-SUFFIX
+# DOMAIN-SUFFIX
 DOMAIN-SUFFIX,4820286.xyz
 DOMAIN-SUFFIX,alice.ws
 DOMAIN-SUFFIX,apple-dns.cn
