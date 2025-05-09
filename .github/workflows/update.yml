@@ -1,53 +1,39 @@
-name: Sync and Modify IP Lists
+name: Auto Update IP Lists
 
 on:
+  push:
+    branches:
+      - main  # 可以根据需要更改为你的默认分支
   schedule:
-    - cron: '0 1 * * *'  # 每天 01:00 UTC 自动运行
-  workflow_dispatch:     # 允许手动触发
-
-# 解决方案
-permissions:
-  contents: write
+    - cron: '0 0 * * *'  # 每天自动运行一次（根据需要调整）
 
 jobs:
-  update-lists:
+  update-ip-lists:
     runs-on: ubuntu-latest
+
     steps:
-      - name: Checkout your repo
-        uses: actions/checkout@v3
+    - name: Checkout MetaCubeX/meta-rules-dat repo
+      uses: actions/checkout@v3
+      with:
+        repository: MetaCubeX/meta-rules-dat
+        ref: meta  # 使用指定的分支
 
-      - name: Install Git
-        run: sudo apt-get update && sudo apt-get install -y git
+    - name: List files in classical directory
+      run: ls -l meta/geo/geoip/classical
 
-      - name: Clone source repo
-        run: git clone https://github.com/MetaCubeX/meta-rules-dat.git --depth=1
+    - name: Copy specific files from classical directory and list copied files
+      run: |
+        # 只复制需要的文件
+        cp meta/geo/geoip/classical/{private.list,google.list,netflix.list,telegram.list,twitter.list} ./
+        ls -l ./  # 列出复制到当前目录的文件
 
-      - name: Process files
-        run: |
-          mkdir -p ip-lists
-          for f in private google netflix telegram twitter; do
-            cat meta-rules-dat/geo/geoip/classical/$f.list | sed 's/$/,no-resolve/' > ip-lists/$f.list
-          done
-
-      - name: Commit and push
-        env:
-          GH_TOKEN: ${{ secrets.GH_TOKEN }}
-        run: |
-          git config --global user.name "GitHub Action"
-          git config --global user.email "action@github.com"
-          cp -r ip-lists/* ./
-          git add *.list
-          git commit -m "Auto update IP lists with ,no-resolve" || echo "No changes"
-          
-          # 移除当前 origin 配置
-          git remote remove origin
-          
-          # 添加带有 GH_TOKEN 的新 origin 地址
-          git remote add origin https://x-access-token:${GH_TOKEN}@github.com/${{ github.repository }}
-          
-          # 查看更新后的 remote 配置
-          git remote -v
-          
-          # 推送到指定分支
-          git push origin HEAD:${{ github.ref_name }}
-
+    - name: Commit and push
+      env:
+        GH_TOKEN: ${{ secrets.GH_TOKEN }}
+      run: |
+        git config --global user.name "GitHub Action"
+        git config --global user.email "action@github.com"
+        git add *.list
+        git commit -m "Auto update specific IP lists with ,no-resolve" || echo "No changes"
+        git remote set-url origin https://x-access-token:${GH_TOKEN}@github.com/${{ github.repository }}
+        git push origin HEAD:${{ github.ref_name }}
