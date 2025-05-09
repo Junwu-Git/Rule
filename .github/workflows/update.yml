@@ -48,23 +48,47 @@ jobs:
               | sed 's/^[[:space:]]*#/#/' > "$dst"
           done
 
-      - name: Copy geosite list files from MetaCubeX
+      - name: Copy geosite list files from MetaCubeX (case-insensitive)
         run: |
+          shopt -s nocasematch
           cd meta-rules-dat/geo/geosite/classical
           for f in category-public-tracker private connectivity-check cn openai category-ai-!cn github twitter youtube apple-cn apple cloudflare-cn google onedrive microsoft category-games telegram netflix bilibili bahamut spotify pixiv gfw geolocation-!cn; do
-            if [[ -f "$f.list" ]]; then
-              cp "$f.list" ../../../../ActionRules/copy/
+            for file in *; do
+              if [[ "${file,,}" == "$f.list" ]]; then
+                cp "$file" ../../../../ActionRules/copy/
+              fi
+            done
+          done
+
+      - name: Copy geoip cn.list as cn_ip.list (case-insensitive)
+        run: |
+          shopt -s nocasematch
+          for file in meta-rules-dat/geo/geoip/classical/*; do
+            filename=$(basename "$file")
+            if [[ "${filename,,}" == "cn.list" ]]; then
+              cp "$file" ActionRules/copy/cn_ip.list
             fi
           done
 
-      - name: Copy geoip cn.list as cn_ip.list
-        run: cp meta-rules-dat/geo/geoip/classical/cn.list ActionRules/copy/cn_ip.list
+      - name: Copy game.list from blackmatrix7 (case-insensitive)
+        run: |
+          shopt -s nocasematch
+          for file in ios_rule_script/rule/Loon/Game/*; do
+            filename=$(basename "$file")
+            if [[ "${filename,,}" == "game.list" ]]; then
+              cp "$file" ActionRules/copy/game.list
+            fi
+          done
 
-      - name: Copy game.list from blackmatrix7
-        run: cp ios_rule_script/rule/Loon/Game/game.list ActionRules/copy/game.list
-
-      - name: Copy emby.list from YYDS
-        run: cp yyds-repo/mihomo/rules/emby.list ActionRules/copy/emby.list
+      - name: Copy emby.list from YYDS (case-insensitive)
+        run: |
+          shopt -s nocasematch
+          for file in yyds-repo/mihomo/rules/*; do
+            filename=$(basename "$file")
+            if [[ "${filename,,}" == "emby.list" ]]; then
+              cp "$file" ActionRules/copy/emby.list
+            fi
+          done
 
       - name: Commit and Push Changes
         env:
