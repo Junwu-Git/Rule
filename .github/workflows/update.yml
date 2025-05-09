@@ -22,29 +22,49 @@ jobs:
       - name: Clone MetaCubeX/meta-rules-dat (meta branch)
         run: git clone --branch meta https://github.com/MetaCubeX/meta-rules-dat.git --depth=1
 
+      - name: Clone blackmatrix7/ios_rule_script (master branch)
+        run: git clone --branch master https://github.com/blackmatrix7/ios_rule_script.git --depth=1
+
       - name: Clone 666OS/YYDS (main branch)
         run: git clone --branch main https://github.com/666OS/YYDS.git yyds-repo --depth=1
 
-      - name: Create ActionRules directory
-        run: mkdir -p ActionRules
+      - name: Create ActionRules directories
+        run: mkdir -p ActionRules ActionRules/copy
 
-      - name: Process IP lists (add ,no-resolve)
+      - name: Process classical geoip IP files (add ,no-resolve)
         run: |
           for f in private google netflix telegram twitter; do
             awk '{ if ($0 ~ /^#/) print $0; else print $0",no-resolve" }' \
-              meta-rules-dat/geo/geoip/classical/$f.list > ActionRules/$f.list
+              meta-rules-dat/geo/geoip/classical/$f.list > ActionRules/${f}_ip.list
           done
 
-      - name: Convert YAML files from 666OS/YYDS to list format with correct comment alignment
+      - name: Convert YAML rules from 666OS/YYDS to list format
         run: |
           for f in XPTV download fix-direct; do
             src="yyds-repo/mihomo/rules/$f.yaml"
             dst="ActionRules/$f.list"
-            # 处理 YAML 文件并去除不需要的行，确保注释行格式正确
             grep -vE '^(payload:|[[:space:]]*# PROCESS-NAME|[[:space:]]*- PROCESS-NAME|^$)' "$src" \
               | sed -E 's/^[[:space:]]*-[[:space:]]*//' \
               | sed 's/^[[:space:]]*#/#/' > "$dst"
           done
+
+      - name: Copy geosite list files from MetaCubeX
+        run: |
+          cd meta-rules-dat/geo/geosite/classical
+          for f in category-public-tracker private connectivity-check cn openai category-ai-!cn github twitter youtube apple-cn apple cloudflare-cn google onedrive microsoft category-games telegram netflix bilibili bahamut spotify pixiv gfw geolocation-!cn; do
+            if [[ -f "$f.list" ]]; then
+              cp "$f.list" ../../../../ActionRules/copy/
+            fi
+          done
+
+      - name: Copy geoip cn.list as cn_ip.list
+        run: cp meta-rules-dat/geo/geoip/classical/cn.list ActionRules/copy/cn_ip.list
+
+      - name: Copy game.list from blackmatrix7
+        run: cp ios_rule_script/rule/Loon/Game/game.list ActionRules/copy/game.list
+
+      - name: Copy emby.list from YYDS
+        run: cp yyds-repo/mihomo/rules/emby.list ActionRules/copy/emby.list
 
       - name: Commit and Push Changes
         env:
@@ -52,10 +72,8 @@ jobs:
         run: |
           git config --global user.name "GitHub Action"
           git config --global user.email "action@github.com"
-
-          git add ActionRules/*.list
-          git commit -m "Auto update IP and rule lists with proper comment formatting" || echo "No changes"
-
+          git add ActionRules
+          git commit -m "Auto sync and rename IP/rule lists" || echo "No changes"
           git remote remove origin
           git remote add origin https://x-access-token:${GH_TOKEN}@github.com/${{ github.repository }}
           git push origin HEAD:${{ github.ref_name }}
