@@ -34,5 +34,16 @@ jobs:
           cp -r ip-lists/* ./
           git add *.list
           git commit -m "Auto update IP lists with ,no-resolve" || echo "No changes"
-          git remote set-url origin https://x-access-token:${GH_TOKEN}@github.com/${{ github.repository }}
-          git push origin HEAD:main
+          
+          # 移除当前 origin 配置
+          git remote remove origin
+          
+          # 添加带有 GH_TOKEN 的新 origin 地址
+          git remote add origin https://x-access-token:${GH_TOKEN}@github.com/${{ github.repository }}
+          
+          # 查看更新后的 remote 配置
+          git remote -v
+          
+          # 推送到指定分支
+          git push origin HEAD:${{ github.ref_name }}
+
