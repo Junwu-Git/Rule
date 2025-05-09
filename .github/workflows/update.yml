@@ -12,16 +12,16 @@ jobs:
   update-lists:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout your repo
+      - name: Checkout your repository
         uses: actions/checkout@v3
 
       - name: Install Git
         run: sudo apt-get update && sudo apt-get install -y git
 
-      - name: Clone source repo from the meta branch
+      - name: Clone source repo from meta branch
         run: git clone --branch meta https://github.com/MetaCubeX/meta-rules-dat.git --depth=1
 
-      - name: Process files (add ,no-resolve to non-comment lines)
+      - name: Process IP list files (add ,no-resolve)
         run: |
           mkdir -p ActionRules
           for f in private google netflix telegram twitter; do
@@ -29,7 +29,15 @@ jobs:
               meta-rules-dat/geo/geoip/classical/$f.list > ActionRules/$f.list
           done
 
-      - name: Commit and push
+      - name: Convert mihomo YAML rules to list format
+        run: |
+          for f in mihomo/rules/XPTV.yaml mihomo/rules/download.yaml mihomo/rules/fix-direct.yaml; do
+            name=$(basename "$f" .yaml)
+            grep -vE '^(payload:|[[:space:]]*# PROCESS-NAME|[[:space:]]*- PROCESS-NAME|^$)' "$f" \
+              | sed -E 's/^[[:space:]]*-[[:space:]]*//' > ActionRules/"$name".list
+          done
+
+      - name: Commit and Push Changes
         env:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
         run: |
@@ -37,7 +45,7 @@ jobs:
           git config --global user.email "action@github.com"
 
           git add ActionRules/*.list
-          git commit -m "Auto update IP lists with ,no-resolve" || echo "No changes"
+          git commit -m "Auto update IP lists and convert YAML rules to list format" || echo "No changes"
 
           git remote remove origin
           git remote add origin https://x-access-token:${GH_TOKEN}@github.com/${{ github.repository }}
