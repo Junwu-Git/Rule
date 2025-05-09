@@ -3,7 +3,7 @@ name: Sync and Modify IP Lists
 on:
   schedule:
     - cron: '0 1 * * *'  # 每天 01:00 UTC 自动运行
-  workflow_dispatch:     # 允许手动触发
+  workflow_dispatch:
 
 permissions:
   contents: write
@@ -11,6 +11,7 @@ permissions:
 jobs:
   update-lists:
     runs-on: ubuntu-latest
+
     steps:
       - name: Checkout your repository
         uses: actions/checkout@v3
@@ -34,13 +35,15 @@ jobs:
               meta-rules-dat/geo/geoip/classical/$f.list > ActionRules/$f.list
           done
 
-      - name: Convert YAML files from 666OS/YYDS to list format
+      - name: Convert YAML files from 666OS/YYDS to list format with correct comment alignment
         run: |
           for f in XPTV download fix-direct; do
             src="yyds-repo/mihomo/rules/$f.yaml"
             dst="ActionRules/$f.list"
+            # 处理 YAML 文件并去除不需要的行，确保注释行格式正确
             grep -vE '^(payload:|[[:space:]]*# PROCESS-NAME|[[:space:]]*- PROCESS-NAME|^$)' "$src" \
-              | sed -E 's/^[[:space:]]*-[[:space:]]*//' > "$dst"
+              | sed -E 's/^[[:space:]]*-[[:space:]]*//' \
+              | sed 's/^[[:space:]]*#/#/' > "$dst"
           done
 
       - name: Commit and Push Changes
@@ -51,7 +54,7 @@ jobs:
           git config --global user.email "action@github.com"
 
           git add ActionRules/*.list
-          git commit -m "Auto update IP and rule lists" || echo "No changes"
+          git commit -m "Auto update IP and rule lists with proper comment formatting" || echo "No changes"
 
           git remote remove origin
           git remote add origin https://x-access-token:${GH_TOKEN}@github.com/${{ github.repository }}
