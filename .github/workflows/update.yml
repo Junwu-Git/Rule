@@ -12,6 +12,7 @@ permissions:
 jobs:
   update-lists:
     runs-on: ubuntu-latest
+
     steps:
       - name: Checkout your repo
         uses: actions/checkout@v3
@@ -22,31 +23,40 @@ jobs:
       - name: Clone source repo
         run: git clone https://github.com/MetaCubeX/meta-rules-dat.git --depth=1
 
-      - name: Process files
+      - name: Process files and add ,no-resolve
         run: |
           mkdir -p ip-lists
+          # 只处理特定的文件：private.list, google.list, netflix.list, telegram.list, twitter.list
           for f in private google netflix telegram twitter; do
+            # 从 source repo 复制文件并在每行后加上 ",no-resolve"
             cat meta-rules-dat/geo/geoip/classical/$f.list | sed 's/$/,no-resolve/' > ip-lists/$f.list
           done
 
-      - name: Commit and push
+      - name: Commit and push changes
         env:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
         run: |
+          # 设置 Git 用户信息
           git config --global user.name "GitHub Action"
           git config --global user.email "action@github.com"
+          
+          # 将生成的文件复制到当前工作目录
           cp -r ip-lists/* ./
+          
+          # 添加更改的文件
           git add *.list
+          
+          # 提交更改（如果有）
           git commit -m "Auto update IP lists with ,no-resolve" || echo "No changes"
           
-          # 移除当前 origin 配置
+          # 移除当前仓库的 origin 配置
           git remote remove origin
           
           # 添加带有 GH_TOKEN 的新 origin 地址
           git remote add origin https://x-access-token:${GH_TOKEN}@github.com/${{ github.repository }}
           
-          # 查看更新后的 remote 配置
+          # 查看更新后的 remote 配置（可选调试步骤）
           git remote -v
           
-          # 推送到指定分支
+          # 推送更改到指定分支
           git push origin HEAD:${{ github.ref_name }}
