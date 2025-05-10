@@ -46,7 +46,8 @@ jobs:
             if [[ -f "$src" ]]; then
               awk '{ if ($0 ~ /^#/) print $0; else print $0",no-resolve" }' "$src" > "$dst"
             else
-              echo "${{ env.DATE }}，${f}.list（geoip），未拷贝" | tee -a warning.md >> new_warning.md
+              echo "${{ env.DATE }}，${f}.list，未拷贝" >> warning.md
+              echo "${f}.list，未拷贝" >> new_warning.md
             fi
           done
 
@@ -60,7 +61,8 @@ jobs:
                 | sed -E 's/^[[:space:]]*-[[:space:]]*//' \
                 | sed 's/^[[:space:]]*#/#/' > "$dst"
             else
-              echo "${{ env.DATE }}，${f}.yaml（YYDS），未拷贝" | tee -a warning.md >> new_warning.md
+              echo "${{ env.DATE }}，${f}.yaml，未拷贝" >> warning.md
+              echo "${f}.yaml，未拷贝" >> new_warning.md
             fi
           done
 
@@ -72,7 +74,8 @@ jobs:
             if compgen -G "$f_lc" > /dev/null; then
               cp "$f_lc" ../../../../ActionRules/copy/
             else
-              echo "${{ env.DATE }}，${f_lc}（geosite list），未拷贝" | tee -a ../../../../warning.md >> ../../../../new_warning.md
+              echo "${{ env.DATE }}，${f_lc}，未拷贝" >> ../../../../warning.md
+              echo "${f_lc}，未拷贝" >> ../../../../new_warning.md
             fi
           done
           cd ../../../../
@@ -82,7 +85,8 @@ jobs:
           if [[ -f meta-rules-dat/geo/geoip/classical/cn.list ]]; then
             cp meta-rules-dat/geo/geoip/classical/cn.list ActionRules/copy/cn_ip.list
           else
-            echo "${{ env.DATE }}，cn.list（geoip），未拷贝" | tee -a warning.md >> new_warning.md
+            echo "${{ env.DATE }}，cn.list，未拷贝" >> warning.md
+            echo "cn.list，未拷贝" >> new_warning.md
           fi
 
       - name: Copy emby.list from YYDS
@@ -90,7 +94,8 @@ jobs:
           if [[ -f yyds-repo/mihomo/rules/emby.list ]]; then
             cp yyds-repo/mihomo/rules/emby.list ActionRules/copy/emby.list
           else
-            echo "${{ env.DATE }}，emby.list（YYDS），未拷贝" | tee -a warning.md >> new_warning.md
+            echo "${{ env.DATE }}，emby.list，未拷贝" >> warning.md
+            echo "emby.list，未拷贝" >> new_warning.md
           fi
 
       - name: Copy Game.list from blackmatrix7
@@ -98,7 +103,8 @@ jobs:
           if [[ -f ios_rule_script/rule/Loon/Game/Game.list ]]; then
             cp ios_rule_script/rule/Loon/Game/Game.list ActionRules/copy/Game.list
           else
-            echo "${{ env.DATE }}，Game.list（blackmatrix7），未拷贝" | tee -a warning.md >> new_warning.md
+            echo "${{ env.DATE }}，Game.list，未拷贝" >> warning.md
+            echo "Game.list，未拷贝" >> new_warning.md
           fi
 
       - name: Copy mrs from MetaCubeX geoip
@@ -109,7 +115,8 @@ jobs:
             if [[ -f "$src" ]]; then
               cp "$src" "$dst"
             else
-              echo "${{ env.DATE }}，${f}.mrs（geoip），未拷贝" | tee -a warning.md >> new_warning.md
+              echo "${{ env.DATE }}，${f}.mrs（geoip），未拷贝" >> warning.md
+              echo "${f}.mrs（geoip），未拷贝" >> new_warning.md
             fi
           done
 
@@ -121,7 +128,8 @@ jobs:
             if [[ -f "$src" ]]; then
               cp "$src" "$dst"
             else
-              echo "${{ env.DATE }}，${f}.mrs（geosite），未拷贝" | tee -a warning.md >> new_warning.md
+              echo "${{ env.DATE }}，${f}.mrs（geosite），未拷贝" >> warning.md
+              echo "${f}.mrs（geosite），未拷贝" >> new_warning.md
             fi
           done
 
@@ -133,7 +141,8 @@ jobs:
             if [[ -f "$src" ]]; then
               cp "$src" "$dst"
             else
-              echo "${{ env.DATE }}，$f（YYDS），未拷贝" | tee -a warning.md >> new_warning.md
+              echo "${{ env.DATE }}，$f，未拷贝" >> warning.md
+              echo "$f，未拷贝" >> new_warning.md
             fi
           done
 
@@ -144,7 +153,8 @@ jobs:
           if [[ -f "$src" ]]; then
             cp "$src" "$dst"
           else
-            echo "${{ env.DATE }}，Game_No_Resolve.yaml（blackmatrix7），未拷贝" | tee -a warning.md >> new_warning.md
+            echo "${{ env.DATE }}，Game_No_Resolve.yaml，未拷贝" >> warning.md
+            echo "Game_No_Resolve.yaml，未拷贝" >> new_warning.md
           fi
 
       - name: Commit and push changes
@@ -163,7 +173,7 @@ jobs:
         if: always()
         run: |
           if [ -s new_warning.md ]; then
-            text="⚠️ GitHub Action 同步警告:\n$(cat new_warning.md)"
+            text="⚠️ GitHub Action 同步警告：\n$(cat new_warning.md)"
             curl -s -X POST https://api.telegram.org/bot${{ secrets.TELEGRAM_BOT_TOKEN }}/sendMessage \
               -d chat_id=${{ secrets.TELEGRAM_CHAT_ID }} \
               --data-urlencode "text=$text"
