@@ -93,12 +93,12 @@ jobs:
             echo "${{ env.DATE }}，emby.list（YYDS），未拷贝" | tee -a warning.md >> new_warning.md
           fi
 
-      - name: Copy game.list from blackmatrix7
+      - name: Copy Game.list from blackmatrix7
         run: |
-          if [[ -f ios_rule_script/rule/Loon/Game/game.list ]]; then
-            cp ios_rule_script/rule/Loon/Game/game.list ActionRules/copy/game.list
+          if [[ -f ios_rule_script/rule/Loon/Game/Game.list ]]; then
+            cp ios_rule_script/rule/Loon/Game/Game.list ActionRules/copy/Game.list
           else
-            echo "${{ env.DATE }}，game.list（blackmatrix7），未拷贝" | tee -a warning.md >> new_warning.md
+            echo "${{ env.DATE }}，Game.list（blackmatrix7），未拷贝" | tee -a warning.md >> new_warning.md
           fi
 
       - name: Copy mrs from MetaCubeX geoip
