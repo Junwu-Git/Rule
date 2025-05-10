@@ -172,12 +172,17 @@ jobs:
       - name: Telegram Notify if new warnings exist
         if: always()
         run: |
+          set -euo pipefail
           if [ -s new_warning.md ]; then
-            content=$(grep -v '^[[:space:]]*$' new_warning.md)
+            content=$(grep -v '^[[:space:]]*$' new_warning.md || true)
             if [ -n "$content" ]; then
               text="⚠️ GitHub Action 同步警告：%0A$content"
               curl -s -X POST "https://api.telegram.org/bot${{ secrets.TELEGRAM_BOT_TOKEN }}/sendMessage" \
-                -d chat_id=${{ secrets.TELEGRAM_CHAT_ID }} \
-                --data-urlencode "text=$text"
+                -d chat_id="${{ secrets.TELEGRAM_CHAT_ID }}" \
+                --data-urlencode "text=$text" || echo "Telegram 发送失败"
+            else
+              echo "new_warning.md 仅包含空行，跳过通知"
             fi
+          else
+            echo "new_warning.md 文件为空，跳过通知"
           fi
