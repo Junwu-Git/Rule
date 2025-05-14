@@ -38,99 +38,34 @@ jobs:
           echo "同步警告记录：" > warning.md
           echo "" > new_warning.md
 
-      - name: Copy classical geoip IP list (with ,no-resolve)
+      - name: Copy geoip files from MetaCubeX (all matching extensions)
         run: |
-          for f in private google netflix telegram twitter; do
-            src="meta-rules-dat/geo/geoip/classical/${f}.list"
-            dst="ActionRules/${f}_ip.list"
-            if [[ -f "$src" ]]; then
-              awk '{ if ($0 ~ /^#/) print $0; else print $0",no-resolve" }' "$src" > "$dst"
-            else
-              echo "${{ env.DATE }}，${f}.list，未拷贝" >> warning.md
-              echo "${f}.list，未拷贝" >> new_warning.md
-            fi
+          for base in private cn google netflix twitter telegram; do
+            for ext in mrs list yaml; do
+              src="meta-rules-dat/geo/geoip/${base}.${ext}"
+              dst="meta/MetaCubeX/geoip/${base}.${ext}"
+              if [[ -f "$src" ]]; then
+                cp "$src" "$dst"
+              else
+                echo "${{ env.DATE }}，${base}.${ext}（geoip），未拷贝" >> warning.md
+                echo "${base}.${ext}（geoip），未拷贝" >> new_warning.md
+              fi
+            done
           done
 
-      - name: Convert YAML rules from 666OS/YYDS to list format
+      - name: Copy geosite files from MetaCubeX (all matching extensions)
         run: |
-          for f in XPTV download fix-direct; do
-            src="yyds-repo/mihomo/rules/${f}.yaml"
-            dst="ActionRules/${f}.list"
-            if [[ -f "$src" ]]; then
-              grep -vE '^(payload:|[[:space:]]*# PROCESS-NAME|[[:space:]]*- PROCESS-NAME|^$)' "$src" \
-                | sed -E 's/^[[:space:]]*-[[:space:]]*//' \
-                | sed 's/^[[:space:]]*#/#/' > "$dst"
-            else
-              echo "${{ env.DATE }}，${f}.yaml，未拷贝" >> warning.md
-              echo "${f}.yaml，未拷贝" >> new_warning.md
-            fi
-          done
-
-      - name: Copy geosite list files
-        run: |
-          cd meta-rules-dat/geo/geosite/classical
-          for f in category-public-tracker private connectivity-check cn openai category-ai-!cn github twitter youtube apple-cn apple cloudflare-cn google onedrive microsoft category-games telegram netflix bilibili bahamut spotify pixiv gfw geolocation-!cn; do
-            f_lc="${f,,}.list"
-            if compgen -G "$f_lc" > /dev/null; then
-              cp "$f_lc" ../../../../ActionRules/copy/
-            else
-              echo "${{ env.DATE }}，${f_lc}，未拷贝" >> ../../../../warning.md
-              echo "${f_lc}，未拷贝" >> ../../../../new_warning.md
-            fi
-          done
-          cd ../../../../
-
-      - name: Copy geoip cn.list as cn_ip.list
-        run: |
-          if [[ -f meta-rules-dat/geo/geoip/classical/cn.list ]]; then
-            cp meta-rules-dat/geo/geoip/classical/cn.list ActionRules/copy/cn_ip.list
-          else
-            echo "${{ env.DATE }}，cn.list，未拷贝" >> warning.md
-            echo "cn.list，未拷贝" >> new_warning.md
-          fi
-
-      - name: Copy emby.list from YYDS
-        run: |
-          if [[ -f yyds-repo/mihomo/rules/emby.list ]]; then
-            cp yyds-repo/mihomo/rules/emby.list ActionRules/copy/emby.list
-          else
-            echo "${{ env.DATE }}，emby.list，未拷贝" >> warning.md
-            echo "emby.list，未拷贝" >> new_warning.md
-          fi
-
-      - name: Copy Game.list from blackmatrix7
-        run: |
-          if [[ -f ios_rule_script/rule/Loon/Game/Game.list ]]; then
-            cp ios_rule_script/rule/Loon/Game/Game.list ActionRules/copy/Game.list
-          else
-            echo "${{ env.DATE }}，Game.list，未拷贝" >> warning.md
-            echo "Game.list，未拷贝" >> new_warning.md
-          fi
-
-      - name: Copy mrs from MetaCubeX geoip
-        run: |
-          for f in private cn google netflix twitter telegram; do
-            src="meta-rules-dat/geo/geoip/${f}.mrs"
-            dst="meta/MetaCubeX/geoip/${f}.mrs"
-            if [[ -f "$src" ]]; then
-              cp "$src" "$dst"
-            else
-              echo "${{ env.DATE }}，${f}.mrs（geoip），未拷贝" >> warning.md
-              echo "${f}.mrs（geoip），未拷贝" >> new_warning.md
-            fi
-          done
-
-      - name: Copy mrs from MetaCubeX geosite
-        run: |
-          for f in category-public-tracker private connectivity-check cn openai category-ai-!cn github twitter youtube apple-cn apple cloudflare-cn google onedrive microsoft category-games telegram netflix bilibili bahamut spotify pixiv gfw geolocation-!cn; do
-            src="meta-rules-dat/geo/geosite/${f}.mrs"
-            dst="meta/MetaCubeX/geosite/${f}.mrs"
-            if [[ -f "$src" ]]; then
-              cp "$src" "$dst"
-            else
-              echo "${{ env.DATE }}，${f}.mrs（geosite），未拷贝" >> warning.md
-              echo "${f}.mrs（geosite），未拷贝" >> new_warning.md
-            fi
+          for base in category-public-tracker private connectivity-check cn openai category-ai-!cn github twitter youtube apple-cn apple cloudflare-cn google onedrive microsoft category-games telegram netflix bilibili bahamut spotify pixiv gfw geolocation-!cn; do
+            for ext in mrs list yaml; do
+              src="meta-rules-dat/geo/geosite/${base}.${ext}"
+              dst="meta/MetaCubeX/geosite/${base}.${ext}"
+              if [[ -f "$src" ]]; then
+                cp "$src" "$dst"
+              else
+                echo "${{ env.DATE }}，${base}.${ext}（geosite），未拷贝" >> warning.md
+                echo "${base}.${ext}（geosite），未拷贝" >> new_warning.md
+              fi
+            done
           done
 
       - name: Copy YAML & list from 666OS/YYDS
