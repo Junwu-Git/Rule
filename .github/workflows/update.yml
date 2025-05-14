@@ -157,6 +157,58 @@ jobs:
             echo "Game_No_Resolve.yaml，未拷贝" >> new_warning.md
           fi
 
+      - name: Convert and validate rules in ActionRules
+        run: |
+          echo "## ⚠️ 校验警告（仅限 ActionRules 内）" > warning.md
+          echo "" >> warning.md
+
+          find ActionRules -type f -name "*.list" | while read -r file; do
+            tmp_file="${file}.tmp"
+            changed=0
+            while IFS= read -r line || [ -n "$line" ]; do
+              trimmed="$(echo "$line" | sed 's/^[[:space:]]*//')"
+
+              # 空行或注释行
+              if [[ "$trimmed" =~ ^#.*$ || -z "$trimmed" ]]; then
+                echo "$line" >> "$tmp_file"
+                continue
+              fi
+
+              # DOMAIN-REGEX 转换
+              if [[ "$trimmed" =~ ^DOMAIN-REGEX, ]]; then
+                pattern="${trimmed#DOMAIN-REGEX,}"
+                if echo "$pattern" | grep -Eq '(\^\^|[[:space:]]|\\{0,|[{};<>])'; then
+                  echo "# ⚠️ INVALID DOMAIN-REGEX: $trimmed" >> "$tmp_file"
+                  echo "- **文件**: \`$file\`" >> warning.md
+                  echo "  - 非法 DOMAIN-REGEX 被注释: \`$trimmed\`" >> warning.md
+                  echo "" >> warning.md
+                  changed=1
+                  continue
+                fi
+                echo "URL-REGEX,^https?:\/\/${pattern}" >> "$tmp_file"
+                changed=1
+
+              # 支持的类型原样保留
+              elif [[ "$trimmed" =~ ^(DOMAIN|DOMAIN-SUFFIX|DOMAIN-KEYWORD|URL-REGEX|IP-CIDR|IP-CIDR6|GEOIP|FINAL)(,|$) ]]; then
+                echo "$line" >> "$tmp_file"
+
+              # 其他非法规则
+              else
+                echo "# ⚠️ INVALID RULE: $line" >> "$tmp_file"
+                echo "- **文件**: \`$file\`" >> warning.md
+                echo "  - 不支持规则类型: \`$line\`" >> warning.md
+                echo "" >> warning.md
+                changed=1
+              fi
+            done < "$file"
+
+            if [[ "$changed" -eq 1 ]]; then
+              mv "$tmp_file" "$file"
+            else
+              rm -f "$tmp_file"
+            fi
+          done
+
       - name: Commit and push changes
         env:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
