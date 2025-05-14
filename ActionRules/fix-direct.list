@@ -1,5 +1,5 @@
 # 名称: 直连修正
-DST-PORT,123
+# ⚠️ INVALID RULE: DST-PORT,123
 # DOMAIN
 DOMAIN,gst.prod.dl.playstation.net
 DOMAIN,ottsdk.itv.video

@@ -499,7 +499,7 @@ DOMAIN-SUFFIX,skype-edf.akadns.net
 DOMAIN-SUFFIX,skypedata.akadns.net
 DOMAIN-SUFFIX,visualstudio.co.uk
 DOMAIN-SUFFIX,live.com.au
-URL-REGEX,^https?:\/\/^github-production-release-asset-[0-9a-zA-Z]{6}\.s3\.amazonaws\.com$
+# ⚠️ INVALID DOMAIN-REGEX: DOMAIN-REGEX,^github-production-release-asset-[0-9a-zA-Z]{6}\.s3\.amazonaws\.com$
 DOMAIN-KEYWORD,1drv
 DOMAIN-KEYWORD,onedrive
 DOMAIN-KEYWORD,skydrive

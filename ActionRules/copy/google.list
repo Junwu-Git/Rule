@@ -1034,8 +1034,8 @@ DOMAIN,xn--flw351e.com
 DOMAIN-SUFFIX,gvt1-cn.com
 DOMAIN-SUFFIX,gvt2-cn.com
 DOMAIN-SUFFIX,ggpht.cn
-URL-REGEX,^https?:\/\/^r+[0-9]+(---|\.)sn-(2x3|ni5|j5o)\w{5}\.xn--ngstr-lra8j\.com$
-URL-REGEX,^https?:\/\/^r+[0-9]+(---|\.)sn-(2x3|ni5|j5o)\w{5}\.googlevideo\.com$
+# ⚠️ INVALID DOMAIN-REGEX: DOMAIN-REGEX,^r+[0-9]+(---|\.)sn-(2x3|ni5|j5o)\w{5}\.xn--ngstr-lra8j\.com$
+# ⚠️ INVALID DOMAIN-REGEX: DOMAIN-REGEX,^r+[0-9]+(---|\.)sn-(2x3|ni5|j5o)\w{5}\.googlevideo\.com$
 DOMAIN,redirector.c.play.google.com
 DOMAIN,firebase-settings.crashlytics.com
 DOMAIN,pki-goog.l.google.com
@@ -1089,4 +1089,4 @@ DOMAIN-SUFFIX,mail-ads.google.com
 DOMAIN-SUFFIX,marketingplatform.google.com
 DOMAIN-SUFFIX,urchin.com
 DOMAIN,analytics.google.com
-URL-REGEX,^https?:\/\/^adservice\.google\.([a-z]{2}|com?)(\.[a-z]{2})?$
+# ⚠️ INVALID DOMAIN-REGEX: DOMAIN-REGEX,^adservice\.google\.([a-z]{2}|com?)(\.[a-z]{2})?$
