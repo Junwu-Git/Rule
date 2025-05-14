@@ -88,6 +88,7 @@ jobs:
             dst="meta/666OS/${f}.list"
             if [[ -f "$src" ]]; then
               grep -vE '^(payload:|[[:space:]]*# PROCESS-NAME|[[:space:]]*- PROCESS-NAME|^$)' "$src" \
+                | grep -v 'DST-PORT' \
                 | sed -E 's/^[[:space:]]*-[[:space:]]*//' \
                 | sed 's/^[[:space:]]*#/#/' > "$dst"
             else
