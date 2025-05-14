@@ -31497,151 +31497,151 @@ DOMAIN-SUFFIX,s2csntp.miz.nao.ac.jp
 DOMAIN-SUFFIX,library.usc.cuhk.edu.hk
 DOMAIN-SUFFIX,hbo.com.c.footprint.net
 DOMAIN-SUFFIX,ntp.t.ring.gr.jp
-URL-REGEX,^https?:\/\/(^|\.)13mei[5-7]\.buzz$
-# ⚠️ INVALID DOMAIN-REGEX: DOMAIN-REGEX,(^|\.)18jmttios[0-9]{2}\.com$
-URL-REGEX,^https?:\/\/(^|\.)18j[efg]\.life$
-URL-REGEX,^https?:\/\/(^|\.)18tv[1-5]\.com$
-# ⚠️ INVALID DOMAIN-REGEX: DOMAIN-REGEX,(^|\.)1[0-9]{2}\.one$
-URL-REGEX,^https?:\/\/(^|\.)2024(3[0-9]|4[0-9]|6[0-9]|7[0-9])\.xyz$
-# ⚠️ INVALID DOMAIN-REGEX: DOMAIN-REGEX,(^|\.)3[0-9]{2}\.icu$
-# ⚠️ INVALID DOMAIN-REGEX: DOMAIN-REGEX,(^|\.)3[0-9]{2}\.one$
-URL-REGEX,^https?:\/\/(^|\.)69bag[0-1][1-9]?\.com$
-URL-REGEX,^https?:\/\/(^|\.)783([a-z][a-z]?)?\.tv$
-URL-REGEX,^https?:\/\/(^|\.)7mm0([0-1][0-9]?)?\.com$
-URL-REGEX,^https?:\/\/(^|\.)8dgo[1-57-9]\.com$
-URL-REGEX,^https?:\/\/(^|\.)91cg([1-9]|[0-9][1-9])?.com$
-URL-REGEX,^https?:\/\/(^|\.)91porn[0-9]?\.store$
-# ⚠️ INVALID DOMAIN-REGEX: DOMAIN-REGEX,(^|\.)91porn[0-9]{3}\.me$
-URL-REGEX,^https?:\/\/(^|\.)91porn[fvxy]\.com$
-URL-REGEX,^https?:\/\/(^|\.)91porn\.(best|com|cool|group|party|plus|site|tw|work)$
-URL-REGEX,^https?:\/\/(^|\.)91p[0-9][0-9]?\.com$
-URL-REGEX,^https?:\/\/(^|\.)91sew1[1-6]\.buzz$
-URL-REGEX,^https?:\/\/(^|\.)989[a-z]?\.tv$
-URL-REGEX,^https?:\/\/(^|\.)99pp[1-9][0-9]\.com$
-# ⚠️ INVALID DOMAIN-REGEX: DOMAIN-REGEX,(^|\.)9cha[0-9]{2}\.cc$
-URL-REGEX,^https?:\/\/(^|\.)aipa(111|222|333|444|555|666|777|888|999)\.life$
-URL-REGEX,^https?:\/\/(^|\.)aisejushi(2|3|5|6)\.com$
-# ⚠️ INVALID DOMAIN-REGEX: DOMAIN-REGEX,(^|\.)aiwei[1-9]{2}\.buzz$
-URL-REGEX,^https?:\/\/(^|\.)apiproxy-device-prod-nlb-.+\.amazonaws\.com$
-URL-REGEX,^https?:\/\/(^|\.)apiproxy-website-nlb-prod-.+\.amazonaws\.com$
-# ⚠️ INVALID DOMAIN-REGEX: DOMAIN-REGEX,(^|\.)aqdk[0-9]{3}\.com$
-URL-REGEX,^https?:\/\/(^|\.)avcc1[0-9]\.com$
-URL-REGEX,^https?:\/\/(^|\.)avstar0[1-9]\.(com|me)$
-URL-REGEX,^https?:\/\/(^|\.)awjd[1-9]?\.tv$
-URL-REGEX,^https?:\/\/(^|\.)awwcn[1-9]?\.top$
-URL-REGEX,^https?:\/\/(^|\.)banyinjia[0-9]?\.com$
-URL-REGEX,^https?:\/\/(^|\.)bhzyk[1-9]?\.xyz$
-URL-REGEX,^https?:\/\/(^|\.)bibeidh1[6-8]\.cc$
-URL-REGEX,^https?:\/\/(^|\.)bilibili3(0[1-9]|1[0-2])\.xyz$
-# ⚠️ INVALID DOMAIN-REGEX: DOMAIN-REGEX,(^|\.)bjini[0-9]{2}\.buzz$
-URL-REGEX,^https?:\/\/(^|\.)byyum([3589]|2[235689]|3[34]|4[1-9]|5[1-79]|6[0134679])?\.com$
-URL-REGEX,^https?:\/\/(^|\.)byy[0-9][0-9]?\.icu$
-URL-REGEX,^https?:\/\/(^|\.)cav1(0[2-9]|1[0-9])\.com$
-URL-REGEX,^https?:\/\/(^|\.)cgbb([1-9]|1[0-9]|20)\.com$
-# ⚠️ INVALID DOMAIN-REGEX: DOMAIN-REGEX,(^|\.)chuzs[1-9]{0,2}\.buzz$
-URL-REGEX,^https?:\/\/(^|\.)cosaa[a-z]\.cyou$
-URL-REGEX,^https?:\/\/(^|\.)doufuru[0-9]?\.cc$
-# ⚠️ INVALID DOMAIN-REGEX: DOMAIN-REGEX,(^|\.)doufuru[0-9]{2}?\.xyz$
-URL-REGEX,^https?:\/\/(^|\.)douyintt[0-9]\.me$
-URL-REGEX,^https?:\/\/(^|\.)dualstack\.apiproxy-.+\.amazonaws\.com$
-URL-REGEX,^https?:\/\/(^|\.)dualstack\.ichnaea-web-.+\.amazonaws\.com$
-URL-REGEX,^https?:\/\/(^|\.)fby[1-9]?[0-9]\.icu$
-URL-REGEX,^https?:\/\/(^|\.)fby[1-9]?[0-9]\.one$
-URL-REGEX,^https?:\/\/(^|\.)fi11sm([0-9]+)?\.com$
-URL-REGEX,^https?:\/\/(^|\.)fiftymvapi\..+$
-# ⚠️ INVALID DOMAIN-REGEX: DOMAIN-REGEX,(^|\.)flsq[0-9]{2}\.com$
-URL-REGEX,^https?:\/\/(^|\.)forduck[0-1][0-9]\.com$
-URL-REGEX,^https?:\/\/(^|\.)gaogediao\.(com|me|net|org)$
-# ⚠️ INVALID DOMAIN-REGEX: DOMAIN-REGEX,(^|\.)gossipfuli[0-9]{3,4}\.xyz$
-URL-REGEX,^https?:\/\/(^|\.)guifw3[1-3]\.cc$
-URL-REGEX,^https?:\/\/(^|\.)h5ccav[1-5]\.com$
-URL-REGEX,^https?:\/\/(^|\.)hhmen[1-3]\.xyz$
-URL-REGEX,^https?:\/\/(^|\.)hkfg[1-7]\.xyz$
-# ⚠️ INVALID DOMAIN-REGEX: DOMAIN-REGEX,(^|\.)hs[1-9]{2}\.vip$
-URL-REGEX,^https?:\/\/(^|\.)jav777\.(cc|tv|work)$
-URL-REGEX,^https?:\/\/(^|\.)jbk0([0-1][0-9]?)?\.com$
-URL-REGEX,^https?:\/\/(^|\.)jb[1-9][0-9]\.lol$
-URL-REGEX,^https?:\/\/(^|\.)jdyy[1-9]?\.me$
-# ⚠️ INVALID DOMAIN-REGEX: DOMAIN-REGEX,(^|\.)jiuse[0-9]{1,3}\.com$
-URL-REGEX,^https?:\/\/(^|\.)jmtt\.(app|live|tv|vip)$
-# ⚠️ INVALID DOMAIN-REGEX: DOMAIN-REGEX,(^|\.)jstv[0-9]{2}\.com$
-# ⚠️ INVALID DOMAIN-REGEX: DOMAIN-REGEX,(^|\.)kdfl[0-9]{2}\.xyz$
-URL-REGEX,^https?:\/\/(^|\.)kimoav([1-9][0-9]?)?\.com$
-URL-REGEX,^https?:\/\/(^|\.)kpkuang\.(bond|fun|info|one|us)$
-URL-REGEX,^https?:\/\/(^|\.)ksyp0[1-9]\.com$
-URL-REGEX,^https?:\/\/(^|\.)lianren[1-7]\.cc$
-# ⚠️ INVALID DOMAIN-REGEX: DOMAIN-REGEX,(^|\.)llyysp[0-9]{4}\.top$
-URL-REGEX,^https?:\/\/(^|\.)loibus(100|101|202|505|606)\.top$
-URL-REGEX,^https?:\/\/(^|\.)loibus\.(cc|com|link)$
-# ⚠️ INVALID DOMAIN-REGEX: DOMAIN-REGEX,(^|\.)luchuxue([0-9]{0,5})\.buzz$
-URL-REGEX,^https?:\/\/(^|\.)maa18[0-2][0-9]\.com$
-# ⚠️ INVALID DOMAIN-REGEX: DOMAIN-REGEX,(^|\.)madouqu[0-9]{2}\.cc$
-URL-REGEX,^https?:\/\/(^|\.)mdyy[0-1][0-9]\.com$
-URL-REGEX,^https?:\/\/(^|\.)mdyy[0-9][0-9]\.cc$
-# ⚠️ INVALID DOMAIN-REGEX: DOMAIN-REGEX,(^|\.)mimi[0-9]{3}\.com$
-URL-REGEX,^https?:\/\/(^|\.)mimi\.(cfd|lol|onl|sbs|so|vc)$
-URL-REGEX,^https?:\/\/(^|\.)mitao[1-3]\.tv$
-URL-REGEX,^https?:\/\/(^|\.)mmtv[1-5]\.life$
-URL-REGEX,^https?:\/\/(^|\.)mmwz\.(fun|in|la|me|one|pro|pw|run|tv|ws)$
-URL-REGEX,^https?:\/\/(^|\.)momotk([1-9][0-9]?)?\.uno$
-URL-REGEX,^https?:\/\/(^|\.)nnbw[0-2]\.xyz$
-URL-REGEX,^https?:\/\/(^|\.)putaozy([1-9][0-9]?)?\.com$
-# ⚠️ INVALID DOMAIN-REGEX: DOMAIN-REGEX,(^|\.)qqbs([0-9]{2})?\.vip$
-URL-REGEX,^https?:\/\/(^|\.)qqsp0[1-3]\.com$
-URL-REGEX,^https?:\/\/(^|\.)rbp[1-9][0-9]\.com$
-URL-REGEX,^https?:\/\/(^|\.)rbyh[1-9]\.buzz$
-URL-REGEX,^https?:\/\/(^|\.)rule34\.(asia|us|world|xxx|xyz)$
-URL-REGEX,^https?:\/\/(^|\.)sao[1-6]0000\.com$
-URL-REGEX,^https?:\/\/(^|\.)sbyjs2[6-9]\.buzz$
-URL-REGEX,^https?:\/\/(^|\.)sg11[3-9]\.me$
-# ⚠️ INVALID DOMAIN-REGEX: DOMAIN-REGEX,(^|\.)shdd[0-9]{2}\.buzz$
-# ⚠️ INVALID DOMAIN-REGEX: DOMAIN-REGEX,(^|\.)shuangmawei[0-9]{2}\.buzz$
-URL-REGEX,^https?:\/\/(^|\.)smgsp[0-2]?\.buzz$
-URL-REGEX,^https?:\/\/(^|\.)spankwire[1-9]\.com$
-# ⚠️ INVALID DOMAIN-REGEX: DOMAIN-REGEX,(^|\.)ssphb[0-9]{2}\.xyz$
-# ⚠️ INVALID DOMAIN-REGEX: DOMAIN-REGEX,(^|\.)supxxx[0-9]{0,2}\.com$
-URL-REGEX,^https?:\/\/(^|\.)sycf[0-9]?\.xyz$
-URL-REGEX,^https?:\/\/(^|\.)syjc1[1-6]\.xyz$
-URL-REGEX,^https?:\/\/(^|\.)tianbiav([1-9]|1[0-6])?\.com$
-URL-REGEX,^https?:\/\/(^|\.)tqav[1-9][0-9]\.com$
-URL-REGEX,^https?:\/\/(^|\.)ttghg[1-9][0-9]\.xyz$
-URL-REGEX,^https?:\/\/(^|\.)tttv([1-9][0-9]?|100)\.com$
-URL-REGEX,^https?:\/\/(^|\.)tt[1-2][0-9]\.tv$
-URL-REGEX,^https?:\/\/(^|\.)twseb([1-9][0-9]?)?\.com$
-URL-REGEX,^https?:\/\/(^|\.)uu[a-z][1-9][0-9]?\.com$
-URL-REGEX,^https?:\/\/(^|\.)whtdh0[1-3]\.cc$
-URL-REGEX,^https?:\/\/(^|\.)wmm33[0-5]\.com$
-URL-REGEX,^https?:\/\/(^|\.)wyfuli[1-9]\.net$
-URL-REGEX,^https?:\/\/(^|\.)xaa[0-9]?\.one$
-# ⚠️ INVALID DOMAIN-REGEX: DOMAIN-REGEX,(^|\.)xaxy[0-9]{2}\.one$
-# ⚠️ INVALID DOMAIN-REGEX: DOMAIN-REGEX,(^|\.)xgyy([0-9]{2})?\.vip$
-# ⚠️ INVALID DOMAIN-REGEX: DOMAIN-REGEX,(^|\.)xg[0-9]{2}\.vip$
-# ⚠️ INVALID DOMAIN-REGEX: DOMAIN-REGEX,(^|\.)xingdh([0-9]{3})?\.xyz$
-URL-REGEX,^https?:\/\/(^|\.)xlywz[1-9]?\.cc$
-URL-REGEX,^https?:\/\/(^|\.)xomfsp[1-9]?\.buzz$
-# ⚠️ INVALID DOMAIN-REGEX: DOMAIN-REGEX,(^|\.)xv[0-9]{4}\.top$
-# ⚠️ INVALID DOMAIN-REGEX: DOMAIN-REGEX,(^|\.)xxxyaom[0-9]{2}\.buzz$
-URL-REGEX,^https?:\/\/(^|\.)yiren[1-9][0-9]\.com$
-URL-REGEX,^https?:\/\/(^|\.)youyuapi\..+$
-URL-REGEX,^https?:\/\/(^|\.)yrrj[1-9]?\.buzz$
-URL-REGEX,^https?:\/\/(^|\.)yygc[0-9]?\.xyz$
-# ⚠️ INVALID DOMAIN-REGEX: DOMAIN-REGEX,(^|\.)zayy([0-9]{0,3})?\.xyz$
-URL-REGEX,^https?:\/\/(^|\.)zh9[0-7]\.net$
-# ⚠️ INVALID DOMAIN-REGEX: DOMAIN-REGEX,(^|\.)zy[0-9]{4}\.top$
-URL-REGEX,^https?:\/\/(^|\.)zztt[1-6][0-9]\.com$
-URL-REGEX,^https?:\/\/(^|\.)zzz[1-9][0-9]\.top$
-URL-REGEX,^https?:\/\/(^|\.)[1-5]gaoap\.com$
-URL-REGEX,^https?:\/\/(^|\.)[1-9]+aipai\.(com|net)$
-URL-REGEX,^https?:\/\/(^|\.)[1-9]+zipai\.(com|net)$
-URL-REGEX,^https?:\/\/(^|\.)[1-9]00caocao\.com$
-URL-REGEX,^https?:\/\/(^|\.)[3-9]0000sao\.com$
-URL-REGEX,^https?:\/\/(^|\.)[a-z]?fulibl\.(cc|com|org|net|xyz)$
-URL-REGEX,^https?:\/\/(^|\.)[a-z][1-9][0-9][a-z]\.com$
-URL-REGEX,^https?:\/\/.+\.awsdns-[0-9][0-9]\.(co\.uk|com|net|org)$
-URL-REGEX,^https?:\/\/.+\.dkr\.ecr\.[^\.]+\.amazonaws\.com$
-URL-REGEX,^https?:\/\/^chatgpt-async-webps-prod-\S+-\d+\.webpubsub\.azure\.com$
-URL-REGEX,^https?:\/\/^epicgames-download\d\.akamaized\.net$
-# ⚠️ INVALID DOMAIN-REGEX: DOMAIN-REGEX,^ewcdn[0-9]{2}\.nowe\.com$
-# ⚠️ INVALID DOMAIN-REGEX: DOMAIN-REGEX,^github-production-release-asset-[0-9a-zA-Z]{6}\.s3\.amazonaws\.com$
-URL-REGEX,^https?:\/\/^hses[1-7]?\.akamaized\.net$
-URL-REGEX,^https?:\/\/^[0-9]+vod-adaptive\.akamaized\.net$
+DOMAIN-REGEX,(^|\.)13mei[5-7]\.buzz$
+DOMAIN-REGEX,(^|\.)18jmttios[0-9]{2}\.com$
+DOMAIN-REGEX,(^|\.)18j[efg]\.life$
+DOMAIN-REGEX,(^|\.)18tv[1-5]\.com$
+DOMAIN-REGEX,(^|\.)1[0-9]{2}\.one$
+DOMAIN-REGEX,(^|\.)2024(3[0-9]|4[0-9]|6[0-9]|7[0-9])\.xyz$
+DOMAIN-REGEX,(^|\.)3[0-9]{2}\.icu$
+DOMAIN-REGEX,(^|\.)3[0-9]{2}\.one$
+DOMAIN-REGEX,(^|\.)69bag[0-1][1-9]?\.com$
+DOMAIN-REGEX,(^|\.)783([a-z][a-z]?)?\.tv$
+DOMAIN-REGEX,(^|\.)7mm0([0-1][0-9]?)?\.com$
+DOMAIN-REGEX,(^|\.)8dgo[1-57-9]\.com$
+DOMAIN-REGEX,(^|\.)91cg([1-9]|[0-9][1-9])?.com$
+DOMAIN-REGEX,(^|\.)91porn[0-9]?\.store$
+DOMAIN-REGEX,(^|\.)91porn[0-9]{3}\.me$
+DOMAIN-REGEX,(^|\.)91porn[fvxy]\.com$
+DOMAIN-REGEX,(^|\.)91porn\.(best|com|cool|group|party|plus|site|tw|work)$
+DOMAIN-REGEX,(^|\.)91p[0-9][0-9]?\.com$
+DOMAIN-REGEX,(^|\.)91sew1[1-6]\.buzz$
+DOMAIN-REGEX,(^|\.)989[a-z]?\.tv$
+DOMAIN-REGEX,(^|\.)99pp[1-9][0-9]\.com$
+DOMAIN-REGEX,(^|\.)9cha[0-9]{2}\.cc$
+DOMAIN-REGEX,(^|\.)aipa(111|222|333|444|555|666|777|888|999)\.life$
+DOMAIN-REGEX,(^|\.)aisejushi(2|3|5|6)\.com$
+DOMAIN-REGEX,(^|\.)aiwei[1-9]{2}\.buzz$
+DOMAIN-REGEX,(^|\.)apiproxy-device-prod-nlb-.+\.amazonaws\.com$
+DOMAIN-REGEX,(^|\.)apiproxy-website-nlb-prod-.+\.amazonaws\.com$
+DOMAIN-REGEX,(^|\.)aqdk[0-9]{3}\.com$
+DOMAIN-REGEX,(^|\.)avcc1[0-9]\.com$
+DOMAIN-REGEX,(^|\.)avstar0[1-9]\.(com|me)$
+DOMAIN-REGEX,(^|\.)awjd[1-9]?\.tv$
+DOMAIN-REGEX,(^|\.)awwcn[1-9]?\.top$
+DOMAIN-REGEX,(^|\.)banyinjia[0-9]?\.com$
+DOMAIN-REGEX,(^|\.)bhzyk[1-9]?\.xyz$
+DOMAIN-REGEX,(^|\.)bibeidh1[6-8]\.cc$
+DOMAIN-REGEX,(^|\.)bilibili3(0[1-9]|1[0-2])\.xyz$
+DOMAIN-REGEX,(^|\.)bjini[0-9]{2}\.buzz$
+DOMAIN-REGEX,(^|\.)byyum([3589]|2[235689]|3[34]|4[1-9]|5[1-79]|6[0134679])?\.com$
+DOMAIN-REGEX,(^|\.)byy[0-9][0-9]?\.icu$
+DOMAIN-REGEX,(^|\.)cav1(0[2-9]|1[0-9])\.com$
+DOMAIN-REGEX,(^|\.)cgbb([1-9]|1[0-9]|20)\.com$
+DOMAIN-REGEX,(^|\.)chuzs[1-9]{0,2}\.buzz$
+DOMAIN-REGEX,(^|\.)cosaa[a-z]\.cyou$
+DOMAIN-REGEX,(^|\.)doufuru[0-9]?\.cc$
+DOMAIN-REGEX,(^|\.)doufuru[0-9]{2}?\.xyz$
+DOMAIN-REGEX,(^|\.)douyintt[0-9]\.me$
+DOMAIN-REGEX,(^|\.)dualstack\.apiproxy-.+\.amazonaws\.com$
+DOMAIN-REGEX,(^|\.)dualstack\.ichnaea-web-.+\.amazonaws\.com$
+DOMAIN-REGEX,(^|\.)fby[1-9]?[0-9]\.icu$
+DOMAIN-REGEX,(^|\.)fby[1-9]?[0-9]\.one$
+DOMAIN-REGEX,(^|\.)fi11sm([0-9]+)?\.com$
+DOMAIN-REGEX,(^|\.)fiftymvapi\..+$
+DOMAIN-REGEX,(^|\.)flsq[0-9]{2}\.com$
+DOMAIN-REGEX,(^|\.)forduck[0-1][0-9]\.com$
+DOMAIN-REGEX,(^|\.)gaogediao\.(com|me|net|org)$
+DOMAIN-REGEX,(^|\.)gossipfuli[0-9]{3,4}\.xyz$
+DOMAIN-REGEX,(^|\.)guifw3[1-3]\.cc$
+DOMAIN-REGEX,(^|\.)h5ccav[1-5]\.com$
+DOMAIN-REGEX,(^|\.)hhmen[1-3]\.xyz$
+DOMAIN-REGEX,(^|\.)hkfg[1-7]\.xyz$
+DOMAIN-REGEX,(^|\.)hs[1-9]{2}\.vip$
+DOMAIN-REGEX,(^|\.)jav777\.(cc|tv|work)$
+DOMAIN-REGEX,(^|\.)jbk0([0-1][0-9]?)?\.com$
+DOMAIN-REGEX,(^|\.)jb[1-9][0-9]\.lol$
+DOMAIN-REGEX,(^|\.)jdyy[1-9]?\.me$
+DOMAIN-REGEX,(^|\.)jiuse[0-9]{1,3}\.com$
+DOMAIN-REGEX,(^|\.)jmtt\.(app|live|tv|vip)$
+DOMAIN-REGEX,(^|\.)jstv[0-9]{2}\.com$
+DOMAIN-REGEX,(^|\.)kdfl[0-9]{2}\.xyz$
+DOMAIN-REGEX,(^|\.)kimoav([1-9][0-9]?)?\.com$
+DOMAIN-REGEX,(^|\.)kpkuang\.(bond|fun|info|one|us)$
+DOMAIN-REGEX,(^|\.)ksyp0[1-9]\.com$
+DOMAIN-REGEX,(^|\.)lianren[1-7]\.cc$
+DOMAIN-REGEX,(^|\.)llyysp[0-9]{4}\.top$
+DOMAIN-REGEX,(^|\.)loibus(100|101|202|505|606)\.top$
+DOMAIN-REGEX,(^|\.)loibus\.(cc|com|link)$
+DOMAIN-REGEX,(^|\.)luchuxue([0-9]{0,5})\.buzz$
+DOMAIN-REGEX,(^|\.)maa18[0-2][0-9]\.com$
+DOMAIN-REGEX,(^|\.)madouqu[0-9]{2}\.cc$
+DOMAIN-REGEX,(^|\.)mdyy[0-1][0-9]\.com$
+DOMAIN-REGEX,(^|\.)mdyy[0-9][0-9]\.cc$
+DOMAIN-REGEX,(^|\.)mimi[0-9]{3}\.com$
+DOMAIN-REGEX,(^|\.)mimi\.(cfd|lol|onl|sbs|so|vc)$
+DOMAIN-REGEX,(^|\.)mitao[1-3]\.tv$
+DOMAIN-REGEX,(^|\.)mmtv[1-5]\.life$
+DOMAIN-REGEX,(^|\.)mmwz\.(fun|in|la|me|one|pro|pw|run|tv|ws)$
+DOMAIN-REGEX,(^|\.)momotk([1-9][0-9]?)?\.uno$
+DOMAIN-REGEX,(^|\.)nnbw[0-2]\.xyz$
+DOMAIN-REGEX,(^|\.)putaozy([1-9][0-9]?)?\.com$
+DOMAIN-REGEX,(^|\.)qqbs([0-9]{2})?\.vip$
+DOMAIN-REGEX,(^|\.)qqsp0[1-3]\.com$
+DOMAIN-REGEX,(^|\.)rbp[1-9][0-9]\.com$
+DOMAIN-REGEX,(^|\.)rbyh[1-9]\.buzz$
+DOMAIN-REGEX,(^|\.)rule34\.(asia|us|world|xxx|xyz)$
+DOMAIN-REGEX,(^|\.)sao[1-6]0000\.com$
+DOMAIN-REGEX,(^|\.)sbyjs2[6-9]\.buzz$
+DOMAIN-REGEX,(^|\.)sg11[3-9]\.me$
+DOMAIN-REGEX,(^|\.)shdd[0-9]{2}\.buzz$
+DOMAIN-REGEX,(^|\.)shuangmawei[0-9]{2}\.buzz$
+DOMAIN-REGEX,(^|\.)smgsp[0-2]?\.buzz$
+DOMAIN-REGEX,(^|\.)spankwire[1-9]\.com$
+DOMAIN-REGEX,(^|\.)ssphb[0-9]{2}\.xyz$
+DOMAIN-REGEX,(^|\.)supxxx[0-9]{0,2}\.com$
+DOMAIN-REGEX,(^|\.)sycf[0-9]?\.xyz$
+DOMAIN-REGEX,(^|\.)syjc1[1-6]\.xyz$
+DOMAIN-REGEX,(^|\.)tianbiav([1-9]|1[0-6])?\.com$
+DOMAIN-REGEX,(^|\.)tqav[1-9][0-9]\.com$
+DOMAIN-REGEX,(^|\.)ttghg[1-9][0-9]\.xyz$
+DOMAIN-REGEX,(^|\.)tttv([1-9][0-9]?|100)\.com$
+DOMAIN-REGEX,(^|\.)tt[1-2][0-9]\.tv$
+DOMAIN-REGEX,(^|\.)twseb([1-9][0-9]?)?\.com$
+DOMAIN-REGEX,(^|\.)uu[a-z][1-9][0-9]?\.com$
+DOMAIN-REGEX,(^|\.)whtdh0[1-3]\.cc$
+DOMAIN-REGEX,(^|\.)wmm33[0-5]\.com$
+DOMAIN-REGEX,(^|\.)wyfuli[1-9]\.net$
+DOMAIN-REGEX,(^|\.)xaa[0-9]?\.one$
+DOMAIN-REGEX,(^|\.)xaxy[0-9]{2}\.one$
+DOMAIN-REGEX,(^|\.)xgyy([0-9]{2})?\.vip$
+DOMAIN-REGEX,(^|\.)xg[0-9]{2}\.vip$
+DOMAIN-REGEX,(^|\.)xingdh([0-9]{3})?\.xyz$
+DOMAIN-REGEX,(^|\.)xlywz[1-9]?\.cc$
+DOMAIN-REGEX,(^|\.)xomfsp[1-9]?\.buzz$
+DOMAIN-REGEX,(^|\.)xv[0-9]{4}\.top$
+DOMAIN-REGEX,(^|\.)xxxyaom[0-9]{2}\.buzz$
+DOMAIN-REGEX,(^|\.)yiren[1-9][0-9]\.com$
+DOMAIN-REGEX,(^|\.)youyuapi\..+$
+DOMAIN-REGEX,(^|\.)yrrj[1-9]?\.buzz$
+DOMAIN-REGEX,(^|\.)yygc[0-9]?\.xyz$
+DOMAIN-REGEX,(^|\.)zayy([0-9]{0,3})?\.xyz$
+DOMAIN-REGEX,(^|\.)zh9[0-7]\.net$
+DOMAIN-REGEX,(^|\.)zy[0-9]{4}\.top$
+DOMAIN-REGEX,(^|\.)zztt[1-6][0-9]\.com$
+DOMAIN-REGEX,(^|\.)zzz[1-9][0-9]\.top$
+DOMAIN-REGEX,(^|\.)[1-5]gaoap\.com$
+DOMAIN-REGEX,(^|\.)[1-9]+aipai\.(com|net)$
+DOMAIN-REGEX,(^|\.)[1-9]+zipai\.(com|net)$
+DOMAIN-REGEX,(^|\.)[1-9]00caocao\.com$
+DOMAIN-REGEX,(^|\.)[3-9]0000sao\.com$
+DOMAIN-REGEX,(^|\.)[a-z]?fulibl\.(cc|com|org|net|xyz)$
+DOMAIN-REGEX,(^|\.)[a-z][1-9][0-9][a-z]\.com$
+DOMAIN-REGEX,.+\.awsdns-[0-9][0-9]\.(co\.uk|com|net|org)$
+DOMAIN-REGEX,.+\.dkr\.ecr\.[^\.]+\.amazonaws\.com$
+DOMAIN-REGEX,^chatgpt-async-webps-prod-\S+-\d+\.webpubsub\.azure\.com$
+DOMAIN-REGEX,^epicgames-download\d\.akamaized\.net$
+DOMAIN-REGEX,^ewcdn[0-9]{2}\.nowe\.com$
+DOMAIN-REGEX,^github-production-release-asset-[0-9a-zA-Z]{6}\.s3\.amazonaws\.com$
+DOMAIN-REGEX,^hses[1-7]?\.akamaized\.net$
+DOMAIN-REGEX,^[0-9]+vod-adaptive\.akamaized\.net$

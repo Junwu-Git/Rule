@@ -22,7 +22,7 @@ DOMAIN-SUFFIX,netflixdnstest7.com
 DOMAIN-SUFFIX,netflixdnstest8.com
 DOMAIN-SUFFIX,netflixdnstest9.com
 DOMAIN-SUFFIX,netflixdnstest10.com
-URL-REGEX,^https?:\/\/(^|\.)apiproxy-device-prod-nlb-.+\.amazonaws\.com$
-URL-REGEX,^https?:\/\/(^|\.)apiproxy-website-nlb-prod-.+\.amazonaws\.com$
-URL-REGEX,^https?:\/\/(^|\.)dualstack\.apiproxy-.+\.amazonaws\.com$
-URL-REGEX,^https?:\/\/(^|\.)dualstack\.ichnaea-web-.+\.amazonaws\.com$
+DOMAIN-REGEX,(^|\.)apiproxy-device-prod-nlb-.+\.amazonaws\.com$
+DOMAIN-REGEX,(^|\.)apiproxy-website-nlb-prod-.+\.amazonaws\.com$
+DOMAIN-REGEX,(^|\.)dualstack\.apiproxy-.+\.amazonaws\.com$
+DOMAIN-REGEX,(^|\.)dualstack\.ichnaea-web-.+\.amazonaws\.com$

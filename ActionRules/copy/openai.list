@@ -12,7 +12,7 @@ DOMAIN-SUFFIX,chatgpt.livekit.cloud
 DOMAIN-SUFFIX,host.livekit.cloud
 DOMAIN-SUFFIX,turn.livekit.cloud
 DOMAIN-SUFFIX,openai.com.cdn.cloudflare.net
-URL-REGEX,^https?:\/\/^chatgpt-async-webps-prod-\S+-\d+\.webpubsub\.azure\.com$
+DOMAIN-REGEX,^chatgpt-async-webps-prod-\S+-\d+\.webpubsub\.azure\.com$
 DOMAIN,o33249.ingest.sentry.io
 DOMAIN,openaicom.imgix.net
 DOMAIN,browser-intake-datadoghq.com

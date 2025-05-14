@@ -55,7 +55,7 @@ DOMAIN-SUFFIX,aistudio.google.com
 DOMAIN-SUFFIX,notebooklm.google.com
 DOMAIN-SUFFIX,gateway.ai.cloudflare.com
 DOMAIN-SUFFIX,openai.com.cdn.cloudflare.net
-URL-REGEX,^https?:\/\/^chatgpt-async-webps-prod-\S+-\d+\.webpubsub\.azure\.com$
+DOMAIN-REGEX,^chatgpt-async-webps-prod-\S+-\d+\.webpubsub\.azure\.com$
 DOMAIN,o33249.ingest.sentry.io
 DOMAIN,openaicom.imgix.net
 DOMAIN,browser-intake-datadoghq.com

@@ -584,7 +584,7 @@ DOMAIN-SUFFIX,steam.cdn.on.net
 DOMAIN-SUFFIX,steam.cdn.orcon.net.nz
 DOMAIN-SUFFIX,edge.steam-dns.top.comcast.net
 DOMAIN-SUFFIX,steam.cdn.slingshot.co.nz
-URL-REGEX,^https?:\/\/^epicgames-download\d\.akamaized\.net$
+DOMAIN-REGEX,^epicgames-download\d\.akamaized\.net$
 DOMAIN-SUFFIX,mhystatic.com
 DOMAIN-SUFFIX,mhyurl.cn
 DOMAIN-SUFFIX,mihayo.com
@@ -600,9 +600,9 @@ DOMAIN-SUFFIX,bhsr.com
 DOMAIN-SUFFIX,themisweeps.com
 DOMAIN-SUFFIX,yuanshen.com
 DOMAIN-SUFFIX,juequling.com
-URL-REGEX,^https?:\/\/^.+-mihayo\.akamaized\.net$
-URL-REGEX,^https?:\/\/^cdn\d-epicgames-\d+\.file\.myqcloud\.com$
-URL-REGEX,^https?:\/\/^epicgames-download\d-\d+\.file\.myqcloud\.com$
+DOMAIN-REGEX,^.+-mihayo\.akamaized\.net$
+DOMAIN-REGEX,^cdn\d-epicgames-\d+\.file\.myqcloud\.com$
+DOMAIN-REGEX,^epicgames-download\d-\d+\.file\.myqcloud\.com$
 DOMAIN-SUFFIX,battlecare.net
 DOMAIN-SUFFIX,gameitop.com
 DOMAIN-SUFFIX,gameloop.com
@@ -720,9 +720,9 @@ DOMAIN,menu-static.gog-statics.com
 DOMAIN,productcard.gog-statics.com
 DOMAIN,static-login.gog-statics.com
 DOMAIN,www4-static.gog-statics.com
-URL-REGEX,^https?:\/\/^cdn-akamai-.+\.gog-services\.com$
-URL-REGEX,^https?:\/\/^gog-cdn-.+\.footprint\.net$
-URL-REGEX,^https?:\/\/^images(-\d)?\.gog-statics\.com$
+DOMAIN-REGEX,^cdn-akamai-.+\.gog-services\.com$
+DOMAIN-REGEX,^gog-cdn-.+\.footprint\.net$
+DOMAIN-REGEX,^images(-\d)?\.gog-statics\.com$
 DOMAIN,gog-cdn-fastly.gog.com
 DOMAIN,gog-cdn.akamaized.net
 DOMAIN-SUFFIX,bilibiligame.cn
