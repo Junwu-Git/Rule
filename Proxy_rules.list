@@ -18,22 +18,6 @@ DOMAIN-SUFFIX,一元机场.com
 DOMAIN-SUFFIX,313445.xyz
 DOMAIN-SUFFIX,saturday.video
 
-# 机场订阅
-DOMAIN,dler.cloud
-DOMAIN-SUFFIX,dler.cloud
-DOMAIN,bujidao.cc
-DOMAIN-SUFFIX,bujidao.cc
-DOMAIN,neo.facal.one
-DOMAIN-SUFFIX,facal.one
-DOMAIN,sub2.smallstrawberry.com
-DOMAIN-SUFFIX,smallstrawberry.com
-DOMAIN,tunnel.jwan.site
-DOMAIN-SUFFIX,jwan.site
-DOMAIN,a.subcat.link
-DOMAIN-SUFFIX,subcat.link
-DOMAIN,bujidao.cc
-DOMAIN-SUFFIX,bujidao.cc
-
 # 其它
 DOMAIN,linux.do
 DOMAIN-SUFFIX,linux.do
