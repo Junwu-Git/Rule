@@ -157,51 +157,6 @@ jobs:
             echo "Game_No_Resolve.yaml，未拷贝" >> new_warning.md
           fi
 
-      - name: Convert and classify rules for Loon
-        run: |
-          mkdir -p warning
-          : > warning/warning.md
-          echo "# ⚠️ Warning List" >> warning/warning.md
-          echo "" >> warning/warning.md
-
-          find ActionRules -type f -name "*.list" | while read -r file; do
-            tmp_file="${file}.tmp"
-            changed=0
-            while IFS= read -r line || [ -n "$line" ]; do
-              trimmed="$(echo "$line" | sed 's/^[[:space:]]*//')"
-              if [[ "$trimmed" =~ ^#.*$ || -z "$trimmed" ]]; then
-                echo "$line" >> "$tmp_file"
-                continue
-              fi
-
-              # DOMAIN-REGEX ➜ URL-REGEX
-              if [[ "$trimmed" =~ ^DOMAIN-REGEX, ]]; then
-                pattern="${trimmed#DOMAIN-REGEX,}"
-                echo "URL-REGEX,^https?:\/\/${pattern}" >> "$tmp_file"
-                changed=1
-
-              # 允许的规则类型（原样保留）
-              elif [[ "$trimmed" =~ ^(DOMAIN|DOMAIN-SUFFIX|DOMAIN-KEYWORD|URL-REGEX|IP-CIDR|GEOIP|FINAL)(,|$) ]]; then
-                echo "$line" >> "$tmp_file"
-
-              # 其余未知/不兼容规则 ➜ 记录 warning
-              else
-                echo "$line" >> "$tmp_file"
-                echo "- **文件**: \`$file\`" >> warning/warning.md
-                echo "  - 不兼容规则: \`$line\`" >> warning/warning.md
-                echo "" >> warning/warning.md
-                changed=1
-              fi
-            done < "$file"
-
-            if [[ "$changed" -eq 1 ]]; then
-              mv "$tmp_file" "$file"
-              echo "✅ 已处理：$file"
-            else
-              rm -f "$tmp_file"
-            fi
-          done
-
       - name: Commit and push changes
         env:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
