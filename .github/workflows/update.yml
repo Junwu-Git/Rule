@@ -2,7 +2,7 @@ name: Sync and Modify IP Lists
 
 on:
   schedule:
-    - cron: "30 22 * * *" # 6:30 AM UTC+8
+    - cron: "0 23 * * *" # 7:00 AM UTC+8
   workflow_dispatch:
 
 permissions:
