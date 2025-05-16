@@ -68,34 +68,34 @@ jobs:
             done
           done
 
-      - name: Copy YAML & list from 666OS/YYDS
-        run: |
-          for f in XPTV.yaml fix-direct.yaml download.yaml emby.list; do
-            src="yyds-repo/mihomo/rules/$f"
-            dst="meta/666OS/$f"
-            if [[ -f "$src" ]]; then
-              cp "$src" "$dst"
-            else
-              echo "${{ env.DATE }}，$f，未拷贝" >> warning.md
-              echo "$f，未拷贝" >> new_warning.md
-            fi
-          done
+      # - name: Copy YAML & list from 666OS/YYDS
+      #   run: |
+      #     for f in XPTV.yaml fix-direct.yaml download.yaml emby.list; do
+      #       src="yyds-repo/mihomo/rules/$f"
+      #       dst="meta/666OS/$f"
+      #       if [[ -f "$src" ]]; then
+      #         cp "$src" "$dst"
+      #       else
+      #         echo "${{ env.DATE }}，$f，未拷贝" >> warning.md
+      #         echo "$f，未拷贝" >> new_warning.md
+      #       fi
+      #     done
 
-      - name: Convert YAML rules from 666OS/YYDS to list format
-        run: |
-          for f in XPTV fix-direct; do
-            src="yyds-repo/mihomo/rules/${f}.yaml"
-            dst="meta/666OS/${f}.list"
-            if [[ -f "$src" ]]; then
-              grep -vE '^(payload:|[[:space:]]*# PROCESS-NAME|[[:space:]]*- PROCESS-NAME|^$)' "$src" \
-                | grep -v 'DST-PORT' \
-                | sed -E 's/^[[:space:]]*-[[:space:]]*//' \
-                | sed 's/^[[:space:]]*#/#/' > "$dst"
-            else
-              echo "${{ env.DATE }}，${f}.yaml，未拷贝" >> warning.md
-              echo "${f}.yaml，未拷贝" >> new_warning.md
-            fi
-          done
+      # - name: Convert YAML rules from 666OS/YYDS to list format
+      #   run: |
+      #     for f in XPTV fix-direct; do
+      #       src="yyds-repo/mihomo/rules/${f}.yaml"
+      #       dst="meta/666OS/${f}.list"
+      #       if [[ -f "$src" ]]; then
+      #         grep -vE '^(payload:|[[:space:]]*# PROCESS-NAME|[[:space:]]*- PROCESS-NAME|^$)' "$src" \
+      #           | grep -v 'DST-PORT' \
+      #           | sed -E 's/^[[:space:]]*-[[:space:]]*//' \
+      #           | sed 's/^[[:space:]]*#/#/' > "$dst"
+      #       else
+      #         echo "${{ env.DATE }}，${f}.yaml，未拷贝" >> warning.md
+      #         echo "${f}.yaml，未拷贝" >> new_warning.md
+      #       fi
+      #     done
 
       - name: Copy Game_No_Resolve.yaml from blackmatrix7
         run: |
