@@ -3,30 +3,26 @@ DOMAIN-SUFFIX,fmta.boo
 DOMAIN-KEYWORD,fmta
 
 # Ccat服务
-DOMAIN,cccat.io
 DOMAIN-SUFFIX,cccat.io
 
 # 布吉岛
-DOMAIN,app.bujidao.org
 DOMAIN-SUFFIX,bujidao.org
 
 # 一元机场
-DOMAIN,一元机场.com
 DOMAIN-SUFFIX,一元机场.com
 
 # Emby服务
 DOMAIN-SUFFIX,313445.xyz
 DOMAIN-SUFFIX,saturday.video
 
+# 可莉规则地址
+DOMAIN-SUFFIX,kelee.one
+
 # 其它
-DOMAIN,linux.do
 DOMAIN-SUFFIX,linux.do
 
 # 禁
-DOMAIN,www.177pica.com
 DOMAIN-SUFFIX,177pica.com
-DOMAIN,www.177picyy.com
 DOMAIN-SUFFIX,177picyy.com
-DOMAIN,hanime.tv
 DOMAIN-SUFFIX,hanime.tv
 DOMAIN-SUFFIX,freeanimehentai.net
