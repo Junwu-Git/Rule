@@ -21,14 +21,15 @@ DOMAIN-SUFFIX,kelee.one
 # 其它
 DOMAIN-SUFFIX,linux.do
 DOMAIN-SUFFIX,jwan.site
-DOMAIN,userstylesapi.com
-DOMAIN,darkreader.org
-DOMAIN,ipwho.is
-DOMAIN,stream.zotero.org
+DOMAIN-SUFFIX,userstylesapi.com
+DOMAIN-SUFFIX,darkreader.org
+DOMAIN-SUFFIX,ipwho.is
+DOMAIN-SUFFIX,zotero.org
 DOMAIN-SUFFIX,cmliussss.com
 DOMAIN,cf.090227.xyz
 DOMAIN,www.aoaostar.com
 DOMAIN,ip.skk.moe
+DOMAIN-SUFFIX,immortalwrt.org
 
 # 禁
 DOMAIN-SUFFIX,177pica.com
