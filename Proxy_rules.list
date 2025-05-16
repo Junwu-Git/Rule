@@ -21,6 +21,10 @@ DOMAIN-SUFFIX,kelee.one
 # 其它
 DOMAIN-SUFFIX,linux.do
 DOMAIN-SUFFIX,jwan.site
+DOMAIN,userstylesapi.com
+DOMAIN,darkreader.org
+DOMAIN,ipwho.is
+DOMAIN,stream.zotero.org
 
 # 禁
 DOMAIN-SUFFIX,177pica.com
