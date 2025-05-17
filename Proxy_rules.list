@@ -30,6 +30,10 @@ DOMAIN,cf.090227.xyz
 DOMAIN,www.aoaostar.com
 DOMAIN,ip.skk.moe
 DOMAIN-SUFFIX,immortalwrt.org
+DOMAIN-SUFFIX,yiove.com
+DOMAIN-SUFFIX,metamask.io
+DOMAIN-SUFFIX,ping0.cc
+DOMAIN-SUFFIX,arcgis.app
 
 # 禁
 DOMAIN-SUFFIX,177pica.com
