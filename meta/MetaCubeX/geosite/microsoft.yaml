@@ -6,6 +6,10 @@ payload:
     - statics-marketingsites-eas-ms-com.akamaized.net
     - statics-marketingsites-eus-ms-com.akamaized.net
     - statics-marketingsites-wcus-ms-com.akamaized.net
+    - crl.microsoft.com
+    - mscrl.microsoft.com
+    - ocsp.microsoft.com
+    - oneocsp.microsoft.com
     - azure.microsoft.com
     - azuremarketplace.microsoft.com
     - location.microsoft.com
@@ -25,10 +29,6 @@ payload:
     - vscode.blob.core.windows.net
     - vscode.search.windows.net
     - vsmarketplacebadge.apphb.com
-    - crl.microsoft.com
-    - mscrl.microsoft.com
-    - ocsp.microsoft.com
-    - oneocsp.microsoft.com
     - +.microsoft
     - +.hotmail
     - +.office
@@ -60,7 +60,7 @@ payload:
     - +.microsoft.lv
     - +.microsoft.md
     - +.microsoft.net
-    - +.microsoftnews.net
+    - +.microsoftnews.com
     - +.microsoft.pt
     - +.microsoft.red
     - +.microsoft.ro
@@ -198,7 +198,7 @@ payload:
     - +.msidentity.com
     - +.msocdn.com
     - +.msturing.org
-    - +.msocsp.com
+    - +.xamarin.com
     - +.mymicrosoft.com
     - +.nextechafrica.net
     - +.nxta.org
@@ -273,11 +273,12 @@ payload:
     - +.winhec.com
     - +.winhec.net
     - +.yammer.com
+    - +.msocsp.com
     - +.microsoftnews.cc
-    - +.microsoftnews.com
-    - +.serverlesslibrary.net
+    - +.playfabapi.com
     - +.microsoft.cl
     - +.microsoft.pl
+    - +.microsoftnews.net
     - +.microsoftnews.org
     - +.microsoftnewsforkids.com
     - +.microsoftnewsforkids.net
@@ -298,7 +299,6 @@ payload:
     - +.1drv.com
     - +.livefilestore.com
     - +.sharepoint.cn
-    - +.xamarin.com
     - +.vscode-unpkg.net
     - +.vscode-cdn.net
     - +.vscode.dev
@@ -307,6 +307,7 @@ payload:
     - +.vfsforgit.com
     - +.visualstudio.net
     - +.visualstudio.eu
+    - +.visualstudio.co
     - +.microsoft.by
     - +.forzamotorsport.net
     - +.forzaracingchampionship.com
@@ -394,8 +395,8 @@ payload:
     - +.microsoftiotcentral.com
     - +.msn.net
     - +.playfab.com
-    - +.playfabapi.com
-    - +.visualstudio.co
+    - +.visualstudio.com
+    - +.serverlesslibrary.net
     - +.trafficmanager.net
     - +.tryfunctions.com
     - +.windowsazure.com
@@ -430,7 +431,7 @@ payload:
     - +.office365love.com
     - +.office365tw.com
     - +.renovacionoffice.com
-    - +.visualstudio.com
+    - +.visualstudio-staging.com
     - +.githubhackathon.com
     - +.ghcr.io
     - +.githubnext.com
@@ -456,7 +457,7 @@ payload:
     - +.atom.io
     - +.npm.community
     - +.npmjs.com
-    - +.visualstudio-staging.com
+    - +.uwpcommunitytoolkit.com
     - +.adaptivecards.io
     - +.api-extractor.com
     - +.apisof.net
@@ -494,11 +495,10 @@ payload:
     - +.sankie.net
     - +.sqlserveronlinux.com
     - +.timelinestoryteller.com
-    - +.uwpcommunitytoolkit.com
     - +.spoprod-a.akamaihd.net
     - +.live.com.au
-    - +.microsoftstore.com.hk
     - +.visualstudio.co.uk
+    - +.microsoftstore.com.hk
     - +.skypedata.akadns.net
     - +.skype-edf.akadns.net
     - +.clarity.ms
@@ -577,6 +577,7 @@ payload:
     - wscont1.apps.microsoft.com
     - wscont2.apps.microsoft.com
     - xb.dlservice.microsoft.com
+    - www.microsoft.com
     - +.microsoftnews.cn
     - +.msn.cn
     - +.xboxlive.cn
@@ -677,4 +678,3 @@ payload:
     - +.microsoftreactor.cn
     - +.microsoftreactor.com.cn
     - +.reactorms.com.cn
-    - www.microsoft.com
