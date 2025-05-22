@@ -16,8 +16,8 @@ jobs:
       - name: Checkout your repository
         uses: actions/checkout@v3
 
-      - name: Set current date
-        run: echo "DATE=$(date '+%Y年%m月%d日 %H:%M:%S')" >> $GITHUB_ENV
+      - name: Set current date (Beijing Time)
+        run: echo "DATE=$(TZ='Asia/Shanghai' date '+%Y年%m月%d日 %H:%M:%S')" >> $GITHUB_ENV
         
       - name: Install dependencies
         run: |
@@ -115,7 +115,7 @@ jobs:
           git config --global user.name "GitHub Action"
           git config --global user.email "action@github.com"
           git add ActionRules meta warning.md || true
-          git commit -m "Auto sync and update rule files ${{ env.DATE }}" || echo "No changes"
+          git commit -m "自动更新 ${{ env.DATE }}" || echo "No changes"
           git remote remove origin
           git remote add origin https://x-access-token:${GH_TOKEN}@github.com/${{ github.repository }}
           git push origin HEAD:${{ github.ref_name }}
