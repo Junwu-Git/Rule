@@ -8,6 +8,7 @@ payload:
     - appleworldwidedeveloper.hb-api.omtrdc.net
     - appleworldwidedeveloper.sc.omtrdc.net
     - p-events-delivery.akamaized.net
+    - beatselectronicsllc.tt.omtrdc.net
     - apple-tv-plus-press.apple.com
     - hls-amt.itunes.apple.com
     - hls.itunes.apple.com
@@ -15,11 +16,10 @@ payload:
     - play-edge.itunes.apple.com
     - tv.applemusic.com
     - uts-api.itunes.apple.com
-    - beatselectronicsllc.tt.omtrdc.net
     - www-cdn.icloud.com.akadns.net
     - +.apple
-    - +.beats-bydreoutletsale.net
-    - +.monsterbeats-solo.com
+    - +.beats-bydreoutletssale.net
+    - +.monsterbeats-solo.net
     - +.apple.be
     - +.apple.bg
     - +.apple.bs
@@ -693,8 +693,8 @@ payload:
     - +.straightouttasomewhere.com
     - +.spiritclubs.com
     - +.specialtyheadphones.com
-    - +.soso7778.com
-    - +.beats-bydreoutletssale.net
+    - +.beats-bydrestore.com
+    - +.solostudioksale.com
     - +.sneakerskick.com
     - +.sneakerpage.net
     - +.sneaker666.com
@@ -706,11 +706,10 @@ payload:
     - +.shopbydre.com
     - +.shopbeatsdre.com
     - +.shop-headphones.net
-    - +.shoestop2.com
-    - +.beats-bydreoutletsale.com
+    - +.beats-bydreoutletsale.net
+    - +.shoers.com
     - +.scnshop.cc
     - +.sanvaras.com
-    - +.samebags.com
     - +.100beatscheap.com
     - +.1monsterbeatsbydreus.com
     - +.2013beatsbydrdreonline.com
@@ -763,10 +762,10 @@ payload:
     - +.beats-bydre-mall.com
     - +.beats-bydrecheapsale.com
     - +.beats-bydreoutletonline.com
-    - +.shoers.com
+    - +.beats-bydreoutletsale.com
+    - +.shoestop2.com
     - +.apple.at
-    - +.solostudioksale.com
-    - +.beats-bydrestore.com
+    - +.soso7778.com
     - +.beats-bydreuk.com
     - +.beats-deal.com
     - +.beats-dre-us.com
@@ -1257,8 +1256,8 @@ payload:
     - +.monsterbeats-cheap.com
     - +.monsterbeats-headphone.com
     - +.monsterbeats-onsale.com
+    - +.monsterbeats-solo.com
     - +.apple.ae
-    - +.monsterbeats-solo.net
     - +.monsterbeats365buy.com
     - +.monsterbeats8beatsbydre.com
     - +.monsterbeatsale.com
@@ -1363,10 +1362,10 @@ payload:
     - +.salebeatslasteststyle4you.com
     - +.saleblackfridaydrebeats.com
     - +.salecheaphandbags.com
-    - +.applecomputer.co.nz
-    - +.applepay.co.rs
+    - +.samebags.com
+    - +.applecomputer.co.in
+    - +.apple.comscoreresearch.com
     - +.iphone4.com.br
-    - +.webobjects.co.uk
     - +.quicktime.com.au
     - +.mr-apple.com.tw
     - +.macos.com.au
@@ -1383,8 +1382,8 @@ payload:
     - +.applecomputers.co.nz
     - +.applecomputer.com.tw
     - +.applecomputer.com.hk
+    - +.applecomputer.co.nz
     - +.iphone.net.gr
-    - +.applecomputer.co.in
     - +.appleclub.com.hk
     - +.applecentre.com.au
     - +.applecentar.co.rs
@@ -1394,7 +1393,8 @@ payload:
     - +.1to1computing.com.au
     - +.ibook.co.nz
     - +.applepay.com.tw
-    - +.apple.comscoreresearch.com
+    - +.applepay.co.rs
+    - +.webobjects.co.uk
     - +.applemusic.com.au
     - +.apple-watch.com.ru
     - +.macbookpro.com.au
@@ -1779,10 +1779,21 @@ payload:
     - www.apple.com.edgekey.net
     - www.apple.com.edgekey.net.globalredir.akadns.net
     - xp.apple.com
+    - +.api-adservices.apple.com
+    - +.iadsdk.apple.com
+    - +.iad.apple.com
+    - +.qwapi.com
     - +.researchkit.cn
     - +.researchkit.com.cn
     - +.swiftui.cn
     - +.swiftui.com.cn
+    - +.beats1.cn
+    - +.beats1.com.cn
+    - +.beats2.com.cn
+    - +.beats4.cn
+    - +.beatsbydre.com
+    - +.beatsbydre.com.cn
+    - +.beatsep.cn
     - certs-lb.apple.com.akadns.net
     - certs.apple.com
     - crl-lb.apple.com.akadns.net
@@ -1792,17 +1803,6 @@ payload:
     - ocsp2-lb.apple.com.akadns.net
     - ocsp2.apple.com
     - valid.apple.com
-    - +.beats1.cn
-    - +.beats1.com.cn
-    - +.beats2.com.cn
-    - +.beats4.cn
-    - +.beatsbydre.com
-    - +.beatsbydre.com.cn
-    - +.beatsep.cn
-    - +.api-adservices.apple.com
-    - +.iadsdk.apple.com
-    - +.iad.apple.com
-    - +.qwapi.com
     - +.apple-icloud.cn
     - +.appleicloud.cn
     - +.icloud-apple.cn
