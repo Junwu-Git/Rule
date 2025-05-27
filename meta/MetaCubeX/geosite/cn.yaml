@@ -43,8 +43,8 @@ payload:
     - +.citic
     - +.baidu
     - +.alipay
-    - +.juexiang.com
-    - +.vipshou.com
+    - +.juerguea.com
+    - +.137home.com
     - +.0283home.com
     - +.028brother.com
     - +.028csc.com
@@ -1371,7 +1371,7 @@ payload:
     - +.1374.com
     - +.13793085458.com
     - +.13793277711.com
-    - +.137home.com
+    - +.jundushan.com
     - +.137y.com
     - +.138.net
     - +.13800.net
@@ -8086,7 +8086,6 @@ payload:
     - +.88lan.com
     - +.88laser.com
     - +.88lianmengtu.com
-    - +.88lmfff666.com
     - +.88lot.com
     - +.88meishi.com
     - +.88mf.com
@@ -29204,10 +29203,17 @@ payload:
     - +.deweisi.net
     - +.dewiqq.asia
     - +.dewmobile.net
+    - +.dewu-inc.com
+    - +.dewu-inner.com
+    - +.dewu-inner.net
+    - +.dewu.co
     - +.dewu.com
     - +.dewu.net
     - +.dewucdn.com
+    - +.dewuhd.com
+    - +.dewuhui.com
     - +.dewumall.com
+    - +.dewuyouhui.com
     - +.dewx.net
     - +.dexejhyxh.com
     - +.dexian.mobi
@@ -31505,6 +31511,7 @@ payload:
     - +.du-xiaomai.com
     - +.du7.com
     - +.du8.com
+    - +.du8.ltd
     - +.dualaid.com
     - +.dualspace.com
     - +.dualspacetech.com
@@ -31855,6 +31862,7 @@ payload:
     - +.dvsadive.com
     - +.dvvvs.com
     - +.dw-microbiology.com
+    - +.dw2.co
     - +.dw4.co
     - +.dwbxg.com
     - +.dwdds.com
@@ -31862,6 +31870,7 @@ payload:
     - +.dwgbj.com
     - +.dwgszc.com
     - +.dwgwatch.com
+    - +.dwhhd.com
     - +.dwhub.net
     - +.dwhut.com
     - +.dwidc.com
@@ -39866,6 +39875,8 @@ payload:
     - +.giffox.com
     - +.gifhome.com
     - +.gifshow.com
+    - +.giftatdw.com
+    - +.giftattoday.com
     - +.giftres.com
     - +.giftsbeijing.com
     - +.gifu-pr.com
@@ -59864,10 +59875,10 @@ payload:
     - +.juemuren4449.com
     - +.jueqijy.com
     - +.juequling.com
-    - +.juerguea.com
+    - +.0.zone
     - +.juesheng.com
     - +.juewei.com
-    - +.0.zone
+    - +.juexiang.com
     - +.juexiaotime.com
     - +.juexinw.com
     - +.jueywo.com
@@ -60014,10 +60025,10 @@ payload:
     - +.juncyun.com
     - +.jundacheng.com
     - +.jundaobaoan.com
-    - +.jundui.net
-    - +.wnevia.com
+    - +.printer-china.com
     - +.028-xhxgt.com
-    - +.yeapcloud.com
+    - +.npfls.com
+    - +.juneyao.com
     - +.juneyaoair.com
     - +.juneyaoairlines.com
     - +.junezx.com
@@ -75002,7 +75013,7 @@ payload:
     - +.npc233.com
     - +.npcka.com
     - +.npedi.com
-    - +.npfls.com
+    - +.junengdingli.com
     - +.nphoto.net
     - +.npi-sh.com
     - +.npilasers.com
@@ -76872,6 +76883,7 @@ payload:
     - +.pandapaint.net
     - +.pandara.xyz
     - +.pandaremit.com
+    - +.pandarzli.com
     - +.pandateacher.com
     - +.pandatv.com
     - +.pandax.wiki
@@ -77416,6 +77428,7 @@ payload:
     - +.pengyaou.com
     - +.pengyihotel.com
     - +.pengyou.com
+    - +.pengyoudewu.com
     - +.pengyoukan.com
     - +.pengyuanled.com
     - +.pengyucpa.com
@@ -78284,7 +78297,11 @@ payload:
     - +.poinesttia.com
     - +.point-memory.com
     - +.poiuytw.com
+    - +.poizon-inner.com
+    - +.poizon-inner.net
+    - +.poizon-support.com
     - +.poizon.com
+    - +.poizon.net
     - +.poj.org
     - +.pojianyunfu.com
     - +.poke203.com
@@ -78674,7 +78691,7 @@ payload:
     - +.primeton.com
     - +.princechem.com
     - +.print86.com
-    - +.printer-china.com
+    - +.jundui.net
     - +.printerwhy.net
     - +.printhome.com
     - +.printhr.com
@@ -87425,6 +87442,7 @@ payload:
     - +.shizhihome.com
     - +.shizhongruyi.com
     - +.shizhuang-inc.com
+    - +.shizhuang-inc.net
     - +.shizhuolin.com
     - +.shizhuonet.com
     - +.shj6789.com
@@ -99271,7 +99289,7 @@ payload:
     - +.vipshare.com
     - +.vipshop.com
     - +.vipshopyao.com
-    - +.junengdingli.com
+    - +.vipshou.com
     - +.vipsinaapp.com
     - +.vipskill.com
     - +.vipslib.com
@@ -102863,7 +102881,7 @@ payload:
     - +.wndoor.com
     - +.wndroid.com
     - +.wndy.cc
-    - +.jundushan.com
+    - +.wnevia.com
     - +.wnform.com
     - +.wnhuifu.com
     - +.wniec.com
@@ -103042,6 +103060,7 @@ payload:
     - +.womeifilm.com
     - +.womeimenye.com
     - +.women-heart.com
+    - +.womendedw.com
     - +.womenjie.com
     - +.wonadea.com
     - +.wonder.wiki
@@ -110090,7 +110109,7 @@ payload:
     - +.yealinkvc.com
     - +.yeaosound.com
     - +.yeapb.com
-    - +.juneyao.com
+    - +.yeapcloud.com
     - +.yeapcloud.net
     - +.yearlygreen.com
     - +.yearnfar.com

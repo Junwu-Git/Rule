@@ -6,14 +6,6 @@ payload:
     - statics-marketingsites-eas-ms-com.akamaized.net
     - statics-marketingsites-eus-ms-com.akamaized.net
     - statics-marketingsites-wcus-ms-com.akamaized.net
-    - crl.microsoft.com
-    - mscrl.microsoft.com
-    - ocsp.microsoft.com
-    - oneocsp.microsoft.com
-    - azure.microsoft.com
-    - azuremarketplace.microsoft.com
-    - location.microsoft.com
-    - github-cloud.s3.amazonaws.com
     - az764295.vo.msecnd.net
     - bingsettingssearch.trafficmanager.net
     - default.exp-tas.com
@@ -29,6 +21,14 @@ payload:
     - vscode.blob.core.windows.net
     - vscode.search.windows.net
     - vsmarketplacebadge.apphb.com
+    - crl.microsoft.com
+    - mscrl.microsoft.com
+    - ocsp.microsoft.com
+    - oneocsp.microsoft.com
+    - azure.microsoft.com
+    - azuremarketplace.microsoft.com
+    - location.microsoft.com
+    - github-cloud.s3.amazonaws.com
     - +.microsoft
     - +.hotmail
     - +.office
@@ -199,7 +199,7 @@ payload:
     - +.msidentity.com
     - +.msocdn.com
     - +.msturing.org
-    - +.xamarin.com
+    - +.npmjs.com
     - +.mymicrosoft.com
     - +.nextechafrica.net
     - +.nxta.org
@@ -249,7 +249,7 @@ payload:
     - +.sysinternals.com
     - +.t-msedge.net
     - +.tailwindtraders.com
-    - +.vscode-unpkg.net
+    - +.npm.community
     - +.tfsallin.net
     - +.translatetheweb.com
     - +.unlocklimitlesslearning.com
@@ -274,10 +274,64 @@ payload:
     - +.microsoft.ch
     - +.winhec.net
     - +.yammer.com
-    - +.msocsp.com
-    - +.azurecosmosdb.info
+    - +.adaptivecards.io
+    - +.forzamotorsport.net
     - +.microsoft.cl
     - +.techhub.ms
+    - +.apisof.net
+    - +.appcenter.ms
+    - +.blazor.net
+    - +.botframework.com
+    - +.codethemicrobit.com
+    - +.devopsassessment.net
+    - +.dot.net
+    - +.gamesstack.com
+    - +.graphengine.io
+    - +.insiderdevtour.com
+    - +.jwt.ms
+    - +.microbit.org
+    - +.microsoftadc.com
+    - +.microsoftgamestack.com
+    - +.microsoftiotinsiderlabs.com
+    - +.microsoftreactor.info
+    - +.microsoftreactor.net
+    - +.microsoftreactor.org
+    - +.microsoftsilverlight.com
+    - +.microsoftsilverlight.org
+    - +.microsoftsilverlight.net
+    - +.microsoftsqlserver.com
+    - +.mmdnn.com
+    - +.mono-project.com
+    - +.msdn.com
+    - +.msinnovationchallenge.com
+    - +.mspairlift.com
+    - +.msropendata.com
+    - +.nuget.org
+    - +.nugettest.org
+    - +.opentranslatorstothings.org
+    - +.poshtestgallery.com
+    - +.pwabuilder.com
+    - +.sankie.net
+    - +.sqlserveronlinux.com
+    - +.timelinestoryteller.com
+    - +.uwpcommunitytoolkit.com
+    - +.visualstudio-staging.com
+    - +.visualstudio.com
+    - +.visualstudio.co
+    - +.visualstudio.eu
+    - +.visualstudio.net
+    - +.vfsforgit.com
+    - +.vfsforgit.org
+    - +.vsassets.io
+    - +.vscode.dev
+    - +.vscode-cdn.net
+    - +.vscode-unpkg.net
+    - +.xamarin.com
+    - +.atom.io
+    - +.thegithubshop.com
+    - +.repo.new
+    - +.msocsp.com
+    - +.microsoftnews.cc
     - +.microsoftnews.com
     - +.microsoftnews.net
     - +.microsoftnews.org
@@ -300,17 +354,15 @@ payload:
     - +.1drv.com
     - +.livefilestore.com
     - +.sharepoint.cn
-    - +.vscode-cdn.net
-    - +.vscode.dev
-    - +.vsassets.io
-    - +.vfsforgit.org
-    - +.vfsforgit.com
-    - +.visualstudio.net
-    - +.visualstudio.eu
-    - +.visualstudio.co
-    - +.visualstudio.com
+    - +.opensource.guide
+    - +.myoctocat.com
+    - +.githubusercontent.com
+    - +.githubuniverse.com
+    - +.githubstatus.com
+    - +.git.io
+    - +.dependabot.com
     - +.microsoft.by
-    - +.forzamotorsport.net
+    - +.api-extractor.com
     - +.forzaracingchampionship.com
     - +.forzarc.com
     - +.gamepass.com
@@ -362,7 +414,7 @@ payload:
     - +.azurecontainer.io
     - +.azurecosmos.net
     - +.azurecosmosdb.com
-    - +.microsoftnews.cc
+    - +.azurecosmosdb.info
     - +.azurecosmosdb.net
     - +.azuredatabricks.net
     - +.azuredevopslaunch.com
@@ -383,7 +435,6 @@ payload:
     - +.azuresmartspaces.net
     - +.azurestackvalidation.com
     - +.azurewebsites.net
-    - +.botframework.com
     - +.cosmosdb.info
     - +.cosmosdb.net
     - +.devopsms.com
@@ -432,7 +483,7 @@ payload:
     - +.office365love.com
     - +.office365tw.com
     - +.renovacionoffice.com
-    - +.visualstudio-staging.com
+    - +.npmjs.org
     - +.githubhackathon.com
     - +.ghcr.io
     - +.githubnext.com
@@ -445,62 +496,11 @@ payload:
     - +.githubapp.com
     - +.githubassets.com
     - +.githubcopilot.com
-    - +.npmjs.org
-    - +.dependabot.com
-    - +.git.io
-    - +.githubstatus.com
-    - +.githubuniverse.com
-    - +.githubusercontent.com
-    - +.myoctocat.com
-    - +.opensource.guide
-    - +.repo.new
-    - +.thegithubshop.com
-    - +.atom.io
-    - +.npm.community
-    - +.npmjs.com
-    - +.uwpcommunitytoolkit.com
-    - +.adaptivecards.io
-    - +.api-extractor.com
-    - +.apisof.net
-    - +.appcenter.ms
-    - +.blazor.net
-    - +.codethemicrobit.com
-    - +.devopsassessment.net
-    - +.dot.net
-    - +.gamesstack.com
-    - +.graphengine.io
-    - +.insiderdevtour.com
-    - +.jwt.ms
-    - +.microbit.org
-    - +.microsoftadc.com
-    - +.microsoftgamestack.com
-    - +.microsoftiotinsiderlabs.com
-    - +.microsoftreactor.info
-    - +.microsoftreactor.net
-    - +.microsoftreactor.org
-    - +.microsoftsilverlight.com
-    - +.microsoftsilverlight.org
-    - +.microsoftsilverlight.net
-    - +.microsoftsqlserver.com
-    - +.mmdnn.com
-    - +.mono-project.com
-    - +.msdn.com
-    - +.msinnovationchallenge.com
-    - +.mspairlift.com
-    - +.msropendata.com
-    - +.nuget.org
-    - +.nugettest.org
-    - +.opentranslatorstothings.org
-    - +.poshtestgallery.com
-    - +.pwabuilder.com
-    - +.sankie.net
-    - +.sqlserveronlinux.com
-    - +.timelinestoryteller.com
-    - +.spoprod-a.akamaihd.net
-    - +.visualstudio.co.uk
     - +.live.com.au
+    - +.spoprod-a.akamaihd.net
     - +.skype-edf.akadns.net
     - +.skypedata.akadns.net
+    - +.visualstudio.co.uk
     - +.microsoftstore.com.hk
     - +.clarity.ms
     - +.dcg.microsoft.com
@@ -578,6 +578,9 @@ payload:
     - wscont1.apps.microsoft.com
     - wscont2.apps.microsoft.com
     - xb.dlservice.microsoft.com
+    - +.microsoftreactor.cn
+    - +.microsoftreactor.com.cn
+    - +.reactorms.com.cn
     - www.microsoft.com
     - +.microsoftnews.cn
     - +.msn.cn
@@ -676,6 +679,3 @@ payload:
     - +.th.bing.com
     - bj1.api.bing.com
     - emoi-cncdn.bing.com
-    - +.microsoftreactor.cn
-    - +.microsoftreactor.com.cn
-    - +.reactorms.com.cn
