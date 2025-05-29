@@ -6,6 +6,10 @@ payload:
     - statics-marketingsites-eas-ms-com.akamaized.net
     - statics-marketingsites-eus-ms-com.akamaized.net
     - statics-marketingsites-wcus-ms-com.akamaized.net
+    - crl.microsoft.com
+    - mscrl.microsoft.com
+    - ocsp.microsoft.com
+    - oneocsp.microsoft.com
     - azure.microsoft.com
     - azuremarketplace.microsoft.com
     - location.microsoft.com
@@ -25,23 +29,18 @@ payload:
     - vscode.blob.core.windows.net
     - vscode.search.windows.net
     - vsmarketplacebadge.apphb.com
-    - crl.microsoft.com
-    - mscrl.microsoft.com
-    - ocsp.microsoft.com
-    - oneocsp.microsoft.com
     - +.microsoft
     - +.hotmail
     - +.office
     - +.skype
     - +.windows
+    - +.bing
+    - +.azure
     - +.xbox
     - +.onedriveupdater
     - +.onedrive
-    - +.bing
-    - +.azure
-    - +.windowsupdate.com
-    - +.msturing.org
-    - +.microsoft.cl
+    - +.winhec.com
+    - +.msudalosti.com
     - +.microsoft.com
     - +.microsoft.cz
     - +.microsoft.de
@@ -199,8 +198,8 @@ payload:
     - +.mshome.net
     - +.msidentity.com
     - +.msocdn.com
-    - +.sharepoint.cn
-    - +.msudalosti.com
+    - +.msturing.org
+    - +.xamarin.com
     - +.mymicrosoft.com
     - +.nextechafrica.net
     - +.nxta.org
@@ -249,8 +248,8 @@ payload:
     - +.sway.com
     - +.sysinternals.com
     - +.t-msedge.net
-    - +.livefilestore.com
-    - +.techhub.ms
+    - +.tailwindtraders.com
+    - +.vscode-unpkg.net
     - +.tfsallin.net
     - +.translatetheweb.com
     - +.unlocklimitlesslearning.com
@@ -271,13 +270,47 @@ payload:
     - +.windowsphone-int.com
     - +.windowsphone.com
     - +.windowssearch.com
-    - +.microsoft.cat
-    - +.winhec.com
+    - +.windowsupdate.com
+    - +.microsoft.ch
     - +.winhec.net
     - +.yammer.com
-    - +.serverlesslibrary.net
-    - +.microsoft.ch
-    - +.tailwindtraders.com
+    - +.msocsp.com
+    - +.azurecosmosdb.info
+    - +.microsoft.cl
+    - +.techhub.ms
+    - +.microsoftnews.com
+    - +.microsoftnews.net
+    - +.microsoftnews.org
+    - +.microsoftnewsforkids.com
+    - +.microsoftnewsforkids.net
+    - +.microsoftnewsforkids.org
+    - +.microsoftnewskids.com
+    - +.microsoftnewskids.net
+    - +.microsoftnewskids.org
+    - +.msn.com
+    - +.msnewskids.com
+    - +.msnewskids.net
+    - +.msnewskids.org
+    - +.msnkids.com
+    - +.microsoftstart.com
+    - +.start.com
+    - +.microsoft.cat
+    - +.microsoft.ca
+    - +.onedrive.com
+    - +.1drv.com
+    - +.livefilestore.com
+    - +.sharepoint.cn
+    - +.vscode-cdn.net
+    - +.vscode.dev
+    - +.vsassets.io
+    - +.vfsforgit.org
+    - +.vfsforgit.com
+    - +.visualstudio.net
+    - +.visualstudio.eu
+    - +.visualstudio.co
+    - +.visualstudio.com
+    - +.microsoft.by
+    - +.forzamotorsport.net
     - +.forzaracingchampionship.com
     - +.forzarc.com
     - +.gamepass.com
@@ -315,7 +348,7 @@ payload:
     - +.minecraftservices.com
     - +.minecraftshop.com
     - +.mojang.com
-    - +.microsoft.ca
+    - +.microsoft.be
     - +.aadrm.com
     - +.azure-devices-int.net
     - +.azure-devices.net
@@ -329,7 +362,7 @@ payload:
     - +.azurecontainer.io
     - +.azurecosmos.net
     - +.azurecosmosdb.com
-    - +.azurecosmosdb.info
+    - +.microsoftnews.cc
     - +.azurecosmosdb.net
     - +.azuredatabricks.net
     - +.azuredevopslaunch.com
@@ -364,7 +397,7 @@ payload:
     - +.msn.net
     - +.playfab.com
     - +.playfabapi.com
-    - +.forzamotorsport.net
+    - +.serverlesslibrary.net
     - +.trafficmanager.net
     - +.tryfunctions.com
     - +.windowsazure.com
@@ -372,7 +405,7 @@ payload:
     - +.azure-dns.info
     - +.azure-dns.net
     - +.azure-dns.org
-    - +.microsoft.by
+    - +.microsoft.az
     - +.dictate.ms
     - +.sprinklesapp.com
     - +.bing.com
@@ -399,8 +432,7 @@ payload:
     - +.office365love.com
     - +.office365tw.com
     - +.renovacionoffice.com
-    - +.1drv.com
-    - +.onedrive.com
+    - +.visualstudio-staging.com
     - +.githubhackathon.com
     - +.ghcr.io
     - +.githubnext.com
@@ -426,6 +458,7 @@ payload:
     - +.atom.io
     - +.npm.community
     - +.npmjs.com
+    - +.uwpcommunitytoolkit.com
     - +.adaptivecards.io
     - +.api-extractor.com
     - +.apisof.net
@@ -463,45 +496,12 @@ payload:
     - +.sankie.net
     - +.sqlserveronlinux.com
     - +.timelinestoryteller.com
-    - +.uwpcommunitytoolkit.com
-    - +.visualstudio-staging.com
-    - +.visualstudio.com
-    - +.visualstudio.co
-    - +.visualstudio.eu
-    - +.visualstudio.net
-    - +.vfsforgit.com
-    - +.vfsforgit.org
-    - +.vsassets.io
-    - +.vscode.dev
-    - +.vscode-cdn.net
-    - +.vscode-unpkg.net
-    - +.xamarin.com
-    - +.microsoft.az
-    - +.msocsp.com
-    - +.microsoftnews.cc
-    - +.microsoftnews.com
-    - +.microsoftnews.net
-    - +.microsoftnews.org
-    - +.microsoftnewsforkids.com
-    - +.microsoftnewsforkids.net
-    - +.microsoftnewsforkids.org
-    - +.microsoftnewskids.com
-    - +.microsoftnewskids.net
-    - +.microsoftnewskids.org
-    - +.msn.com
-    - +.msnewskids.com
-    - +.msnewskids.net
-    - +.msnewskids.org
-    - +.msnkids.com
-    - +.microsoftstart.com
-    - +.start.com
-    - +.microsoft.be
-    - +.live.com.au
-    - +.skypedata.akadns.net
-    - +.skype-edf.akadns.net
-    - +.visualstudio.co.uk
-    - +.microsoftstore.com.hk
     - +.spoprod-a.akamaihd.net
+    - +.visualstudio.co.uk
+    - +.live.com.au
+    - +.skype-edf.akadns.net
+    - +.skypedata.akadns.net
+    - +.microsoftstore.com.hk
     - +.clarity.ms
     - +.dcg.microsoft.com
     - +.dynamics.cn
@@ -578,6 +578,9 @@ payload:
     - wscont1.apps.microsoft.com
     - wscont2.apps.microsoft.com
     - xb.dlservice.microsoft.com
+    - www.microsoft.com
+    - +.microsoftnews.cn
+    - +.msn.cn
     - +.xboxlive.cn
     - +.21vbc.com
     - +.21vbluecloud.com
@@ -676,6 +679,3 @@ payload:
     - +.microsoftreactor.cn
     - +.microsoftreactor.com.cn
     - +.reactorms.com.cn
-    - www.microsoft.com
-    - +.microsoftnews.cn
-    - +.msn.cn
