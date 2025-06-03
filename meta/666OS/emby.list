@@ -1,6 +1,10 @@
 # 规则名称: Emby
 # 规则统计: 182
+# 手动添加
+DOMAIN-SUFFIX,313445.xyz
+DOMAIN-SUFFIX,saturday.video
 
+# 原文件
 DOMAIN,2pfdml.mobaiemby.site
 DOMAIN,cc.coemn.com
 DOMAIN,cf-cdn1.nebula-media.org
