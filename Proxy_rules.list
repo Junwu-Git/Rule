@@ -32,6 +32,8 @@ DOMAIN-SUFFIX,ping0.cc
 DOMAIN-SUFFIX,arcgis.app
 DOMAIN-SUFFIX,aoaostar.com
 DOMAIN-SUFFIX,listary.com
+DOMAIN-SUFFIX,clawcloudrun.com
+DOMAIN-KEYWORD,clawcloudrun
 
 # 禁
 DOMAIN-SUFFIX,177pica.com
