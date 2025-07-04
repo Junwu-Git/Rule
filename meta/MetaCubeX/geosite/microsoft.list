@@ -24,8 +24,8 @@ crl.microsoft.com
 mscrl.microsoft.com
 ocsp.microsoft.com
 oneocsp.microsoft.com
-prodforza.blob.core.windows.net
 flightsimulator.azureedge.net
+prodforza.blob.core.windows.net
 azure.microsoft.com
 azuremarketplace.microsoft.com
 location.microsoft.com
@@ -386,6 +386,8 @@ github-cloud.s3.amazonaws.com
 +.xboxservices.com
 +.xboxstudios.com
 +.xbx.lv
++.asobostudio.com
++.flightsimulator.com
 +.beth.games
 +.bethesda.net
 +.bethesdagamestudios.com
@@ -402,8 +404,6 @@ github-cloud.s3.amazonaws.com
 +.minecraftservices.com
 +.minecraftshop.com
 +.mojang.com
-+.asobostudio.com
-+.flightsimulator.com
 +.microsoft.be
 +.aadrm.com
 +.azure-devices-int.net
