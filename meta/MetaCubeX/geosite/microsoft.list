@@ -5,10 +5,6 @@ officecdn-microsoft-com.akamaized.net
 statics-marketingsites-eas-ms-com.akamaized.net
 statics-marketingsites-eus-ms-com.akamaized.net
 statics-marketingsites-wcus-ms-com.akamaized.net
-crl.microsoft.com
-mscrl.microsoft.com
-ocsp.microsoft.com
-oneocsp.microsoft.com
 flightsimulator.azureedge.net
 prodforza.blob.core.windows.net
 azure.microsoft.com
@@ -30,6 +26,10 @@ vscode-sync.trafficmanager.net
 vscode.blob.core.windows.net
 vscode.search.windows.net
 vsmarketplacebadge.apphb.com
+crl.microsoft.com
+mscrl.microsoft.com
+ocsp.microsoft.com
+oneocsp.microsoft.com
 +.microsoft
 +.hotmail
 +.office
@@ -46,7 +46,7 @@ vsmarketplacebadge.apphb.com
 +.microsoft.cz
 +.microsoft.de
 +.microsoft.dk
-+.xamarin.com
++.msocsp.com
 +.microsoft.es
 +.microsoft.eu
 +.microsoft.fi
@@ -195,7 +195,7 @@ vsmarketplacebadge.apphb.com
 +.msftncsi.com
 +.msftnet.org
 +.msgamesresearch.com
-+.microsoftnews.com
++.microsoftnews.net
 +.mshome.net
 +.msidentity.com
 +.msocdn.com
@@ -275,12 +275,12 @@ vsmarketplacebadge.apphb.com
 +.microsoft.ch
 +.winhec.net
 +.yammer.com
-+.msocsp.com
 +.microsoftnews.cc
-+.vscode-unpkg.net
++.microsoftnews.com
++.xamarin.com
 +.microsoft.ee
 +.microsoft.cl
-+.microsoftnews.org
++.onedrive.com
 +.microsoftnewsforkids.com
 +.microsoftnewsforkids.net
 +.microsoftnewsforkids.org
@@ -296,11 +296,11 @@ vsmarketplacebadge.apphb.com
 +.start.com
 +.microsoft.cat
 +.microsoft.ca
-+.microsoftnews.net
-+.onedrive.com
++.microsoftnews.org
 +.1drv.com
 +.livefilestore.com
 +.sharepoint.cn
++.vscode-unpkg.net
 +.vscode-cdn.net
 +.vscode.dev
 +.vsassets.io
@@ -309,7 +309,6 @@ vsmarketplacebadge.apphb.com
 +.visualstudio.net
 +.visualstudio.eu
 +.visualstudio.co
-+.visualstudio.com
 +.microsoft.by
 +.gamepass.com
 +.orithegame.com
@@ -334,12 +333,6 @@ vsmarketplacebadge.apphb.com
 +.xboxservices.com
 +.xboxstudios.com
 +.xbx.lv
-+.callersbane.com
-+.minecraft-services.net
-+.minecraft.net
-+.minecraftservices.com
-+.minecraftshop.com
-+.mojang.com
 +.asobostudio.com
 +.flightsimulator.com
 +.beth.games
@@ -352,6 +345,12 @@ vsmarketplacebadge.apphb.com
 +.forzamotorsport.net
 +.forzaracingchampionship.com
 +.forzarc.com
++.callersbane.com
++.minecraft-services.net
++.minecraft.net
++.minecraftservices.com
++.minecraftshop.com
++.mojang.com
 +.microsoft.be
 +.aadrm.com
 +.azure-devices-int.net
@@ -436,7 +435,7 @@ vsmarketplacebadge.apphb.com
 +.office365love.com
 +.office365tw.com
 +.renovacionoffice.com
-+.visualstudio-staging.com
++.visualstudio.com
 +.githubhackathon.com
 +.ghcr.io
 +.githubnext.com
@@ -462,7 +461,7 @@ vsmarketplacebadge.apphb.com
 +.atom.io
 +.npm.community
 +.npmjs.com
-+.uwpcommunitytoolkit.com
++.visualstudio-staging.com
 +.adaptivecards.io
 +.api-extractor.com
 +.apisof.net
@@ -500,9 +499,10 @@ vsmarketplacebadge.apphb.com
 +.sankie.net
 +.sqlserveronlinux.com
 +.timelinestoryteller.com
++.uwpcommunitytoolkit.com
 +.spoprod-a.akamaihd.net
-+.visualstudio.co.uk
 +.microsoftstore.com.hk
++.visualstudio.co.uk
 +.skype-edf.akadns.net
 +.skypedata.akadns.net
 +.live.com.au
@@ -582,7 +582,6 @@ wl.dlservice.microsoft.com
 wscont1.apps.microsoft.com
 wscont2.apps.microsoft.com
 xb.dlservice.microsoft.com
-www.microsoft.com
 +.microsoftnews.cn
 +.msn.cn
 +.xboxlive.cn
@@ -683,3 +682,4 @@ emoi-cncdn.bing.com
 +.microsoftreactor.cn
 +.microsoftreactor.com.cn
 +.reactorms.com.cn
+www.microsoft.com
