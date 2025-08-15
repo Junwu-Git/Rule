@@ -25,8 +25,8 @@ payload:
     - mscrl.microsoft.com
     - ocsp.microsoft.com
     - oneocsp.microsoft.com
-    - prodforza.blob.core.windows.net
     - flightsimulator.azureedge.net
+    - prodforza.blob.core.windows.net
     - azure.microsoft.com
     - azuremarketplace.microsoft.com
     - location.microsoft.com
@@ -387,10 +387,6 @@ payload:
     - +.xboxservices.com
     - +.xboxstudios.com
     - +.xbx.lv
-    - +.forza.net
-    - +.forzamotorsport.net
-    - +.forzaracingchampionship.com
-    - +.forzarc.com
     - +.callersbane.com
     - +.minecraft-services.net
     - +.minecraft.net
@@ -405,6 +401,10 @@ payload:
     - +.bethsoft.com
     - +.doom.com
     - +.elderscrolls.com
+    - +.forza.net
+    - +.forzamotorsport.net
+    - +.forzaracingchampionship.com
+    - +.forzarc.com
     - +.microsoft.be
     - +.aadrm.com
     - +.azure-devices-int.net

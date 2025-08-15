@@ -24,8 +24,8 @@ crl.microsoft.com
 mscrl.microsoft.com
 ocsp.microsoft.com
 oneocsp.microsoft.com
-prodforza.blob.core.windows.net
 flightsimulator.azureedge.net
+prodforza.blob.core.windows.net
 azure.microsoft.com
 azuremarketplace.microsoft.com
 location.microsoft.com
@@ -386,10 +386,6 @@ github-cloud.s3.amazonaws.com
 +.xboxservices.com
 +.xboxstudios.com
 +.xbx.lv
-+.forza.net
-+.forzamotorsport.net
-+.forzaracingchampionship.com
-+.forzarc.com
 +.callersbane.com
 +.minecraft-services.net
 +.minecraft.net
@@ -404,6 +400,10 @@ github-cloud.s3.amazonaws.com
 +.bethsoft.com
 +.doom.com
 +.elderscrolls.com
++.forza.net
++.forzamotorsport.net
++.forzaracingchampionship.com
++.forzarc.com
 +.microsoft.be
 +.aadrm.com
 +.azure-devices-int.net
