@@ -28,10 +28,6 @@ ClassicalText: &ClassicalText {type: http, interval: 86400, behavior: classical,
 ClassicalYaml: &ClassicalYaml {type: http, interval: 86400, behavior: classical, format: yaml}
 ############################################## - ⚓️ 锚点区结束 - ############################################## 
 
-# 远程订阅组
-proxy-providers:
-  订阅1: {<<: *PProviders, url: '订阅链接'}
-
 # 全局配置
 # 常规设置
 port: 7890
@@ -54,7 +50,7 @@ keep-alive-interval: 15
 
 # 用户验证
 authentication:
-  - "mihomo:密钥自填"
+  - "mihomo:59OpHVdZx2GqVEbiosWx"
 skip-auth-prefixes:
   - 127.0.0.1/8
   - 192.168.0.0/16
@@ -69,7 +65,7 @@ external-ui-url: https://github.com/Zephyruso/zashboard/releases/latest/download
 external-ui-name: zashboard
 external-ui: ui
 external-controller: 0.0.0.0:9090
-secret: "密钥自填"
+secret: "59OpHVdZx2GqVEbiosWx"
 
 # API CORS 标头配置
 external-controller-cors:
@@ -155,7 +151,7 @@ dns:
     - https://doh.pub/dns-query
 
 # 本地自建节点组
-proxies: 
+proxies+: 
   - name: "直连"
     type: direct
     udp: true
