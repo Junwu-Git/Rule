@@ -1,0 +1,521 @@
+# 锚点 - 远程订阅组
+PProviders: &PProviders {type: http, interval: 86400, proxy: DIRECT, health-check: {enable: true, url: 'http://cp.cloudflare.com/generate_204', interval: 600}, filter: '^(?!.*(群|邀请|返利|循环|官网|客服|网站|网址|获取|订阅|流量|到期|机场|下次|版本|官址|备用|过期|已用|联系|邮箱|工单|贩卖|通知|倒卖|防止|国内|地址|频道|无法|说明|使用|提示|特别|访问|支持|教程|关注|更新|作者|加入|USE|USED|TOTAL|EXPIRE|EMAIL|Panel|Channel|Author))'}
+
+# 锚点 - 筛选组 
+FilterHK: &FilterHK '^(?=.*(?i)(港|🇭🇰|HK|Hong|HKG))(?!.*(排除1|排除2|5x)).*$'
+FilterSG: &FilterSG '^(?=.*(?i)(坡|🇸🇬|SG|Sing|SIN|XSP))(?!.*(排除1|排除2|5x)).*$'
+FilterJP: &FilterJP '^(?=.*(?i)(日|🇯🇵|JP|Japan|NRT|HND|KIX|CTS|FUK))(?!.*(排除1|排除2|5x)).*$'
+FilterKR: &FilterKR '^(?=.*(?i)(韩|🇰🇷|韓|首尔|南朝鲜|KR|KOR|Korea|South))(?!.*(排除1|排除2|5x)).*$'
+FilterUS: &FilterUS '^(?=.*(?i)(美|🇺🇸|US|USA|JFK|LAX|ORD|ATL|DFW|SFO|MIA|SEA|IAD))(?!.*(排除1|排除2|5x)).*$'
+FilterTW: &FilterTW '^(?=.*(?i)(台|🇼🇸|🇹🇼|TW|tai|TPE|TSA|KHH))(?!.*(排除1|排除2|5x)).*$'
+FilterEU: &FilterEU '^(?=.*(?i)(奥|比|保|克罗地亚|塞|捷|丹|爱沙|芬|法|德|希|匈|爱尔|意|拉|立|卢|马其它|荷|波|葡|罗|斯洛伐|斯洛文|西|瑞|英|🇧🇪|🇨🇿|🇩🇰|🇫🇮|🇫🇷|🇩🇪|🇮🇪|🇮🇹|🇱🇹|🇱🇺|🇳🇱|🇵🇱|🇸🇪|🇬🇧|CDG|FRA|AMS|MAD|BCN|FCO|MUC|BRU))(?!.*(排除1|排除2|5x)).*$'
+FilterOther: &FilterOther '^(?!.*(直连|美|港|坡|台|新|日|韩|奥|比|保|克罗地亚|塞|捷|丹|爱沙|芬|法|德|希|匈|爱尔|意|拉|立|卢|马其它|荷|波|葡|罗|斯洛伐|斯洛文|西|瑞|英|🇭🇰|🇼🇸|🇹🇼|🇸🇬|🇯🇵|🇰🇷|🇺🇸|🇬🇧|🇦🇹|🇧🇪|🇨🇿|🇩🇰|🇫🇮|🇫🇷|🇩🇪|🇮🇪|🇮🇹|🇱🇹|🇱🇺|🇳🇱|🇵🇱|🇸🇪|HK|TW|SG|JP|KR|US|GB|CDG|FRA|AMS|MAD|BCN|FCO|MUC|BRU|HKG|TPE|TSA|KHH|SIN|XSP|NRT|HND|KIX|CTS|FUK|JFK|LAX|ORD|ATL|DFW|SFO|MIA|SEA|IAD|LHR|LGW))'
+FilterAll: &FilterAll '^(?!.*(直连|群|邀请|返利|循环|官网|客服|网站|网址|获取|订阅|流量|到期|机场|下次|版本|官址|备用|过期|已用|联系|邮箱|工单|贩卖|通知|倒卖|防止|国内|地址|频道|无法|说明|使用|提示|特别|访问|支持|教程|关注|更新|作者|加入|USE|USED|TOTAL|EXPIRE|EMAIL|Panel|Channel|Author))'
+
+# 锚点 - 策略组
+UrlTest: &UrlTest {type: url-test, interval: 600, tolerance: 50, lazy: true, url: 'http://cp.cloudflare.com/generate_204', disable-udp: false, timeout: 3000, max-failed-times: 3, hidden: true, include-all: true}
+FallBack: &FallBack {type: fallback, interval: 600, lazy: true, url: 'http://cp.cloudflare.com/generate_204', disable-udp: false, timeout: 3000, max-failed-times: 3, hidden: false}
+LoadBalanceCH: &LoadBalanceCH {type: load-balance, interval: 600, lazy: true, url: 'http://cp.cloudflare.com/generate_204', disable-udp: false, strategy: consistent-hashing, timeout: 3000, max-failed-times: 3, hidden: true, include-all: true}
+LoadBalanceCR: &LoadBalanceCR {type: load-balance, interval: 600, lazy: true, url: 'http://cp.cloudflare.com/generate_204', disable-udp: false, strategy: round-robin, timeout: 3000, max-failed-times: 3, hidden: true, include-all: true}
+
+# 锚点 - 规则集 
+DomainMrs: &DomainMrs {type: http, interval: 86400, behavior: domain, format: mrs}
+DomainText: &DomainText {type: http, interval: 86400, behavior: domain, format: text}
+domainYaml: &domainYaml {type: http, interval: 86400, behavior: domain, format: yaml}
+IPcidrMrs: &IPcidrMrs {type: http, interval: 86400, behavior: ipcidr, format: mrs}
+IPcidrText: &IPcidrText {type: http, interval: 86400, behavior: ipcidr, format: text}
+ClassicalText: &ClassicalText {type: http, interval: 86400, behavior: classical, format: text}
+ClassicalYaml: &ClassicalYaml {type: http, interval: 86400, behavior: classical, format: yaml}
+############################################## - ⚓️ 锚点区结束 - ############################################## 
+
+# 远程订阅组
+proxy-providers:
+  订阅1: {<<: *PProviders, url: '订阅链接'}
+
+# 全局配置
+# 常规设置
+port: 7890
+socks-port: 7891
+mixed-port: 7892
+redir-port: 7893
+tproxy-port: 7894
+unified-delay: true
+tcp-concurrent: true
+find-process-mode: strict
+global-client-fingerprint: chrome
+allow-lan: true
+bind-address: '*'
+mode: rule
+log-level: warning
+ipv6: true
+udp: true
+keep-alive-idle: 600
+keep-alive-interval: 15
+
+# 用户验证
+authentication:
+  - "mihomo:密钥自填"
+skip-auth-prefixes:
+  - 127.0.0.1/8
+  - 192.168.0.0/16
+
+# 持久化缓存
+profile:
+  store-selected: true
+  store-fake-ip: true
+
+# 外部控制
+external-ui-url: https://github.com/Zephyruso/zashboard/releases/latest/download/dist.zip
+external-ui-name: zashboard
+external-ui: ui
+external-controller: 0.0.0.0:9090
+secret: "密钥自填"
+
+# API CORS 标头配置
+external-controller-cors:
+  allow-origins:
+    - http://192.168.36.1:9095
+    - http://localhost:9090
+  allow-private-network: true
+
+# GEOIP、GEOSITE设置
+geodata-mode: false
+geo-auto-update: true
+geo-update-interval: 24
+geodata-loader: standard
+geox-url:
+  geoip: "https://github.com/MetaCubeX/meta-rules-dat/releases/download/latest/geoip-lite.dat"
+  geosite: "https://github.com/MetaCubeX/meta-rules-dat/releases/download/latest/geosite.dat"
+  mmdb: "https://github.com/MetaCubeX/meta-rules-dat/releases/download/latest/country-lite.mmdb"
+  asn: "https://github.com/xishang0128/geoip/releases/download/latest/GeoLite2-ASN.mmdb"
+
+# 嗅探
+sniffer:
+  enable: true
+  override-destination: false
+  force-dns-mapping: true
+  parse-pure-ip: true
+  
+# TUN模式定义
+tun:
+  enable: true
+  stack: mixed
+  dns-hijack:
+    - "any:53"
+    - "tcp://any:53"
+  auto-route: true
+  auto-redirect: true
+  auto-detect-interface: true
+
+# DNS配置
+dns:
+  enable: true
+  ipv6: true
+  respect-rules: true
+  enhanced-mode: fake-ip
+  fake-ip-range: 198.18.0.1/16
+  fake-ip-filter-mode: blacklist  
+  fake-ip-filter:
+    - "rule-set:connectivity-check,private_domain,cn_domain"
+    - "*.gemini.beijixingxing.com"
+    - gemini.beijixingxing.com
+    - +.+m2m
+    - +.$injections.adguard.org
+    - +.$local.adguard.org
+    - +.+bogon
+    - +.+lan
+    - +.+local
+    - +.+localdomain
+    - +.home.arpa
+    - dns.msftncsi.com
+    - "*.srv.nintendo.net"
+    - "*.stun.playstation.net"
+    - xbox.*.microsoft.com
+    - "*.xboxlive.com"
+    - "*.turn.twilio.com"
+    - "*.stun.twilio.com"
+    - stun.syncthing.net
+    - stun.*
+    - "*.sslip.io"
+    - "*.nip.io"
+    - "+.market.xiaomi.com"
+    - "+.miwifi.com"
+    - "+.docker.io"
+    - "+.push.apple.com"
+    - "time.*.com"
+    - local.adguard.org
+  default-nameserver:
+    - tls://223.5.5.5
+    - tls://223.6.6.6
+  proxy-server-nameserver:
+    - https://dns.alidns.com/dns-query
+    - https://doh.pub/dns-query
+  nameserver:
+    - https://dns.alidns.com/dns-query
+    - https://doh.pub/dns-query
+
+# 本地自建节点组
+proxies: 
+  - name: "直连"
+    type: direct
+    udp: true
+
+# 策略组 
+proxy-groups:
+  - name: 默认选择
+    type: select
+    proxies: [香港,台湾,日本,新加坡,美国,全部节点,其它地区,直连]
+    icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Proxy.png
+
+  - name: OpenAI
+    type: select
+    proxies: [默认选择,香港,台湾,日本,新加坡,美国,全部节点,直连]
+    icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/ChatGPT.png
+
+  - name: Telegram
+    type: select
+    proxies: [默认选择,香港,台湾,日本,新加坡,美国,全部节点,直连]
+    icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Telegram.png
+
+  - name: Twitter
+    type: select
+    proxies: [默认选择,香港,台湾,日本,新加坡,美国,全部节点,直连]
+    icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Twitter.png
+
+  - name: Emby
+    type: select
+    proxies: [国际媒体,默认选择,香港,台湾,日本,新加坡,美国,全部节点,其它地区,直连]
+    icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Emby.png
+
+  - name: Bahamut
+    type: select
+    proxies: [国际媒体,默认选择,香港,台湾,日本,新加坡,美国,全部节点,其它地区,直连]
+    icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Bahamut.png
+
+  - name: 国内媒体
+    type: select
+    proxies: [直连,默认选择,香港,台湾,日本,新加坡,美国,全部节点]
+    icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/DomesticMedia.png
+
+  - name: 国际媒体
+    type: select
+    proxies: [默认选择,香港,台湾,日本,新加坡,美国,全部节点,直连]
+    icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/ForeignMedia.png
+
+  - name: Google
+    type: select
+    proxies: [默认选择,香港,台湾,日本,新加坡,美国,全部节点,直连]
+    icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Google_Search.png
+
+  - name: Github
+    type: select
+    proxies: [默认选择,香港,台湾,日本,新加坡,美国,全部节点,直连]
+    icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/GitHub.png
+
+  - name: Onedrive
+    type: select
+    proxies: [默认选择,香港,台湾,日本,新加坡,美国,全部节点,直连]
+    icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/OneDrive.png
+
+  - name: Microsoft
+    type: select
+    proxies: [直连,默认选择,香港,台湾,日本,新加坡,美国,全部节点]
+    icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Microsoft.png
+
+  - name: Apple
+    type: select
+    proxies: [直连,默认选择,香港,台湾,日本,新加坡,美国,全部节点]
+    icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Apple_2.png
+
+  - name: Game
+    type: select
+    proxies: [默认选择,香港,台湾,日本,新加坡,美国,全部节点,直连]
+    icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Game.png
+
+  - name: 国内网络
+    type: select
+    proxies: [直连,默认选择,香港,台湾,日本,新加坡,美国,全部节点]
+    icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/China.png
+
+  - name: 国外网络
+    type: select
+    proxies: [默认选择,香港,台湾,日本,新加坡,美国,全部节点,直连]
+    icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Global.png
+
+  - name: 漏网之鱼
+    type: select
+    proxies: [默认选择,香港,台湾,日本,新加坡,美国,全部节点,直连]
+    icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Final.png
+
+  # 地区策略
+  - name: 香港
+    type: select
+    proxies: [香港自动]
+    include-all: true
+    exclude-type: direct
+    filter: *FilterHK
+    icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Hong_Kong.png
+
+  - name: 台湾
+    type: select
+    proxies: [台湾自动]
+    include-all: true
+    exclude-type: direct
+    filter: *FilterTW
+    icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Taiwan.png
+
+  - name: 新加坡
+    type: select
+    proxies: [新加坡自动]
+    include-all: true
+    exclude-type: direct
+    filter: *FilterSG
+    icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Singapore.png
+
+  - name: 日本
+    type: select
+    proxies: [日本自动]
+    include-all: true
+    exclude-type: direct
+    filter: *FilterJP
+    icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Japan.png
+
+  - name: 美国
+    type: select
+    proxies: [美国自动]
+    include-all: true
+    exclude-type: direct
+    filter: *FilterUS
+    icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/United_States.png
+
+  # 自动测速
+  - name: 香港自动
+    <<: *UrlTest
+    filter: *FilterHK
+    icon: https://git.imee.me/https://github.com/Koolson/Qure/raw/master/IconSet/Color/Auto.png
+
+  - name: 台湾自动
+    <<: *UrlTest
+    filter: *FilterTW
+    icon: https://git.imee.me/https://github.com/Koolson/Qure/raw/master/IconSet/Color/Auto.png
+
+  - name: 新加坡自动
+    <<: *UrlTest
+    filter: *FilterSG
+    icon: https://git.imee.me/https://github.com/Koolson/Qure/raw/master/IconSet/Color/Auto.png
+
+  - name: 日本自动
+    <<: *UrlTest
+    filter: *FilterJP
+    icon: https://git.imee.me/https://github.com/Koolson/Qure/raw/master/IconSet/Color/Auto.png
+
+  - name: 美国自动
+    <<: *UrlTest
+    filter: *FilterUS
+    icon: https://git.imee.me/https://github.com/Koolson/Qure/raw/master/IconSet/Color/Auto.png
+
+   # 其他策略
+  - name: 全部节点
+    type: select
+    include-all: true
+    exclude-type: direct
+    filter: *FilterAll
+    icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Server.png
+
+  - name: 其它地区
+    type: select
+    include-all: true
+    exclude-type: direct
+    filter: *FilterOther
+    icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/United_Nations.png
+
+rule-providers:
+  # 防御
+  category-public-tracker:
+    <<: *DomainMrs
+    url: "https://raw.githubusercontent.com/Junwu-Git/Rule/refs/heads/main/meta/MetaCubeX/geosite/category-public-tracker.mrs"
+
+  # 内网规则集
+  private_domain:
+    <<: *DomainMrs
+    url: "https://raw.githubusercontent.com/Junwu-Git/Rule/refs/heads/main/meta/MetaCubeX/geosite/private.mrs"
+  
+  # 直连修正规则集
+  xptv:
+    <<: *ClassicalYaml
+    url: "https://raw.githubusercontent.com/Junwu-Git/Rule/refs/heads/main/meta/666OS/XPTV.yaml"
+  fix-direct:
+    <<: *ClassicalYaml
+    url: "https://raw.githubusercontent.com/Junwu-Git/Rule/refs/heads/main/meta/666OS/fix-direct.yaml"
+ 
+  # 连接性检查规则集
+  connectivity-check:
+    <<: *DomainMrs
+    url: "https://raw.githubusercontent.com/Junwu-Git/Rule/refs/heads/main/meta/MetaCubeX/geosite/connectivity-check.mrs"
+
+  # 自定义规则集
+  reject_rules:
+    <<: *ClassicalText
+    url: "https://raw.githubusercontent.com/Junwu-Git/Rule/refs/heads/main/Reject_rules.list" 
+  proxy_rules:
+    <<: *ClassicalText
+    url: "https://raw.githubusercontent.com/Junwu-Git/Rule/refs/heads/main/Proxy_rules.list" 
+  direct_rules:
+    <<: *ClassicalText
+    url: "https://raw.githubusercontent.com/Junwu-Git/Rule/refs/heads/main/Direct_rules.list" 
+
+  # 服务类规则集  
+  cn_domain:
+    <<: *DomainMrs
+    url: "https://raw.githubusercontent.com/Junwu-Git/Rule/refs/heads/main/meta/MetaCubeX/geosite/cn.mrs"
+  openAi:
+    <<: *DomainMrs
+    url: "https://raw.githubusercontent.com/Junwu-Git/Rule/refs/heads/main/meta/MetaCubeX/geosite/openai.mrs"
+  category-ai-!cn:
+    <<: *DomainMrs
+    url: "https://raw.githubusercontent.com/Junwu-Git/Rule/refs/heads/main/meta/MetaCubeX/geosite/category-ai-!cn.mrs"
+  github_domain:
+    <<: *DomainMrs
+    url: "https://raw.githubusercontent.com/Junwu-Git/Rule/refs/heads/main/meta/MetaCubeX/geosite/github.mrs"
+  twitter_domain:
+    <<: *DomainMrs
+    url: "https://raw.githubusercontent.com/Junwu-Git/Rule/refs/heads/main/meta/MetaCubeX/geosite/twitter.mrs"
+  youtube_domain:
+    <<: *DomainMrs
+    url: "https://raw.githubusercontent.com/Junwu-Git/Rule/refs/heads/main/meta/MetaCubeX/geosite/youtube.mrs"
+  apple-cn:
+    <<: *DomainMrs
+    url: "https://raw.githubusercontent.com/Junwu-Git/Rule/refs/heads/main/meta/MetaCubeX/geosite/apple-cn.mrs"
+  apple:
+    <<: *DomainMrs
+    url: "https://raw.githubusercontent.com/Junwu-Git/Rule/refs/heads/main/meta/MetaCubeX/geosite/apple.mrs"
+  cloudflare-cn:
+    <<: *DomainMrs
+    url: "https://raw.githubusercontent.com/Junwu-Git/Rule/refs/heads/main/meta/MetaCubeX/geosite/cloudflare-cn.mrs"
+  google_domain:
+    <<: *DomainMrs
+    url: "https://raw.githubusercontent.com/Junwu-Git/Rule/refs/heads/main/meta/MetaCubeX/geosite/google.mrs"
+  onedrive:
+    <<: *DomainMrs
+    url: "https://raw.githubusercontent.com/Junwu-Git/Rule/refs/heads/main/meta/MetaCubeX/geosite/onedrive.mrs"
+  microsoft:
+    <<: *DomainMrs
+    url: "https://raw.githubusercontent.com/Junwu-Git/Rule/refs/heads/main/meta/MetaCubeX/geosite/microsoft.mrs"
+  category-games:
+    <<: *DomainMrs
+    url: "https://raw.githubusercontent.com/Junwu-Git/Rule/refs/heads/main/meta/MetaCubeX/geosite/category-games.mrs"
+  game:
+    <<: *ClassicalYaml
+    url: "https://raw.githubusercontent.com/Junwu-Git/Rule/refs/heads/main/meta/blackmatrix7/Game_No_Resolve.yaml"
+  telegram_domain:
+    <<: *DomainMrs
+    url: "https://raw.githubusercontent.com/Junwu-Git/Rule/refs/heads/main/meta/MetaCubeX/geosite/telegram.mrs"
+  netflix_domain:
+    <<: *DomainMrs
+    url: "https://raw.githubusercontent.com/Junwu-Git/Rule/refs/heads/main/meta/MetaCubeX/geosite/netflix.mrs"
+  bilibili_domain:
+    <<: *DomainMrs
+    url: "https://raw.githubusercontent.com/Junwu-Git/Rule/refs/heads/main/meta/MetaCubeX/geosite/bilibili.mrs"
+  bahamut_domain:
+    <<: *DomainMrs
+    url: "https://raw.githubusercontent.com/Junwu-Git/Rule/refs/heads/main/meta/MetaCubeX/geosite/bahamut.mrs"
+  emby:
+    <<: *ClassicalText
+    url: "https://raw.githubusercontent.com/Junwu-Git/Rule/refs/heads/main/meta/666OS/emby.list"
+  spotify_domain:
+    <<: *DomainMrs
+    url: "https://raw.githubusercontent.com/Junwu-Git/Rule/refs/heads/main/meta/MetaCubeX/geosite/spotify.mrs"
+  pixiv_domain:
+    <<: *DomainMrs
+    url: "https://raw.githubusercontent.com/Junwu-Git/Rule/refs/heads/main/meta/MetaCubeX/geosite/pixiv.mrs"
+  gfw_domain:
+    <<: *DomainMrs
+    url: "https://raw.githubusercontent.com/Junwu-Git/Rule/refs/heads/main/meta/MetaCubeX/geosite/gfw.mrs"
+  geolocation-!cn:
+    <<: *DomainMrs
+    url: "https://raw.githubusercontent.com/Junwu-Git/Rule/refs/heads/main/meta/MetaCubeX/geosite/geolocation-!cn.mrs"
+  download:
+    <<: *ClassicalYaml
+    url: "https://raw.githubusercontent.com/Junwu-Git/Rule/refs/heads/main/meta/666OS/download.yaml"
+
+  # IP 类规则集
+  private_ip:
+    <<: *IPcidrMrs
+    url: "https://raw.githubusercontent.com/Junwu-Git/Rule/refs/heads/main/meta/MetaCubeX/geoip/private.mrs"
+  cn_ip:
+    <<: *IPcidrMrs
+    url: "https://raw.githubusercontent.com/Junwu-Git/Rule/refs/heads/main/meta/MetaCubeX/geoip/cn.mrs"
+  google_ip:
+    <<: *IPcidrMrs
+    url: "https://raw.githubusercontent.com/Junwu-Git/Rule/refs/heads/main/meta/MetaCubeX/geoip/google.mrs"
+  netflix_ip:
+    <<: *IPcidrMrs
+    url: "https://raw.githubusercontent.com/Junwu-Git/Rule/refs/heads/main/meta/MetaCubeX/geoip/netflix.mrs"
+  twitter_ip:
+    <<: *IPcidrMrs
+    url: "https://raw.githubusercontent.com/Junwu-Git/Rule/refs/heads/main/meta/MetaCubeX/geoip/twitter.mrs"
+  telegram_ip:
+    <<: *IPcidrMrs
+    url: "https://raw.githubusercontent.com/Junwu-Git/Rule/refs/heads/main/meta/MetaCubeX/geoip/telegram.mrs" 
+
+# 规则
+rules:
+  - IP-CIDR,172.17.0.0/16,DIRECT,no-resolve
+  - IP-CIDR,172.18.0.0/16,DIRECT,no-resolve
+  - IP-CIDR,172.19.0.0/16,DIRECT,no-resolve # 有些系统可能会使用更多网段
+  - IP-CIDR,10.0.0.0/8,DIRECT,no-resolve     # 有些自定义Docker网络可能在此范围
+
+  # 高优先匹配（fix-direct包含）
+  # - DST-PORT,123,直连
+  # - DOMAIN-SUFFIX,imee.me,直连
+
+  # 防御类
+  - RULE-SET,category-public-tracker,REJECT-DROP
+  - IP-CIDR,95.161.76.100/31,REJECT-DROP,no-resolve
+  # - AND,((DST-PORT,443),(NETWORK,UDP)),REJECT-DROP
+  
+  # 私有/修正类
+  - RULE-SET,private_ip,直连,no-resolve
+  - RULE-SET,fix-direct,直连
+  - RULE-SET,xptv,直连
+
+  # ✅ 自定义规则（提前）
+  - RULE-SET,reject_rules,REJECT-DROP
+  - RULE-SET,proxy_rules,国外网络
+  - RULE-SET,direct_rules,国内网络
+
+  # 平台/服务类规则
+  - RULE-SET,openAi,OpenAI
+  - RULE-SET,category-ai-!cn,OpenAI
+  - RULE-SET,telegram_domain,Telegram
+  - RULE-SET,twitter_domain,Twitter
+  - RULE-SET,emby,Emby
+  - RULE-SET,bahamut_domain,Bahamut
+  - RULE-SET,youtube_domain,国际媒体
+  - RULE-SET,netflix_domain,国际媒体
+  - RULE-SET,spotify_domain,国际媒体
+  - RULE-SET,bilibili_domain,国内媒体
+  - RULE-SET,github_domain,Github
+  - RULE-SET,onedrive,Onedrive
+  - RULE-SET,microsoft,Microsoft
+  - RULE-SET,google_domain,Google
+  - RULE-SET,apple-cn,国内网络
+  - RULE-SET,apple,Apple 
+  - RULE-SET,cloudflare-cn,国内网络
+  - RULE-SET,game,Game
+  - RULE-SET,download,国内网络
+
+  # 大类匹配
+  - RULE-SET,cn_domain,国内网络
+  - RULE-SET,gfw_domain,国外网络
+  - RULE-SET,geolocation-!cn,国外网络
+
+  # IP 匹配
+  - RULE-SET,google_ip,Google,no-resolve
+  - RULE-SET,netflix_ip,国际媒体,no-resolve
+  - RULE-SET,telegram_ip,Telegram,no-resolve
+  - RULE-SET,twitter_ip,Twitter,no-resolve
+  - RULE-SET,cn_ip,国内网络
+
+  # 兜底规则
+  - MATCH,漏网之鱼     
