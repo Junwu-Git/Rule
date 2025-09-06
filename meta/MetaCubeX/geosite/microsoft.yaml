@@ -6,6 +6,10 @@ payload:
     - statics-marketingsites-eas-ms-com.akamaized.net
     - statics-marketingsites-eus-ms-com.akamaized.net
     - statics-marketingsites-wcus-ms-com.akamaized.net
+    - crl.microsoft.com
+    - mscrl.microsoft.com
+    - ocsp.microsoft.com
+    - oneocsp.microsoft.com
     - flightsimulator.azureedge.net
     - prodforza.blob.core.windows.net
     - azure.microsoft.com
@@ -27,10 +31,6 @@ payload:
     - vscode.blob.core.windows.net
     - vscode.search.windows.net
     - vsmarketplacebadge.apphb.com
-    - crl.microsoft.com
-    - mscrl.microsoft.com
-    - ocsp.microsoft.com
-    - oneocsp.microsoft.com
     - +.microsoft
     - +.hotmail
     - +.office
@@ -41,7 +41,7 @@ payload:
     - +.xbox
     - +.onedriveupdater
     - +.onedrive
-    - +.microsoftnews.cc
+    - +.msocsp.com
     - +.msidentity.com
     - +.microsoft.com
     - +.microsoft.cz
@@ -197,7 +197,7 @@ payload:
     - +.msgamesresearch.com
     - +.msgamestudios.com
     - +.mshome.net
-    - +.microsoftnews.org
+    - +.microsoftnews.net
     - +.msocdn.com
     - +.msturing.org
     - +.msudalosti.com
@@ -276,12 +276,13 @@ payload:
     - +.winhec.net
     - +.yammer.com
     - +.microsoft.ch
-    - +.microsoftnews.com
-    - +.msocsp.com
+    - +.microsoftnews.cc
     - +.xamarin.com
-    - +.mmdnn.com
+    - +.vscode-unpkg.net
+    - +.microsoftsqlserver.com
     - +.microsoft.cl
-    - +.msropendata.com
+    - +.mspairlift.com
+    - +.microsoftnewsforkids.com
     - +.microsoftnewsforkids.net
     - +.microsoftnewsforkids.org
     - +.microsoftnewskids.com
@@ -300,7 +301,6 @@ payload:
     - +.1drv.com
     - +.livefilestore.com
     - +.sharepoint.cn
-    - +.vscode-unpkg.net
     - +.vscode-cdn.net
     - +.vscode.dev
     - +.vsassets.io
@@ -309,6 +309,7 @@ payload:
     - +.visualstudio.net
     - +.visualstudio.eu
     - +.visualstudio.co
+    - +.visualstudio.com
     - +.microsoft.by
     - +.gamepass.com
     - +.orithegame.com
@@ -333,6 +334,12 @@ payload:
     - +.xboxservices.com
     - +.xboxstudios.com
     - +.xbx.lv
+    - +.callersbane.com
+    - +.minecraft-services.net
+    - +.minecraft.net
+    - +.minecraftservices.com
+    - +.minecraftshop.com
+    - +.mojang.com
     - +.asobostudio.com
     - +.flightsimulator.com
     - +.beth.games
@@ -345,12 +352,6 @@ payload:
     - +.forzamotorsport.net
     - +.forzaracingchampionship.com
     - +.forzarc.com
-    - +.callersbane.com
-    - +.minecraft-services.net
-    - +.minecraft.net
-    - +.minecraftservices.com
-    - +.minecraftshop.com
-    - +.mojang.com
     - +.microsoft.be
     - +.aadrm.com
     - +.azure-devices-int.net
@@ -435,7 +436,7 @@ payload:
     - +.office365love.com
     - +.office365tw.com
     - +.renovacionoffice.com
-    - +.visualstudio.com
+    - +.visualstudio-staging.com
     - +.githubhackathon.com
     - +.npm.community
     - +.gh.io
@@ -463,7 +464,7 @@ payload:
     - +.githubassets.com
     - +.githubcopilot.com
     - +.npmjs.com
-    - +.visualstudio-staging.com
+    - +.uwpcommunitytoolkit.com
     - +.adaptivecards.io
     - +.api-extractor.com
     - +.apisof.net
@@ -486,13 +487,13 @@ payload:
     - +.microsoftsilverlight.com
     - +.microsoftsilverlight.org
     - +.microsoftsilverlight.net
-    - +.microsoftsqlserver.com
-    - +.microsoftnews.net
+    - +.microsoftnews.com
+    - +.mmdnn.com
     - +.mono-project.com
     - +.msdn.com
     - +.msinnovationchallenge.com
-    - +.mspairlift.com
-    - +.microsoftnewsforkids.com
+    - +.microsoftnews.org
+    - +.msropendata.com
     - +.nuget.org
     - +.nugettest.org
     - +.opentranslatorstothings.org
@@ -501,10 +502,9 @@ payload:
     - +.sankie.net
     - +.sqlserveronlinux.com
     - +.timelinestoryteller.com
-    - +.uwpcommunitytoolkit.com
     - +.spoprod-a.akamaihd.net
-    - +.live.com.au
     - +.visualstudio.co.uk
+    - +.live.com.au
     - +.skype-edf.akadns.net
     - +.skypedata.akadns.net
     - +.microsoftstore.com.hk
@@ -584,6 +584,7 @@ payload:
     - wscont1.apps.microsoft.com
     - wscont2.apps.microsoft.com
     - xb.dlservice.microsoft.com
+    - www.microsoft.com
     - +.microsoftnews.cn
     - +.msn.cn
     - +.xboxlive.cn
@@ -684,4 +685,3 @@ payload:
     - +.microsoftreactor.cn
     - +.microsoftreactor.com.cn
     - +.reactorms.com.cn
-    - www.microsoft.com
