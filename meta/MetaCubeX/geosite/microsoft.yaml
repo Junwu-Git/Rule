@@ -6,8 +6,6 @@ payload:
     - statics-marketingsites-eas-ms-com.akamaized.net
     - statics-marketingsites-eus-ms-com.akamaized.net
     - statics-marketingsites-wcus-ms-com.akamaized.net
-    - location.microsoft.com
-    - github-cloud.s3.amazonaws.com
     - az764295.vo.msecnd.net
     - bingsettingssearch.trafficmanager.net
     - default.exp-tas.com
@@ -27,10 +25,12 @@ payload:
     - mscrl.microsoft.com
     - ocsp.microsoft.com
     - oneocsp.microsoft.com
-    - flightsimulator.azureedge.net
     - prodforza.blob.core.windows.net
+    - flightsimulator.azureedge.net
     - azure.microsoft.com
     - azuremarketplace.microsoft.com
+    - location.microsoft.com
+    - github-cloud.s3.amazonaws.com
     - +.microsoft
     - +.hotmail
     - +.office
@@ -41,9 +41,8 @@ payload:
     - +.xbox
     - +.onedriveupdater
     - +.onedrive
-    - +.yammer.com
-    - +.mshome.net
-    - +.microsoft.cl
+    - +.adaptivecards.io
+    - +.git.io
     - +.microsoft.com
     - +.microsoft.cz
     - +.microsoft.de
@@ -197,8 +196,8 @@ payload:
     - +.msftnet.org
     - +.msgamesresearch.com
     - +.msgamestudios.com
-    - +.bing.com
-    - +.msidentity.com
+    - +.mshome.net
+    - +.appcenter.ms
     - +.msocdn.com
     - +.msturing.org
     - +.msudalosti.com
@@ -275,71 +274,14 @@ payload:
     - +.windowsupdate.com
     - +.winhec.com
     - +.winhec.net
-    - +.microsoft.cat
-    - +.dictate.ms
-    - +.azure-dns.org
-    - +.azure-dns.net
-    - +.azureiotsuite.com
+    - +.yammer.com
     - +.microsoft.ch
-    - +.azurestackvalidation.com
-    - +.bingagencyawards.com
-    - +.bingapis.com
-    - +.bingapistatistics.com
-    - +.bingparachute.com
-    - +.bingsandbox.com
-    - +.bingvisualsearch.com
-    - +.bingworld.com
-    - +.bluehatnights.com
-    - +.bing123.com
-    - +.bing.net
-    - +.microsoftpartnersolutions.com
-    - +.masalladeloslimites.com
-    - +.microsoft-give.com
-    - +.microsoftcloudsummit.com
-    - +.microsoftdiplomados.com
-    - +.microsoftlatamholiday.com
-    - +.microsoftmxfilantropia.com
-    - +.flipwithsurface.com
-    - +.msunlimitedcloudsummit.com
-    - +.office365love.com
-    - +.office365tw.com
-    - +.renovacionoffice.com
-    - +.azure-dns.info
-    - +.azure-dns.com
-    - +.windowsazure.com
-    - +.githubhackathon.com
-    - +.npm.community
-    - +.gh.io
-    - +.ghcr.io
-    - +.git.io
-    - +.github.ai
-    - +.github.blog
-    - +.github.com
-    - +.github.community
-    - +.github.dev
-    - +.github.io
-    - +.githubapp.com
-    - +.npmjs.org
-    - +.dependabot.com
-    - +.githubuniverse.com
-    - +.githubnext.com
-    - +.githubpreview.dev
-    - +.githubstatus.com
-    - +.atom.io
-    - +.githubusercontent.com
-    - +.myoctocat.com
-    - +.opensource.guide
-    - +.repo.new
-    - +.thegithubshop.com
-    - +.githubassets.com
-    - +.githubcopilot.com
-    - +.npmjs.com
-    - +.tryfunctions.com
-    - +.adaptivecards.io
     - +.api-extractor.com
-    - +.apisof.net
-    - +.appcenter.ms
-    - +.blazor.net
+    - +.npmjs.com
+    - +.githubcopilot.com
+    - +.githubassets.com
+    - +.msidentity.com
+    - +.microsoft.cl
     - +.botframework.com
     - +.codethemicrobit.com
     - +.devopsassessment.net
@@ -386,7 +328,9 @@ payload:
     - +.vscode-cdn.net
     - +.vscode-unpkg.net
     - +.xamarin.com
-    - +.trafficmanager.net
+    - +.thegithubshop.com
+    - +.repo.new
+    - +.opensource.guide
     - +.msocsp.com
     - +.microsoftnews.cc
     - +.microsoftnews.com
@@ -405,20 +349,20 @@ payload:
     - +.msnkids.com
     - +.microsoftstart.com
     - +.start.com
+    - +.microsoft.cat
     - +.microsoft.ca
-    - +.microsoft.by
     - +.onedrive.com
     - +.1drv.com
     - +.livefilestore.com
     - +.sharepoint.cn
-    - +.serverlesslibrary.net
-    - +.playfabapi.com
-    - +.playfab.com
-    - +.msn.net
-    - +.microsoftiotcentral.com
-    - +.microsofteca.com
-    - +.microsoftazuresponsorships.com
-    - +.microsoft.be
+    - +.myoctocat.com
+    - +.githubusercontent.com
+    - +.atom.io
+    - +.githubstatus.com
+    - +.githubpreview.dev
+    - +.githubnext.com
+    - +.githubuniverse.com
+    - +.microsoft.by
     - +.gamepass.com
     - +.orithegame.com
     - +.renovacionxboxlive.com
@@ -442,14 +386,6 @@ payload:
     - +.xboxservices.com
     - +.xboxstudios.com
     - +.xbx.lv
-    - +.asobostudio.com
-    - +.flightsimulator.com
-    - +.beth.games
-    - +.bethesda.net
-    - +.bethesdagamestudios.com
-    - +.bethsoft.com
-    - +.doom.com
-    - +.elderscrolls.com
     - +.forza.net
     - +.forzamotorsport.net
     - +.forzaracingchampionship.com
@@ -460,7 +396,15 @@ payload:
     - +.minecraftservices.com
     - +.minecraftshop.com
     - +.mojang.com
-    - +.microsoft.az
+    - +.asobostudio.com
+    - +.flightsimulator.com
+    - +.beth.games
+    - +.bethesda.net
+    - +.bethesdagamestudios.com
+    - +.bethsoft.com
+    - +.doom.com
+    - +.elderscrolls.com
+    - +.microsoft.be
     - +.aadrm.com
     - +.azure-devices-int.net
     - +.azure-devices.net
@@ -488,12 +432,12 @@ payload:
     - +.azurefd.net
     - +.azureiotcentral.com
     - +.azureiotsolutions.com
-    - +.sprinklesapp.com
+    - +.azureiotsuite.com
     - +.azureplanetscale.info
     - +.azureplanetscale.net
     - +.azureserviceprofiler.com
     - +.azuresmartspaces.net
-    - +.bingads.com
+    - +.azurestackvalidation.com
     - +.azurewebsites.net
     - +.cosmosdb.info
     - +.cosmosdb.net
@@ -502,12 +446,68 @@ payload:
     - +.management-azure-devices-int.net
     - +.management-azure-devices.net
     - +.microsoftazuread-sso.com
+    - +.microsoftazuresponsorships.com
+    - +.microsofteca.com
+    - +.microsoftiotcentral.com
+    - +.msn.net
+    - +.playfab.com
+    - +.playfabapi.com
+    - +.serverlesslibrary.net
+    - +.trafficmanager.net
+    - +.tryfunctions.com
+    - +.windowsazure.com
+    - +.azure-dns.com
+    - +.azure-dns.info
+    - +.azure-dns.net
+    - +.azure-dns.org
+    - +.microsoft.az
+    - +.dictate.ms
+    - +.sprinklesapp.com
+    - +.bing.com
+    - +.bingads.com
+    - +.bingagencyawards.com
+    - +.bingapis.com
+    - +.bingapistatistics.com
+    - +.bingparachute.com
+    - +.bingsandbox.com
+    - +.bingvisualsearch.com
+    - +.bingworld.com
+    - +.bluehatnights.com
+    - +.bing123.com
+    - +.bing.net
+    - +.microsoftpartnersolutions.com
+    - +.masalladeloslimites.com
+    - +.microsoft-give.com
+    - +.microsoftcloudsummit.com
+    - +.microsoftdiplomados.com
+    - +.microsoftlatamholiday.com
+    - +.microsoftmxfilantropia.com
+    - +.flipwithsurface.com
+    - +.msunlimitedcloudsummit.com
+    - +.office365love.com
+    - +.office365tw.com
+    - +.renovacionoffice.com
+    - +.apisof.net
+    - +.githubhackathon.com
+    - +.npm.community
+    - +.gh.io
+    - +.ghcr.io
+    - +.blazor.net
+    - +.github.ai
+    - +.github.blog
+    - +.github.com
+    - +.github.community
+    - +.github.dev
+    - +.github.io
+    - +.githubapp.com
+    - +.npmjs.org
+    - +.dependabot.com
     - +.visualstudio.co.uk
     - +.spoprod-a.akamaihd.net
     - +.live.com.au
+    - +.skype-edf.akadns.net
     - +.skypedata.akadns.net
     - +.microsoftstore.com.hk
-    - +.skype-edf.akadns.net
     - +.clarity.ms
     - +.dcg.microsoft.com
     - +.dynamics.cn
@@ -584,15 +584,6 @@ payload:
     - wscont1.apps.microsoft.com
     - wscont2.apps.microsoft.com
     - xb.dlservice.microsoft.com
-    - +.bing.com.cn
-    - +.cn.bing.com
-    - +.cn.bing.net
-    - +.cn.mm.bing.net
-    - +.ditu.live.com
-    - +.r.bing.com
-    - +.th.bing.com
-    - bj1.api.bing.com
-    - emoi-cncdn.bing.com
     - +.microsoftreactor.cn
     - +.microsoftreactor.com.cn
     - +.reactorms.com.cn
@@ -685,3 +676,12 @@ payload:
     - +.azure-dns-8.cn
     - +.azure-dns-9.cn
     - +.azure-dns-10.cn
+    - +.bing.com.cn
+    - +.cn.bing.com
+    - +.cn.bing.net
+    - +.cn.mm.bing.net
+    - +.ditu.live.com
+    - +.r.bing.com
+    - +.th.bing.com
+    - bj1.api.bing.com
+    - emoi-cncdn.bing.com
