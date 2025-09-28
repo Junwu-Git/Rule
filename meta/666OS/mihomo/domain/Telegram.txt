@@ -1,0 +1,36 @@
+# NAME: Telegram
+# AUTHOR: YYDS666
+# UPDATED: 2025-09-28 02:16:46
+# TOTAL: 32
++.cdn-telegram.org
++.comments.app
++.contest.com
++.forkgram.org
++.graph.org
++.ime.io
++.imemessenger.app
++.mbrx.app
++.nekogram.app
++.nicegram.app
++.nicegram.io
++.nicegram.org
++.plusmessenger.org
++.quiz.directory
++.stel.com
++.swiftgram.app
++.t.me
++.tdesktop.com
++.telega.one
++.telegra.ph
++.telegram-cdn.org
++.telegram.dog
++.telegram.me
++.telegram.org
++.telegram.space
++.telegramdownload.com
++.telesco.pe
++.tg.dev
++.tx.me
++.unigram.app
++.usercontent.dev
++.webk.app

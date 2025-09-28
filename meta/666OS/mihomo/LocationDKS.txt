@@ -1,0 +1,9 @@
+# NAME: LocationDKS
+# AUTHOR: YYDS666
+# UPDATED: 2025-09-28 02:16:47
+# TOTAL: 5
+DOMAIN-SUFFIX,amemv.com
+DOMAIN-SUFFIX,apissl.ksapisrv.com
+DOMAIN-SUFFIX,douyinvod.com
+DOMAIN-SUFFIX,edith.xiaohongshu.com
+DOMAIN-SUFFIX,gifshow.com
