@@ -28,10 +28,15 @@ jobs:
         run: |
           git clone --branch meta https://github.com/MetaCubeX/meta-rules-dat.git --depth=1
           git clone --branch master https://github.com/blackmatrix7/ios_rule_script.git --depth=1
-          git clone --branch main https://github.com/666OS/YYDS.git yyds-repo --depth=1
+          git clone --branch release https://github.com/666OS/rules.git --depth=1 # <--- [新增] 克隆 666OS/rules 仓库
 
       - name: Prepare folders
-        run: mkdir -p ActionRules ActionRules/copy meta/MetaCubeX/geoip meta/MetaCubeX/geosite meta/666OS meta/blackmatrix7
+        run: |
+          mkdir -p ActionRules ActionRules/copy \
+          meta/MetaCubeX/geoip \
+          meta/MetaCubeX/geosite \
+          meta/blackmatrix7 \
+          meta/666OS/mihomo # <--- [新增] 为 666OS 的文件创建目标文件夹
 
       - name: Initialize warning files
         run: |
@@ -68,35 +73,6 @@ jobs:
             done
           done
 
-      # - name: Copy YAML & list from 666OS/YYDS
-      #   run: |
-      #     for f in XPTV.yaml fix-direct.yaml download.yaml emby.list; do
-      #       src="yyds-repo/mihomo/rules/$f"
-      #       dst="meta/666OS/$f"
-      #       if [[ -f "$src" ]]; then
-      #         cp "$src" "$dst"
-      #       else
-      #         echo "${{ env.DATE }}，$f，未拷贝" >> warning.md
-      #         echo "$f，未拷贝" >> new_warning.md
-      #       fi
-      #     done
-
-      # - name: Convert YAML rules from 666OS/YYDS to list format
-      #   run: |
-      #     for f in XPTV fix-direct; do
-      #       src="yyds-repo/mihomo/rules/${f}.yaml"
-      #       dst="meta/666OS/${f}.list"
-      #       if [[ -f "$src" ]]; then
-      #         grep -vE '^(payload:|[[:space:]]*# PROCESS-NAME|[[:space:]]*- PROCESS-NAME|^$)' "$src" \
-      #           | grep -v 'DST-PORT' \
-      #           | sed -E 's/^[[:space:]]*-[[:space:]]*//' \
-      #           | sed 's/^[[:space:]]*#/#/' > "$dst"
-      #       else
-      #         echo "${{ env.DATE }}，${f}.yaml，未拷贝" >> warning.md
-      #         echo "${f}.yaml，未拷贝" >> new_warning.md
-      #       fi
-      #     done
-
       - name: Copy Game_No_Resolve.yaml from blackmatrix7
         run: |
           src="ios_rule_script/rule/Clash/Game/Game_No_Resolve.yaml"
@@ -108,12 +84,27 @@ jobs:
             echo "Game_No_Resolve.yaml，未拷贝" >> new_warning.md
           fi
 
+      # ========================= 新增步骤开始 =========================
+      - name: Copy mihomo files from 666OS
+        run: |
+          src_dir="rules/mihomo"
+          dst_dir="meta/666OS/mihomo"
+          if [[ -d "$src_dir" ]]; then
+            # 使用 cp -f (force) 来覆盖现有文件，并用 * 通配符复制所有文件
+            cp -f "$src_dir"/* "$dst_dir/"
+          else
+            echo "${{ env.DATE }}，666OS/rules/mihomo 文件夹，未拷贝" >> warning.md
+            echo "666OS/rules/mihomo 文件夹，未拷贝" >> new_warning.md
+          fi
+      # ========================= 新增步骤结束 =========================
+
       - name: Commit and push changes
         env:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
         run: |
           git config --global user.name "GitHub Action"
           git config --global user.email "action@github.com"
+          # git add 命令无需修改，因为它已经包含了整个 meta 目录
           git add ActionRules meta warning.md || true
           git commit -m "自动更新 ${{ env.DATE }}" || echo "No changes"
           git remote remove origin
