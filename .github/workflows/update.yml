@@ -86,7 +86,7 @@ jobs:
 
       - name: Copy mihomo files from 666OS
         run: |
-          src_dir="rules/mihomo"; dst_dir="meta/666OS/mihomo"; if [[ -d "$src_dir" ]]; then cp -rf "$src_dir"/* "$dst_dir/"; else echo "${{ env.DATE }}，666OS/rules/mihomo 文件夹，未拷贝" >> warning.md; echo "666OS/rules/mihomo 文件夹，未拷贝" >> new_warning.md; fi
+          src_dir="rules/mihomo"; dst_dir="meta/666OS/mihomo"; if [[ -d "$src_dir" ]]; then cp -rf "$src_dir"/. "$dst_dir/"; else echo "${{ env.DATE }}，666OS/rules/mihomo 文件夹，未拷贝" >> warning.md; echo "666OS/rules/mihomo 文件夹，未拷贝" >> new_warning.md; fi
 
       - name: Commit and push changes
         env:
