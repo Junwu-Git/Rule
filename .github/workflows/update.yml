@@ -5,7 +5,6 @@ on:
     - cron: "0 23 * * *" # 7:00 AM UTC+8
   workflow_dispatch:
 
-# [优化] 增加并发控制，防止多次运行冲突
 concurrency:
   group: ${{ github.workflow }}-${{ github.ref }}
   cancel-in-progress: true
@@ -19,22 +18,45 @@ jobs:
 
     steps:
       - name: Checkout your repository
-        uses: actions/checkout@v3
+        uses: actions/checkout@b4ffde65f46336ab88eb53be808477a3936bae11 # Pinned to v4.0.0
+
+      - name: Cache MetaCubeX repository
+        uses: actions/cache@89cac8b3c582a99c92a9afd7aaa355497f83a3d5 # Pinned to v3.3.2
+        with:
+          path: meta-rules-dat
+          key: ${{ runner.os }}-git-MetaCubeX-${{ github.sha }}
+          restore-keys: |
+            ${{ runner.os }}-git-MetaCubeX-
+
+      - name: Cache blackmatrix7 repository
+        uses: actions/cache@89cac8b3c582a99c92a9afd7aaa355497f83a3d5 # Pinned to v3.3.2
+        with:
+          path: ios_rule_script
+          key: ${{ runner.os }}-git-blackmatrix7-${{ github.sha }}
+          restore-keys: |
+            ${{ runner.os }}-git-blackmatrix7-
+
+      - name: Cache 666OS repository
+        uses: actions/cache@89cac8b3c582a99c92a9afd7aaa355497f83a3d5 # Pinned to v3.3.2
+        with:
+          path: rules
+          key: ${{ runner.os }}-git-666OS-${{ github.sha }}
+          restore-keys: |
+            ${{ runner.os }}-git-666OS-
 
       - name: Set current date (Beijing Time)
-        id: set_date # 给步骤一个id，方便引用
         run: echo "DATE=$(TZ='Asia/Shanghai' date '+%Y年%m月%d日 %H:%M:%S')" >> $GITHUB_ENV
         
       - name: Install dependencies
         run: |
           sudo apt-get update
-          sudo apt-get install -y curl # [优化] 移除了不必要的 git 安装
+          sudo apt-get install -y curl
 
-      - name: Clone source repositories
+      - name: Clone or update source repositories
         run: |
-          git clone --branch meta https://github.com/MetaCubeX/meta-rules-dat.git --depth=1
-          git clone --branch master https://github.com/blackmatrix7/ios_rule_script.git --depth=1
-          git clone --branch release https://github.com/666OS/rules.git --depth=1
+          if [ -d "meta-rules-dat" ]; then (cd meta-rules-dat && git pull); else git clone --depth=1 --branch meta https://github.com/MetaCubeX/meta-rules-dat.git; fi
+          if [ -d "ios_rule_script" ]; then (cd ios_rule_script && git pull); else git clone --depth=1 --branch master https://github.com/blackmatrix7/ios_rule_script.git; fi
+          if [ -d "rules" ]; then (cd rules && git pull); else git clone --depth=1 --branch release https://github.com/666OS/rules.git; fi
 
       - name: Prepare folders
         run: |
@@ -49,34 +71,29 @@ jobs:
           echo "同步警告记录：" > warning.md
           echo "" > new_warning.md
 
-      # ... (所有 copy 文件的步骤保持不变) ...
       - name: Copy geoip files from MetaCubeX
         run: |
-          for base in private cn google netflix twitter telegram; do
-            for ext in mrs list yaml; do
-              src="meta-rules-dat/geo/geoip/${base}.${ext}"
-              dst="meta/MetaCubeX/geoip/${base}.${ext}"
-              if [[ -f "$src" ]]; then cp "$src" "$dst"; else echo "${{ env.DATE }}，${base}.${ext}（geoip），未拷贝" >> warning.md; echo "${base}.${ext}（geoip），未拷贝" >> new_warning.md; fi
-            done
-          done
+          for base in private cn google netflix twitter telegram; do for ext in mrs list yaml; do src="meta-rules-dat/geo/geoip/${base}.${ext}"; dst="meta/MetaCubeX/geoip/${base}.${ext}"; if [[ -f "$src" ]]; then cp "$src" "$dst"; else echo "${{ env.DATE }}，${base}.${ext}（geoip），未拷贝" >> warning.md; echo "${base}.${ext}（geoip），未拷贝" >> new_warning.md; fi; done; done
+
       - name: Copy geosite files from MetaCubeX
         run: |
-          for base in category-public-tracker private connectivity-check cn openai category-ai-!cn github twitter youtube apple-cn apple cloudflare-cn google onedrive microsoft category-games telegram netflix bilibili bahamut spotify pixiv gfw geolocation-!cn; do
-            for ext in mrs list yaml; do
-              src="meta-rules-dat/geo/geosite/${base}.${ext}"
-              dst="meta/MetaCubeX/geosite/${base}.${ext}"
-              if [[ -f "$src" ]]; then cp "$src" "$dst"; else echo "${{ env.DATE }}，${base}.${ext}（geosite），未拷贝" >> warning.md; echo "${base}.${ext}（geosite），未拷贝" >> new_warning.md; fi
-            done
-          done
+          for base in category-public-tracker private connectivity-check cn openai category-ai-!cn github twitter youtube apple-cn apple cloudflare-cn google onedrive microsoft category-games telegram netflix bilibili bahamut spotify pixiv gfw geolocation-!cn; do for ext in mrs list yaml; do src="meta-rules-dat/geo/geosite/${base}.${ext}"; dst="meta/MetaCubeX/geosite/${base}.${ext}"; if [[ -f "$src" ]]; then cp "$src" "$dst"; else echo "${{ env.DATE }}，${base}.${ext}（geosite），未拷贝" >> warning.md; echo "${base}.${ext}（geosite），未拷贝" >> new_warning.md; fi; done; done
+
       - name: Copy Game_No_Resolve.yaml from blackmatrix7
         run: |
-          src="ios_rule_script/rule/Clash/Game/Game_No_Resolve.yaml"
-          dst="meta/blackmatrix7/Game_No_Resolve.yaml"
-          if [[ -f "$src" ]]; then cp "$src" "$dst"; else echo "${{ env.DATE }}，Game_No_Resolve.yaml，未拷贝" >> warning.md; echo "Game_No_Resolve.yaml，未拷贝" >> new_warning.md; fi
+          src="ios_rule_script/rule/Clash/Game/Game_No_Resolve.yaml"; dst="meta/blackmatrix7/Game_No_Resolve.yaml"; if [[ -f "$src" ]]; then cp "$src" "$dst"; else echo "${{ env.DATE }}，Game_No_Resolve.yaml，未拷贝" >> warning.md; echo "Game_No_Resolve.yaml，未拷贝" >> new_warning.md; fi
+
       - name: Copy mihomo files from 666OS
         run: |
-          src_dir="rules/mihomo"; dst_dir="meta/666OS/mihomo"
-          if [[ -d "$src_dir" ]]; then cp -f "$src_dir"/* "$dst_dir/"; else echo "${{ env.DATE }}，666OS/rules/mihomo 文件夹，未拷贝" >> warning.md; echo "666OS/rules/mihomo 文件夹，未拷贝" >> new_warning.md; fi
+          src_dir="rules/mihomo"
+          dst_dir="meta/666OS/mihomo"
+          if [[ -d "$src_dir" ]]; then
+            # [修正] 添加 -r 参数以递归复制文件夹
+            cp -rf "$src_dir"/* "$dst_dir/"
+          else
+            echo "${{ env.DATE }}，666OS/rules/mihomo 文件夹，未拷贝" >> warning.md
+            echo "666OS/rules/mihomo 文件夹，未拷贝" >> new_warning.md
+          fi
 
       - name: Commit and push changes
         env:
@@ -85,8 +102,7 @@ jobs:
           git config --global user.name "GitHub Action"
           git config --global user.email "action@github.com"
           
-          # [优化] 使用 git diff 检查变动，使逻辑更健壮
-          if ! git diff --quiet --exit-code; then
+          if ! git diff --quiet HEAD; then
             echo "Changes detected. Committing and pushing..."
             git add ActionRules meta warning.md
             git commit -m "自动更新 ${{ env.DATE }}"
@@ -97,7 +113,6 @@ jobs:
             echo "No changes to commit."
           fi
 
-      # [优化] 新增步骤，用于读取警告文件内容并作为输出
       - name: Read new warnings for notification
         id: read_warnings
         if: always()
@@ -108,10 +123,9 @@ jobs:
           content="${content//$'\r'/'%0D'}"
           echo "content=$content" >> $GITHUB_OUTPUT
 
-      # [优化] 使用专用 Action 发送通知
       - name: Telegram Notify if new warnings exist
         if: always() && steps.read_warnings.outputs.content != ''
-        uses: appleboy/telegram-action@master
+        uses: appleboy/telegram-action@59597f02377b31ac1424c3a5f997985200e848a3 # Pinned to v0.1.1
         with:
           to: ${{ secrets.TELEGRAM_CHAT_ID }}
           token: ${{ secrets.TELEGRAM_BOT_TOKEN }}
