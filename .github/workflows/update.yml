@@ -17,11 +17,12 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
+      # [修正] 将版本锁定从具体的 Commit SHA 改为更健壮的主版本标签
       - name: Checkout your repository
-        uses: actions/checkout@b4ffde65f46336ab88eb53be808477a3936bae11 # Pinned to v4.0.0
+        uses: actions/checkout@v4
 
       - name: Cache MetaCubeX repository
-        uses: actions/cache@89cac8b3c582a99c92a9afd7aaa355497f83a3d5 # Pinned to v3.3.2
+        uses: actions/cache@v3
         with:
           path: meta-rules-dat
           key: ${{ runner.os }}-git-MetaCubeX-${{ github.sha }}
@@ -29,7 +30,7 @@ jobs:
             ${{ runner.os }}-git-MetaCubeX-
 
       - name: Cache blackmatrix7 repository
-        uses: actions/cache@89cac8b3c582a99c92a9afd7aaa355497f83a3d5 # Pinned to v3.3.2
+        uses: actions/cache@v3
         with:
           path: ios_rule_script
           key: ${{ runner.os }}-git-blackmatrix7-${{ github.sha }}
@@ -37,7 +38,7 @@ jobs:
             ${{ runner.os }}-git-blackmatrix7-
 
       - name: Cache 666OS repository
-        uses: actions/cache@89cac8b3c582a99c92a9afd7aaa355497f83a3d5 # Pinned to v3.3.2
+        uses: actions/cache@v3
         with:
           path: rules
           key: ${{ runner.os }}-git-666OS-${{ github.sha }}
@@ -85,15 +86,7 @@ jobs:
 
       - name: Copy mihomo files from 666OS
         run: |
-          src_dir="rules/mihomo"
-          dst_dir="meta/666OS/mihomo"
-          if [[ -d "$src_dir" ]]; then
-            # [修正] 添加 -r 参数以递归复制文件夹
-            cp -rf "$src_dir"/* "$dst_dir/"
-          else
-            echo "${{ env.DATE }}，666OS/rules/mihomo 文件夹，未拷贝" >> warning.md
-            echo "666OS/rules/mihomo 文件夹，未拷贝" >> new_warning.md
-          fi
+          src_dir="rules/mihomo"; dst_dir="meta/666OS/mihomo"; if [[ -d "$src_dir" ]]; then cp -rf "$src_dir"/* "$dst_dir/"; else echo "${{ env.DATE }}，666OS/rules/mihomo 文件夹，未拷贝" >> warning.md; echo "666OS/rules/mihomo 文件夹，未拷贝" >> new_warning.md; fi
 
       - name: Commit and push changes
         env:
@@ -125,7 +118,8 @@ jobs:
 
       - name: Telegram Notify if new warnings exist
         if: always() && steps.read_warnings.outputs.content != ''
-        uses: appleboy/telegram-action@59597f02377b31ac1424c3a5f997985200e848a3 # Pinned to v0.1.1
+        # [修正] 使用稳定的版本标签
+        uses: appleboy/telegram-action@v0.1.1
         with:
           to: ${{ secrets.TELEGRAM_CHAT_ID }}
           token: ${{ secrets.TELEGRAM_BOT_TOKEN }}
