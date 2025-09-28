@@ -175,17 +175,17 @@ proxy-groups:
 
   - name: AI助手
     type: select
-    proxies: [默认选择,香港,台湾,日本,新加坡,美国,全部节点,直连]
+    proxies: [美国,默认选择,香港,台湾,日本,新加坡,全部节点,直连]
     icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/ChatGPT.png
 
   - name: Telegram
     type: select
-    proxies: [默认选择,香港,台湾,日本,新加坡,美国,全部节点,直连]
+    proxies: [香港,默认选择,台湾,日本,新加坡,美国,全部节点,直连]
     icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Telegram.png
 
   - name: Twitter
     type: select
-    proxies: [默认选择,香港,台湾,日本,新加坡,美国,全部节点,直连]
+    proxies: [美国,默认选择,香港,台湾,日本,新加坡,全部节点,直连]
     icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Twitter.png
 
   - name: Emby
@@ -195,7 +195,7 @@ proxy-groups:
 
   - name: Bahamut
     type: select
-    proxies: [国际媒体,默认选择,香港,台湾,日本,新加坡,美国,全部节点,其它地区,直连]
+    proxies: [台湾,国际媒体,默认选择,香港,日本,新加坡,美国,全部节点,其它地区,直连]
     icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Bahamut.png
 
   - name: 国内媒体
