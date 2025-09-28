@@ -54,7 +54,6 @@ jobs:
           echo "同步警告记录：" > warning.md
           echo "" > new_warning.md
 
-      # ... (所有复制文件的步骤保持不变) ...
       - name: Copy geoip files from MetaCubeX
         run: |
           for base in private cn google netflix twitter telegram; do for ext in mrs list yaml; do src="meta-rules-dat/geo/geoip/${base}.${ext}"; dst="meta/MetaCubeX/geoip/${base}.${ext}"; if [[ -f "$src" ]]; then cp "$src" "$dst"; else echo "${{ env.DATE }}，${base}.${ext}（geoip），未拷贝" >> warning.md; echo "${base}.${ext}（geoip），未拷贝" >> new_warning.md; fi; done; done
@@ -68,23 +67,15 @@ jobs:
         run: |
           src_dir="rules/mihomo"; dst_dir="meta/666OS/mihomo"; if [[ -d "$src_dir" ]]; then cp -rf "$src_dir"/. "$dst_dir/"; else echo "${{ env.DATE }}，666OS/rules/mihomo 文件夹，未拷贝" >> warning.md; echo "666OS/rules/mihomo 文件夹，未拷贝" >> new_warning.md; fi
 
-      # ======================= 关键诊断步骤 =======================
-      - name: DEBUG - Check Git Status and .gitignore
-        run: |
-          echo "--- Contents of .gitignore (if it exists) ---"
-          cat .gitignore || echo ".gitignore not found."
-          echo ""
-          echo "--- Git Status (shows untracked and ignored files) ---"
-          git status
-      # ==========================================================
-
       - name: Commit and push changes
         env:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
         run: |
           git config --global user.name "GitHub Action"
           git config --global user.email "action@github.com"
-          if ! git diff --quiet HEAD; then
+          
+          # [修正] 使用 'git status --porcelain' 来可靠地检测包括新文件在内的所有变动
+          if [ -n "$(git status --porcelain)" ]; then
             echo "Changes detected. Committing and pushing..."
             git add .
             git commit -m "自动更新 ${{ env.DATE }}"
