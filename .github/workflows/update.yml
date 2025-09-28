@@ -77,11 +77,11 @@ jobs:
         run: |
           src_dir="rules/mihomo"; dst_dir="meta/666OS/mihomo"; if [[ -d "$src_dir" ]]; then cp -rf "$src_dir"/. "$dst_dir/"; else echo "${{ env.DATE }}，666OS/rules/mihomo 文件夹，未拷贝" >> warning.md; echo "666OS/rules/mihomo 文件夹，未拷贝" >> new_warning.md; fi
 
-      # 步骤 9: [关键] 清理临时的源仓库文件夹，防止被错误提交
-      - name: Clean up temporary source repositories
-        run: rm -rf meta-rules-dat ios_rule_script rules
+      # [最终修正] 移除清理步骤，并将 git add 改为精确添加
+      # - name: Clean up temporary source repositories
+      #   run: rm -rf meta-rules-dat ios_rule_script rules
 
-      # 步骤 10: 提交并推送变动
+      # 步骤 9: 提交并推送变动
       - name: Commit and push changes
         env:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
@@ -89,10 +89,10 @@ jobs:
           git config --global user.name "GitHub Action"
           git config --global user.email "action@github.com"
           
-          # 使用 'git status --porcelain' 来可靠地检测包括新文件在内的所有变动
           if [ -n "$(git status --porcelain)" ]; then
             echo "Changes detected. Committing and pushing..."
-            git add .
+            # [最终修正] 只添加需要提交的目录和文件
+            git add meta warning.md new_warning.md
             git commit -m "自动更新 ${{ env.DATE }}"
             git remote remove origin
             git remote add origin https://x-access-token:${GH_TOKEN}@github.com/${{ github.repository }}
@@ -101,14 +101,14 @@ jobs:
             echo "No changes to commit."
           fi
 
-      # 步骤 11: 读取新的警告信息，为发送通知做准备
+      # 步骤 10: 读取新的警告信息，为发送通知做准备
       - name: Read new warnings for notification
         id: read_warnings
         if: always()
         run: |
           content=$(cat new_warning.md); content="${content//'%'/'%25'}"; content="${content//$'\n'/'%0A'}"; content="${content//$'\r'/'%0D'}"; echo "content=$content" >> $GITHUB_OUTPUT
 
-      # 步骤 12: 如果有新的警告，则发送 Telegram 通知
+      # 步骤 11: 如果有新的警告，则发送 Telegram 通知
       - name: Telegram Notify if new warnings exist
         if: always() && steps.read_warnings.outputs.content != ''
         uses: appleboy/telegram-action@v0.1.1
