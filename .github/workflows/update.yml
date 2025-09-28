@@ -2,13 +2,15 @@ name: Sync and Modify IP Lists
 
 on:
   schedule:
-    - cron: "0 23 * * *" # 7:00 AM UTC+8
-  workflow_dispatch:
+    - cron: "0 23 * * *" # 每天 23:00 UTC 运行 (北京时间早上 7:00)
+  workflow_dispatch: # 允许手动触发
 
+# 并发控制：确保同一分支的工作流只有一个实例在运行，新的触发会取消旧的
 concurrency:
   group: ${{ github.workflow }}-${{ github.ref }}
   cancel-in-progress: true
 
+# 为工作流授予向仓库写入内容的权限
 permissions:
   contents: write
 
@@ -17,9 +19,11 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
+      # 步骤 1: 检出你自己的仓库
       - name: Checkout your repository
         uses: actions/checkout@v4
 
+      # 步骤 2: 缓存源仓库以加快速度
       - name: Cache source repositories
         uses: actions/cache@v3
         with:
@@ -31,29 +35,35 @@ jobs:
           restore-keys: |
             ${{ runner.os }}-src-repos-
 
+      # 步骤 3: 设置当前日期环境变量
       - name: Set current date (Beijing Time)
         run: echo "DATE=$(TZ='Asia/Shanghai' date '+%Y年%m月%d日 %H:%M:%S')" >> $GITHUB_ENV
         
+      # 步骤 4: 安装必要的依赖
       - name: Install dependencies
         run: |
           sudo apt-get update
           sudo apt-get install -y curl
 
+      # 步骤 5: 克隆或更新所有上游源仓库
       - name: Clone or update source repositories
         run: |
           if [ -d "meta-rules-dat" ]; then (cd meta-rules-dat && git pull); else git clone --depth=1 --branch meta https://github.com/MetaCubeX/meta-rules-dat.git; fi
           if [ -d "ios_rule_script" ]; then (cd ios_rule_script && git pull); else git clone --depth=1 --branch master https://github.com/blackmatrix7/ios_rule_script.git; fi
           if [ -d "rules" ]; then (cd rules && git pull); else git clone --depth=1 --branch release https://github.com/666OS/rules.git; fi
 
+      # 步骤 6: 准备目标文件夹
       - name: Prepare folders
         run: |
           mkdir -p meta/MetaCubeX/geoip meta/MetaCubeX/geosite meta/blackmatrix7 meta/666OS/mihomo
 
+      # 步骤 7: 初始化警告日志文件
       - name: Initialize warning files
         run: |
           echo "同步警告记录：" > warning.md
           echo "" > new_warning.md
 
+      # 步骤 8: 从上游仓库复制所有规则文件到你的仓库目录
       - name: Copy geoip files from MetaCubeX
         run: |
           for base in private cn google netflix twitter telegram; do for ext in mrs list yaml; do src="meta-rules-dat/geo/geoip/${base}.${ext}"; dst="meta/MetaCubeX/geoip/${base}.${ext}"; if [[ -f "$src" ]]; then cp "$src" "$dst"; else echo "${{ env.DATE }}，${base}.${ext}（geoip），未拷贝" >> warning.md; echo "${base}.${ext}（geoip），未拷贝" >> new_warning.md; fi; done; done
@@ -67,6 +77,11 @@ jobs:
         run: |
           src_dir="rules/mihomo"; dst_dir="meta/666OS/mihomo"; if [[ -d "$src_dir" ]]; then cp -rf "$src_dir"/. "$dst_dir/"; else echo "${{ env.DATE }}，666OS/rules/mihomo 文件夹，未拷贝" >> warning.md; echo "666OS/rules/mihomo 文件夹，未拷贝" >> new_warning.md; fi
 
+      # 步骤 9: [关键] 清理临时的源仓库文件夹，防止被错误提交
+      - name: Clean up temporary source repositories
+        run: rm -rf meta-rules-dat ios_rule_script rules
+
+      # 步骤 10: 提交并推送变动
       - name: Commit and push changes
         env:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
@@ -74,7 +89,7 @@ jobs:
           git config --global user.name "GitHub Action"
           git config --global user.email "action@github.com"
           
-          # [修正] 使用 'git status --porcelain' 来可靠地检测包括新文件在内的所有变动
+          # 使用 'git status --porcelain' 来可靠地检测包括新文件在内的所有变动
           if [ -n "$(git status --porcelain)" ]; then
             echo "Changes detected. Committing and pushing..."
             git add .
@@ -86,12 +101,14 @@ jobs:
             echo "No changes to commit."
           fi
 
+      # 步骤 11: 读取新的警告信息，为发送通知做准备
       - name: Read new warnings for notification
         id: read_warnings
         if: always()
         run: |
           content=$(cat new_warning.md); content="${content//'%'/'%25'}"; content="${content//$'\n'/'%0A'}"; content="${content//$'\r'/'%0D'}"; echo "content=$content" >> $GITHUB_OUTPUT
 
+      # 步骤 12: 如果有新的警告，则发送 Telegram 通知
       - name: Telegram Notify if new warnings exist
         if: always() && steps.read_warnings.outputs.content != ''
         uses: appleboy/telegram-action@v0.1.1
