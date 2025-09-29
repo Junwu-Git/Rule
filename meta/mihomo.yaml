@@ -7,14 +7,14 @@ FilterSG: &FilterSG '^(?=.*(?i)(坡|🇸🇬|SG|Sing|SIN|XSP))(?!.*(排除1|排�
 FilterJP: &FilterJP '^(?=.*(?i)(日|🇯🇵|JP|Japan|NRT|HND|KIX|CTS|FUK))(?!.*(排除1|排除2|5x)).*$'
 FilterKR: &FilterKR '^(?=.*(?i)(韩|🇰🇷|韓|首尔|南朝鲜|KR|KOR|Korea|South))(?!.*(排除1|排除2|5x)).*$'
 FilterUS: &FilterUS '^(?=.*(?i)(美|🇺🇸|US|USA|JFK|LAX|ORD|ATL|DFW|SFO|MIA|SEA|IAD))(?!.*(排除1|排除2|5x)).*$'
-FilterTW: &FilterTW '^(?=.*(?i)(台|🇼🇸|🇹🇼|TW|tai|TPE|TSA|KHH))(?!.*(排除1|排除2|5x)).*$'
+FilterTW: &FilterTW '^(?=.*(?i)(台|🇹🇼|TW|tai|TPE|TSA|KHH))(?!.*(排除1|排除2|5x)).*$'
 FilterEU: &FilterEU '^(?=.*(?i)(奥|比|保|克罗地亚|塞|捷|丹|爱沙|芬|法|德|希|匈|爱尔|意|拉|立|卢|马其它|荷|波|葡|罗|斯洛伐|斯洛文|西|瑞|英|🇧🇪|🇨🇿|🇩🇰|🇫🇮|🇫🇷|🇩🇪|🇮🇪|🇮🇹|🇱🇹|🇱🇺|🇳🇱|🇵🇱|🇸🇪|🇬🇧|CDG|FRA|AMS|MAD|BCN|FCO|MUC|BRU))(?!.*(排除1|排除2|5x)).*$'
 FilterOther: &FilterOther '^(?!.*(直连|美|港|坡|台|新|日|韩|奥|比|保|克罗地亚|塞|捷|丹|爱沙|芬|法|德|希|匈|爱尔|意|拉|立|卢|马其它|荷|波|葡|罗|斯洛伐|斯洛文|西|瑞|英|🇭🇰|🇼🇸|🇹🇼|🇸🇬|🇯🇵|🇰🇷|🇺🇸|🇬🇧|🇦🇹|🇧🇪|🇨🇿|🇩🇰|🇫🇮|🇫🇷|🇩🇪|🇮🇪|🇮🇹|🇱🇹|🇱🇺|🇳🇱|🇵🇱|🇸🇪|HK|TW|SG|JP|KR|US|GB|CDG|FRA|AMS|MAD|BCN|FCO|MUC|BRU|HKG|TPE|TSA|KHH|SIN|XSP|NRT|HND|KIX|CTS|FUK|JFK|LAX|ORD|ATL|DFW|SFO|MIA|SEA|IAD|LHR|LGW))'
 FilterAll: &FilterAll '^(?!.*(直连|群|邀请|返利|循环|官网|客服|网站|网址|获取|订阅|流量|到期|机场|下次|版本|官址|备用|过期|已用|联系|邮箱|工单|贩卖|通知|倒卖|防止|国内|地址|频道|无法|说明|使用|提示|特别|访问|支持|教程|关注|更新|作者|加入|USE|USED|TOTAL|EXPIRE|EMAIL|Panel|Channel|Author))'
 
 # 锚点 - 策略组
 UrlTest: &UrlTest {type: url-test, interval: 600, tolerance: 50, lazy: true, url: 'http://connectivitycheck.gstatic.com/generate_204', disable-udp: false, timeout: 3000, max-failed-times: 3, hidden: true, include-all: true}
-FallBack: &FallBack {type: fallback, interval: 600, lazy: true, url: 'http://connectivitycheck.gstatic.com/generate_204', disable-udp: false, timeout: 3000, max-failed-times: 3, hidden: false}
+FallBack: &FallBack {type: fallback, interval: 300, lazy: true, url: 'http://connectivitycheck.gstatic.com/generate_204', disable-udp: false, timeout: 3000, max-failed-times: 3, hidden: false}
 LoadBalanceCH: &LoadBalanceCH {type: load-balance, interval: 600, lazy: true, url: 'http://connectivitycheck.gstatic.com/generate_204', disable-udp: false, strategy: consistent-hashing, timeout: 3000, max-failed-times: 3, hidden: true, include-all: true}
 LoadBalanceCR: &LoadBalanceCR {type: load-balance, interval: 600, lazy: true, url: 'http://connectivitycheck.gstatic.com/generate_204', disable-udp: false, strategy: round-robin, timeout: 3000, max-failed-times: 3, hidden: true, include-all: true}
 
@@ -55,7 +55,7 @@ skip-auth-prefixes:
   - 192.168.1.0/24
   - 192.168.31.0/24
   - 192.168.100.0/24
-  - 127.0.0.1/8
+  - 127.0.0.0/8
   - 192.168.36.0/24
 
 # 持久化缓存
@@ -79,15 +79,15 @@ external-controller-cors:
   allow-private-network: true
 
 # GEOIP、GEOSITE设置
-geodata-mode: false
+geodata-mode: true
 geo-auto-update: true
 geo-update-interval: 24
 geodata-loader: standard
 geox-url:
   geoip: "https://github.com/MetaCubeX/meta-rules-dat/releases/download/latest/geoip-lite.dat"
   geosite: "https://github.com/MetaCubeX/meta-rules-dat/releases/download/latest/geosite.dat"
-  mmdb: "https://github.com/MetaCubeX/meta-rules-dat/releases/download/latest/country-lite.mmdb"
-  asn: "https://github.com/xishang0128/geoip/releases/download/latest/GeoLite2-ASN.mmdb"
+  mmdb: "https://github.com/MetaCubeX/meta-rules-dat/releases/download/latest/geoip.metadb"
+  asn: "https://github.com/MetaCubeX/meta-rules-dat/releases/download/latest/GeoLite2-ASN.mmdb"
 
 # 嗅探
 sniffer:
@@ -95,6 +95,28 @@ sniffer:
   override-destination: false
   force-dns-mapping: true
   parse-pure-ip: true
+  sniff:
+    HTTP:
+      ports: [80, 8080-8880]
+      override-destination: false
+    TLS:
+      ports: [443, 8443]
+  skip-domain:
+    - "Mijia Cloud"
+    - "+.push.apple.com"
+  skip-dst-address:
+    - 91.105.192.0/23
+    - 91.108.4.0/22
+    - 91.108.8.0/21
+    - 91.108.16.0/21
+    - 91.108.56.0/22
+    - 95.161.64.0/20
+    - 149.154.160.0/20
+    - 185.76.151.0/24
+    - 2001:67c:4e8::/48
+    - 2001:b28:f23c::/47
+    - 2001:b28:f23f::/48
+    - 2a0a:f280:203::/48
   
 # TUN模式定义
 tun:
@@ -116,18 +138,22 @@ dns:
   fake-ip-range: 198.18.0.1/16
   fake-ip-filter-mode: blacklist  
   fake-ip-filter:
-    - "rule-set:connectivity-check,private_domain,cn_domain"
-    - "*.gemini.beijixingxing.com"
-    - gemini.beijixingxing.com
-    - +.+m2m
-    - +.$injections.adguard.org
-    - +.$local.adguard.org
-    - +.+bogon
-    - +.+lan
-    - +.+local
-    - +.+localdomain
-    - +.home.arpa
+    # 规则集
+    - rule-set:fake-ip-filter
+    - rule-set:cn_domain
+    - rule-set:private_domain
+    - rule-set:connectivity-check
+    # 自定义规则
+    - "*.beijixingxing.com"
+    - "*.jwan.site"
+    - jwan.site
+    # 特殊协议与服务 
+    - "+.m2m"
+    - "+.$injections.adguard.org"
+    - "+.$local.adguard.org"
+    - local.adguard.org
     - dns.msftncsi.com
+    - "time.*.com"
     - "*.srv.nintendo.net"
     - "*.stun.playstation.net"
     - xbox.*.microsoft.com
@@ -142,8 +168,7 @@ dns:
     - "+.miwifi.com"
     - "+.docker.io"
     - "+.push.apple.com"
-    - "time.*.com"
-    - local.adguard.org
+
   default-nameserver:
     - 119.29.29.29
     - 180.184.1.1
@@ -169,7 +194,7 @@ proxy-groups:
     icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Proxy.png
 
   - name: 故障转移
-    type: select
+    <<: *FallBack
     proxies: [新加坡,香港,台湾,日本,韩国,美国,全部节点,直连]
     icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/ULB.png
 
@@ -349,142 +374,222 @@ proxy-groups:
     icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/United_Nations.png
 
 rule-providers:
+  fake-ip-filter:
+    <<: *DomainMrs
+    url: "https://cdn.jsdelivr.net/gh/xixu-me/RFM@basic/fake-ip-filter.mrs"
+    path: ./rulesets/fake-ip-filter.mrs    
+
   # 防御
   category-public-tracker:
     <<: *DomainMrs
     url: "https://raw.githubusercontent.com/Junwu-Git/Rule/refs/heads/main/meta/MetaCubeX/geosite/category-public-tracker.mrs"
+    path: ./rulesets/category-public-tracker.mrs    
 
   # 内网规则集
   private_domain:
     <<: *DomainMrs
     url: "https://raw.githubusercontent.com/Junwu-Git/Rule/refs/heads/main/meta/MetaCubeX/geosite/private.mrs"
-  
+    path: ./rulesets/private_domain.mrs    
+
   # 直连修正规则集
   xptv:
     <<: *DomainMrs
     url: "https://raw.githubusercontent.com/Junwu-Git/Rule/refs/heads/main/meta/666OS/mihomo/domain/XPTV.mrs"
+    path: ./rulesets/xptv.mrs    
+    
   fix-direct:
     <<: *DomainMrs
     url: "https://raw.githubusercontent.com/Junwu-Git/Rule/refs/heads/main/meta/666OS/mihomo/domain/Direct.mrs"
+    path: ./rulesets/fix-direct.mrs    
  
   # 连接性检查规则集
   connectivity-check:
     <<: *DomainMrs
     url: "https://raw.githubusercontent.com/Junwu-Git/Rule/refs/heads/main/meta/MetaCubeX/geosite/connectivity-check.mrs"
+    path: ./rulesets/connectivity-check.mrs    
 
   # 自定义规则集
   reject_rules:
     <<: *ClassicalText
     url: "https://raw.githubusercontent.com/Junwu-Git/Rule/refs/heads/main/Reject_rules.list" 
+    path: ./rulesets/reject_rules.list  
+
   proxy_rules:
     <<: *ClassicalText
     url: "https://raw.githubusercontent.com/Junwu-Git/Rule/refs/heads/main/Proxy_rules.list" 
+    path: ./rulesets/proxy_rules.list   
+
   direct_rules:
     <<: *ClassicalText
     url: "https://raw.githubusercontent.com/Junwu-Git/Rule/refs/heads/main/Direct_rules.list" 
+    path: ./rulesets/direct_rules.list  
 
   # 服务类规则集  
   cn_domain:
     <<: *DomainMrs
     url: "https://raw.githubusercontent.com/Junwu-Git/Rule/refs/heads/main/meta/MetaCubeX/geosite/cn.mrs"
+    path: ./rulesets/cn_domain.mrs    
+
   openAi:
     <<: *DomainMrs
     url: "https://raw.githubusercontent.com/Junwu-Git/Rule/refs/heads/main/meta/MetaCubeX/geosite/openai.mrs"
+    path: ./rulesets/openAi.mrs    
+    
   category-ai-!cn:
     <<: *DomainMrs
     url: "https://raw.githubusercontent.com/Junwu-Git/Rule/refs/heads/main/meta/MetaCubeX/geosite/category-ai-!cn.mrs"
+    path: ./rulesets/category-ai-!cn.mrs    
+    
   github_domain:
     <<: *DomainMrs
     url: "https://raw.githubusercontent.com/Junwu-Git/Rule/refs/heads/main/meta/MetaCubeX/geosite/github.mrs"
+    path: ./rulesets/github_domain.mrs    
+    
   twitter_domain:
     <<: *DomainMrs
     url: "https://raw.githubusercontent.com/Junwu-Git/Rule/refs/heads/main/meta/MetaCubeX/geosite/twitter.mrs"
+    path: ./rulesets/twitter_domain.mrs    
+    
   youtube_domain:
     <<: *DomainMrs
     url: "https://raw.githubusercontent.com/Junwu-Git/Rule/refs/heads/main/meta/MetaCubeX/geosite/youtube.mrs"
+    path: ./rulesets/youtube_domain.mrs    
+    
   apple-cn:
     <<: *DomainMrs
     url: "https://raw.githubusercontent.com/Junwu-Git/Rule/refs/heads/main/meta/MetaCubeX/geosite/apple-cn.mrs"
+    path: ./rulesets/apple-cn.mrs    
+    
   apple:
     <<: *DomainMrs
     url: "https://raw.githubusercontent.com/Junwu-Git/Rule/refs/heads/main/meta/MetaCubeX/geosite/apple.mrs"
+    path: ./rulesets/apple.mrs    
+    
   cloudflare-cn:
     <<: *DomainMrs
     url: "https://raw.githubusercontent.com/Junwu-Git/Rule/refs/heads/main/meta/MetaCubeX/geosite/cloudflare-cn.mrs"
+    path: ./rulesets/cloudflare-cn.mrs    
+    
   google_domain:
     <<: *DomainMrs
     url: "https://raw.githubusercontent.com/Junwu-Git/Rule/refs/heads/main/meta/MetaCubeX/geosite/google.mrs"
+    path: ./rulesets/google_domain.mrs    
+    
   onedrive:
     <<: *DomainMrs
     url: "https://raw.githubusercontent.com/Junwu-Git/Rule/refs/heads/main/meta/MetaCubeX/geosite/onedrive.mrs"
+    path: ./rulesets/onedrive.mrs    
+    
   microsoft:
     <<: *DomainMrs
     url: "https://raw.githubusercontent.com/Junwu-Git/Rule/refs/heads/main/meta/MetaCubeX/geosite/microsoft.mrs"
+    path: ./rulesets/microsoft.mrs    
+    
   category-games:
     <<: *DomainMrs
     url: "https://raw.githubusercontent.com/Junwu-Git/Rule/refs/heads/main/meta/MetaCubeX/geosite/category-games.mrs"
+    path: ./rulesets/category-games.mrs    
+    
   game:
     <<: *ClassicalYaml
     url: "https://raw.githubusercontent.com/Junwu-Git/Rule/refs/heads/main/meta/blackmatrix7/Game_No_Resolve.yaml"
+    path: ./rulesets/game.yaml  
+    
   telegram_domain:
     <<: *DomainMrs
     url: "https://raw.githubusercontent.com/Junwu-Git/Rule/refs/heads/main/meta/MetaCubeX/geosite/telegram.mrs"
+    path: ./rulesets/telegram_domain.mrs    
+    
   netflix_domain:
     <<: *DomainMrs
     url: "https://raw.githubusercontent.com/Junwu-Git/Rule/refs/heads/main/meta/MetaCubeX/geosite/netflix.mrs"
+    path: ./rulesets/netflix_domain.mrs    
+    
   bilibili_domain:
     <<: *DomainMrs
     url: "https://raw.githubusercontent.com/Junwu-Git/Rule/refs/heads/main/meta/MetaCubeX/geosite/bilibili.mrs"
+    path: ./rulesets/bilibili_domain.mrs    
+    
   bahamut_domain:
     <<: *DomainMrs
     url: "https://raw.githubusercontent.com/Junwu-Git/Rule/refs/heads/main/meta/MetaCubeX/geosite/bahamut.mrs"
+    path: ./rulesets/bahamut_domain.mrs    
+    
   emby:
     <<: *DomainMrs
     url: "https://raw.githubusercontent.com/Junwu-Git/Rule/refs/heads/main/meta/666OS/mihomo/domain/Emby.mrs"
+    path: ./rulesets/emby.mrs    
+    
   spotify_domain:
     <<: *DomainMrs
     url: "https://raw.githubusercontent.com/Junwu-Git/Rule/refs/heads/main/meta/MetaCubeX/geosite/spotify.mrs"
+    path: ./rulesets/spotify_domain.mrs    
+    
   pixiv_domain:
     <<: *DomainMrs
     url: "https://raw.githubusercontent.com/Junwu-Git/Rule/refs/heads/main/meta/MetaCubeX/geosite/pixiv.mrs"
+    path: ./rulesets/pixiv_domain.mrs    
+    
   gfw_domain:
     <<: *DomainMrs
     url: "https://raw.githubusercontent.com/Junwu-Git/Rule/refs/heads/main/meta/MetaCubeX/geosite/gfw.mrs"
+    path: ./rulesets/gfw_domain.mrs    
+    
   geolocation-!cn:
     <<: *DomainMrs
     url: "https://raw.githubusercontent.com/Junwu-Git/Rule/refs/heads/main/meta/MetaCubeX/geosite/geolocation-!cn.mrs"
+    path: ./rulesets/geolocation-!cn.mrs    
+    
   download:
     <<: *DomainMrs
     url: "https://raw.githubusercontent.com/Junwu-Git/Rule/refs/heads/main/meta/666OS/mihomo/domain/Download.mrs"
+    path: ./rulesets/download.mrs    
 
   # IP 类规则集
   xptv_ip:
     <<: *IPcidrMrs
     url: "https://raw.githubusercontent.com/Junwu-Git/Rule/refs/heads/main/meta/666OS/mihomo/ip/XPTV.mrs"
+    path: ./rulesets/xptv_ip.mrs    
+
   emby_ip:
     <<: *IPcidrMrs
     url: "https://raw.githubusercontent.com/Junwu-Git/Rule/refs/heads/main/meta/666OS/mihomo/ip/Emby.mrs"
+    path: ./rulesets/emby_ip.mrs    
+    
   ai_ip:
     <<: *IPcidrMrs
     url: "https://raw.githubusercontent.com/Junwu-Git/Rule/refs/heads/main/meta/666OS/mihomo/ip/AI.mrs"
+    path: ./rulesets/ai_ip.mrs    
+    
   private_ip:
     <<: *IPcidrMrs
     url: "https://raw.githubusercontent.com/Junwu-Git/Rule/refs/heads/main/meta/MetaCubeX/geoip/private.mrs"
+    path: ./rulesets/private_ip.mrs    
+    
   cn_ip:
     <<: *IPcidrMrs
     url: "https://raw.githubusercontent.com/Junwu-Git/Rule/refs/heads/main/meta/MetaCubeX/geoip/cn.mrs"
+    path: ./rulesets/cn_ip.mrs    
+    
   google_ip:
     <<: *IPcidrMrs
     url: "https://raw.githubusercontent.com/Junwu-Git/Rule/refs/heads/main/meta/MetaCubeX/geoip/google.mrs"
+    path: ./rulesets/google_ip.mrs    
+    
   netflix_ip:
     <<: *IPcidrMrs
     url: "https://raw.githubusercontent.com/Junwu-Git/Rule/refs/heads/main/meta/MetaCubeX/geoip/netflix.mrs"
+    path: ./rulesets/netflix_ip.mrs    
+    
   twitter_ip:
     <<: *IPcidrMrs
     url: "https://raw.githubusercontent.com/Junwu-Git/Rule/refs/heads/main/meta/MetaCubeX/geoip/twitter.mrs"
+    path: ./rulesets/twitter_ip.mrs    
+    
   telegram_ip:
     <<: *IPcidrMrs
     url: "https://raw.githubusercontent.com/Junwu-Git/Rule/refs/heads/main/meta/MetaCubeX/geoip/telegram.mrs" 
+    path: ./rulesets/telegram_ip.mrs    
 
 # 规则
 rules:
