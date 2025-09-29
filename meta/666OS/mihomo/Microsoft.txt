@@ -1,6 +1,6 @@
 # NAME: Microsoft
 # AUTHOR: YYDS666
-# UPDATED: 2025-09-29 02:16:41
+# UPDATED: 2025-09-30 02:20:06
 # TOTAL: 600
 DOMAIN,az764295.vo.msecnd.net
 DOMAIN,azure.microsoft.com

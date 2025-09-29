@@ -1,6 +1,6 @@
 # NAME: Spotify
 # AUTHOR: YYDS666
-# UPDATED: 2025-09-29 02:16:47
+# UPDATED: 2025-09-30 02:20:11
 # TOTAL: 22
 +.byspotify.com
 +.pscdn.co
