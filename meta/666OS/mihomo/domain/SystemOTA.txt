@@ -1,6 +1,6 @@
 # NAME: SystemOTA
 # AUTHOR: YYDS666
-# UPDATED: 2025-09-30 02:20:10
+# UPDATED: 2025-10-01 02:17:59
 # TOTAL: 78
 +.appldnld-lb.apple.com.akadns.net
 +.appldnld.apple.com
