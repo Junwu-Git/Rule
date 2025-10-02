@@ -1,6 +1,6 @@
 # NAME: TikTok
 # AUTHOR: YYDS666
-# UPDATED: 2025-10-02 02:19:17
+# UPDATED: 2025-10-03 02:19:13
 # TOTAL: 21
 DOMAIN,p16-tiktokcdn-com.akamaized.net
 DOMAIN-SUFFIX,byteoversea.com

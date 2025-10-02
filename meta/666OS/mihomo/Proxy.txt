@@ -1,7 +1,7 @@
 # NAME: Proxy
 # AUTHOR: YYDS666
-# UPDATED: 2025-10-02 02:19:13
-# TOTAL: 6284
+# UPDATED: 2025-10-03 02:19:04
+# TOTAL: 6286
 DOMAIN,0rz.tw
 DOMAIN,1-apple.com.tw
 DOMAIN,123rf.com
@@ -5130,8 +5130,10 @@ DOMAIN-SUFFIX,tanc.org
 DOMAIN-SUFFIX,tangren.us
 DOMAIN-SUFFIX,tanks.gg
 DOMAIN-SUFFIX,taoism.net
+DOMAIN-SUFFIX,tap.io
 DOMAIN-SUFFIX,tapanwap.com
 DOMAIN-SUFFIX,tapatalk.com
+DOMAIN-SUFFIX,taptap.io
 DOMAIN-SUFFIX,tardigrade.io
 DOMAIN-SUFFIX,taup.net
 DOMAIN-SUFFIX,taweet.com
