@@ -1,7 +1,7 @@
 # NAME: Proxy
 # AUTHOR: YYDS666
-# UPDATED: 2025-10-03 02:19:04
-# TOTAL: 6277
+# UPDATED: 2025-10-04 02:18:22
+# TOTAL: 6278
 +.000webhost.com
 +.030buy.com
 +.0rz.tw
@@ -107,6 +107,7 @@
 +.91vps.club
 +.92ccav.com
 +.991.com
++.996.icu
 +.99btgc01.com
 +.99cn.info
 +.9bis.com

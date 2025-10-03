@@ -1,7 +1,7 @@
 # NAME: AI
 # AUTHOR: YYDS666
-# UPDATED: 2025-10-03 02:19:05
-# TOTAL: 166
+# UPDATED: 2025-10-04 02:18:21
+# TOTAL: 167
 DOMAIN,ai.google.dev
 DOMAIN,aistudio.google.com
 DOMAIN,alkalicore-pa.clients6.google.com
@@ -31,6 +31,7 @@ DOMAIN,default.exp-tas.com
 DOMAIN,edgeservices.bing.com
 DOMAIN,gateway.ai.cloudflare.com
 DOMAIN,gemini.google.com
+DOMAIN,gspe1-ssl.ls.apple.com
 DOMAIN,guzzoni.apple.com
 DOMAIN,imagine.meta.com
 DOMAIN,mj.run
