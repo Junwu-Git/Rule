@@ -1,6 +1,6 @@
 # NAME: Proxy
 # AUTHOR: YYDS666
-# UPDATED: 2025-10-04 02:18:22
+# UPDATED: 2025-10-05 02:16:46
 # TOTAL: 6287
 DOMAIN,0rz.tw
 DOMAIN,1-apple.com.tw
@@ -654,7 +654,6 @@ DOMAIN,maplew.com
 DOMAIN,marguerite.su
 DOMAIN,martsangkagyuofficial.org
 DOMAIN,maruta.be
-DOMAIN,marxists.org
 DOMAIN,mash.to
 DOMAIN,maskedip.com
 DOMAIN,mayimayi.com
@@ -3781,6 +3780,7 @@ DOMAIN-SUFFIX,martau.com
 DOMAIN-SUFFIX,martsangkagyuofficial.org
 DOMAIN-SUFFIX,marxist.com
 DOMAIN-SUFFIX,marxist.net
+DOMAIN-SUFFIX,marxists.org
 DOMAIN-SUFFIX,matainja.com
 DOMAIN-SUFFIX,material.io
 DOMAIN-SUFFIX,matome-plus.com

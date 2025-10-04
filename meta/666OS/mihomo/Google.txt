@@ -1,7 +1,7 @@
 # NAME: Google
 # AUTHOR: YYDS666
-# UPDATED: 2025-10-04 02:18:29
-# TOTAL: 4988
+# UPDATED: 2025-10-05 02:16:52
+# TOTAL: 4989
 DOMAIN,265.com
 DOMAIN,2mdn-cn.net
 DOMAIN,2mdn.net
@@ -2554,6 +2554,7 @@ IP-CIDR,136.63.0.0/16,no-resolve
 IP-CIDR,136.64.0.0/11,no-resolve
 IP-CIDR,137.75.122.0/24,no-resolve
 IP-CIDR,137.83.192.0/24,no-resolve
+IP-CIDR,138.21.37.0/24,no-resolve
 IP-CIDR,140.209.252.0/23,no-resolve
 IP-CIDR,140.209.255.0/24,no-resolve
 IP-CIDR,140.235.248.0/24,no-resolve

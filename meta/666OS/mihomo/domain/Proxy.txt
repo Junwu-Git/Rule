@@ -1,6 +1,6 @@
 # NAME: Proxy
 # AUTHOR: YYDS666
-# UPDATED: 2025-10-04 02:18:22
+# UPDATED: 2025-10-05 02:16:46
 # TOTAL: 6278
 +.000webhost.com
 +.030buy.com
@@ -2634,6 +2634,7 @@
 +.martsangkagyuofficial.org
 +.marxist.com
 +.marxist.net
++.marxists.org
 +.mastodon.cloud
 +.mastodon.host
 +.mastodon.online
@@ -5696,7 +5697,6 @@ maplew.com
 marguerite.su
 martsangkagyuofficial.org
 maruta.be
-marxists.org
 mash.to
 maskedip.com
 mayimayi.com
