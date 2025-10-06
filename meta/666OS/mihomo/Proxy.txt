@@ -1,7 +1,7 @@
 # NAME: Proxy
 # AUTHOR: YYDS666
-# UPDATED: 2025-10-06 02:16:55
-# TOTAL: 6287
+# UPDATED: 2025-10-07 02:19:50
+# TOTAL: 6288
 DOMAIN,0rz.tw
 DOMAIN,1-apple.com.tw
 DOMAIN,123rf.com
@@ -5652,6 +5652,7 @@ DOMAIN-SUFFIX,vijayatemple.org
 DOMAIN-SUFFIX,vilanet.me
 DOMAIN-SUFFIX,vilavpn.com
 DOMAIN-SUFFIX,vimeo.com
+DOMAIN-SUFFIX,vimeocdn.com
 DOMAIN-SUFFIX,vimperator.org
 DOMAIN-SUFFIX,vincnd.com
 DOMAIN-SUFFIX,vine.co

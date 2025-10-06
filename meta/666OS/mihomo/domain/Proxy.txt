@@ -1,7 +1,7 @@
 # NAME: Proxy
 # AUTHOR: YYDS666
-# UPDATED: 2025-10-06 02:16:55
-# TOTAL: 6278
+# UPDATED: 2025-10-07 02:19:51
+# TOTAL: 6279
 +.000webhost.com
 +.030buy.com
 +.0rz.tw
@@ -4539,6 +4539,7 @@
 +.vilanet.me
 +.vilavpn.com
 +.vimeo.com
++.vimeocdn.com
 +.vimperator.org
 +.vincnd.com
 +.vine.co
