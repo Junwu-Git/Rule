@@ -1,7 +1,7 @@
 # NAME: Proxy
 # AUTHOR: YYDS666
-# UPDATED: 2025-10-07 02:19:51
-# TOTAL: 6279
+# UPDATED: 2025-10-08 02:19:49
+# TOTAL: 6280
 +.000webhost.com
 +.030buy.com
 +.0rz.tw
@@ -3804,6 +3804,7 @@
 +.solarsystem.nasa.gov
 +.solidaritetibet.org
 +.solidfiles.com
++.solscan.io
 +.solv.finance
 +.somee.com
 +.songjianjun.com
