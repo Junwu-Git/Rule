@@ -36,13 +36,15 @@ payload:
     - +.office
     - +.skype
     - +.windows
+    - +.onedrive
+    - +.onedriveupdater
     - +.bing
     - +.azure
     - +.xbox
-    - +.onedriveupdater
-    - +.onedrive
-    - +.microsoftnews.cc
-    - +.msidentity.com
+    - +.winhec.net
+    - +.msgamestudios.com
+    - +.microsoft.ch
+    - +.microsoft.cl
     - +.microsoft.com
     - +.microsoft.cz
     - +.microsoft.de
@@ -195,9 +197,9 @@ payload:
     - +.msftncsi.com
     - +.msftnet.org
     - +.msgamesresearch.com
-    - +.msgamestudios.com
+    - +.onedrive.com
     - +.mshome.net
-    - +.microsoftnews.org
+    - +.msidentity.com
     - +.msocdn.com
     - +.msturing.org
     - +.msudalosti.com
@@ -273,42 +275,24 @@ payload:
     - +.windowssearch.com
     - +.windowsupdate.com
     - +.winhec.com
-    - +.winhec.net
-    - +.yammer.com
-    - +.microsoft.ch
-    - +.microsoftnews.com
-    - +.msocsp.com
-    - +.xamarin.com
-    - +.mmdnn.com
-    - +.microsoft.cl
-    - +.msropendata.com
-    - +.microsoftnewsforkids.net
-    - +.microsoftnewsforkids.org
-    - +.microsoftnewskids.com
-    - +.microsoftnewskids.net
-    - +.microsoftnewskids.org
-    - +.msn.com
-    - +.msnewskids.com
-    - +.msnewskids.net
-    - +.msnewskids.org
-    - +.msnkids.com
-    - +.microsoftstart.com
-    - +.start.com
-    - +.microsoft.cat
     - +.microsoft.ca
-    - +.onedrive.com
-    - +.1drv.com
+    - +.yammer.com
+    - +.start.com
+    - +.microsoftstart.com
+    - +.visualstudio.co
+    - +.microsoft.cat
+    - +.vsassets.io
     - +.livefilestore.com
     - +.sharepoint.cn
-    - +.vscode-unpkg.net
-    - +.vscode-cdn.net
-    - +.vscode.dev
-    - +.vsassets.io
-    - +.vfsforgit.org
-    - +.vfsforgit.com
-    - +.visualstudio.net
-    - +.visualstudio.eu
-    - +.visualstudio.co
+    - +.msnkids.com
+    - +.msnewskids.org
+    - +.msnewskids.net
+    - +.msnewskids.com
+    - +.msn.com
+    - +.microsoftnewskids.org
+    - +.microsoftnewskids.net
+    - +.microsoftnewskids.com
+    - +.microsoftnewsforkids.org
     - +.microsoft.by
     - +.gamepass.com
     - +.orithegame.com
@@ -435,7 +419,7 @@ payload:
     - +.office365love.com
     - +.office365tw.com
     - +.renovacionoffice.com
-    - +.visualstudio.com
+    - +.microsoftnewsforkids.net
     - +.githubhackathon.com
     - +.npm.community
     - +.gh.io
@@ -463,7 +447,7 @@ payload:
     - +.githubassets.com
     - +.githubcopilot.com
     - +.npmjs.com
-    - +.visualstudio-staging.com
+    - +.microsoftnewsforkids.com
     - +.adaptivecards.io
     - +.api-extractor.com
     - +.apisof.net
@@ -487,12 +471,12 @@ payload:
     - +.microsoftsilverlight.org
     - +.microsoftsilverlight.net
     - +.microsoftsqlserver.com
-    - +.microsoftnews.net
+    - +.mmdnn.com
     - +.mono-project.com
     - +.msdn.com
     - +.msinnovationchallenge.com
     - +.mspairlift.com
-    - +.microsoftnewsforkids.com
+    - +.msropendata.com
     - +.nuget.org
     - +.nugettest.org
     - +.opentranslatorstothings.org
@@ -502,12 +486,28 @@ payload:
     - +.sqlserveronlinux.com
     - +.timelinestoryteller.com
     - +.uwpcommunitytoolkit.com
+    - +.visualstudio-staging.com
+    - +.visualstudio.com
+    - +.visualstudio.eu
+    - +.visualstudio.net
+    - +.vfsforgit.com
+    - +.vfsforgit.org
+    - +.1drv.com
+    - +.vscode.dev
+    - +.vscode-cdn.net
+    - +.vscode-unpkg.net
+    - +.xamarin.com
+    - +.microsoftnews.org
+    - +.msocsp.com
+    - +.microsoftnews.cc
+    - +.microsoftnews.com
+    - +.microsoftnews.net
     - +.spoprod-a.akamaihd.net
     - +.live.com.au
     - +.visualstudio.co.uk
-    - +.skype-edf.akadns.net
-    - +.skypedata.akadns.net
     - +.microsoftstore.com.hk
+    - +.skypedata.akadns.net
+    - +.skype-edf.akadns.net
     - +.clarity.ms
     - +.dcg.microsoft.com
     - +.dynamics.cn
@@ -584,8 +584,6 @@ payload:
     - wscont1.apps.microsoft.com
     - wscont2.apps.microsoft.com
     - xb.dlservice.microsoft.com
-    - +.microsoftnews.cn
-    - +.msn.cn
     - +.xboxlive.cn
     - +.21vbc.com
     - +.21vbluecloud.com
@@ -685,3 +683,5 @@ payload:
     - +.microsoftreactor.com.cn
     - +.reactorms.com.cn
     - www.microsoft.com
+    - +.microsoftnews.cn
+    - +.msn.cn

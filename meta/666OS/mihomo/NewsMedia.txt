@@ -1,6 +1,6 @@
 # NAME: NewsMedia
 # AUTHOR: YYDS666
-# UPDATED: 2025-10-10 02:19:24
+# UPDATED: 2025-10-11 02:19:17
 # TOTAL: 1280
 DOMAIN,aod-pod-uk-live.akamaized.net
 DOMAIN,as-dash-uk-live.akamaized.net
