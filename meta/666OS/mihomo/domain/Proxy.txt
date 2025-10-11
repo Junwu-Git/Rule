@@ -1,7 +1,7 @@
 # NAME: Proxy
 # AUTHOR: YYDS666
-# UPDATED: 2025-10-11 02:19:23
-# TOTAL: 6280
+# UPDATED: 2025-10-12 02:16:01
+# TOTAL: 6282
 +.000webhost.com
 +.030buy.com
 +.0rz.tw
@@ -1559,6 +1559,8 @@
 +.freedomsherald.org
 +.freeforums.org
 +.freegao.com
++.freegpt.es
++.freegpt.tech
 +.freehongkong.org
 +.freekazakhs.org
 +.freelotto.com
