@@ -1,7 +1,7 @@
 # NAME: AI
 # AUTHOR: YYDS666
-# UPDATED: 2025-10-13 02:17:03
-# TOTAL: 167
+# UPDATED: 2025-10-14 02:18:57
+# TOTAL: 169
 DOMAIN,ai.google.dev
 DOMAIN,aistudio.google.com
 DOMAIN,alkalicore-pa.clients6.google.com
@@ -16,6 +16,7 @@ DOMAIN,api.statsig.com
 DOMAIN,apple-relay.apple.com
 DOMAIN,apple-relay.cloudflare.com
 DOMAIN,apple-relay.fastly-edge.com
+DOMAIN,apps.mzstatic.com
 DOMAIN,auth0.openai.com
 DOMAIN,bard.google.com
 DOMAIN,browser-intake-datadoghq.com
@@ -30,6 +31,7 @@ DOMAIN,cp4.cloudflare.com
 DOMAIN,default.exp-tas.com
 DOMAIN,edgeservices.bing.com
 DOMAIN,gateway.ai.cloudflare.com
+DOMAIN,gateway.icloud.com
 DOMAIN,gemini.google.com
 DOMAIN,gspe1-ssl.ls.apple.com
 DOMAIN,guzzoni.apple.com

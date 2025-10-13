@@ -1,7 +1,7 @@
 # NAME: AI
 # AUTHOR: YYDS666
-# UPDATED: 2025-10-13 02:17:03
-# TOTAL: 154
+# UPDATED: 2025-10-14 02:18:57
+# TOTAL: 156
 +.ai.com
 +.aiproxy.io
 +.aisandbox-pa.googleapis.com
@@ -123,6 +123,7 @@ api.statsig.com
 apple-relay.apple.com
 apple-relay.cloudflare.com
 apple-relay.fastly-edge.com
+apps.mzstatic.com
 auth0.openai.com
 bard.google.com
 browser-intake-datadoghq.com
@@ -137,6 +138,7 @@ cp4.cloudflare.com
 default.exp-tas.com
 edgeservices.bing.com
 gateway.ai.cloudflare.com
+gateway.icloud.com
 gemini.google.com
 gspe1-ssl.ls.apple.com
 guzzoni.apple.com
