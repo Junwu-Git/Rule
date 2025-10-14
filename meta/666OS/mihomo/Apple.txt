@@ -1,6 +1,6 @@
 # NAME: Apple
 # AUTHOR: YYDS666
-# UPDATED: 2025-10-14 02:18:58
+# UPDATED: 2025-10-15 02:20:08
 # TOTAL: 1463
 DOMAIN,a1.mzstatic.com
 DOMAIN,a2.mzstatic.com
