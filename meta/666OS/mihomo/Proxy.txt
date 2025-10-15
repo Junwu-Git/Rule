@@ -1,7 +1,7 @@
 # NAME: Proxy
 # AUTHOR: YYDS666
-# UPDATED: 2025-10-15 02:20:08
-# TOTAL: 6291
+# UPDATED: 2025-10-16 02:20:18
+# TOTAL: 6294
 DOMAIN,0rz.tw
 DOMAIN,1-apple.com.tw
 DOMAIN,123rf.com
@@ -1558,6 +1558,7 @@ DOMAIN-SUFFIX,asia-gaming.com
 DOMAIN-SUFFIX,asiaharvest.org
 DOMAIN-SUFFIX,asianage.com
 DOMAIN-SUFFIX,asianews.it
+DOMAIN-SUFFIX,asianfanfics.com
 DOMAIN-SUFFIX,asiansexdiary.com
 DOMAIN-SUFFIX,asiaone.com
 DOMAIN-SUFFIX,asiatgp.com
@@ -5403,6 +5404,7 @@ DOMAIN-SUFFIX,tronscan.org
 DOMAIN-SUFFIX,trouw.nl
 DOMAIN-SUFFIX,trt.net.tr
 DOMAIN-SUFFIX,truebuddha-md.org
+DOMAIN-SUFFIX,trustwallet.com
 DOMAIN-SUFFIX,truthsocial.com
 DOMAIN-SUFFIX,truveo.com
 DOMAIN-SUFFIX,tryheart.jp
@@ -6080,6 +6082,7 @@ DOMAIN-SUFFIX,yyii.org
 DOMAIN-SUFFIX,yyjlymb.xyz
 DOMAIN-SUFFIX,yysub.net
 DOMAIN-SUFFIX,yzzk.com
+DOMAIN-SUFFIX,z-library.ec
 DOMAIN-SUFFIX,z-library.rs
 DOMAIN-SUFFIX,z-library.sk
 DOMAIN-SUFFIX,zalmos.com
