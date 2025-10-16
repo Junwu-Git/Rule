@@ -1,7 +1,7 @@
 # NAME: Proxy
 # AUTHOR: YYDS666
-# UPDATED: 2025-10-16 02:20:18
-# TOTAL: 6285
+# UPDATED: 2025-10-17 02:19:54
+# TOTAL: 6287
 +.000webhost.com
 +.030buy.com
 +.0rz.tw
@@ -618,7 +618,6 @@
 +.btcbank.bank
 +.btctrade.im
 +.btdig.com
-+.btdigg.org
 +.btguard.com
 +.btku.me
 +.btku.org
@@ -1781,6 +1780,7 @@
 +.goodtv.com.tw
 +.goodtv.tv
 +.goofind.com
++.goog
 +.google
 +.google.ae
 +.google.am
@@ -4674,6 +4674,7 @@
 +.webpkgcache.com
 +.webrtc.org
 +.webrush.net
++.websdr.org
 +.website.new
 +.webwarper.net
 +.wechatlawsuit.com
@@ -4870,6 +4871,7 @@
 +.xn--noss43i.com
 +.xn--oiq.cc
 +.xn--p8j9a0d9c9a.xn--q9jyb4c
++.xn--u2u927b.com
 +.xnpool.com
 +.xnxx.com
 +.xpud.org
