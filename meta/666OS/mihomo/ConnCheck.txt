@@ -1,6 +1,6 @@
 # NAME: ConnCheck
 # AUTHOR: YYDS666
-# UPDATED: 2025-10-17 02:20:00
+# UPDATED: 2025-10-18 02:19:26
 # TOTAL: 12
 DOMAIN,connect.rom.miui.com
 DOMAIN,connectivitycheck.platform.hicloud.com
