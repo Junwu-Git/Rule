@@ -1,7 +1,7 @@
 # NAME: Games
 # AUTHOR: YYDS666
-# UPDATED: 2025-10-18 02:19:27
-# TOTAL: 760
+# UPDATED: 2025-10-19 02:17:03
+# TOTAL: 769
 DOMAIN,a.ppy.sh
 DOMAIN,a4e8s8k3.map2.ssl.hwcdn.net
 DOMAIN,alibaba.cdn.steampipe.steamcontent.com
@@ -50,6 +50,7 @@ DOMAIN,ssl-lvlt.cdn.ea.com
 DOMAIN,static-login.gog-statics.com
 DOMAIN,steambroadcast.akamaized.net
 DOMAIN,steamcdn-a.akamaihd.net
+DOMAIN,steamcloudsweden.blob.core.windows.net
 DOMAIN,steamcommunity-a.akamaihd.net
 DOMAIN,steamcommunity-a.akamaihd.net.edgesuite.net
 DOMAIN,steammobile.akamaized.net
@@ -107,6 +108,7 @@ DOMAIN-SUFFIX,5054399.com
 DOMAIN-SUFFIX,5054399.net
 DOMAIN-SUFFIX,71acg.com
 DOMAIN-SUFFIX,71acg.net
+DOMAIN-SUFFIX,9xgame.com
 DOMAIN-SUFFIX,ac-pocketcamp.com
 DOMAIN-SUFFIX,aki-game.com
 DOMAIN-SUFFIX,amiibo.com
@@ -278,10 +280,13 @@ DOMAIN-SUFFIX,frostbite.com
 DOMAIN-SUFFIX,funnycore.com
 DOMAIN-SUFFIX,futpromos.com
 DOMAIN-SUFFIX,futunited.com
+DOMAIN-SUFFIX,fxt365.com
 DOMAIN-SUFFIX,game-repack.site
+DOMAIN-SUFFIX,gameabc.com
 DOMAIN-SUFFIX,gamebonfire.com
 DOMAIN-SUFFIX,gameitop.com
 DOMAIN-SUFFIX,gameloop.com
+DOMAIN-SUFFIX,gamemei.com
 DOMAIN-SUFFIX,gamepass.com
 DOMAIN-SUFFIX,gamesfirsthelsinki.com
 DOMAIN-SUFFIX,garenanow.com
@@ -360,6 +365,7 @@ DOMAIN-SUFFIX,lolpcs.com
 DOMAIN-SUFFIX,lolshop.co.kr
 DOMAIN-SUFFIX,lolstatic.com
 DOMAIN-SUFFIX,lolusercontent.com
+DOMAIN-SUFFIX,longtugame.com
 DOMAIN-SUFFIX,lordofultima.com
 DOMAIN-SUFFIX,loverslab.com
 DOMAIN-SUFFIX,lowiro.com
@@ -415,6 +421,7 @@ DOMAIN-SUFFIX,mo.co
 DOMAIN-SUFFIX,modrinth.com
 DOMAIN-SUFFIX,mojang.com
 DOMAIN-SUFFIX,molesports.com
+DOMAIN-SUFFIX,morefreegame.com
 DOMAIN-SUFFIX,mszdld.cn
 DOMAIN-SUFFIX,mszdld.com
 DOMAIN-SUFFIX,mszdld.net
@@ -713,6 +720,7 @@ DOMAIN-SUFFIX,wiisports.com
 DOMAIN-SUFFIX,wiisportsresort.com
 DOMAIN-SUFFIX,wiiugamepad.com
 DOMAIN-SUFFIX,wiivc.net
+DOMAIN-SUFFIX,winegame.net
 DOMAIN-SUFFIX,wmsjsteam.com
 DOMAIN-SUFFIX,wo1wan.com
 DOMAIN-SUFFIX,worldflipper.akamaized.net
@@ -739,6 +747,7 @@ DOMAIN-SUFFIX,xindong.com
 DOMAIN-SUFFIX,xn--mts47c3w9b1qr.cn
 DOMAIN-SUFFIX,xn--mts47c3w9b1qr.net
 DOMAIN-SUFFIX,xn--owtw8cc49ajfl.cn
+DOMAIN-SUFFIX,ycgame.com
 DOMAIN-SUFFIX,ynoproject.net
 DOMAIN-SUFFIX,yogify.com
 DOMAIN-SUFFIX,yoshisnewisland.com

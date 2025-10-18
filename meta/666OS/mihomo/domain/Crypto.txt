@@ -1,7 +1,7 @@
 # NAME: Crypto
 # AUTHOR: YYDS666
-# UPDATED: 2025-10-18 02:19:27
-# TOTAL: 424
+# UPDATED: 2025-10-19 02:17:03
+# TOTAL: 425
 +.1inch.io
 +.aave.com
 +.account-paypal.info
@@ -175,6 +175,7 @@
 +.mywaytopay.net
 +.nexo.com
 +.nexo.io
++.nftstatic.com
 +.okex.com
 +.oklink.com
 +.okx-dns.com

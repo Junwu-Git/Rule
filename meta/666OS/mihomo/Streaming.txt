@@ -1,7 +1,7 @@
 # NAME: Streaming
 # AUTHOR: YYDS666
-# UPDATED: 2025-10-18 02:19:27
-# TOTAL: 392
+# UPDATED: 2025-10-19 02:17:02
+# TOTAL: 393
 DOMAIN,44wilhpljf.execute-api.ap-southeast-1.amazonaws.com
 DOMAIN,api-abematv.bucketeer.jp
 DOMAIN,api.viu.now.com
@@ -79,6 +79,7 @@ DOMAIN,uts-api.itunes.apple.com
 DOMAIN,x-default-stgec.uplynk.com
 DOMAIN,youtubei.googleapis.com
 DOMAIN,yt3.ggpht.com
+DOMAIN,yt3.googleusercontent.com
 DOMAIN-SUFFIX,20thcenturystudios.com.au
 DOMAIN-SUFFIX,20thcenturystudios.com.br
 DOMAIN-SUFFIX,20thcenturystudios.jp

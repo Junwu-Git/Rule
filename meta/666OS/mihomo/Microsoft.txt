@@ -1,7 +1,7 @@
 # NAME: Microsoft
 # AUTHOR: YYDS666
-# UPDATED: 2025-10-18 02:19:25
-# TOTAL: 600
+# UPDATED: 2025-10-19 02:17:11
+# TOTAL: 602
 DOMAIN,az764295.vo.msecnd.net
 DOMAIN,azure.microsoft.com
 DOMAIN,azuremarketplace.microsoft.com
@@ -26,6 +26,7 @@ DOMAIN,emoi-cncdn.bing.com
 DOMAIN,f.c2r.ts.cdn.office.net
 DOMAIN,flightsimulator.azureedge.net
 DOMAIN,fs.microsoft.com
+DOMAIN,github-api.arkoselabs.com
 DOMAIN,github-cloud.s3.amazonaws.com
 DOMAIN,img-prod-cms-rt-microsoft-com.akamaized.net
 DOMAIN,img-s-msn-com.akamaized.net
@@ -454,6 +455,7 @@ DOMAIN-SUFFIX,o365files.cn
 DOMAIN-SUFFIX,o365weve-dev.com
 DOMAIN-SUFFIX,o365weve-ppe.com
 DOMAIN-SUFFIX,o365weve.com
+DOMAIN-SUFFIX,octocaptcha.com
 DOMAIN-SUFFIX,office
 DOMAIN-SUFFIX,office.com
 DOMAIN-SUFFIX,office.net

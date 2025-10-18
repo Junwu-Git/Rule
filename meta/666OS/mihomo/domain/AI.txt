@@ -1,7 +1,7 @@
 # NAME: AI
 # AUTHOR: YYDS666
-# UPDATED: 2025-10-18 02:19:26
-# TOTAL: 156
+# UPDATED: 2025-10-19 02:17:09
+# TOTAL: 159
 +.ai.com
 +.aiproxy.io
 +.aisandbox-pa.googleapis.com
@@ -12,12 +12,15 @@
 +.api2d.com
 +.auth0.com
 +.bard.google.com
++.cerebras.ai
 +.character.ai
 +.chat.com
 +.chatgpt.com
 +.chatgpt.livekit.cloud
 +.chutes.ai
 +.claude.ai
++.claude.com
++.claudemcpclient.com
 +.claudeusercontent.com
 +.client-api.arkoselabs.com
 +.clipdrop.co

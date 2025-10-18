@@ -1,7 +1,7 @@
 # NAME: China
 # AUTHOR: YYDS666
-# UPDATED: 2025-10-18 02:19:24
-# TOTAL: 5714
+# UPDATED: 2025-10-19 02:17:06
+# TOTAL: 5763
 +.00cdn.com
 +.0123456789.com
 +.0379home.com
@@ -345,6 +345,7 @@
 +.activity04.com
 +.activity05.com
 +.activitybyte.com
++.acwifi.net
 +.acwing.com
 +.adcommerce.cn
 +.adidas.com.cn
@@ -527,6 +528,8 @@
 +.apaas-zone-test.com
 +.apabi.com
 +.apcdns.net
++.apdcdn.com
++.apdcdn.net
 +.apifox.com
 +.apigwtencent.com
 +.apihub-internal.cn
@@ -580,6 +583,7 @@
 +.asczwa.com
 +.asczxcefsv.com
 +.asfiovnxocqpcry.com.cn
++.asklib.com
 +.asktug.com
 +.assoc-amazon.cn
 +.astral-vector.com
@@ -708,8 +712,6 @@
 +.bcebos.com
 +.bcfmglobal.com
 +.bcvbw.com
-+.bcy.net
-+.bcyimg.com
 +.bczcdn.com
 +.bdactivity.com
 +.bdcat.top
@@ -720,6 +722,7 @@
 +.bdispatch.com
 +.bdispatch.net
 +.bdmozon.com
++.bdmyandex.com
 +.bdns-api-test.net
 +.bdns-boe.com
 +.bdns-boe.net
@@ -759,6 +762,7 @@
 +.beisenapp.com
 +.beisencloud.com
 +.beisenpaas.com
++.bendibao.com
 +.benfuip.com
 +.bengbeng.com
 +.benghuai.com
@@ -976,6 +980,7 @@
 +.bytetstatic.com
 +.bytetstatic.net
 +.bytevalk.com
++.bytevcloudapi.com
 +.bytevcloudvod.com
 +.bytevdn-boe.com
 +.bytevdn.com
@@ -1017,6 +1022,7 @@
 +.ccbleasing.com
 +.ccbxt.com
 +.ccnew.com
++.ccrgt.com
 +.cctalk.com
 +.cctv.com
 +.cctvpic.com
@@ -1131,6 +1137,7 @@
 +.chaoxingv.com
 +.chashebao.com
 +.chazhengla.com
++.chaziyu.com
 +.che168.com
 +.checkzeit.com
 +.cheng.xin
@@ -1182,9 +1189,11 @@
 +.chiphell.com
 +.chndoi.org
 +.chntel.com
++.chongbuluo.com
 +.chongdiantou.com
 +.chouti.com
 +.chrstatic.com
++.chuangcdn.com
 +.chuangxin.com
 +.chuanke.com
 +.chuansong.me
@@ -1381,7 +1390,7 @@
 +.coolsite.vip
 +.cowlevel.net
 +.cowtransfer.com
-+.coze.cn
++.coze.site
 +.cpatrk.net
 +.cppblog.com
 +.cpppf.org
@@ -1536,6 +1545,7 @@
 +.dj99.com
 +.djdjapp.com
 +.dji.com
++.dji.ink
 +.dji.net
 +.djicdn.com
 +.djiits.com
@@ -1578,6 +1588,7 @@
 +.dongguantoday.com
 +.dongjiao.cc
 +.dongjiaoapp.com
++.dongqiudi.com
 +.dongting.com
 +.dopa.com
 +.doservice.com
@@ -1588,8 +1599,10 @@
 +.douban.fm
 +.doubanio.com
 +.doubao.com
++.doubaocdn.com
 +.doubo03.com
 +.doucang.com
++.doudou.com
 +.douxie.com
 +.douyin.com
 +.douyinact.com
@@ -2253,6 +2266,7 @@
 +.hqpcb.com
 +.hr-welink.com
 +.hsfund.com
++.hsqh.net
 +.htcases.com
 +.hteacher.net
 +.htjsq.com
@@ -2343,7 +2357,9 @@
 +.iask.com
 +.ibaotu.com
 +.ibcet.org
++.ibdxiguaimg.com
 +.ibdxigualive.com
++.ibdxiguastatic.com
 +.ibdxiguavod.com
 +.ibidian.com
 +.ibobscs.com
@@ -2421,6 +2437,7 @@
 +.imcapptest.com
 +.imedao.com
 +.img4399.com
++.imgcdc.com
 +.imgo.tv
 +.immersivetranslate.com
 +.imooc.com
@@ -2752,10 +2769,12 @@
 +.kanbox.com
 +.kanimg.com
 +.kankanews.com
++.kankannews.com
 +.kantianqi.net
 +.kanxue.com
 +.kanzhun.com
 +.kaola.com
++.kaolacdn.com
 +.kaopu001.com
 +.kcbebank.com
 +.kd100.com
@@ -2785,6 +2804,7 @@
 +.kjwugx.com
 +.kk1.vip
 +.kkmh.com
++.kksmg.com
 +.kkzj.com
 +.klpbbs.com
 +.kongfz.com
@@ -2976,7 +2996,6 @@
 +.letv.com
 +.letvcdn.com
 +.letvimg.com
-+.lf-rc1.yhgfb-cn-static.com
 +.lgstatic.com
 +.lhzq.com
 +.liangxinyao.com
@@ -3098,6 +3117,7 @@
 +.manmanbuy.com
 +.manmankan.com
 +.maoercdn.com
++.maoxiangai.com
 +.maoyan.com
 +.maoyun.com
 +.maoyuncloud.com
@@ -3114,11 +3134,14 @@
 +.mayihr.com
 +.mayshijia.com
 +.mbalib.com
++.mcbaas.work
 +.mcbang.com
 +.mcbbs.net
 +.mcchcdn.com
 +.mcd.cn
++.mcdemo.show
 +.mcdonalds.com.cn
++.mchost.guru
 +.mdeer.com
 +.mdpda.com
 +.me1.ltd
@@ -3154,6 +3177,7 @@
 +.mgtv.com
 +.mhystatic.com
 +.mhyurl.cn
++.mi-idc.com
 +.mi-img.com
 +.mi.com
 +.miaobolive.com
@@ -3307,6 +3331,7 @@
 +.myimis.com
 +.myoppo.com
 +.mypaas.com
++.myparallelstory.com
 +.myqcloud.com
 +.myqnapcloud.cn
 +.myshow360.net
@@ -3378,6 +3403,7 @@
 +.nintendolabo.cn
 +.nintendoswitch.cn
 +.nintendoswitch.com.cn
++.nlark.com
 +.nmrdata.com
 +.nnthink.com
 +.nokiantyres.cn
@@ -3527,6 +3553,7 @@
 +.pcbeta.com
 +.pchome.net
 +.pcpop.com
++.pddcdn.com
 +.pddpic.com
 +.pearson.com.cn
 +.pearvideo.com
@@ -3555,6 +3582,7 @@
 +.pipaw.net
 +.pipix.com
 +.pipixiaha.com
++.pixeldance.com
 +.piyipiba.com
 +.pkoplink.com
 +.pkulaw.com
@@ -3599,6 +3627,7 @@
 +.pubgno1.cn
 +.pubgtool.com
 +.pubyun.com
++.puddingcat.top
 +.pupuapi.com
 +.pupumall.com
 +.pushcfg.com
@@ -3733,6 +3762,7 @@
 +.qunarcdn.com
 +.qunarzz.com
 +.qunjielong.com
++.qunliao.info
 +.quyaoya.com
 +.qweather.com
 +.qweather.net
@@ -3753,6 +3783,7 @@
 +.razersynapse.com
 +.razerzone.com
 +.rdfybk.com
++.rdnsdb.com
 +.reabble.cn
 +.reactorms.com.cn
 +.readnovel.com
@@ -3881,6 +3912,7 @@
 +.shifen.com
 +.shijiexia.com
 +.shimo.im
++.shimonote.com
 +.shixiseng.com
 +.shizhuang-inc.com
 +.shizhuang-inc.net
@@ -3889,6 +3921,7 @@
 +.shopeesz.com
 +.shopss.com
 +.shoujihuifu.com
++.shouqianba.com
 +.shouyoubus.com
 +.shrbank.com
 +.shssp.org
@@ -4002,6 +4035,7 @@
 +.starworldgames.com
 +.staticfile.net
 +.staticfile.org
++.statickksmg.com
 +.statuslarkoffice.com
 +.stcn.com
 +.steam302.xyz
@@ -4030,6 +4064,7 @@
 +.sunlogin.net
 +.sunrtb.com
 +.supercachenet.com
++.supercachenode.com
 +.supercellcommunity.cn
 +.supercellsupport.cn
 +.superlib.com
@@ -4114,6 +4149,7 @@
 +.tcloudhw.net
 +.tcloudscdn.com
 +.tcloudscdn.net
++.tcwqqdy.guru
 +.tdnsv1.com
 +.tdnsv1.net
 +.tdnsv10.com
@@ -4268,6 +4304,7 @@
 +.tlbapm.com
 +.tlgslb.com
 +.tlivecdn.com
++.tlivemcdn.com
 +.tlivepush.com
 +.tlivesource.com
 +.tmall
@@ -4331,6 +4368,7 @@
 +.tr-test.net
 +.tr-testboe.net
 +.tracup.com
++.trae.guru
 +.trafficmanager.cn
 +.travelex.com.cn
 +.travelsky.com
@@ -4364,6 +4402,8 @@
 +.tuxi.com
 +.tuya.com
 +.tvbc.com.cn
++.tvmao.com
++.tvzhe.com
 +.twscholar.com
 +.tx-exhibition.com
 +.txbyod.com
@@ -4420,6 +4460,7 @@
 +.ui.com.cn
 +.uiwow.com
 +.ulikecam.com
++.ultracachenode.com
 +.um.run
 +.umajor.net
 +.umeng.com
@@ -4675,6 +4716,9 @@
 +.welltrend-edu.com
 +.wenjuan.com
 +.wenmingban.com
++.wenshushu.com
++.wenxiaozhan.com
++.wenxiaozhan.net
 +.wenxin-ge.com
 +.werepository.com.cn
 +.west95582.com
@@ -4737,6 +4781,11 @@
 +.wscdns.info
 +.wscdns.org
 +.wsoso.com
++.wss.cc
++.wss.email
++.wss.ink
++.wss.pet
++.wss.show
 +.wss.zone
 +.wsukwai.com
 +.wtown.com
