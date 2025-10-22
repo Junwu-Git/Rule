@@ -1,7 +1,7 @@
 # NAME: Proxy
 # AUTHOR: YYDS666
-# UPDATED: 2025-10-22 02:19:32
-# TOTAL: 6296
+# UPDATED: 2025-10-23 02:21:13
+# TOTAL: 6297
 DOMAIN,0rz.tw
 DOMAIN,1-apple.com.tw
 DOMAIN,123rf.com
@@ -2386,6 +2386,7 @@ DOMAIN-SUFFIX,dnvod.tv
 DOMAIN-SUFFIX,doc.new
 DOMAIN-SUFFIX,docker.com
 DOMAIN-SUFFIX,docker.io
+DOMAIN-SUFFIX,dockerstatus.com
 DOMAIN-SUFFIX,docs.deno.com
 DOMAIN-SUFFIX,docs.new
 DOMAIN-SUFFIX,documentingreality.com
