@@ -1,6 +1,6 @@
 # NAME: Direct
 # AUTHOR: YYDS666
-# UPDATED: 2025-10-24 02:20:18
+# UPDATED: 2025-10-25 02:20:19
 # TOTAL: 50
 +.10.in-addr.arpa
 +.16.172.in-addr.arpa
