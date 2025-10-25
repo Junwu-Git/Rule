@@ -1,7 +1,7 @@
 # NAME: SocialMedia
 # AUTHOR: YYDS666
-# UPDATED: 2025-10-25 02:20:20
-# TOTAL: 573
+# UPDATED: 2025-10-26 02:17:46
+# TOTAL: 575
 DOMAIN,e122475.dscg.akamaiedge.net
 DOMAIN,fbcdn-a.akamaihd.net
 DOMAIN,licdn.cn.cdn20.com
@@ -31,6 +31,7 @@ DOMAIN-SUFFIX,buicha.social
 DOMAIN-SUFFIX,buyingfacebooklikes.com
 DOMAIN-SUFFIX,careersatfb.com
 DOMAIN-SUFFIX,carstagram.com
+DOMAIN-SUFFIX,cdn-vk.ru
 DOMAIN-SUFFIX,cdninstagram.com
 DOMAIN-SUFFIX,celebgramme.com
 DOMAIN-SUFFIX,chickstagram.com
@@ -527,6 +528,7 @@ DOMAIN-SUFFIX,vk.me
 DOMAIN-SUFFIX,vk.ru
 DOMAIN-SUFFIX,vk.team
 DOMAIN-SUFFIX,vkcache.com
+DOMAIN-SUFFIX,vkcloud-static.ru
 DOMAIN-SUFFIX,vkgo.app
 DOMAIN-SUFFIX,vklive.app
 DOMAIN-SUFFIX,vkmessenger.app

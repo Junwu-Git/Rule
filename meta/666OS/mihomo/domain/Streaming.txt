@@ -1,7 +1,7 @@
 # NAME: Streaming
 # AUTHOR: YYDS666
-# UPDATED: 2025-10-25 02:20:14
-# TOTAL: 571
+# UPDATED: 2025-10-26 02:17:40
+# TOTAL: 572
 +.20thcenturystudios.com.au
 +.20thcenturystudios.com.br
 +.20thcenturystudios.jp
@@ -307,6 +307,7 @@
 +.tiktokv.us
 +.tiktokw.eu
 +.tiktokw.us
++.tospotify.com
 +.ttlivecdn.com
 +.ttoverseaus.net
 +.ttvnw.net

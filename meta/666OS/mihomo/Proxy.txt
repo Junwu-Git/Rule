@@ -1,7 +1,7 @@
 # NAME: Proxy
 # AUTHOR: YYDS666
-# UPDATED: 2025-10-25 02:20:17
-# TOTAL: 6297
+# UPDATED: 2025-10-26 02:17:43
+# TOTAL: 6298
 DOMAIN,0rz.tw
 DOMAIN,1-apple.com.tw
 DOMAIN,123rf.com
@@ -663,6 +663,7 @@ DOMAIN,mcreasite.com
 DOMAIN,me.youthwant.com.tw
 DOMAIN,mediafire.com
 DOMAIN,mefeedia.com
+DOMAIN,merchant-rating.alibaba.com
 DOMAIN,mesotw.com
 DOMAIN,metrohk.com.hk
 DOMAIN,mhradio.org

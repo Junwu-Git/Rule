@@ -1,7 +1,7 @@
 # NAME: Apple
 # AUTHOR: YYDS666
-# UPDATED: 2025-10-25 02:20:13
-# TOTAL: 1796
+# UPDATED: 2025-10-26 02:17:46
+# TOTAL: 1797
 +.100beatscheap.com
 +.12diasdepresentesdeitunes.com
 +.12diasderegalosdeitunes.cl
@@ -811,6 +811,7 @@
 +.cooliphonecasesstore.com
 +.coolmonster.net
 +.coreml.net
++.courier-push-apple.com.akadns.net
 +.cozydrdrebeats.com
 +.cqcorea.com
 +.cuffiesaldi.com
@@ -1614,9 +1615,9 @@ clientflow.apple.com.akadns.net
 cma.itunes.apple.com
 cn-smp-paymentservices.apple.com
 communities.apple.com
+configuration-lb.ls-apple.com.akadns.net
 configuration.apple.com
 configuration.apple.com.akadns.net
-courier-push-apple.com.akadns.net
 crl-lb.apple.com.akadns.net
 crl.apple.com
 cstat.apple.com

@@ -1,7 +1,7 @@
 # NAME: Crypto
 # AUTHOR: YYDS666
-# UPDATED: 2025-10-25 02:20:12
-# TOTAL: 425
+# UPDATED: 2025-10-26 02:17:36
+# TOTAL: 430
 +.1inch.io
 +.aave.com
 +.account-paypal.info
@@ -142,6 +142,7 @@
 +.gemini.com
 +.getbraintree.com
 +.gmoney.org
++.guardarian.com
 +.hashflow.com
 +.hbabit.com
 +.hbfile.net
@@ -375,6 +376,8 @@
 +.securepaypal.info
 +.simility.com
 +.sslpaypal.org
++.stealthex.io
++.straitsx.com
 +.swiftbank.info
 +.swiftbank.us
 +.swiftcapital.com
@@ -424,6 +427,8 @@
 +.zb.live
 bybit-exchange.github.io
 bybit.ada.support
+d3r7nsslvs6aaf.cloudfront.net
 deribit.cdn.prismic.io
 onekey.zendesk.com
+straitsx-826709081262441084-b790f87a2ae6fd417434295.freshchat.com
 venmo.s3.amazonaws.com

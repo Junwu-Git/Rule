@@ -1,7 +1,7 @@
 # NAME: Microsoft
 # AUTHOR: YYDS666
-# UPDATED: 2025-10-25 02:20:19
-# TOTAL: 602
+# UPDATED: 2025-10-26 02:17:42
+# TOTAL: 595
 DOMAIN,az764295.vo.msecnd.net
 DOMAIN,azure.microsoft.com
 DOMAIN,azuremarketplace.microsoft.com
@@ -33,8 +33,6 @@ DOMAIN,img-s-msn-com.akamaized.net
 DOMAIN,learn.microsoft.com
 DOMAIN,location.microsoft.com
 DOMAIN,mscrl.microsoft.com
-DOMAIN,msgr.dlservice.microsoft.com
-DOMAIN,msgruser.dlservice.microsoft.com
 DOMAIN,mwf-service.akamaized.net
 DOMAIN,myvs.download.prss.microsoft.com
 DOMAIN,ocsp.microsoft.com
@@ -46,14 +44,11 @@ DOMAIN,poshtestgallery.cloudapp.net
 DOMAIN,prodforza.blob.core.windows.net
 DOMAIN,psg-int-centralus.cloudapp.net
 DOMAIN,psg-int-eastus.cloudapp.net
-DOMAIN,qh.dlservice.microsoft.com
 DOMAIN,res-1.cdn.office.net
 DOMAIN,res.cdn.office.net
 DOMAIN,rink.hockeyapp.net
 DOMAIN,sdx.microsoft.com
 DOMAIN,shell.cdn.office.net
-DOMAIN,silverlight.dlservice.microsoft.com
-DOMAIN,slupdate.dlservice.microsoft.com
 DOMAIN,software.download.prss.microsoft.com
 DOMAIN,statics-marketingsites-eas-ms-com.akamaized.net
 DOMAIN,statics-marketingsites-eus-ms-com.akamaized.net
@@ -68,11 +63,9 @@ DOMAIN,vscode.download.prss.microsoft.com
 DOMAIN,vscode.search.windows.net
 DOMAIN,vsmarketplacebadge.apphb.com
 DOMAIN,vz.download.prss.microsoft.com
-DOMAIN,wl.dlservice.microsoft.com
 DOMAIN,wscont1.apps.microsoft.com
 DOMAIN,wscont2.apps.microsoft.com
 DOMAIN,www.microsoft.com
-DOMAIN,xb.dlservice.microsoft.com
 DOMAIN-SUFFIX,1drv.com
 DOMAIN-SUFFIX,1drv.ms
 DOMAIN-SUFFIX,21vbc.com

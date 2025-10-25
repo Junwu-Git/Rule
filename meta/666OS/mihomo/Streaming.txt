@@ -1,7 +1,7 @@
 # NAME: Streaming
 # AUTHOR: YYDS666
-# UPDATED: 2025-10-25 02:20:14
-# TOTAL: 393
+# UPDATED: 2025-10-26 02:17:40
+# TOTAL: 394
 DOMAIN,44wilhpljf.execute-api.ap-southeast-1.amazonaws.com
 DOMAIN,api-abematv.bucketeer.jp
 DOMAIN,api.viu.now.com
@@ -331,6 +331,7 @@ DOMAIN-SUFFIX,tiktokv.eu
 DOMAIN-SUFFIX,tiktokv.us
 DOMAIN-SUFFIX,tiktokw.eu
 DOMAIN-SUFFIX,tiktokw.us
+DOMAIN-SUFFIX,tospotify.com
 DOMAIN-SUFFIX,ttlivecdn.com
 DOMAIN-SUFFIX,ttoverseaus.net
 DOMAIN-SUFFIX,ttvnw.net

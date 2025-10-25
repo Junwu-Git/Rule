@@ -1,7 +1,7 @@
 # NAME: Games
 # AUTHOR: YYDS666
-# UPDATED: 2025-10-25 02:20:20
-# TOTAL: 837
+# UPDATED: 2025-10-26 02:17:47
+# TOTAL: 842
 +.100classicbooks.com
 +.17roco.com
 +.2k.com
@@ -616,7 +616,6 @@
 +.steamgames.com
 +.steampowered.com
 +.steampowered.com.8686c.com
-+.steampp.net
 +.steamserver.net
 +.steamstatic.com
 +.steamstatic.com.8686c.com
@@ -708,6 +707,10 @@
 +.wanwan4399.com
 +.wariolandshakeit.com
 +.wariowarediy.com
++.warnerbrosgames.com
++.wbagora.com
++.wbgames.com
++.wbinsights.com
 +.wcbygame.com
 +.we4399.com
 +.webgame163.com
@@ -790,6 +793,7 @@ bnetshopus.akamaized.net
 c.ppy.sh
 cdngarenanow-a.akamaihd.net
 cloudsync-prod.s3.amazonaws.com
+datarouter.apps.netherrealm.com
 dlgarenanow-a.akamaihd.net
 dlmobilegarena-a.akamaihd.net
 ea.tt.omtrdc.net
@@ -837,5 +841,6 @@ ubisoft-uplay-savegames.s3.amazonaws.com
 ubistatic3-a.akamaihd.net
 uplaypc-s-ubisoft.cdn.ubi.com
 videos-rockstargames-com.akamaized.net
+wb-agora-hydra-file-storage-k1.s3.amazonaws.com
 www4-static.gog-statics.com
 xz.pphimalayanrt.com

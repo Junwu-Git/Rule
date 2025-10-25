@@ -1,7 +1,7 @@
 # NAME: Microsoft
 # AUTHOR: YYDS666
-# UPDATED: 2025-10-25 02:20:19
-# TOTAL: 691
+# UPDATED: 2025-10-26 02:17:42
+# TOTAL: 684
 +.1drv.com
 +.1drv.ms
 +.21vbc.com
@@ -653,8 +653,6 @@ img-s-msn-com.akamaized.net
 learn.microsoft.com
 location.microsoft.com
 mscrl.microsoft.com
-msgr.dlservice.microsoft.com
-msgruser.dlservice.microsoft.com
 mwf-service.akamaized.net
 myvs.download.prss.microsoft.com
 ocsp.microsoft.com
@@ -666,14 +664,11 @@ poshtestgallery.cloudapp.net
 prodforza.blob.core.windows.net
 psg-int-centralus.cloudapp.net
 psg-int-eastus.cloudapp.net
-qh.dlservice.microsoft.com
 res-1.cdn.office.net
 res.cdn.office.net
 rink.hockeyapp.net
 sdx.microsoft.com
 shell.cdn.office.net
-silverlight.dlservice.microsoft.com
-slupdate.dlservice.microsoft.com
 software.download.prss.microsoft.com
 statics-marketingsites-eas-ms-com.akamaized.net
 statics-marketingsites-eus-ms-com.akamaized.net
@@ -688,8 +683,6 @@ vscode.download.prss.microsoft.com
 vscode.search.windows.net
 vsmarketplacebadge.apphb.com
 vz.download.prss.microsoft.com
-wl.dlservice.microsoft.com
 wscont1.apps.microsoft.com
 wscont2.apps.microsoft.com
 www.microsoft.com
-xb.dlservice.microsoft.com

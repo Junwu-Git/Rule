@@ -1,11 +1,13 @@
 # NAME: Crypto
 # AUTHOR: YYDS666
-# UPDATED: 2025-10-25 02:20:12
-# TOTAL: 356
+# UPDATED: 2025-10-26 02:17:36
+# TOTAL: 361
 DOMAIN,bybit-exchange.github.io
 DOMAIN,bybit.ada.support
+DOMAIN,d3r7nsslvs6aaf.cloudfront.net
 DOMAIN,deribit.cdn.prismic.io
 DOMAIN,onekey.zendesk.com
+DOMAIN,straitsx-826709081262441084-b790f87a2ae6fd417434295.freshchat.com
 DOMAIN,venmo.s3.amazonaws.com
 DOMAIN-SUFFIX,1inch.io
 DOMAIN-SUFFIX,aave.com
@@ -117,6 +119,7 @@ DOMAIN-SUFFIX,gateio.services
 DOMAIN-SUFFIX,gemini.com
 DOMAIN-SUFFIX,getbraintree.com
 DOMAIN-SUFFIX,gmoney.org
+DOMAIN-SUFFIX,guardarian.com
 DOMAIN-SUFFIX,hashflow.com
 DOMAIN-SUFFIX,hbabit.com
 DOMAIN-SUFFIX,hbfile.net
@@ -306,6 +309,8 @@ DOMAIN-SUFFIX,secure-paypal.info
 DOMAIN-SUFFIX,securepaypal.info
 DOMAIN-SUFFIX,simility.com
 DOMAIN-SUFFIX,sslpaypal.org
+DOMAIN-SUFFIX,stealthex.io
+DOMAIN-SUFFIX,straitsx.com
 DOMAIN-SUFFIX,swiftbank.info
 DOMAIN-SUFFIX,swiftbank.us
 DOMAIN-SUFFIX,swiftcapital.com

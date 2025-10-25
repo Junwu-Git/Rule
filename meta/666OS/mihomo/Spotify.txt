@@ -1,7 +1,7 @@
 # NAME: Spotify
 # AUTHOR: YYDS666
-# UPDATED: 2025-10-25 02:20:20
-# TOTAL: 22
+# UPDATED: 2025-10-26 02:17:47
+# TOTAL: 23
 DOMAIN,audio-ak-spotify-com.akamaized.net
 DOMAIN,audio4-ak-spotify-com.akamaized.net
 DOMAIN,cdn-spotify-experiments.conductrics.com
@@ -24,3 +24,4 @@ DOMAIN-SUFFIX,spotifycharts.com
 DOMAIN-SUFFIX,spotifycodes.com
 DOMAIN-SUFFIX,spotifyforbrands.com
 DOMAIN-SUFFIX,spotifyjobs.com
+DOMAIN-SUFFIX,tospotify.com

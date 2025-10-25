@@ -1,8 +1,9 @@
 # NAME: Cloudflare
 # AUTHOR: YYDS666
-# UPDATED: 2025-10-25 02:20:12
-# TOTAL: 56
+# UPDATED: 2025-10-26 02:17:46
+# TOTAL: 58
 +.argotunnel.com
++.cf-china.info
 +.cf-ipfs.com
 +.cf-ns.com
 +.cf-ns.net
@@ -40,6 +41,7 @@
 +.cloudflareportal.com
 +.cloudflarepreview.com
 +.cloudflareprod.com
++.cloudflareregistrar.com
 +.cloudflareresolve.com
 +.cloudflaressl.com
 +.cloudflarestaging.com

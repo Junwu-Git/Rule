@@ -1,7 +1,7 @@
 # NAME: SocialMedia
 # AUTHOR: YYDS666
-# UPDATED: 2025-10-25 02:20:20
-# TOTAL: 586
+# UPDATED: 2025-10-26 02:17:46
+# TOTAL: 588
 +.9ineverse.com
 +.aboutfacebook.com
 +.accessfacebookfromschool.com
@@ -27,6 +27,7 @@
 +.buyingfacebooklikes.com
 +.careersatfb.com
 +.carstagram.com
++.cdn-vk.ru
 +.cdninstagram.com
 +.celebgramme.com
 +.chickstagram.com
@@ -555,6 +556,7 @@
 +.vk.ru
 +.vk.team
 +.vkcache.com
++.vkcloud-static.ru
 +.vkgo.app
 +.vklive.app
 +.vkmessenger.app
