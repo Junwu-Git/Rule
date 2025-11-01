@@ -1,6 +1,6 @@
 # NAME: Claude
 # AUTHOR: YYDS666
-# UPDATED: 2025-11-01 02:21:07
+# UPDATED: 2025-11-02 02:17:26
 # TOTAL: 3
 +.anthropic.com
 +.claude.ai

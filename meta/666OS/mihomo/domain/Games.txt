@@ -1,7 +1,7 @@
 # NAME: Games
 # AUTHOR: YYDS666
-# UPDATED: 2025-11-01 02:20:57
-# TOTAL: 842
+# UPDATED: 2025-11-02 02:17:19
+# TOTAL: 850
 +.100classicbooks.com
 +.17roco.com
 +.2k.com
@@ -262,8 +262,11 @@
 +.haydaypop.cn
 +.hdyxgame.com
 +.heavenlywind.cc
++.hero.com
 +.heroesofdragonage.com
 +.heroesofthestorm.com
++.heroesports.com
++.herogame.com
 +.historyofdota.com
 +.historyofdota.net
 +.historyofdota.org
@@ -288,6 +291,7 @@
 +.instituteofwar.org
 +.itch.io
 +.itch.zone
++.joinsquad.com
 +.joyjoy.net
 +.juequling.com
 +.kirbysepicyarn.com
@@ -460,6 +464,8 @@
 +.nintendoswitchtogether.com
 +.nintendowii.com
 +.nzsiteres.com
++.offworldindustries.com
++.offworldindustries.net
 +.op.gg
 +.origin.com
 +.origin.tv
@@ -568,6 +574,7 @@
 +.seeurlpcl.com
 +.sekai.colorfulpalette.org
 +.shadowcomplex.com
++.shyxhy.com
 +.simcity-buildit.com
 +.simcity.com
 +.skate2.com
@@ -763,6 +770,7 @@
 +.xn--mts47c3w9b1qr.net
 +.xn--owtw8cc49ajfl.cn
 +.ycgame.com
++.yingxiong.com
 +.ynoproject.net
 +.yogify.com
 +.yoshisnewisland.com

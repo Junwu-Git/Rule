@@ -1,7 +1,7 @@
 # NAME: Games
 # AUTHOR: YYDS666
-# UPDATED: 2025-11-01 02:20:57
-# TOTAL: 774
+# UPDATED: 2025-11-02 02:17:19
+# TOTAL: 782
 DOMAIN,a.ppy.sh
 DOMAIN,a4e8s8k3.map2.ssl.hwcdn.net
 DOMAIN,alibaba.cdn.steampipe.steamcontent.com
@@ -316,8 +316,11 @@ DOMAIN-SUFFIX,haydaygame.com
 DOMAIN-SUFFIX,haydaypop.cn
 DOMAIN-SUFFIX,hdyxgame.com
 DOMAIN-SUFFIX,heavenlywind.cc
+DOMAIN-SUFFIX,hero.com
 DOMAIN-SUFFIX,heroesofdragonage.com
 DOMAIN-SUFFIX,heroesofthestorm.com
+DOMAIN-SUFFIX,heroesports.com
+DOMAIN-SUFFIX,herogame.com
 DOMAIN-SUFFIX,historyofdota.com
 DOMAIN-SUFFIX,historyofdota.net
 DOMAIN-SUFFIX,historyofdota.org
@@ -342,6 +345,7 @@ DOMAIN-SUFFIX,industrialtoys.com
 DOMAIN-SUFFIX,instituteofwar.org
 DOMAIN-SUFFIX,itch.io
 DOMAIN-SUFFIX,itch.zone
+DOMAIN-SUFFIX,joinsquad.com
 DOMAIN-SUFFIX,joyjoy.net
 DOMAIN-SUFFIX,juequling.com
 DOMAIN-SUFFIX,kirbysepicyarn.com
@@ -478,6 +482,8 @@ DOMAIN-SUFFIX,nintendostore.com
 DOMAIN-SUFFIX,nintendoswitchtogether.com
 DOMAIN-SUFFIX,nintendowii.com
 DOMAIN-SUFFIX,nzsiteres.com
+DOMAIN-SUFFIX,offworldindustries.com
+DOMAIN-SUFFIX,offworldindustries.net
 DOMAIN-SUFFIX,op.gg
 DOMAIN-SUFFIX,origin.com
 DOMAIN-SUFFIX,origin.tv
@@ -580,6 +586,7 @@ DOMAIN-SUFFIX,seaofsolitude.com
 DOMAIN-SUFFIX,seeurlpcl.com
 DOMAIN-SUFFIX,sekai.colorfulpalette.org
 DOMAIN-SUFFIX,shadowcomplex.com
+DOMAIN-SUFFIX,shyxhy.com
 DOMAIN-SUFFIX,simcity-buildit.com
 DOMAIN-SUFFIX,simcity.com
 DOMAIN-SUFFIX,skate2.com
@@ -753,6 +760,7 @@ DOMAIN-SUFFIX,xn--mts47c3w9b1qr.cn
 DOMAIN-SUFFIX,xn--mts47c3w9b1qr.net
 DOMAIN-SUFFIX,xn--owtw8cc49ajfl.cn
 DOMAIN-SUFFIX,ycgame.com
+DOMAIN-SUFFIX,yingxiong.com
 DOMAIN-SUFFIX,ynoproject.net
 DOMAIN-SUFFIX,yogify.com
 DOMAIN-SUFFIX,yoshisnewisland.com

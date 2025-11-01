@@ -1,7 +1,7 @@
 # NAME: Proxy
 # AUTHOR: YYDS666
-# UPDATED: 2025-11-01 02:21:01
-# TOTAL: 6298
+# UPDATED: 2025-11-02 02:17:24
+# TOTAL: 6299
 DOMAIN,0rz.tw
 DOMAIN,1-apple.com.tw
 DOMAIN,123rf.com
@@ -5181,6 +5181,7 @@ DOMAIN-SUFFIX,telegraph.co.uk
 DOMAIN-SUFFIX,telesco.pe
 DOMAIN-SUFFIX,tellapart.com
 DOMAIN-SUFFIX,tellme.pw
+DOMAIN-SUFFIX,temu.com
 DOMAIN-SUFFIX,tenacy.com
 DOMAIN-SUFFIX,tenor.com
 DOMAIN-SUFFIX,tensorflow.org

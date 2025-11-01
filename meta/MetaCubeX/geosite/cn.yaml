@@ -45,7 +45,7 @@ payload:
     - +.baidu
     - +.alipay
     - +.juzikong.com
-    - +.vp3u.com
+    - +.syshosts.net
     - +.02hm.com
     - +.02lb.com
     - +.02lu.com
@@ -26684,7 +26684,7 @@ payload:
     - +.czkbdq.net
     - +.czkctl.com
     - +.czkingdee.com
-    - +.czlgj.com
+    - +.jxkp.com
     - +.czlingke.com
     - +.czlkgy.com
     - +.czlsgz.com
@@ -33656,7 +33656,7 @@ payload:
     - +.fanghenet.com
     - +.fangheng.com
     - +.fanghua120.com
-    - +.jxkp.com
+    - +.fanghuafu.com
     - +.fanghuihui.com
     - +.fangjia.com
     - +.fangjiadp.com
@@ -58598,11 +58598,11 @@ payload:
     - +.jxjuwentech.com
     - +.jxjx6.com
     - +.jxjywater.com
-    - +.worldhello.net
+    - +.jxkeda.com
+    - +.jxkjzb.com
+    - +.czlgj.com
     - +.02d.com
-    - +.fanghuafu.com
-    - +.jxksw.net
-    - +.jxlgjd.com
+    - +.oldiron.xyz
     - +.jxln.com
     - +.zzfly.net
     - +.jxlong.com
@@ -73573,7 +73573,7 @@ payload:
     - +.oldboyedu.com
     - +.oldcat.me
     - +.oldding.net
-    - +.oldiron.xyz
+    - +.jxlgjd.com
     - +.oldj.net
     - +.oldmanemu.net
     - +.oldmantvg.net
@@ -89730,7 +89730,7 @@ payload:
     - +.syshell.com
     - +.syshospital.com
     - +.syshospital.org
-    - +.syshosts.net
+    - +.jxksw.net
     - +.sysjnl.com
     - +.sysjoint.com
     - +.sysmaster.online
@@ -97415,7 +97415,7 @@ payload:
     - +.voxlearning.com
     - +.voxpie.com
     - +.voycn.com
-    - +.jxkjzb.com
+    - +.vp3u.com
     - +.vp6.co
     - +.vpabrand.com
     - +.vpal.com
@@ -100877,7 +100877,7 @@ payload:
     - +.worldfcdn.com
     - +.worldgoodvoices.com
     - +.worldh5.com
-    - +.jxkeda.com
+    - +.worldhello.net
     - +.worldhotel.com
     - +.worldhub.market
     - +.worldinout.com
@@ -114316,6 +114316,7 @@ payload:
     - +.zhuanhuanqi.com
     - +.zhuanhuanqi.net
     - +.zhuaniao.com
+    - +.zhuaninc.com
     - +.zhuankeapp.com
     - +.zhuankebang.com
     - +.zhuankezu.com

@@ -1,7 +1,7 @@
 # NAME: China
 # AUTHOR: YYDS666
-# UPDATED: 2025-11-01 02:21:05
-# TOTAL: 5909
+# UPDATED: 2025-11-02 02:17:24
+# TOTAL: 5938
 +.00cdn.com
 +.0123456789.com
 +.0379home.com
@@ -390,6 +390,7 @@
 +.aiops.com
 +.aipage.com
 +.aipai.com
++.aiqicha.com
 +.airchangan.com
 +.airchinacargo.com
 +.airguilin.com
@@ -734,6 +735,7 @@
 +.bce-cdn.com
 +.bce-cdn.net
 +.bcebos.com
++.bcelive.com
 +.bcfmglobal.com
 +.bcvbw.com
 +.bczcdn.com
@@ -1123,6 +1125,7 @@
 +.cdnhwczth23.com
 +.cdnhwcztu09.com
 +.cdnhwczxh101.com
++.cdnmg.com
 +.cdntip.com
 +.cdntips.com
 +.cdntips.net
@@ -1507,6 +1510,14 @@
 +.dcdapp.com
 +.dcdkjx.com
 +.dcg.microsoft.com
++.dcloudlive.com
++.dcloudlive.net
++.dcloudsp.com
++.dcloudsp.net
++.dcloudstc.com
++.dcloudstc.net
++.dcloudvod.com
++.dcloudvod.net
 +.dcocsp.cn
 +.dd373.com
 +.ddmogo.com
@@ -2242,6 +2253,9 @@
 +.henha.com
 +.henkuai.com
 +.heptio.cn
++.hero.com
++.heroesports.com
++.herogame.com
 +.herostart.com
 +.heweather.net
 +.hexun.com
@@ -2426,6 +2440,7 @@
 +.icloud.net.cn
 +.icloudapple.cn
 +.icourse163.org
++.icplishi.com
 +.ics.design
 +.idcgcloudcs.com
 +.idcquan.com
@@ -2515,10 +2530,12 @@
 +.ip138.com
 +.ipanda.com
 +.ipanda.net
++.ipchaxun.com
 +.ipchaxun.net
 +.iphone-8.com.cn
 +.ipinyou.com
 +.ipip.net
++.iplaysoft.com
 +.ipod.com.cn
 +.ipplus360.com
 +.iprdp.net
@@ -4006,6 +4023,7 @@
 +.shuqireader.com
 +.shutcm.com
 +.shyhhema.com
++.shyxhy.com
 +.shzq.com
 +.sichuanair.com
 +.sifou.com
@@ -4192,6 +4210,7 @@
 +.taoche.com
 +.taomee.com
 +.taopiaopiao.com
++.taou.com
 +.tapimg.com
 +.tapimg.net
 +.taptap.com
@@ -4449,6 +4468,7 @@
 +.trip.com
 +.tripcdn.com
 +.tritoninfo.net
++.trjcn.com
 +.trunktech.com
 +.trust-provider.cn
 +.trustcenter.cn
@@ -4733,8 +4753,10 @@
 +.vrzwk.net
 +.vrzwk.top
 +.vscenevideo.com
++.vvstc.com
 +.vxo7tu.com
 +.vzuu.com
++.wali.com
 +.wallstcn.com
 +.wallstreetcn.com
 +.walmart.cn
@@ -4763,6 +4785,7 @@
 +.we4399.com
 +.weand.com
 +.weathercn.com
++.weavatar.com
 +.webank.com
 +.webankcdn.net
 +.webex.com.cn
@@ -4856,6 +4879,7 @@
 +.wscdns.com
 +.wscdns.info
 +.wscdns.org
++.wsdvs.com
 +.wsglb.com
 +.wsglb.net
 +.wsoso.com
@@ -5098,6 +5122,7 @@
 +.yingjia360.com
 +.yingjiesheng.com
 +.yingjiesheng.net
++.yingxiong.com
 +.yinhang123.net
 +.yinxiang.com
 +.yinyuetai.com
@@ -5125,6 +5150,7 @@
 +.ynhr.com
 +.yo9.com
 +.yocajr.com
++.yoojia.com
 +.youba.com
 +.youboy.com
 +.youdao.com
@@ -5279,7 +5305,9 @@
 +.zhonshian.com
 +.zhuancorp.com
 +.zhuangjiba.com
++.zhuaninc.com
 +.zhuanspirit.com
++.zhuanstatic.com
 +.zhuanyewanjia.com
 +.zhuanzfx.com
 +.zhuanzhuan.com
@@ -5340,6 +5368,7 @@
 +.zuhaowan.com
 +.zui.com
 +.zuidaima.com
++.zuihuimai.com
 +.zuk.com
 +.zuodao.com
 +.zuowen8.com
