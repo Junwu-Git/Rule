@@ -1,7 +1,7 @@
 # NAME: Direct
 # AUTHOR: YYDS666
-# UPDATED: 2025-11-03 02:17:20
-# TOTAL: 52
+# UPDATED: 2025-11-04 02:19:55
+# TOTAL: 50
 DOMAIN-SUFFIX,10.in-addr.arpa
 DOMAIN-SUFFIX,16.172.in-addr.arpa
 DOMAIN-SUFFIX,168.192.in-addr.arpa
@@ -22,13 +22,11 @@ DOMAIN-SUFFIX,29.172.in-addr.arpa
 DOMAIN-SUFFIX,30.172.in-addr.arpa
 DOMAIN-SUFFIX,31.172.in-addr.arpa
 DOMAIN-SUFFIX,api.myip.com
-DOMAIN-SUFFIX,archive.org
 DOMAIN-SUFFIX,checkip.dyndns.org
 DOMAIN-SUFFIX,checkip.synology.com
 DOMAIN-SUFFIX,checkipv6.dyndns.org
 DOMAIN-SUFFIX,cloudstudio.work
 DOMAIN-SUFFIX,cocopilot.org
-DOMAIN-SUFFIX,coverartarchive.org
 DOMAIN-SUFFIX,czzyvideo.com
 DOMAIN-SUFFIX,ghp.ci
 DOMAIN-SUFFIX,gradio.live

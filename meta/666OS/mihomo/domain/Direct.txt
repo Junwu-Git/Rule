@@ -1,7 +1,7 @@
 # NAME: Direct
 # AUTHOR: YYDS666
-# UPDATED: 2025-11-03 02:17:20
-# TOTAL: 50
+# UPDATED: 2025-11-04 02:19:55
+# TOTAL: 48
 +.10.in-addr.arpa
 +.16.172.in-addr.arpa
 +.168.192.in-addr.arpa
@@ -22,13 +22,11 @@
 +.30.172.in-addr.arpa
 +.31.172.in-addr.arpa
 +.api.myip.com
-+.archive.org
 +.checkip.dyndns.org
 +.checkip.synology.com
 +.checkipv6.dyndns.org
 +.cloudstudio.work
 +.cocopilot.org
-+.coverartarchive.org
 +.czzyvideo.com
 +.ghp.ci
 +.gradio.live
