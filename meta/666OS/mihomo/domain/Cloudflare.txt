@@ -1,6 +1,6 @@
 # NAME: Cloudflare
 # AUTHOR: YYDS666
-# UPDATED: 2025-11-05 02:20:15
+# UPDATED: 2025-11-06 02:20:21
 # TOTAL: 58
 +.argotunnel.com
 +.cf-china.info

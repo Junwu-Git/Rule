@@ -1,6 +1,6 @@
 # NAME: AppleCN
 # AUTHOR: YYDS666
-# UPDATED: 2025-11-05 02:20:12
+# UPDATED: 2025-11-06 02:20:20
 # TOTAL: 38
 +.apple-cloudkit.com
 +.apple-fitness.com

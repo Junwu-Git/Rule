@@ -1,7 +1,7 @@
 # NAME: AI
 # AUTHOR: YYDS666
-# UPDATED: 2025-11-05 02:20:14
-# TOTAL: 160
+# UPDATED: 2025-11-06 02:20:20
+# TOTAL: 162
 +.ai.com
 +.aiproxy.io
 +.aisandbox-pa.googleapis.com
@@ -10,6 +10,7 @@
 +.anthropic.com
 +.api.statsig.com
 +.api2d.com
++.apps.mzstatic.com
 +.auth0.com
 +.bard.google.com
 +.cerebras.ai
@@ -48,6 +49,7 @@
 +.events.statsigapi.net
 +.featuregates.org
 +.gateway.ai.cloudflare.com
++.gateway.icloud.com
 +.geller-pa.googleapis.com
 +.gemini.google
 +.gemini.google.com

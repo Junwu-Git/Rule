@@ -1,7 +1,7 @@
 # NAME: AI
 # AUTHOR: YYDS666
-# UPDATED: 2025-11-05 02:20:14
-# TOTAL: 173
+# UPDATED: 2025-11-06 02:20:20
+# TOTAL: 175
 DOMAIN,ai.google.dev
 DOMAIN,aistudio.google.com
 DOMAIN,alkalicore-pa.clients6.google.com
@@ -59,6 +59,7 @@ DOMAIN-SUFFIX,algolia.net
 DOMAIN-SUFFIX,anthropic.com
 DOMAIN-SUFFIX,api.statsig.com
 DOMAIN-SUFFIX,api2d.com
+DOMAIN-SUFFIX,apps.mzstatic.com
 DOMAIN-SUFFIX,auth0.com
 DOMAIN-SUFFIX,bard.google.com
 DOMAIN-SUFFIX,cerebras.ai
@@ -97,6 +98,7 @@ DOMAIN-SUFFIX,elevenlabs.io
 DOMAIN-SUFFIX,events.statsigapi.net
 DOMAIN-SUFFIX,featuregates.org
 DOMAIN-SUFFIX,gateway.ai.cloudflare.com
+DOMAIN-SUFFIX,gateway.icloud.com
 DOMAIN-SUFFIX,geller-pa.googleapis.com
 DOMAIN-SUFFIX,gemini.google
 DOMAIN-SUFFIX,gemini.google.com
