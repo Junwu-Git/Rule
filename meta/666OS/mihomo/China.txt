@@ -1,7 +1,7 @@
 # NAME: China
 # AUTHOR: YYDS666
-# UPDATED: 2025-11-06 02:20:18
-# TOTAL: 24488
+# UPDATED: 2025-11-07 02:20:52
+# TOTAL: 24487
 DOMAIN,265.com
 DOMAIN,2mdn-cn.net
 DOMAIN,2mdn.net
@@ -3624,7 +3624,6 @@ DOMAIN-SUFFIX,linkedin.cn
 DOMAIN-SUFFIX,linkvans.com
 DOMAIN-SUFFIX,linliyz.com
 DOMAIN-SUFFIX,linsn.com
-DOMAIN-SUFFIX,linux.do
 DOMAIN-SUFFIX,linuxidc.com
 DOMAIN-SUFFIX,liqucn.com
 DOMAIN-SUFFIX,liulanqi.net
