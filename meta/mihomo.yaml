@@ -58,6 +58,10 @@ skip-auth-prefixes:
   - 127.0.0.0/8
   - 192.168.36.0/24
 
+  # 实验性功能
+experimental:
+  quic-go-disable-gso: true  
+
 # 持久化缓存
 profile:
   store-selected: true
@@ -89,7 +93,7 @@ geox-url:
   mmdb: "https://github.com/MetaCubeX/meta-rules-dat/releases/download/latest/geoip.metadb"
   asn: "https://github.com/MetaCubeX/meta-rules-dat/releases/download/latest/GeoLite2-ASN.mmdb"
 
-# 嗅探
+# 流量嗅探
 sniffer:
   enable: true
   override-destination: false
@@ -104,20 +108,8 @@ sniffer:
   skip-domain:
     - "Mijia Cloud"
     - "+.push.apple.com"
-  skip-dst-address:
-    - 91.105.192.0/23
-    - 91.108.4.0/22
-    - 91.108.8.0/21
-    - 91.108.16.0/21
-    - 91.108.56.0/22
-    - 95.161.64.0/20
-    - 149.154.160.0/20
-    - 185.76.151.0/24
-    - 2001:67c:4e8::/48
-    - 2001:b28:f23c::/47
-    - 2001:b28:f23f::/48
-    - 2a0a:f280:203::/48
-  
+    - "+.apple.com"
+
 # TUN模式定义
 tun:
   enable: true
@@ -136,7 +128,16 @@ dns:
   respect-rules: true
   enhanced-mode: fake-ip
   fake-ip-range: 198.18.0.1/16
-  fake-ip-filter-mode: blacklist  
+  default-nameserver:
+    - 119.29.29.29
+    - 180.184.1.1
+    - 223.5.5.5
+  proxy-server-nameserver:
+    - https://dns.alidns.com/dns-query
+    - https://doh.pub/dns-query
+  nameserver:
+    - https://dns.alidns.com/dns-query
+    - https://doh.pub/dns-query
   fake-ip-filter:
     # 规则集
     - rule-set:fake-ip-filter
@@ -169,16 +170,6 @@ dns:
     - "+.docker.io"
     - "+.push.apple.com"
 
-  default-nameserver:
-    - 119.29.29.29
-    - 180.184.1.1
-    - 223.5.5.5
-  proxy-server-nameserver:
-    - https://dns.alidns.com/dns-query
-    - https://doh.pub/dns-query
-  nameserver:
-    - https://dns.alidns.com/dns-query
-    - https://doh.pub/dns-query
 
 # 本地自建节点组
 proxies+: 
