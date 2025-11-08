@@ -1,7 +1,7 @@
 # NAME: AI
 # AUTHOR: YYDS666
-# UPDATED: 2025-11-08 02:19:30
-# TOTAL: 175
+# UPDATED: 2025-11-09 02:18:13
+# TOTAL: 181
 DOMAIN,ai.google.dev
 DOMAIN,aistudio.google.com
 DOMAIN,alkalicore-pa.clients6.google.com
@@ -52,6 +52,7 @@ DOMAIN,sydney.bing.com
 DOMAIN,webchannel-alkalimakersuite-pa.clients6.google.com
 DOMAIN,www.bing.com
 DOMAIN-SUFFIX,ai.com
+DOMAIN-SUFFIX,aida.googleapis.com
 DOMAIN-SUFFIX,aiproxy.io
 DOMAIN-SUFFIX,aisandbox-pa.googleapis.com
 DOMAIN-SUFFIX,aistudio.google.com
@@ -68,6 +69,9 @@ DOMAIN-SUFFIX,chat.com
 DOMAIN-SUFFIX,chatgpt.com
 DOMAIN-SUFFIX,chatgpt.livekit.cloud
 DOMAIN-SUFFIX,chutes.ai
+DOMAIN-SUFFIX,cici.com
+DOMAIN-SUFFIX,ciciai.com
+DOMAIN-SUFFIX,ciciaicdn.com
 DOMAIN-SUFFIX,claude.ai
 DOMAIN-SUFFIX,claude.com
 DOMAIN-SUFFIX,claudemcpclient.com
@@ -94,6 +98,8 @@ DOMAIN-SUFFIX,diffusionbee.com
 DOMAIN-SUFFIX,dify.ai
 DOMAIN-SUFFIX,discord.com
 DOMAIN-SUFFIX,discord.gg
+DOMAIN-SUFFIX,dola.com
+DOMAIN-SUFFIX,elevenlabs.com
 DOMAIN-SUFFIX,elevenlabs.io
 DOMAIN-SUFFIX,events.statsigapi.net
 DOMAIN-SUFFIX,featuregates.org

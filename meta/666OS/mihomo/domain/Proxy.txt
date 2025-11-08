@@ -1,7 +1,7 @@
 # NAME: Proxy
 # AUTHOR: YYDS666
-# UPDATED: 2025-11-08 02:19:30
-# TOTAL: 6293
+# UPDATED: 2025-11-09 02:18:12
+# TOTAL: 6291
 +.000webhost.com
 +.030buy.com
 +.0rz.tw
@@ -1090,7 +1090,6 @@
 +.deja.com
 +.delcamp.net
 +.demo.unlock-music.dev
-+.democrats.org
 +.demosisto.hk
 +.deno.dev
 +.depositphotos.com
@@ -5345,7 +5344,6 @@ daylife.com
 dcmilitary.com
 ddns.net
 deck.ly
-delicious.com
 destiny.xfiles.to
 dfn.org
 dharmakara.net

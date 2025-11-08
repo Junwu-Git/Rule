@@ -1,7 +1,7 @@
 # NAME: China
 # AUTHOR: YYDS666
-# UPDATED: 2025-11-08 02:19:28
-# TOTAL: 5937
+# UPDATED: 2025-11-09 02:18:11
+# TOTAL: 5954
 +.00cdn.com
 +.0123456789.com
 +.0379home.com
@@ -418,6 +418,7 @@
 +.ali-api-test.net
 +.ali-gtm-01.net
 +.ali-gtm-pressure.com
++.ali-health.com
 +.ali-restore.net
 +.ali213.net
 +.aliapp.org
@@ -448,6 +449,7 @@
 +.aliimg.com
 +.alikmd.com
 +.alikunlun.com
++.alikunlun.net
 +.alimama.com
 +.alimebot.com
 +.alimei.com
@@ -1425,6 +1427,7 @@
 +.coolbuy.com
 +.cooldock.com
 +.coolsite.vip
++.cowcs.com
 +.cowlevel.net
 +.cowtransfer.com
 +.coze.site
@@ -2073,9 +2076,11 @@
 +.geetest.com
 +.geforce.cn
 +.geilicdn.com
++.gepush.com
 +.getfeishu.com
 +.getsays.com
 +.getui.com
++.getui.net
 +.gezida.com
 +.gfan.com
 +.gfbzb.com
@@ -2292,6 +2297,7 @@
 +.hjapi.com
 +.hkgcloudcs.com
 +.hktheone.com
++.hlgdata.com
 +.hlzqgs.com
 +.hm.com.cn
 +.hn-cbec.com
@@ -2332,9 +2338,11 @@
 +.htjsq.mobi
 +.htsec.com
 +.huaban.com
++.huabanimg.com
 +.huafengaw.com
 +.huajingsec.com
 +.huangyuhui.net
++.huanleguang.com
 +.huanqiu.com
 +.huashengdaili.com
 +.huatu.com
@@ -2469,7 +2477,10 @@
 +.iflyrec.com
 +.iflytek.com
 +.igao7.com
++.igehuo.com
 +.igetget.com
++.igetui.com
++.igexin.com
 +.igtm-meeting-tencent.com
 +.igtm.pub
 +.igwfmc.com
@@ -2502,7 +2513,6 @@
 +.img4399.com
 +.imgcdc.com
 +.imgo.tv
-+.immersivetranslate.com
 +.imooc.com
 +.imqq.com
 +.imweb.io
@@ -2592,6 +2602,7 @@
 +.janrain.biz
 +.janrainservices.com
 +.jb51.com
++.jb51.net
 +.jbcz.tv
 +.jchat.io
 +.jcloud-cache.com
@@ -3041,6 +3052,7 @@
 +.legendofzelda.com.cn
 +.leigod.com
 +.leikeji.com
++.leiniao.com
 +.leiphone.com
 +.leiting.com
 +.leju.com
@@ -3636,7 +3648,9 @@
 +.pchome.net
 +.pcpop.com
 +.pddcdn.com
++.pddim.com
 +.pddpic.com
++.pddugc.com
 +.pearson.com.cn
 +.pearvideo.com
 +.peccn.com
@@ -3748,6 +3762,7 @@
 +.qeodns.com
 +.qeodns.net
 +.qgzb.net
++.qh-cdn.com
 +.qh24.com
 +.qhcdn.com
 +.qhimg.com
@@ -3907,6 +3922,7 @@
 +.ruby-china.org
 +.rubyconfchina.org
 +.ruguoapp.com
++.ruiwen.com
 +.rumt-zh.com
 +.runoob.com
 +.runsheng.com
@@ -4229,6 +4245,7 @@
 +.tcdnvod.com
 +.tcdnvodbak.com
 +.tcfmglobal.com
++.tcl.com
 +.tclai.top
 +.tcloudbase.com
 +.tcloudbase.net
@@ -4240,6 +4257,7 @@
 +.tcloudhw.net
 +.tcloudscdn.com
 +.tcloudscdn.net
++.tcltech.com
 +.tcwqqdy.guru
 +.tdnsv1.com
 +.tdnsv1.net
@@ -4789,7 +4807,6 @@
 +.webankcdn.net
 +.webex.com.cn
 +.webgame163.com
-+.webnovel.com
 +.webterren.com
 +.wechat.com
 +.wecom.work

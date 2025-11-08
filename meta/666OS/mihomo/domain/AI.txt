@@ -1,8 +1,9 @@
 # NAME: AI
 # AUTHOR: YYDS666
-# UPDATED: 2025-11-08 02:19:30
-# TOTAL: 162
+# UPDATED: 2025-11-09 02:18:13
+# TOTAL: 168
 +.ai.com
++.aida.googleapis.com
 +.aiproxy.io
 +.aisandbox-pa.googleapis.com
 +.aistudio.google.com
@@ -19,6 +20,9 @@
 +.chatgpt.com
 +.chatgpt.livekit.cloud
 +.chutes.ai
++.cici.com
++.ciciai.com
++.ciciaicdn.com
 +.claude.ai
 +.claude.com
 +.claudemcpclient.com
@@ -45,6 +49,8 @@
 +.dify.ai
 +.discord.com
 +.discord.gg
++.dola.com
++.elevenlabs.com
 +.elevenlabs.io
 +.events.statsigapi.net
 +.featuregates.org
