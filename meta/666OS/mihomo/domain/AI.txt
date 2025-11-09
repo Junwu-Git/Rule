@@ -1,6 +1,6 @@
 # NAME: AI
 # AUTHOR: YYDS666
-# UPDATED: 2025-11-09 02:18:13
+# UPDATED: 2025-11-10 02:17:57
 # TOTAL: 168
 +.ai.com
 +.aida.googleapis.com
