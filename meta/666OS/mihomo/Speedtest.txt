@@ -1,6 +1,6 @@
 # NAME: Speedtest
 # AUTHOR: YYDS666
-# UPDATED: 2025-11-10 02:17:54
+# UPDATED: 2025-11-11 02:20:28
 # TOTAL: 4370
 DOMAIN,1.sptest.detel.com
 DOMAIN,123commerce.systems

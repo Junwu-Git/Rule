@@ -1,27 +1,7 @@
 # NAME: Direct
 # AUTHOR: YYDS666
-# UPDATED: 2025-11-10 02:18:02
-# TOTAL: 48
-+.10.in-addr.arpa
-+.16.172.in-addr.arpa
-+.168.192.in-addr.arpa
-+.17.172.in-addr.arpa
-+.18.172.in-addr.arpa
-+.19.172.in-addr.arpa
-+.20.172.in-addr.arpa
-+.21.172.in-addr.arpa
-+.22.172.in-addr.arpa
-+.23.172.in-addr.arpa
-+.24.172.in-addr.arpa
-+.25.172.in-addr.arpa
-+.254.169.in-addr.arpa
-+.26.172.in-addr.arpa
-+.27.172.in-addr.arpa
-+.28.172.in-addr.arpa
-+.29.172.in-addr.arpa
-+.30.172.in-addr.arpa
-+.31.172.in-addr.arpa
-+.api.myip.com
+# UPDATED: 2025-11-11 02:20:30
+# TOTAL: 18
 +.checkip.dyndns.org
 +.checkip.synology.com
 +.checkipv6.dyndns.org
@@ -30,23 +10,13 @@
 +.czzyvideo.com
 +.ghp.ci
 +.gradio.live
-+.home.arpa
-+.ifconfig.co
-+.imee.me
-+.ip-api.com
-+.ip6.seeip.org
-+.ipapi.co
 +.iqiyis.com
 +.istoreos.com
 +.kelee.one
-+.members.3322.org
 +.musicbrainz.org
 +.ngrok-free.app
 +.ntp.org
-+.oaifree.com
 +.quickconnect.to
 +.speedtest.cn
 +.steamcontent.com
 +.synology.com
-+.tempmail.plus
-+.vsean.net

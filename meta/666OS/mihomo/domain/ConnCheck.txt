@@ -1,6 +1,6 @@
 # NAME: ConnCheck
 # AUTHOR: YYDS666
-# UPDATED: 2025-11-10 02:17:57
+# UPDATED: 2025-11-11 02:20:28
 # TOTAL: 12
 +.captive.apple.com
 +.connectivitycheck.gstatic.com

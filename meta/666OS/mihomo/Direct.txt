@@ -1,27 +1,7 @@
 # NAME: Direct
 # AUTHOR: YYDS666
-# UPDATED: 2025-11-10 02:18:02
-# TOTAL: 50
-DOMAIN-SUFFIX,10.in-addr.arpa
-DOMAIN-SUFFIX,16.172.in-addr.arpa
-DOMAIN-SUFFIX,168.192.in-addr.arpa
-DOMAIN-SUFFIX,17.172.in-addr.arpa
-DOMAIN-SUFFIX,18.172.in-addr.arpa
-DOMAIN-SUFFIX,19.172.in-addr.arpa
-DOMAIN-SUFFIX,20.172.in-addr.arpa
-DOMAIN-SUFFIX,21.172.in-addr.arpa
-DOMAIN-SUFFIX,22.172.in-addr.arpa
-DOMAIN-SUFFIX,23.172.in-addr.arpa
-DOMAIN-SUFFIX,24.172.in-addr.arpa
-DOMAIN-SUFFIX,25.172.in-addr.arpa
-DOMAIN-SUFFIX,254.169.in-addr.arpa
-DOMAIN-SUFFIX,26.172.in-addr.arpa
-DOMAIN-SUFFIX,27.172.in-addr.arpa
-DOMAIN-SUFFIX,28.172.in-addr.arpa
-DOMAIN-SUFFIX,29.172.in-addr.arpa
-DOMAIN-SUFFIX,30.172.in-addr.arpa
-DOMAIN-SUFFIX,31.172.in-addr.arpa
-DOMAIN-SUFFIX,api.myip.com
+# UPDATED: 2025-11-11 02:20:30
+# TOTAL: 20
 DOMAIN-SUFFIX,checkip.dyndns.org
 DOMAIN-SUFFIX,checkip.synology.com
 DOMAIN-SUFFIX,checkipv6.dyndns.org
@@ -30,25 +10,15 @@ DOMAIN-SUFFIX,cocopilot.org
 DOMAIN-SUFFIX,czzyvideo.com
 DOMAIN-SUFFIX,ghp.ci
 DOMAIN-SUFFIX,gradio.live
-DOMAIN-SUFFIX,home.arpa
-DOMAIN-SUFFIX,ifconfig.co
-DOMAIN-SUFFIX,imee.me
-DOMAIN-SUFFIX,ip-api.com
-DOMAIN-SUFFIX,ip6.seeip.org
-DOMAIN-SUFFIX,ipapi.co
 DOMAIN-SUFFIX,iqiyis.com
 DOMAIN-SUFFIX,istoreos.com
 DOMAIN-SUFFIX,kelee.one
-DOMAIN-SUFFIX,members.3322.org
 DOMAIN-SUFFIX,musicbrainz.org
 DOMAIN-SUFFIX,ngrok-free.app
 DOMAIN-SUFFIX,ntp.org
-DOMAIN-SUFFIX,oaifree.com
 DOMAIN-SUFFIX,quickconnect.to
 DOMAIN-SUFFIX,speedtest.cn
 DOMAIN-SUFFIX,steamcontent.com
 DOMAIN-SUFFIX,synology.com
-DOMAIN-SUFFIX,tempmail.plus
-DOMAIN-SUFFIX,vsean.net
 DOMAIN-KEYWORD,quickconnect
 DOMAIN-KEYWORD,synology
