@@ -1,7 +1,7 @@
 # NAME: Proxy
 # AUTHOR: YYDS666
-# UPDATED: 2025-11-11 02:20:31
-# TOTAL: 6291
+# UPDATED: 2025-11-12 02:20:05
+# TOTAL: 6289
 +.000webhost.com
 +.030buy.com
 +.0rz.tw
@@ -890,7 +890,6 @@
 +.cloudcone.com
 +.cloudflare-dns.com
 +.cloudflare-ipfs.com
-+.cloudflare.com
 +.cloudfunctions.net
 +.club1069.com
 +.clubhouse.com
@@ -2230,7 +2229,6 @@
 +.invidio.us
 +.inxian.com
 +.iownyour.org
-+.ip.sb
 +.ipdefenseforum.com
 +.ipfire.org
 +.ipfs.4everland.io

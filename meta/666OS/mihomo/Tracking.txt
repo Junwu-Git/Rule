@@ -1,7 +1,7 @@
 # NAME: Tracking
 # AUTHOR: YYDS666
-# UPDATED: 2025-11-11 02:20:30
-# TOTAL: 266
+# UPDATED: 2025-11-12 02:20:07
+# TOTAL: 265
 DOMAIN,10.rarbg.com
 DOMAIN,12.rarbg.me
 DOMAIN,1337.abcvg.info
@@ -267,4 +267,3 @@ DOMAIN-SUFFIX,woopra.com
 DOMAIN-SUFFIX,wootric.com
 DOMAIN-SUFFIX,wowanalytics.co.uk
 DOMAIN-SUFFIX,zoomanalytics.co
-IP-CIDR,149.88.82.119/32,no-resolve

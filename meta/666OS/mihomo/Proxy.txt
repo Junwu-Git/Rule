@@ -1,7 +1,7 @@
 # NAME: Proxy
 # AUTHOR: YYDS666
-# UPDATED: 2025-11-11 02:20:31
-# TOTAL: 6300
+# UPDATED: 2025-11-12 02:20:05
+# TOTAL: 6298
 DOMAIN,0rz.tw
 DOMAIN,1-apple.com.tw
 DOMAIN,123rf.com
@@ -2117,7 +2117,6 @@ DOMAIN-SUFFIX,cloud.mail.ru
 DOMAIN-SUFFIX,cloudcone.com
 DOMAIN-SUFFIX,cloudflare-dns.com
 DOMAIN-SUFFIX,cloudflare-ipfs.com
-DOMAIN-SUFFIX,cloudflare.com
 DOMAIN-SUFFIX,cloudfunctions.net
 DOMAIN-SUFFIX,club1069.com
 DOMAIN-SUFFIX,clubhouse.com
@@ -3376,7 +3375,6 @@ DOMAIN-SUFFIX,investigating.wordpress.com
 DOMAIN-SUFFIX,invidio.us
 DOMAIN-SUFFIX,inxian.com
 DOMAIN-SUFFIX,iownyour.org
-DOMAIN-SUFFIX,ip.sb
 DOMAIN-SUFFIX,ipdefenseforum.com
 DOMAIN-SUFFIX,ipfire.org
 DOMAIN-SUFFIX,ipfs.4everland.io

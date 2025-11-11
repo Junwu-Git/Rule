@@ -6,8 +6,8 @@ payload:
     - statics-marketingsites-eas-ms-com.akamaized.net
     - statics-marketingsites-eus-ms-com.akamaized.net
     - statics-marketingsites-wcus-ms-com.akamaized.net
-    - flightsimulator.azureedge.net
     - prodforza.blob.core.windows.net
+    - flightsimulator.azureedge.net
     - azure.microsoft.com
     - azuremarketplace.microsoft.com
     - location.microsoft.com
@@ -37,14 +37,13 @@ payload:
     - +.office
     - +.skype
     - +.windows
-    - +.onedrive
+    - +.xbox
     - +.onedriveupdater
+    - +.onedrive
     - +.bing
     - +.azure
-    - +.xbox
-    - +.winhec.net
-    - +.msftncsi.com
-    - +.microsoft.ch
+    - +.yammer.com
+    - +.msftnet.org
     - +.microsoft.cl
     - +.microsoft.com
     - +.microsoft.cz
@@ -181,8 +180,8 @@ payload:
     - +.microsoftuwp.com
     - +.momentumms.com
     - +.morphcharts.com
-    - +.1drv.com
-    - +.ms-studiosmedia.com
+    - +.mpnevolution.com
+    - +.tellmewhygame.com
     - +.ms365surfaceoffer.com
     - +.msads.net
     - +.msauth.net
@@ -195,8 +194,8 @@ payload:
     - +.msftauthimages.net
     - +.msftconnecttest.com
     - +.msfteducation.ca
-    - +.onedrive.com
-    - +.msftnet.org
+    - +.msftncsi.com
+    - +.renovacionxboxlive.com
     - +.msgamesresearch.com
     - +.msgamestudios.com
     - +.mshome.net
@@ -276,29 +275,14 @@ payload:
     - +.windowssearch.com
     - +.windowsupdate.com
     - +.winhec.com
-    - +.microsoft.ca
-    - +.yammer.com
-    - +.start.com
-    - +.microsoftstart.com
-    - +.insiderdevtour.com
+    - +.winhec.net
     - +.microsoft.cat
-    - +.mpnevolution.com
-    - +.livefilestore.com
-    - +.sharepoint.cn
-    - +.msnkids.com
-    - +.msnewskids.org
-    - +.msnewskids.net
-    - +.msnewskids.com
-    - +.msn.com
-    - +.microsoftnewskids.org
-    - +.microsoftnewskids.net
-    - +.microsoftnewskids.com
-    - +.microsoftnewsforkids.org
-    - +.microsoft.by
     - +.gamepass.com
-    - +.orithegame.com
-    - +.renovacionxboxlive.com
-    - +.tellmewhygame.com
+    - +.sharepoint.cn
+    - +.livefilestore.com
+    - +.msdn.com
+    - +.microsoft.ch
+    - +.ms-studiosmedia.com
     - +.xbox.co
     - +.xbox.com
     - +.xbox.eu
@@ -318,14 +302,6 @@ payload:
     - +.xboxservices.com
     - +.xboxstudios.com
     - +.xbx.lv
-    - +.asobostudio.com
-    - +.flightsimulator.com
-    - +.beth.games
-    - +.bethesda.net
-    - +.bethesdagamestudios.com
-    - +.bethsoft.com
-    - +.doom.com
-    - +.elderscrolls.com
     - +.forza.net
     - +.forzamotorsport.net
     - +.forzaracingchampionship.com
@@ -336,7 +312,15 @@ payload:
     - +.minecraftservices.com
     - +.minecraftshop.com
     - +.mojang.com
-    - +.microsoft.be
+    - +.asobostudio.com
+    - +.flightsimulator.com
+    - +.beth.games
+    - +.bethesda.net
+    - +.bethesdagamestudios.com
+    - +.bethsoft.com
+    - +.doom.com
+    - +.elderscrolls.com
+    - +.microsoft.ca
     - +.aadrm.com
     - +.azure-devices-int.net
     - +.azure-devices.net
@@ -393,7 +377,7 @@ payload:
     - +.azure-dns.info
     - +.azure-dns.net
     - +.azure-dns.org
-    - +.microsoft.az
+    - +.microsoft.by
     - +.dictate.ms
     - +.sprinklesapp.com
     - +.bing.com
@@ -420,7 +404,8 @@ payload:
     - +.office365love.com
     - +.office365tw.com
     - +.renovacionoffice.com
-    - +.microsoftnewsforkids.net
+    - +.1drv.com
+    - +.onedrive.com
     - +.githubhackathon.com
     - +.git.io
     - +.atom.io
@@ -449,7 +434,6 @@ payload:
     - +.npmjs.org
     - +.npm.community
     - +.npmjs.com
-    - +.microsoftnewsforkids.com
     - +.adaptivecards.io
     - +.api-extractor.com
     - +.apisof.net
@@ -460,6 +444,7 @@ payload:
     - +.dot.net
     - +.gamesstack.com
     - +.graphengine.io
+    - +.insiderdevtour.com
     - +.jwt.ms
     - +.microbit.org
     - +.microsoftadc.com
@@ -474,7 +459,7 @@ payload:
     - +.microsoftsqlserver.com
     - +.mmdnn.com
     - +.mono-project.com
-    - +.msdn.com
+    - +.orithegame.com
     - +.msinnovationchallenge.com
     - +.mspairlift.com
     - +.msropendata.com
@@ -499,17 +484,32 @@ payload:
     - +.vscode-cdn.net
     - +.vscode-unpkg.net
     - +.xamarin.com
-    - +.microsoftnews.org
+    - +.microsoft.az
     - +.msocsp.com
     - +.microsoftnews.cc
     - +.microsoftnews.com
     - +.microsoftnews.net
-    - +.spoprod-a.akamaihd.net
+    - +.microsoftnews.org
+    - +.microsoftnewsforkids.com
+    - +.microsoftnewsforkids.net
+    - +.microsoftnewsforkids.org
+    - +.microsoftnewskids.com
+    - +.microsoftnewskids.net
+    - +.microsoftnewskids.org
+    - +.msn.com
+    - +.msnewskids.com
+    - +.msnewskids.net
+    - +.msnewskids.org
+    - +.msnkids.com
+    - +.microsoftstart.com
+    - +.start.com
+    - +.microsoft.be
     - +.live.com.au
-    - +.visualstudio.co.uk
-    - +.microsoftstore.com.hk
     - +.skypedata.akadns.net
     - +.skype-edf.akadns.net
+    - +.visualstudio.co.uk
+    - +.microsoftstore.com.hk
+    - +.spoprod-a.akamaihd.net
     - +.clarity.ms
     - +.dcg.microsoft.com
     - +.dynamics.cn
