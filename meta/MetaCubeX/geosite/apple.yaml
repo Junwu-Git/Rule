@@ -9,7 +9,6 @@ payload:
     - appleworldwidedeveloper.sc.omtrdc.net
     - p-events-delivery.akamaized.net
     - beatselectronicsllc.tt.omtrdc.net
-    - www-cdn.icloud.com.akadns.net
     - apple-tv-plus-press.apple.com
     - hls-amt.itunes.apple.com
     - hls.itunes.apple.com
@@ -17,6 +16,7 @@ payload:
     - play-edge.itunes.apple.com
     - tv.applemusic.com
     - uts-api.itunes.apple.com
+    - www-cdn.icloud.com.akadns.net
     - +.apple
     - +.beatsaudios.net
     - +.beats-bydreuk.com
@@ -1363,8 +1363,6 @@ payload:
     - +.solostudioksale.com
     - +.soso7778.com
     - +.specialtyheadphones.com
-    - +.applemusic.com.au
-    - +.macbookair.com.es
     - +.apple.co.cr
     - +.webobjects.co.uk
     - +.quicktime.com.au
@@ -1396,12 +1394,16 @@ payload:
     - +.applepay.com.tw
     - +.applepay.co.rs
     - +.apple.comscoreresearch.com
-    - +.applestore.com.hr
+    - +.iphoneclaro.com.br
+    - +.iphone4.com.br
+    - +.ipod.co.nz
+    - +.applemusic.com.au
     - +.apple-watch.com.ru
     - +.macbookpro.com.au
+    - +.macbookair.com.es
     - +.macbookair.com.au
     - +.macbookair.co.uk
-    - +.applestore.com.gr
+    - +.macbookair.co.kr
     - +.ipodshop.com.au
     - +.ipodrocks.com.au
     - +.ipod.com.tw
@@ -1411,10 +1413,8 @@ payload:
     - +.ipod.com.au
     - +.ipod.co.za
     - +.ipod.co.uk
-    - +.ipod.co.nz
-    - +.iphoneclaro.com.br
-    - +.applestore.com.jo
-    - +.iphone4.com.br
+    - +.applestore.com.sn
+    - +.iphoneacessorios.com.br
     - +.iphone.net.gr
     - +.iphone.com.gr
     - +.iphone.com.au
@@ -1426,17 +1426,16 @@ payload:
     - +.appstore.co.id
     - +.applestore.net.gr
     - +.applestore.com.tw
-    - +.applestore.com.sn
     - +.applestore.com.ru
     - +.applestore.com.ro
     - +.applestore.com.pt
     - +.applestore.com.pl
     - +.applestore.com.ph
     - +.applestore.com.my
-    - +.iphoneacessorios.com.br
-    - +.apple.net.gr
+    - +.applestore.com.jo
+    - +.applestore.com.hr
     - +.applestore.com.hk
-    - +.macbookair.co.kr
+    - +.applestore.com.gr
     - +.applestore.com.eg
     - +.applestore.com.ee
     - +.applestore.com.bn
@@ -1445,6 +1444,7 @@ payload:
     - +.applestore.co.ug
     - +.applestore.co.jp
     - +.applestore.co.hu
+    - +.apple.net.gr
     - +.apple.com.uy
     - +.apple.com.tw
     - +.apple.com.tr
@@ -1747,10 +1747,6 @@ payload:
     - www.apple.com
     - www.apple.com.edgekey.net.globalredir.akadns.net
     - xp.apple.com
-    - +.api-adservices.apple.com
-    - +.iadsdk.apple.com
-    - +.iad.apple.com
-    - +.qwapi.com
     - +.researchkit.cn
     - +.researchkit.com.cn
     - +.swiftui.cn
@@ -1771,6 +1767,10 @@ payload:
     - +.beatsbydre.com
     - +.beatsbydre.com.cn
     - +.beatsep.cn
+    - +.api-adservices.apple.com
+    - +.iadsdk.apple.com
+    - +.iad.apple.com
+    - +.qwapi.com
     - +.apple-icloud.cn
     - +.appleicloud.cn
     - +.icloud-apple.cn

@@ -1,6 +1,6 @@
 # NAME: LocationDKS
 # AUTHOR: YYDS666
-# UPDATED: 2025-11-14 02:20:06
+# UPDATED: 2025-11-15 02:21:07
 # TOTAL: 5
 +.amemv.com
 +.apissl.ksapisrv.com

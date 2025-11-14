@@ -1,7 +1,7 @@
 # NAME: Proxy
 # AUTHOR: YYDS666
-# UPDATED: 2025-11-14 02:20:05
-# TOTAL: 6289
+# UPDATED: 2025-11-15 02:21:08
+# TOTAL: 6306
 +.000webhost.com
 +.030buy.com
 +.0rz.tw
@@ -268,6 +268,7 @@
 +.aojiao.org
 +.aomedia.org
 +.aomiwang.com
++.aoxvpn.com
 +.apartmentratings.com
 +.apartments.com
 +.apat1989.org
@@ -461,6 +462,7 @@
 +.bet365.com
 +.betaclouds.net
 +.betfair.com
++.bettergpt.chat
 +.betterhash.net
 +.betternet.co
 +.bettervpn.com
@@ -683,6 +685,7 @@
 +.cams.org.sg
 +.canalporno.com
 +.caniuse.com
++.canva.com
 +.canyu.org
 +.caobian.info
 +.caochangqing.com
@@ -719,6 +722,7 @@
 +.cccat.co
 +.ccfd.org.tw
 +.cchere.com
++.cchostvps.xyz
 +.ccim.org
 +.cclife.ca
 +.cclife.org
@@ -777,9 +781,11 @@
 +.chaoex.com
 +.chaos.social
 +.character.ai
++.chat.com
 +.chat.lmsys.org
 +.chatgpt.com
 +.chatnook.com
++.chatpdf.com
 +.chaturbate.com
 +.checkgfw.com
 +.chengmingmag.com
@@ -1055,6 +1061,7 @@
 +.danbooru.donmai.us
 +.danke4china.net
 +.darktech.org
++.darmau.co
 +.darpa.mil
 +.darrenliuwei.com
 +.dashlane.com
@@ -1478,6 +1485,7 @@
 +.fiddle.jshell.net
 +.figprayer.com
 +.fileflyer.com
++.files.oaiusercontent.com
 +.filesor.com
 +.filthdump.com
 +.financetwitter.com
@@ -1509,6 +1517,7 @@
 +.flitto.com
 +.flnet.org
 +.flog.tw
++.flowgpt.com
 +.flowhongkong.net
 +.flypool.org
 +.flyvpn.com
@@ -1523,6 +1532,7 @@
 +.fontawesome.com
 +.fooooo.com
 +.forbes.com
++.forefront.ai
 +.foreignaffairs.com
 +.foreignpolicy.com
 +.form.new
@@ -1971,6 +1981,7 @@
 +.hgseav.com
 +.hhdcb3office.org
 +.hhthesakyatrizin.org
++.hicairo.com
 +.hiccears.com
 +.hidden-advent.org
 +.hide.me
@@ -2119,6 +2130,7 @@
 +.hwayue.org.tw
 +.hxwk.org
 +.hybrid-analysis.com
++.hyperbeam.com
 +.hyperrate.com
 +.hypothes.is
 +.i-cable.com
@@ -2331,7 +2343,6 @@
 +.jgoodies.com
 +.jiangweiping.com
 +.jiaoyou8.com
-+.jichangtj.com
 +.jiehua.cz
 +.jifangge.com
 +.jigglegifs.com
@@ -2505,6 +2516,7 @@
 +.letou.com
 +.letscorp.net
 +.letsencrypt.org
++.lexica.art
 +.lflink.com
 +.lflinkup.com
 +.lflinkup.net
@@ -2562,6 +2574,7 @@
 +.livestream.com
 +.livevideo.com
 +.livingstream.com
++.lmarena.ai
 +.load.to
 +.lobsangwangyal.com
 +.localbitcoins.com
@@ -2587,6 +2600,7 @@
 +.lsmkorean.org
 +.lsmwebcast.com
 +.lsxszzg.com
++.lt.sntp.uk
 +.ltn.com.tw
 +.luckydesigner.space
 +.luckymobile.ca
@@ -3509,6 +3523,7 @@
 +.releaseinternational.org
 +.religionnews.com
 +.renminbao.com
++.rentry.co
 +.renyurenquan.org
 +.researchgate.net
 +.resilio.com
@@ -3815,6 +3830,7 @@
 +.sonidodelaesperanza.org
 +.sopcast.com
 +.sopcast.org
++.sora.com
 +.sorting-algorithms.com
 +.sos.org
 +.sosad.fun
@@ -4066,6 +4082,7 @@
 +.tensorflow.org
 +.tenzinpalmo.com
 +.terabox.com
++.terobox.com
 +.tew.org
 +.textnow.com
 +.textnow.me
