@@ -1,6 +1,6 @@
 # NAME: Streaming
 # AUTHOR: YYDS666
-# UPDATED: 2025-11-15 02:21:09
+# UPDATED: 2025-11-16 02:17:34
 # TOTAL: 394
 DOMAIN,44wilhpljf.execute-api.ap-southeast-1.amazonaws.com
 DOMAIN,api-abematv.bucketeer.jp

@@ -1,6 +1,6 @@
 # NAME: Spotify
 # AUTHOR: YYDS666
-# UPDATED: 2025-11-15 02:21:10
+# UPDATED: 2025-11-16 02:17:42
 # TOTAL: 23
 DOMAIN,audio-ak-spotify-com.akamaized.net
 DOMAIN,audio4-ak-spotify-com.akamaized.net

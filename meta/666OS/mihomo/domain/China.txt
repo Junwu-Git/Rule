@@ -1,7 +1,7 @@
 # NAME: China
 # AUTHOR: YYDS666
-# UPDATED: 2025-11-15 02:21:06
-# TOTAL: 5954
+# UPDATED: 2025-11-16 02:17:41
+# TOTAL: 5964
 +.00cdn.com
 +.0123456789.com
 +.0379home.com
@@ -57,6 +57,7 @@
 +.1637.com
 +.163cn.tv
 +.163industry.com
++.163jiasu.com
 +.163mail.com
 +.163qiyukf.com
 +.163yun.com
@@ -105,6 +106,7 @@
 +.310win.com
 +.315che.com
 +.315dian.com
++.321fenx.com
 +.3234.com
 +.32r.com
 +.3304399.com
@@ -686,6 +688,7 @@
 +.b2clogin.cn
 +.b3itech.cn
 +.b3log.org
++.b3logfile.com
 +.babytree.com
 +.babytreeimg.com
 +.baichuan-ai.com
@@ -826,7 +829,6 @@
 +.bilibili.cc
 +.bilibili.com
 +.bilibili.net
-+.bilibiligame.cn
 +.bilibiligame.co
 +.bilibiligame.net
 +.bilibilipay.com
@@ -887,6 +889,7 @@
 +.bocifunds.com
 +.bocigroup.com
 +.bocim.com
++.boe.com
 +.bohejiasuqi.com
 +.bojianger.com
 +.bokecc.com
@@ -900,7 +903,6 @@
 +.boxdouyin.com
 +.bplslb.com
 +.bpltm.com
-+.brawlstars.cn
 +.bridgestone.cn
 +.bridgestone.com.cn
 +.bsbsb.top
@@ -1475,6 +1477,7 @@
 +.cyol.com
 +.cyts.com
 +.cztv.com
++.cztvcdn.com
 +.cztvcloud.com
 +.dadajiasu.com
 +.dadighost.com
@@ -1529,6 +1532,7 @@
 +.ddxq.mobi
 +.dearedu.com
 +.dedecms.com
++.deepepg.com
 +.deepin.com
 +.deepinos.org
 +.deepseek.com
@@ -2070,7 +2074,7 @@
 +.gdliontech.com
 +.gdrc.com
 +.gdtimg.com
-+.geekpark.net
++.geekpark
 +.geektool.top
 +.geely.com
 +.geetest.com
@@ -2135,12 +2139,10 @@
 +.goselling.com
 +.goto-game.com
 +.goto-game.mobi
-+.goto-game.net.cn
 +.goto-game.org
 +.gotokeep.com
 +.gotolink.net
 +.goufw.com
-+.gouhuo.qq.com
 +.gov.cn
 +.govqcloud.com
 +.gowinamc.com
@@ -2234,7 +2236,6 @@
 +.hapiyixia.com
 +.happyhlddz.com
 +.harmonyos.com
-+.haydaypop.cn
 +.hazq.com
 +.hbooker.com
 +.hc-cdn.com
@@ -2485,7 +2486,6 @@
 +.igtm.pub
 +.igwfmc.com
 +.ihaohaoxuexi.com
-+.ihappystudio.cn
 +.ihappystudio.com
 +.iheima.com
 +.ihst8.com
@@ -2520,7 +2520,6 @@
 +.inanguapi.com
 +.incopat.com
 +.indienova.com
-+.infineon.com
 +.infinitynewtab.com
 +.infoq.com
 +.infoqstatic.com
@@ -2878,6 +2877,7 @@
 +.kindleoasis.com.cn
 +.kingdee.com
 +.kinghomechina.com
++.kingsoft-office-service.com
 +.kingsoft.com
 +.kiyuu.club
 +.kjwugx.com
@@ -2888,6 +2888,7 @@
 +.klpbbs.com
 +.kongfz.com
 +.koocdn.com
++.kookong.com
 +.koolearn.com
 +.koopass.com
 +.koowo.com
@@ -2967,7 +2968,6 @@
 +.kwaizt.com
 +.kwimgs.com
 +.kych5.com
-+.labycore.cn
 +.lady8844.com
 +.lagou.com
 +.laiwang.com
@@ -3148,7 +3148,6 @@
 +.luckyair.net
 +.luckysf.net
 +.ludashi.com
-+.ludosuperstar.cn
 +.ludoworld.net
 +.lufax.com
 +.lufaxcdn.com
@@ -3187,7 +3186,6 @@
 +.magedu.com
 +.magnoliaav.com.cn
 +.mahjongai.net
-+.mahjongcup.cn
 +.mahjongcup.com
 +.mahjongcup.net
 +.mail4399.com
@@ -3264,7 +3262,6 @@
 +.mgslb.com
 +.mgtv.com
 +.mhystatic.com
-+.mhyurl.cn
 +.mi-idc.com
 +.mi-img.com
 +.mi.com
@@ -3384,7 +3381,6 @@
 +.mspil.cn
 +.msra.cn
 +.msstatic.com
-+.mszdld.cn
 +.mszdld.com
 +.mszdld.net
 +.mszq.com
@@ -3455,6 +3451,7 @@
 +.netease-inc.com
 +.netease.com
 +.netease.im
++.netstatic.net
 +.network-auth.cn
 +.netzz.net
 +.newasp.net
@@ -3722,7 +3719,6 @@
 +.pstatp.com
 +.puata.info
 +.pubghelper.com
-+.pubgno1.cn
 +.pubgtool.com
 +.pubyun.com
 +.puddingcat.top
@@ -3826,6 +3822,7 @@
 +.qiyi.com
 +.qiyipic.com
 +.qiyukf.com
++.qiyukf.net
 +.qizuang.com
 +.qlinkto.cn
 +.qlivecdn.com
@@ -3903,14 +3900,10 @@
 +.rmbgame.net
 +.rmwxgame.com
 +.ro.com
-+.roblox.cn
-+.roblox.qq.com
-+.robloxdev.cn
 +.robomaster.com
 +.roborock.com
 +.rock-chips.com
 +.rockyenglish.com
-+.roco.qq.com
 +.rong360.com
 +.rongechain.com
 +.route53.cn
@@ -3948,14 +3941,9 @@
 +.saxyit.com
 +.sbsjk.com
 +.sc96655.com
-+.sccreator.cn
-+.sccreators.cn
 +.scdng.com
-+.scescdn.cn
-+.scid.cn
 +.scm121.com
 +.scoregg.com
-+.scsentry.cn
 +.sczsxx.com
 +.sdgdwljt.com
 +.sdo.com
@@ -4064,7 +4052,6 @@
 +.skimit.net
 +.skycdn.com.cn
 +.skycn.com
-+.skydweller.cn
 +.skypixel.com
 +.skysea.com
 +.sl916.com
@@ -4133,11 +4120,13 @@
 +.st.dl.bscstorage.net
 +.st.dl.eccdnx.com
 +.st.dl.pinyuncloud.com
++.stage1st.com
 +.starbaby.cc
 +.starbaby.com
 +.starbucks.com.cn
 +.starlakelab.com
 +.starworldgames.com
++.static163.net
 +.staticfile.net
 +.staticfile.org
 +.statickksmg.com
@@ -4170,8 +4159,6 @@
 +.sunrtb.com
 +.supercachenet.com
 +.supercachenode.com
-+.supercellcommunity.cn
-+.supercellsupport.cn
 +.superlib.com
 +.superlib.net
 +.supermap.com
@@ -4229,7 +4216,6 @@
 +.tapimg.com
 +.tapimg.net
 +.taptap.com
-+.taptap.io
 +.taptapdada.com
 +.tbcache.com
 +.tburl.in
@@ -4357,7 +4343,6 @@
 +.testipv6.cn
 +.testwaf.com
 +.tetrisone.com
-+.texasholdemcup.cn
 +.texasholdemcup.com
 +.texasholdemcup.net
 +.tfogc.com
@@ -4377,7 +4362,6 @@
 +.ths123.com
 +.thundercdn.com
 +.thunderurl.com
-+.ti.com
 +.tiancity.com
 +.tiancitycdn.com
 +.tianjimedia.com
@@ -4403,7 +4387,7 @@
 +.timmerse.com
 +.tingbook.com
 +.tingyun.com
-+.tipdim.org
++.tipdm.org
 +.tita.com
 +.titanar.com
 +.tivitv.com
@@ -4812,7 +4796,6 @@
 +.wecom.work
 +.wedoctor.com
 +.wegame.com
-+.wegame.com.cn
 +.wegamedeveloper.com
 +.wegameplus.com
 +.weibo.com
@@ -4834,7 +4817,6 @@
 +.wenxiaozhan.com
 +.wenxiaozhan.net
 +.wenxin-ge.com
-+.werepository.com.cn
 +.west95582.com
 +.weui.io
 +.wework-studio.com
@@ -4882,6 +4864,7 @@
 +.wooyun.org
 +.woozooo.com
 +.worktile.com
++.woshipm.com
 +.woxihuan.com
 +.woyaogexing.com
 +.woyoo.com
@@ -5052,7 +5035,6 @@
 +.xn--nyqy26a
 +.xn--ohq11k7pl25iyo8a.cn
 +.xn--otu796d
-+.xn--owtw8cc49ajfl.cn
 +.xn--rhqv96g
 +.xn--ses554g
 +.xn--unup4y
@@ -5080,7 +5062,6 @@
 +.xuexi365.com
 +.xuexi365.net
 +.xuexicha.com
-+.xueyuanjun.com
 +.xundupdf.com
 +.xunfeixxj.com
 +.xunlei.com
@@ -5255,7 +5236,6 @@
 +.yxdmgame.com
 +.yxdown.com
 +.yxhhdl.com
-+.yximg.cn
 +.yximgs.com
 +.yxwsgame.com
 +.yy.com
@@ -5406,6 +5386,8 @@ a2.mzstatic.com
 a3.mzstatic.com
 a4.mzstatic.com
 a5.mzstatic.com
+activate.activation-v2.kaspersky.com
+activation-v2.geo.kaspersky.com
 activation-v2.kaspersky.com
 adcdownload.apple.com
 adcdownload.apple.com.akadns.net
@@ -5519,6 +5501,11 @@ ctldl.windowsupdate.com
 cueme-api.quark.cn
 customization-cdn.dell.com
 dartsearch-cn.net
+dc1-cert.ksn.kaspersky-labs.com
+dc1-file.ksn.kaspersky-labs.com
+dc1-pp.ksn.kaspersky-labs.com
+dc1-st.ksn.kaspersky-labs.com
+dc1.ksn.kaspersky-labs.com
 dd-cdn.origin-apple.com.akadns.net
 dds.dell.com
 dejavu.apple.com
@@ -5564,6 +5551,7 @@ downloaddispatch.itunes.apple.com
 ea2cn-dev-outlet.dell.com
 ea2cn-prod-outlet.dell.com
 ea2cn-staging-outlet.dell.com
+edge.geo.kaspersky.com
 emmapplecodevice.googleapis.com
 emoi-cncdn.bing.com
 experiments.apple.com
@@ -5686,9 +5674,29 @@ js-cdn.music.apple.com
 kc.kexinshe.com
 km.support.apple.com
 ksn-cinfo-geo.kaspersky-labs.com
+ksn-cinfo.geoksn.kaspersky.com
+ksn-crypto-info-geo.kaspersky-labs.com
+ksn-crypto-kas-geo.kaspersky-labs.com
+ksn-crypto-tcert-geo.kaspersky-labs.com
+ksn-crypto-url-geo.kaspersky-labs.com
+ksn-crypto-verdict-geo.kaspersky-labs.com
+ksn-crypto-wifiplus-geo.kaspersky-labs.com
+ksn-crypto-wifiplus.geoksn.kaspersky.com
+ksn-dc1-cert.geoksn.kaspersky.com
+ksn-dc1-file.geoksn.kaspersky.com
+ksn-dc1.geoksn.kaspersky.com
 ksn-file-geo.kaspersky-labs.com
+ksn-file.geoksn.kaspersky.com
+ksn-info-geo.kaspersky-labs.com
+ksn-info.geoksn.kaspersky.com
+ksn-kas.geoksn.kaspersky.com
+ksn-mdr.geoksn.kaspersky.com
+ksn-tcert-geo.kaspersky-labs.com
+ksn-tcert.geoksn.kaspersky.com
 ksn-url-geo.kaspersky-labs.com
+ksn-url.geoksn.kaspersky.com
 ksn-verdict-geo.kaspersky-labs.com
+ksn-verdict.geoksn.kaspersky.com
 l2-uberproxy.corp.google.com
 learn.microsoft.com
 logger-dev.corp.google.com
@@ -5697,6 +5705,7 @@ login.corp.google.com
 lv.queniujq.cn
 manga.bilibili.com
 maps.apple.com
+mdr.ksn.kaspersky-labs.com
 menu-static.gog-statics.com
 mesu-cdn.apple.com.akadns.net
 mesu-china.apple.com.akadns.net
@@ -5808,6 +5817,7 @@ redirector.gvt1.com
 redirector.offline-maps.gvt1.com
 redirector.snap.gvt1.com
 redirector.xn--ngstr-lra8j.com
+refresh-bkg.activation-v2.kaspersky.com
 res-1.cdn.office.net
 res.cdn.office.net
 reserve-prime.apple.com

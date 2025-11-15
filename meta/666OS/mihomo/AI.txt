@@ -1,7 +1,7 @@
 # NAME: AI
 # AUTHOR: YYDS666
-# UPDATED: 2025-11-15 02:21:03
-# TOTAL: 181
+# UPDATED: 2025-11-16 02:17:37
+# TOTAL: 186
 DOMAIN,ai.google.dev
 DOMAIN,aistudio.google.com
 DOMAIN,alkalicore-pa.clients6.google.com
@@ -83,7 +83,10 @@ DOMAIN-SUFFIX,codeium.com
 DOMAIN-SUFFIX,codepilot.ai
 DOMAIN-SUFFIX,coderabbit.ai
 DOMAIN-SUFFIX,coderabbit.gallery.vsassets.io
+DOMAIN-SUFFIX,cohere.ai
+DOMAIN-SUFFIX,cohere.com
 DOMAIN-SUFFIX,copilot.microsoft.com
+DOMAIN-SUFFIX,coze.com
 DOMAIN-SUFFIX,cursor-cdn.com
 DOMAIN-SUFFIX,cursor.com
 DOMAIN-SUFFIX,cursor.sh
@@ -130,6 +133,7 @@ DOMAIN-SUFFIX,launchdarkly.com
 DOMAIN-SUFFIX,leonardo.ai
 DOMAIN-SUFFIX,livekit.cloud
 DOMAIN-SUFFIX,makersuite.google.com
+DOMAIN-SUFFIX,marscode.com
 DOMAIN-SUFFIX,meta.ai
 DOMAIN-SUFFIX,microsoft-copilot.com
 DOMAIN-SUFFIX,midjourney.com
@@ -168,6 +172,7 @@ DOMAIN-SUFFIX,stablediffusionweb.com
 DOMAIN-SUFFIX,stripe.com
 DOMAIN-SUFFIX,synthesia.io
 DOMAIN-SUFFIX,tabnine.com
+DOMAIN-SUFFIX,trae.ai
 DOMAIN-SUFFIX,turn.livekit.cloud
 DOMAIN-SUFFIX,x.ai
 DOMAIN-KEYWORD,diabrowser

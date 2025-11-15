@@ -1,7 +1,7 @@
 # NAME: NewsMedia
 # AUTHOR: YYDS666
-# UPDATED: 2025-11-15 02:21:03
-# TOTAL: 1280
+# UPDATED: 2025-11-16 02:17:38
+# TOTAL: 1275
 DOMAIN,aod-pod-uk-live.akamaized.net
 DOMAIN,as-dash-uk-live.akamaized.net
 DOMAIN,as-hls-uk-live.akamaized.net
@@ -269,7 +269,6 @@ DOMAIN-SUFFIX,djreprints.com
 DOMAIN-SUFFIX,dmgmediaprivacy.co.uk
 DOMAIN-SUFFIX,dnai.in
 DOMAIN-SUFFIX,dnaindia.com
-DOMAIN-SUFFIX,dogatch.jp
 DOMAIN-SUFFIX,donatecarsoh.org
 DOMAIN-SUFFIX,dongtaiwang.com
 DOMAIN-SUFFIX,dowjones.com
@@ -536,7 +535,6 @@ DOMAIN-SUFFIX,goldcoastbulletin.com.au
 DOMAIN-SUFFIX,golos-ameriki.ru
 DOMAIN-SUFFIX,golosameriki.com
 DOMAIN-SUFFIX,gooddaychicago.com
-DOMAIN-SUFFIX,gorin.jp
 DOMAIN-SUFFIX,gotraffic.net
 DOMAIN-SUFFIX,gtv.org
 DOMAIN-SUFFIX,gtv1.org
@@ -967,7 +965,6 @@ DOMAIN-SUFFIX,sarajevopodopsadom.com
 DOMAIN-SUFFIX,savvyshopper.net.au
 DOMAIN-SUFFIX,sbnation.com
 DOMAIN-SUFFIX,scmp.com
-DOMAIN-SUFFIX,screens-lab.jp
 DOMAIN-SUFFIX,seasidestory.tokyo
 DOMAIN-SUFFIX,secretchina.com
 DOMAIN-SUFFIX,seiron-sankei.com
@@ -1125,8 +1122,6 @@ DOMAIN-SUFFIX,tvbeventpower.com.hk
 DOMAIN-SUFFIX,tvbs.com.tw
 DOMAIN-SUFFIX,tvbusa.com
 DOMAIN-SUFFIX,tvbweekly.com
-DOMAIN-SUFFIX,tver.co.jp
-DOMAIN-SUFFIX,tver.jp
 DOMAIN-SUFFIX,tvmedia.net.au
 DOMAIN-SUFFIX,tvmost.com.hk
 DOMAIN-SUFFIX,tvnaviweb.jp

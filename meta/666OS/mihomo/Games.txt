@@ -1,7 +1,7 @@
 # NAME: Games
 # AUTHOR: YYDS666
-# UPDATED: 2025-11-15 02:21:08
-# TOTAL: 782
+# UPDATED: 2025-11-16 02:17:35
+# TOTAL: 783
 DOMAIN,a.ppy.sh
 DOMAIN,a4e8s8k3.map2.ssl.hwcdn.net
 DOMAIN,alibaba.cdn.steampipe.steamcontent.com
@@ -251,6 +251,7 @@ DOMAIN-SUFFIX,easyanticheat.net
 DOMAIN-SUFFIX,edge.steam-dns.top.comcast.net
 DOMAIN-SUFFIX,edu4399.com
 DOMAIN-SUFFIX,eft-store.com
+DOMAIN-SUFFIX,egdownload.fastly-edge.com
 DOMAIN-SUFFIX,elderscrolls.com
 DOMAIN-SUFFIX,electronicarts.com
 DOMAIN-SUFFIX,electronicarts.fr

@@ -1,7 +1,7 @@
 # NAME: NewsMedia
 # AUTHOR: YYDS666
-# UPDATED: 2025-11-15 02:21:03
-# TOTAL: 1401
+# UPDATED: 2025-11-16 02:17:38
+# TOTAL: 1396
 +.1degree.com.au
 +.47gyosei.jp
 +.47news.jp
@@ -274,7 +274,6 @@
 +.dmgmediaprivacy.co.uk
 +.dnai.in
 +.dnaindia.com
-+.dogatch.jp
 +.donatecarsoh.org
 +.dongtaiwang.com
 +.dowjones.com
@@ -588,7 +587,6 @@
 +.golos-ameriki.ru
 +.golosameriki.com
 +.gooddaychicago.com
-+.gorin.jp
 +.gotraffic.net
 +.gtv.org
 +.gtv1.org
@@ -1055,7 +1053,6 @@
 +.savvyshopper.net.au
 +.sbnation.com
 +.scmp.com
-+.screens-lab.jp
 +.seasidestory.tokyo
 +.secretchina.com
 +.seiron-sankei.com
@@ -1231,8 +1228,6 @@
 +.tvbs.com.tw
 +.tvbusa.com
 +.tvbweekly.com
-+.tver.co.jp
-+.tver.jp
 +.tvmedia.net.au
 +.tvmost.com.hk
 +.tvnaviweb.jp

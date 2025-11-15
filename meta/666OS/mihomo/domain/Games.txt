@@ -1,7 +1,7 @@
 # NAME: Games
 # AUTHOR: YYDS666
-# UPDATED: 2025-11-15 02:21:08
-# TOTAL: 850
+# UPDATED: 2025-11-16 02:17:35
+# TOTAL: 851
 +.100classicbooks.com
 +.17roco.com
 +.2k.com
@@ -183,6 +183,7 @@
 +.edge.steam-dns.top.comcast.net
 +.edu4399.com
 +.eft-store.com
++.egdownload.fastly-edge.com
 +.elderscrolls.com
 +.electronicarts.com
 +.electronicarts.fr

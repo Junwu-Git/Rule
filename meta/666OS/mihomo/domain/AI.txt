@@ -1,7 +1,7 @@
 # NAME: AI
 # AUTHOR: YYDS666
-# UPDATED: 2025-11-15 02:21:03
-# TOTAL: 168
+# UPDATED: 2025-11-16 02:17:37
+# TOTAL: 173
 +.ai.com
 +.aida.googleapis.com
 +.aiproxy.io
@@ -34,7 +34,10 @@
 +.codepilot.ai
 +.coderabbit.ai
 +.coderabbit.gallery.vsassets.io
++.cohere.ai
++.cohere.com
 +.copilot.microsoft.com
++.coze.com
 +.cursor-cdn.com
 +.cursor.com
 +.cursor.sh
@@ -81,6 +84,7 @@
 +.leonardo.ai
 +.livekit.cloud
 +.makersuite.google.com
++.marscode.com
 +.meta.ai
 +.microsoft-copilot.com
 +.midjourney.com
@@ -119,6 +123,7 @@
 +.stripe.com
 +.synthesia.io
 +.tabnine.com
++.trae.ai
 +.turn.livekit.cloud
 +.x.ai
 ai.google.dev
