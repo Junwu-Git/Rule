@@ -1,6 +1,6 @@
 # NAME: Speedtest
 # AUTHOR: YYDS666
-# UPDATED: 2025-11-16 02:17:37
+# UPDATED: 2025-11-17 02:18:13
 # TOTAL: 4371
 +.07internet.ro
 +.099.net.il
