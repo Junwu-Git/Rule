@@ -1,6 +1,6 @@
 # NAME: TikTok
 # AUTHOR: YYDS666
-# UPDATED: 2025-11-17 02:18:19
+# UPDATED: 2025-11-18 02:20:00
 # TOTAL: 21
 +.byteoversea.com
 +.muscdn.com

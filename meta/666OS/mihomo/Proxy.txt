@@ -1,7 +1,7 @@
 # NAME: Proxy
 # AUTHOR: YYDS666
-# UPDATED: 2025-11-17 02:18:14
-# TOTAL: 6315
+# UPDATED: 2025-11-18 02:19:59
+# TOTAL: 6319
 DOMAIN,0rz.tw
 DOMAIN,1-apple.com.tw
 DOMAIN,123rf.com
@@ -1384,6 +1384,7 @@ DOMAIN-SUFFIX,adcex.com
 DOMAIN-SUFFIX,addictedtocoffee.de
 DOMAIN-SUFFIX,addons.mozilla.org
 DOMAIN-SUFFIX,addyoutube.com
+DOMAIN-SUFFIX,adguard-vpn.com
 DOMAIN-SUFFIX,admin.recaptcha.net
 DOMAIN-SUFFIX,admob.com
 DOMAIN-SUFFIX,adpl.org.hk
@@ -3102,6 +3103,7 @@ DOMAIN-SUFFIX,hautelook.com
 DOMAIN-SUFFIX,hautelookcdn.com
 DOMAIN-SUFFIX,hbg.com
 DOMAIN-SUFFIX,hbo.com
+DOMAIN-SUFFIX,hbomax.com
 DOMAIN-SUFFIX,hclips.com
 DOMAIN-SUFFIX,hdtvb.net
 DOMAIN-SUFFIX,hdzog.com
@@ -3910,6 +3912,7 @@ DOMAIN-SUFFIX,mixlr.com
 DOMAIN-SUFFIX,mixx.com
 DOMAIN-SUFFIX,mizzmona.com
 DOMAIN-SUFFIX,mjib.gov.tw
+DOMAIN-SUFFIX,mjj.rip
 DOMAIN-SUFFIX,mlc.ai
 DOMAIN-SUFFIX,mlcool.com
 DOMAIN-SUFFIX,mlzs.work
@@ -4712,6 +4715,7 @@ DOMAIN-SUFFIX,rule34video.com
 DOMAIN-SUFFIX,rumble.com
 DOMAIN-SUFFIX,runbtx.com
 DOMAIN-SUFFIX,rushbee.com
+DOMAIN-SUFFIX,rustdesk.com
 DOMAIN-SUFFIX,rusvpn.com
 DOMAIN-SUFFIX,ruten.com.tw
 DOMAIN-SUFFIX,rutracker.net

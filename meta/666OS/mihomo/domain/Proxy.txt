@@ -1,7 +1,7 @@
 # NAME: Proxy
 # AUTHOR: YYDS666
-# UPDATED: 2025-11-17 02:18:14
-# TOTAL: 6306
+# UPDATED: 2025-11-18 02:19:59
+# TOTAL: 6310
 +.000webhost.com
 +.030buy.com
 +.0rz.tw
@@ -149,6 +149,7 @@
 +.addictedtocoffee.de
 +.addons.mozilla.org
 +.addyoutube.com
++.adguard-vpn.com
 +.admin.recaptcha.net
 +.admob.com
 +.adpl.org.hk
@@ -1951,6 +1952,7 @@
 +.hautelookcdn.com
 +.hbg.com
 +.hbo.com
++.hbomax.com
 +.hclips.com
 +.hdtvb.net
 +.hdzog.com
@@ -2769,6 +2771,7 @@
 +.mixx.com
 +.mizzmona.com
 +.mjib.gov.tw
++.mjj.rip
 +.mlc.ai
 +.mlcool.com
 +.mlzs.work
@@ -3579,6 +3582,7 @@
 +.rumble.com
 +.runbtx.com
 +.rushbee.com
++.rustdesk.com
 +.rusvpn.com
 +.ruten.com.tw
 +.rutracker.net
