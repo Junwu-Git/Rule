@@ -1,7 +1,7 @@
 # NAME: Proxy
 # AUTHOR: YYDS666
-# UPDATED: 2025-11-18 02:19:59
-# TOTAL: 6310
+# UPDATED: 2025-11-19 02:21:07
+# TOTAL: 6311
 +.000webhost.com
 +.030buy.com
 +.0rz.tw
@@ -172,6 +172,7 @@
 +.agoda.com
 +.agoogleaday.com
 +.agro.hk
++.ai.dev
 +.aiosearch.com
 +.aiph.net
 +.airasia.com

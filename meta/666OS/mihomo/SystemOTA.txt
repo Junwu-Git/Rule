@@ -1,6 +1,6 @@
 # NAME: SystemOTA
 # AUTHOR: YYDS666
-# UPDATED: 2025-11-18 02:20:00
+# UPDATED: 2025-11-19 02:21:12
 # TOTAL: 78
 DOMAIN,appldnld-cdn.apple.com.akadns.net
 DOMAIN,appldnld-cdn.origin-apple.com.akadns.net
