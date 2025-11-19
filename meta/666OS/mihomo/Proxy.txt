@@ -1,7 +1,7 @@
 # NAME: Proxy
 # AUTHOR: YYDS666
-# UPDATED: 2025-11-19 02:21:07
-# TOTAL: 6320
+# UPDATED: 2025-11-20 02:20:38
+# TOTAL: 6325
 DOMAIN,0rz.tw
 DOMAIN,1-apple.com.tw
 DOMAIN,123rf.com
@@ -2125,6 +2125,7 @@ DOMAIN-SUFFIX,cloud.mail.ru
 DOMAIN-SUFFIX,cloudcone.com
 DOMAIN-SUFFIX,cloudflare-dns.com
 DOMAIN-SUFFIX,cloudflare-ipfs.com
+DOMAIN-SUFFIX,cloudflarestatus.com
 DOMAIN-SUFFIX,cloudfunctions.net
 DOMAIN-SUFFIX,club1069.com
 DOMAIN-SUFFIX,clubhouse.com
@@ -3680,6 +3681,7 @@ DOMAIN-SUFFIX,liaowangxizang.net
 DOMAIN-SUFFIX,liberal.org.hk
 DOMAIN-SUFFIX,libertysculpturepark.com
 DOMAIN-SUFFIX,libertytimes.com.tw
+DOMAIN-SUFFIX,library-access.sk
 DOMAIN-SUFFIX,libredd.it
 DOMAIN-SUFFIX,licdn.com
 DOMAIN-SUFFIX,lifemiles.com
@@ -3873,6 +3875,7 @@ DOMAIN-SUFFIX,mh4u.org
 DOMAIN-SUFFIX,microvpn.com
 DOMAIN-SUFFIX,mihr.com
 DOMAIN-SUFFIX,mihua.org
+DOMAIN-SUFFIX,mij.rip
 DOMAIN-SUFFIX,mikanani.me
 DOMAIN-SUFFIX,mike.cz.cc
 DOMAIN-SUFFIX,mikesoltys.com
@@ -3912,6 +3915,7 @@ DOMAIN-SUFFIX,mixi.jp
 DOMAIN-SUFFIX,mixlr.com
 DOMAIN-SUFFIX,mixx.com
 DOMAIN-SUFFIX,mizzmona.com
+DOMAIN-SUFFIX,mji.rip
 DOMAIN-SUFFIX,mjib.gov.tw
 DOMAIN-SUFFIX,mjj.rip
 DOMAIN-SUFFIX,mlc.ai
@@ -5994,6 +5998,7 @@ DOMAIN-SUFFIX,xm.com
 DOMAIN-SUFFIX,xml-training-guide.com
 DOMAIN-SUFFIX,xn--11xs86f.icu
 DOMAIN-SUFFIX,xn--4gq171p.com
+DOMAIN-SUFFIX,xn--9iqy04a7fi01l.com
 DOMAIN-SUFFIX,xn--9pr62r24a.com
 DOMAIN-SUFFIX,xn--czq75pvv1aj5c.org
 DOMAIN-SUFFIX,xn--i2ru8q2qg.com
