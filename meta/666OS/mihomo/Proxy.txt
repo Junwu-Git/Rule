@@ -1,7 +1,7 @@
 # NAME: Proxy
 # AUTHOR: YYDS666
-# UPDATED: 2025-11-20 02:20:38
-# TOTAL: 6325
+# UPDATED: 2025-11-21 02:20:39
+# TOTAL: 6327
 DOMAIN,0rz.tw
 DOMAIN,1-apple.com.tw
 DOMAIN,123rf.com
@@ -3050,6 +3050,7 @@ DOMAIN-SUFFIX,gravatar.com
 DOMAIN-SUFFIX,greasyfork.org
 DOMAIN-SUFFIX,greatfire.org
 DOMAIN-SUFFIX,greatfire.us7.list-manage.com
+DOMAIN-SUFFIX,greatfirevpn.com
 DOMAIN-SUFFIX,greatfirewallofchina.org
 DOMAIN-SUFFIX,greenparty.org.tw
 DOMAIN-SUFFIX,greenpeace.com.tw
@@ -5873,6 +5874,7 @@ DOMAIN-SUFFIX,wikipedia.com
 DOMAIN-SUFFIX,wikipedia.org
 DOMAIN-SUFFIX,wikiquote.org
 DOMAIN-SUFFIX,wikisource.org
+DOMAIN-SUFFIX,wikiunblocked.org
 DOMAIN-SUFFIX,wikiversity.org
 DOMAIN-SUFFIX,wikivoyage.org
 DOMAIN-SUFFIX,wikiwand.com

@@ -1,7 +1,7 @@
 # NAME: Proxy
 # AUTHOR: YYDS666
-# UPDATED: 2025-11-20 02:20:38
-# TOTAL: 6316
+# UPDATED: 2025-11-21 02:20:39
+# TOTAL: 6318
 +.000webhost.com
 +.030buy.com
 +.0rz.tw
@@ -1899,6 +1899,7 @@
 +.greasyfork.org
 +.greatfire.org
 +.greatfire.us7.list-manage.com
++.greatfirevpn.com
 +.greatfirewallofchina.org
 +.greenparty.org.tw
 +.greenpeace.com.tw
@@ -4767,6 +4768,7 @@
 +.wikipedia.org
 +.wikiquote.org
 +.wikisource.org
++.wikiunblocked.org
 +.wikiversity.org
 +.wikivoyage.org
 +.wikiwand.com

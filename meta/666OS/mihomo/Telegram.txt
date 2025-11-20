@@ -1,6 +1,6 @@
 # NAME: Telegram
 # AUTHOR: YYDS666
-# UPDATED: 2025-11-20 02:20:37
+# UPDATED: 2025-11-21 02:20:39
 # TOTAL: 50
 DOMAIN-SUFFIX,cdn-telegram.org
 DOMAIN-SUFFIX,comments.app
