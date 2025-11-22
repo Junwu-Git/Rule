@@ -1,7 +1,7 @@
 # NAME: Proxy
 # AUTHOR: YYDS666
-# UPDATED: 2025-11-22 02:20:12
-# TOTAL: 6327
+# UPDATED: 2025-11-23 02:18:32
+# TOTAL: 6328
 DOMAIN,0rz.tw
 DOMAIN,1-apple.com.tw
 DOMAIN,123rf.com
@@ -432,7 +432,6 @@ DOMAIN,gaywatch.com
 DOMAIN,gcpnews.com
 DOMAIN,gdzf.org
 DOMAIN,geekerhome.com
-DOMAIN,gekikame.com
 DOMAIN,gelbooru.com
 DOMAIN,geocities.com
 DOMAIN,geocities.jp
@@ -4044,6 +4043,7 @@ DOMAIN-SUFFIX,nakido.com
 DOMAIN-SUFFIX,nalandabodhi.org
 DOMAIN-SUFFIX,nalandawest.org
 DOMAIN-SUFFIX,namgyal.org
+DOMAIN-SUFFIX,namu.wiki
 DOMAIN-SUFFIX,nanopool.org
 DOMAIN-SUFFIX,nanyang.com
 DOMAIN-SUFFIX,nanyangpost.com
@@ -4413,6 +4413,7 @@ DOMAIN-SUFFIX,picacomic.com
 DOMAIN-SUFFIX,picacomiccn.com
 DOMAIN-SUFFIX,picasaweb.com
 DOMAIN-SUFFIX,picidae.net
+DOMAIN-SUFFIX,picsart.com
 DOMAIN-SUFFIX,picuki.com
 DOMAIN-SUFFIX,pigav.com
 DOMAIN-SUFFIX,pin-cong.com

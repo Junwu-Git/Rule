@@ -1,7 +1,7 @@
 # NAME: Facebook
 # AUTHOR: YYDS666
-# UPDATED: 2025-11-22 02:20:09
-# TOTAL: 490
+# UPDATED: 2025-11-23 02:18:33
+# TOTAL: 488
 DOMAIN,fbcdn-a.akamaihd.net
 DOMAIN-SUFFIX,aboutfacebook.com
 DOMAIN-SUFFIX,accessfacebookfromschool.com
@@ -476,9 +476,7 @@ IP-CIDR6,2a03:2887:ff44::/47,no-resolve
 IP-CIDR6,2a03:2887:ff48::/46,no-resolve
 IP-CIDR6,2a03:2887:ff4d::/48,no-resolve
 IP-CIDR6,2a03:2887:ff4e::/47,no-resolve
-IP-CIDR6,2a03:2887:ff51::/48,no-resolve
-IP-CIDR6,2a03:2887:ff52::/47,no-resolve
-IP-CIDR6,2a03:2887:ff54::/46,no-resolve
+IP-CIDR6,2a03:2887:ff50::/45,no-resolve
 IP-CIDR6,2a03:2887:ff58::/47,no-resolve
 IP-CIDR6,2a03:2887:ff5a::/48,no-resolve
 IP-CIDR6,2a03:2887:ff60::/48,no-resolve

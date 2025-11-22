@@ -1,7 +1,7 @@
 # NAME: Proxy
 # AUTHOR: YYDS666
-# UPDATED: 2025-11-22 02:20:13
-# TOTAL: 6318
+# UPDATED: 2025-11-23 02:18:32
+# TOTAL: 6319
 +.000webhost.com
 +.030buy.com
 +.0rz.tw
@@ -2903,6 +2903,7 @@
 +.nalandabodhi.org
 +.nalandawest.org
 +.namgyal.org
++.namu.wiki
 +.nanopool.org
 +.nanyang.com
 +.nanyangpost.com
@@ -3280,6 +3281,7 @@
 +.picacomiccn.com
 +.picasaweb.com
 +.picidae.net
++.picsart.com
 +.picuki.com
 +.pigav.com
 +.pin-cong.com
@@ -5515,7 +5517,6 @@ gaywatch.com
 gcpnews.com
 gdzf.org
 geekerhome.com
-gekikame.com
 gelbooru.com
 geocities.com
 geocities.jp
