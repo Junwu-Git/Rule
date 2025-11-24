@@ -1,6 +1,6 @@
 # NAME: AppleCN
 # AUTHOR: YYDS666
-# UPDATED: 2025-11-24 02:18:55
+# UPDATED: 2025-11-25 02:22:09
 # TOTAL: 39
 DOMAIN,api.smoot.apple.cn
 DOMAIN,api.smoot.apple.com
