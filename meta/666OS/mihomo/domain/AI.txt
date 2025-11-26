@@ -1,7 +1,9 @@
 # NAME: AI
 # AUTHOR: YYDS666
-# UPDATED: 2025-11-26 02:21:57
-# TOTAL: 173
+# UPDATED: 2025-11-27 02:17:36
+# TOTAL: 214
++.abtestvm-sg.bytedance.com
++.abtestvm.bytedance.com
 +.ai.com
 +.aida.googleapis.com
 +.aiproxy.io
@@ -9,11 +11,19 @@
 +.aistudio.google.com
 +.algolia.net
 +.anthropic.com
++.api-sg-central.marscode.com
++.api.marscode.com
 +.api.statsig.com
 +.api2d.com
 +.apps.mzstatic.com
 +.auth0.com
 +.bard.google.com
++.bytedapm.com
++.bytednsdoc.com
++.byteintl.net
++.byteoversea.com
++.capcut.com
++.capcutapi.com
 +.cerebras.ai
 +.character.ai
 +.chat.com
@@ -73,22 +83,38 @@
 +.hf.co
 +.host.livekit.cloud
 +.huggingface.co
++.ibytedtos.com
++.ibyteimg.com
 +.identrust.com
 +.intercom.io
 +.intercomcdn.com
++.ipstatp.com
++.itobsnssdk.com
 +.jasper.ai
 +.jules.google
 +.jules.google.com
 +.labs.google
 +.launchdarkly.com
++.lemon8-app.com
++.lemon8cdn.com
 +.leonardo.ai
++.lf-cdn.marscode.com
++.lf-rc1.yhgfb-static.com
 +.livekit.cloud
 +.makersuite.google.com
++.maliva-mcs.byteoversea.com
 +.marscode.com
++.mchost.guru
++.mcs-va.ciciai.com
++.mcs.zijieapi.com
 +.meta.ai
 +.microsoft-copilot.com
 +.midjourney.com
 +.mistral.ai
++.mon-va.byteoversea.com
++.mon.zijieapi.com
++.muscdn.com
++.musical.ly
 +.notebooklm.google
 +.notebooklm.google.com
 +.oaifree.com
@@ -101,6 +127,7 @@
 +.openaicom.imgix.net
 +.openart.ai
 +.openrouter.ai
++.pangle.io
 +.pawan.krd
 +.perplexity.ai
 +.perplexity.com
@@ -115,17 +142,31 @@
 +.runwayml.com
 +.segment.io
 +.sentry.io
++.sf16-tcc-tos-sg.byteoversea.com
++.sgali-mcs.byteoversea.com
 +.smoot.apple.com
++.snapkit.com
 +.sora.com
 +.sourcegraph.com
 +.stability.ai
 +.stablediffusionweb.com
++.starling-oversea.byteoversea.com
 +.stripe.com
 +.synthesia.io
 +.tabnine.com
++.tik-tokapi.com
++.tiktok.com
++.tiktokcdn-us.com
++.tiktokcdn.com
++.tiktokv.com
 +.trae.ai
++.ttwstatic.com
 +.turn.livekit.cloud
++.ulikecam.com
++.vcs-sg.byteoversea.com
++.vmweb-va.ciciai.com
 +.x.ai
++.zijieapi.com
 ai.google.dev
 aistudio.google.com
 alkalicore-pa.clients6.google.com
