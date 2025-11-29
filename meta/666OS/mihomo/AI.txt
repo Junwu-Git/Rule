@@ -1,7 +1,7 @@
 # NAME: AI
 # AUTHOR: YYDS666
-# UPDATED: 2025-11-29 02:19:41
-# TOTAL: 232
+# UPDATED: 2025-11-30 02:18:53
+# TOTAL: 237
 DOMAIN,ai.google.dev
 DOMAIN,aistudio.google.com
 DOMAIN,alkalicore-pa.clients6.google.com
@@ -95,6 +95,9 @@ DOMAIN-SUFFIX,coderabbit.ai
 DOMAIN-SUFFIX,coderabbit.gallery.vsassets.io
 DOMAIN-SUFFIX,cohere.ai
 DOMAIN-SUFFIX,cohere.com
+DOMAIN-SUFFIX,comfy.org
+DOMAIN-SUFFIX,comfyci.org
+DOMAIN-SUFFIX,comfyregistry.org
 DOMAIN-SUFFIX,copilot.microsoft.com
 DOMAIN-SUFFIX,coze.com
 DOMAIN-SUFFIX,cursor-cdn.com
@@ -130,6 +133,7 @@ DOMAIN-SUFFIX,grok.com
 DOMAIN-SUFFIX,groq.com
 DOMAIN-SUFFIX,heygen.com
 DOMAIN-SUFFIX,hf.co
+DOMAIN-SUFFIX,hf.space
 DOMAIN-SUFFIX,host.livekit.cloud
 DOMAIN-SUFFIX,huggingface.co
 DOMAIN-SUFFIX,ibytedtos.com
@@ -176,6 +180,7 @@ DOMAIN-SUFFIX,openaiapi-site.azureedge.net
 DOMAIN-SUFFIX,openaicom.imgix.net
 DOMAIN-SUFFIX,openart.ai
 DOMAIN-SUFFIX,openrouter.ai
+DOMAIN-SUFFIX,oystermercury.top
 DOMAIN-SUFFIX,pangle.io
 DOMAIN-SUFFIX,pawan.krd
 DOMAIN-SUFFIX,perplexity.ai

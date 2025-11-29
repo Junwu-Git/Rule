@@ -1,7 +1,7 @@
 # NAME: NewsMedia
 # AUTHOR: YYDS666
-# UPDATED: 2025-11-29 02:19:43
-# TOTAL: 1396
+# UPDATED: 2025-11-30 02:18:52
+# TOTAL: 1393
 +.1degree.com.au
 +.47gyosei.jp
 +.47news.jp
@@ -187,7 +187,6 @@
 +.careerfundas.com
 +.careerjournal.com
 +.casoneexchange.com
-+.cbs
 +.cbs.com
 +.cbsaavideo.com
 +.cbscorporation.com
@@ -1066,7 +1065,6 @@
 +.shenyuncreations.com
 +.shenyunperformingarts.org
 +.shopspeedtv.com
-+.showtime
 +.shuziyimin.org
 +.sibreal.org
 +.sinchew.com.my
@@ -1154,7 +1152,6 @@
 +.thefoxnation.com
 +.thegatewaypundit.com
 +.thegeorgiascene.com
-+.theguardian
 +.theguardian.com
 +.theguardiandns.com
 +.thehealthsite.com

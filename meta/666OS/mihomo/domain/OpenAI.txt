@@ -1,6 +1,6 @@
 # NAME: OpenAI
 # AUTHOR: YYDS666
-# UPDATED: 2025-11-29 02:19:50
+# UPDATED: 2025-11-30 02:19:01
 # TOTAL: 31
 +.ai.com
 +.algolia.net

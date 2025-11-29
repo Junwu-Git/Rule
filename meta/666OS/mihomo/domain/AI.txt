@@ -1,7 +1,7 @@
 # NAME: AI
 # AUTHOR: YYDS666
-# UPDATED: 2025-11-29 02:19:41
-# TOTAL: 214
+# UPDATED: 2025-11-30 02:18:53
+# TOTAL: 219
 +.abtestvm-sg.bytedance.com
 +.abtestvm.bytedance.com
 +.ai.com
@@ -46,6 +46,9 @@
 +.coderabbit.gallery.vsassets.io
 +.cohere.ai
 +.cohere.com
++.comfy.org
++.comfyci.org
++.comfyregistry.org
 +.copilot.microsoft.com
 +.coze.com
 +.cursor-cdn.com
@@ -81,6 +84,7 @@
 +.groq.com
 +.heygen.com
 +.hf.co
++.hf.space
 +.host.livekit.cloud
 +.huggingface.co
 +.ibytedtos.com
@@ -127,6 +131,7 @@
 +.openaicom.imgix.net
 +.openart.ai
 +.openrouter.ai
++.oystermercury.top
 +.pangle.io
 +.pawan.krd
 +.perplexity.ai

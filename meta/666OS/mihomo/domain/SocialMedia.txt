@@ -1,7 +1,7 @@
 # NAME: SocialMedia
 # AUTHOR: YYDS666
-# UPDATED: 2025-11-29 02:19:47
-# TOTAL: 588
+# UPDATED: 2025-11-30 02:18:54
+# TOTAL: 587
 +.9ineverse.com
 +.aboutfacebook.com
 +.accessfacebookfromschool.com
@@ -130,7 +130,6 @@
 +.facebook30.net
 +.facebook30.org
 +.facebook4business.com
-+.facebookads.com
 +.facebookadvertisingsecrets.com
 +.facebookatschool.com
 +.facebookawards.com

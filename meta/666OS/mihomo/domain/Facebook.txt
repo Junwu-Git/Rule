@@ -1,7 +1,7 @@
 # NAME: Facebook
 # AUTHOR: YYDS666
-# UPDATED: 2025-11-29 02:19:44
-# TOTAL: 395
+# UPDATED: 2025-11-30 02:18:52
+# TOTAL: 394
 +.aboutfacebook.com
 +.accessfacebookfromschool.com
 +.acebooik.com
@@ -113,7 +113,6 @@
 +.facebook30.net
 +.facebook30.org
 +.facebook4business.com
-+.facebookads.com
 +.facebookadvertisingsecrets.com
 +.facebookatschool.com
 +.facebookawards.com

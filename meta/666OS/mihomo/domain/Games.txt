@@ -1,7 +1,7 @@
 # NAME: Games
 # AUTHOR: YYDS666
-# UPDATED: 2025-11-29 02:19:50
-# TOTAL: 851
+# UPDATED: 2025-11-30 02:18:56
+# TOTAL: 871
 +.100classicbooks.com
 +.17roco.com
 +.2k.com
@@ -142,6 +142,7 @@
 +.diddykongracing.com
 +.dkr.com
 +.dl.steam.clngaa.com
++.dobest.com
 +.dodi-repacks.download
 +.dodi-repacks.site
 +.donkeykongcountryreturns.com
@@ -300,6 +301,7 @@
 +.kurogames.com
 +.kyurem.com
 +.labycore.cn
++.langrenclub.com
 +.lcsmerch.com
 +.leaguehighschool.com
 +.leagueoflegends.ca
@@ -536,6 +538,9 @@
 +.quixel.com
 +.quixel.se
 +.radgametools.com
++.rblx.org
++.rbx.com
++.rbxcdn.com
 +.realcybertron.com
 +.realityscan.com
 +.renovacionxboxlive.com
@@ -555,9 +560,12 @@
 +.riotpoints.com
 +.rmwxgame.com
 +.ro.com
++.roblox-api.arkoselabs.co
 +.roblox.cn
++.roblox.com
 +.roblox.qq.com
 +.robloxdev.cn
++.robloxlabs.com
 +.roborecall.com
 +.rockstargames.com
 +.roco.qq.com
@@ -565,6 +573,7 @@
 +.rstatic.net
 +.ruinedking.com
 +.s.team
++.sanguosha.com
 +.sccreator.cn
 +.sccreators.cn
 +.scescdn.cn
@@ -688,6 +697,7 @@
 +.titanfall.com
 +.tnt-ea.com
 +.tuer123.com
++.tuyoo.com
 +.twinmotion.com
 +.ubi.com
 +.ubisoft.com
@@ -712,6 +722,7 @@
 +.vrzwk.com
 +.vrzwk.net
 +.vrzwk.top
++.wanmei.com
 +.wanwan4399.com
 +.wariolandshakeit.com
 +.wariowarediy.com
@@ -735,6 +746,7 @@
 +.wiiugamepad.com
 +.wiivc.net
 +.winegame.net
++.wmsj.cn
 +.wmsjsteam.com
 +.wo1wan.com
 +.worldflipper.akamaized.net
@@ -766,7 +778,9 @@
 +.xdcdn.net
 +.xdsummit.com
 +.xenoblade.com
++.xhlsgs.com
 +.xindong.com
++.xinwuji.com
 +.xn--mts47c3w9b1qr.cn
 +.xn--mts47c3w9b1qr.net
 +.xn--owtw8cc49ajfl.cn
@@ -774,6 +788,7 @@
 +.yingxiong.com
 +.ynoproject.net
 +.yogify.com
++.yokaverse.com
 +.yoshisnewisland.com
 +.youba.com
 +.yuanshen.com
@@ -784,6 +799,7 @@
 +.yzyxgame.com
 +.zcjbgame.com
 +.zenlesszonezero.com
++.zhuoyou.com
 +.zhuoyuegame.com
 a.ppy.sh
 a4e8s8k3.map2.ssl.hwcdn.net
@@ -802,6 +818,7 @@ bnetshopus.akamaized.net
 c.ppy.sh
 cdngarenanow-a.akamaihd.net
 cloudsync-prod.s3.amazonaws.com
+d1unuk07s6td74.cloudfront.net
 datarouter.apps.netherrealm.com
 dlgarenanow-a.akamaihd.net
 dlmobilegarena-a.akamaihd.net
@@ -827,6 +844,9 @@ osu.ppy.sh
 prd-priconne-redive.akamaized.net
 prodforza.blob.core.windows.net
 productcard.gog-statics.com
+roblox-load-generator-configuration.s3.us-east-2.amazonaws.com
+roblox-poc.global.ssl.fastly.net
+robloxcorp.s.llnwi.net
 rtm.tnt-ea.com
 sentry.ppy.sh
 spectator.ppy.sh

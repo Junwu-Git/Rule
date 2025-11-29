@@ -1,7 +1,7 @@
 # NAME: China
 # AUTHOR: YYDS666
-# UPDATED: 2025-11-29 02:19:47
-# TOTAL: 5981
+# UPDATED: 2025-11-30 02:19:01
+# TOTAL: 6008
 +.00cdn.com
 +.0123456789.com
 +.0379home.com
@@ -206,7 +206,6 @@
 +.5054399.net
 +.50bang.org
 +.51.com
-+.51.la
 +.510you.com
 +.517lppz.com
 +.51ccd.com
@@ -446,6 +445,7 @@
 +.alicloudccp.com
 +.alidayu.com
 +.alidns.com
++.aliexpress-media.com
 +.aliexpress.com
 +.alifanyi.com
 +.aligames.com
@@ -1189,6 +1189,7 @@
 +.china-nengyuan.com
 +.china-tower.com
 +.china.com
++.chinaaet.com
 +.chinaamc.com
 +.chinabooktrading.com
 +.chinacache.com
@@ -1441,7 +1442,11 @@
 +.cpatrk.net
 +.cppblog.com
 +.cpppf.org
++.cqcb.com
 +.cqccn.com
++.cqliving.com
++.cqnews.net
++.cqsjb.com
 +.cqvip.com
 +.cr-cts.com
 +.cr173.com
@@ -1576,6 +1581,7 @@
 +.diandianqi.com
 +.dianping.com
 +.dianwannan.com
++.dianzhenkeji.com
 +.dida365.com
 +.didialift.com
 +.didichuxing.com
@@ -1631,6 +1637,7 @@
 +.dnsv3.com
 +.dnsv4.com
 +.dnsv5.com
++.dobest.com
 +.doc88.com
 +.docer.com
 +.docin.com
@@ -1960,17 +1967,14 @@
 +.frp-all.com
 +.frp-any.com
 +.frp-arm.com
-+.frp-art.com
 +.frp-bag.com
 +.frp-bar.com
 +.frp-bid.com
 +.frp-box.com
 +.frp-boy.com
 +.frp-bus.com
-+.frp-car.com
 +.frp-dad.com
 +.frp-dog.com
-+.frp-dry.com
 +.frp-egg.com
 +.frp-end.com
 +.frp-era.com
@@ -1987,18 +1991,17 @@
 +.frp-hip.com
 +.frp-hub.com
 +.frp-ice.com
++.frp-jar.com
 +.frp-key.com
 +.frp-kit.com
 +.frp-lab.com
 +.frp-leg.com
 +.frp-mad.com
-+.frp-man.com
 +.frp-mix.com
 +.frp-mom.com
 +.frp-net.com
 +.frp-now.com
 +.frp-nut.com
-+.frp-oak.com
 +.frp-off.com
 +.frp-oil.com
 +.frp-one.com
@@ -2012,6 +2015,9 @@
 +.frp-sea.com
 +.frp-shy.com
 +.frp-six.com
++.frp-ski.com
++.frp-sun.com
++.frp-tag.com
 +.fsfund.com
 +.fspcdn.com
 +.ftfund.com
@@ -2081,7 +2087,7 @@
 +.gdliontech.com
 +.gdrc.com
 +.gdtimg.com
-+.geekpark
++.geekpark.net
 +.geektool.top
 +.geely.com
 +.geetest.com
@@ -2312,6 +2318,7 @@
 +.hnacargo.com
 +.hnair.com
 +.hnbntv.com
++.hndt.com
 +.hnrcsc.com
 +.hntv.tv
 +.hnyuyuhui.com
@@ -2428,6 +2435,7 @@
 +.hzman.net
 +.i360mall.com
 +.i3839.com
++.i8tq.com
 +.ialicdn.com
 +.iask.com
 +.ibaotu.com
@@ -2483,6 +2491,7 @@
 +.ifengweekly.com
 +.iflyink.com
 +.iflyrec.com
++.iflysec.com
 +.iflytek.com
 +.igao7.com
 +.igehuo.com
@@ -2519,6 +2528,7 @@
 +.imedao.com
 +.img4399.com
 +.imgcdc.com
++.imgcook.com
 +.imgo.tv
 +.imooc.com
 +.imqq.com
@@ -2535,6 +2545,7 @@
 +.ingka-dt.cn
 +.ingka-internal.cn
 +.ingka-system.cn
++.inkuai.com
 +.inkwai.com
 +.insidear.cn
 +.inspirecloud.com
@@ -2550,7 +2561,6 @@
 +.ipchaxun.com
 +.ipchaxun.net
 +.iphone-8.com.cn
-+.ipinyou.com
 +.ipip.net
 +.iplaysoft.com
 +.ipod.com.cn
@@ -2986,6 +2996,7 @@
 +.landian.vip
 +.landian.xyz
 +.landiannews.com
++.langrenclub.com
 +.lanhuapp.com
 +.lanosso.com
 +.lanrar.com
@@ -3087,6 +3098,8 @@
 +.letv.com
 +.letvcdn.com
 +.letvimg.com
++.lf126.net
++.lf127.net
 +.lgstatic.com
 +.lhzq.com
 +.liangxinyao.com
@@ -3789,6 +3802,7 @@
 +.qianjia.com
 +.qianlima.com
 +.qianwen.aliyun.com
++.qianwen.com
 +.qianxin.com
 +.qianxun.com
 +.qianyierp.com
@@ -3964,6 +3978,7 @@
 +.seasungames.com
 +.sec-wiki.com
 +.secec.com
++.secrss.com
 +.sectigochina.com
 +.sectigochina.com.cdn.cloudflare.net
 +.seeed.cc
@@ -3992,6 +4007,7 @@
 +.shangc.net
 +.shanghairc.com
 +.shangshi360.com
++.shangyexinzhi.com
 +.shangzhibo.tv
 +.shanhaitujian.com
 +.shanshuihotel.com
@@ -4202,6 +4218,7 @@
 +.t1y5.com
 +.t8tms.com
 +.t9tms.com
++.tacool.com
 +.taichuan.com
 +.taichuan.net
 +.taihe.com
@@ -4218,6 +4235,7 @@
 +.tao123.com
 +.taobao
 +.taobao.com
++.taobao.net
 +.taobao.org
 +.taobaocdn.com
 +.taobizhong.com
@@ -4379,6 +4397,7 @@
 +.tianjimedia.com
 +.tianjin-air.com
 +.tianlailive.com
++.tianpeng.com
 +.tianqi.com
 +.tianqistatic.com
 +.tianxiajiameng.com
@@ -4508,6 +4527,7 @@
 +.tuwanjun.com
 +.tuxi.com
 +.tuya.com
++.tuyoo.com
 +.tvbc.com.cn
 +.tvmao.com
 +.tvzhe.com
@@ -4781,6 +4801,7 @@
 +.wangyangyang.vip
 +.wangyin.com
 +.wanliniu.com
++.wanmei.com
 +.wannianli8.com
 +.wannianqingjianzhan.com
 +.wanplus.com
@@ -4799,6 +4820,7 @@
 +.we4399.com
 +.weand.com
 +.weathercn.com
++.weatherdt.com
 +.weavatar.com
 +.webank.com
 +.webankcdn.net
@@ -4939,6 +4961,7 @@
 +.xf-fund.com
 +.xfdown.com
 +.xhaiwai.com
++.xhlsgs.com
 +.xhscdn.com
 +.xhscdn.net
 +.xiachufang.com
@@ -5000,8 +5023,10 @@
 +.xingtan001.com
 +.xingyeai.com
 +.xinhuanet.com
++.xinhuaxmt.com
 +.xinrenxinshi.com
 +.xinshipu.com
++.xinwuji.com
 +.xinyuanfin.com
 +.xishanju.com
 +.xitong8.com
@@ -5162,6 +5187,7 @@
 +.ynhr.com
 +.yo9.com
 +.yocajr.com
++.yokaverse.com
 +.yoojia.com
 +.youba.com
 +.youboy.com
@@ -5266,6 +5292,8 @@
 +.zampdsp.com
 +.zastatic.com
 +.zbbm.net
++.zbj.com
++.zbjdev.com
 +.zbjimg.com
 +.zcjbgame.com
 +.zczj.com
@@ -5325,8 +5353,7 @@
 +.zhuanzhuan.com
 +.zhuayoukong.com
 +.zhubajie.com
-+.zhugeapi.net
-+.zhugeio.com
++.zhuoyou.com
 +.zhuoyuegame.com
 +.zhuye.kim
 +.zijieapi.com

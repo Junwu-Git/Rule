@@ -1,7 +1,7 @@
 # NAME: Games
 # AUTHOR: YYDS666
-# UPDATED: 2025-11-29 02:19:50
-# TOTAL: 783
+# UPDATED: 2025-11-30 02:18:56
+# TOTAL: 803
 DOMAIN,a.ppy.sh
 DOMAIN,a4e8s8k3.map2.ssl.hwcdn.net
 DOMAIN,alibaba.cdn.steampipe.steamcontent.com
@@ -19,6 +19,7 @@ DOMAIN,bnetshopus.akamaized.net
 DOMAIN,c.ppy.sh
 DOMAIN,cdngarenanow-a.akamaihd.net
 DOMAIN,cloudsync-prod.s3.amazonaws.com
+DOMAIN,d1unuk07s6td74.cloudfront.net
 DOMAIN,datarouter.apps.netherrealm.com
 DOMAIN,dlgarenanow-a.akamaihd.net
 DOMAIN,dlmobilegarena-a.akamaihd.net
@@ -44,6 +45,9 @@ DOMAIN,osu.ppy.sh
 DOMAIN,prd-priconne-redive.akamaized.net
 DOMAIN,prodforza.blob.core.windows.net
 DOMAIN,productcard.gog-statics.com
+DOMAIN,roblox-load-generator-configuration.s3.us-east-2.amazonaws.com
+DOMAIN,roblox-poc.global.ssl.fastly.net
+DOMAIN,robloxcorp.s.llnwi.net
 DOMAIN,rtm.tnt-ea.com
 DOMAIN,sentry.ppy.sh
 DOMAIN,spectator.ppy.sh
@@ -210,6 +214,7 @@ DOMAIN-SUFFIX,dicela.net
 DOMAIN-SUFFIX,diddykongracing.com
 DOMAIN-SUFFIX,dkr.com
 DOMAIN-SUFFIX,dl.steam.clngaa.com
+DOMAIN-SUFFIX,dobest.com
 DOMAIN-SUFFIX,dodi-repacks.download
 DOMAIN-SUFFIX,dodi-repacks.site
 DOMAIN-SUFFIX,donkeykongcountryreturns.com
@@ -354,6 +359,7 @@ DOMAIN-SUFFIX,kirbysuperstarultra.com
 DOMAIN-SUFFIX,kurogames.com
 DOMAIN-SUFFIX,kyurem.com
 DOMAIN-SUFFIX,labycore.cn
+DOMAIN-SUFFIX,langrenclub.com
 DOMAIN-SUFFIX,lcsmerch.com
 DOMAIN-SUFFIX,leaguehighschool.com
 DOMAIN-SUFFIX,leagueoflegendsscripts.com
@@ -554,6 +560,9 @@ DOMAIN-SUFFIX,quiltmc.org
 DOMAIN-SUFFIX,quixel.com
 DOMAIN-SUFFIX,quixel.se
 DOMAIN-SUFFIX,radgametools.com
+DOMAIN-SUFFIX,rblx.org
+DOMAIN-SUFFIX,rbx.com
+DOMAIN-SUFFIX,rbxcdn.com
 DOMAIN-SUFFIX,realcybertron.com
 DOMAIN-SUFFIX,realityscan.com
 DOMAIN-SUFFIX,renovacionxboxlive.com
@@ -567,9 +576,12 @@ DOMAIN-SUFFIX,riotpin.com
 DOMAIN-SUFFIX,riotpoints.com
 DOMAIN-SUFFIX,rmwxgame.com
 DOMAIN-SUFFIX,ro.com
+DOMAIN-SUFFIX,roblox-api.arkoselabs.co
 DOMAIN-SUFFIX,roblox.cn
+DOMAIN-SUFFIX,roblox.com
 DOMAIN-SUFFIX,roblox.qq.com
 DOMAIN-SUFFIX,robloxdev.cn
+DOMAIN-SUFFIX,robloxlabs.com
 DOMAIN-SUFFIX,roborecall.com
 DOMAIN-SUFFIX,rockstargames.com
 DOMAIN-SUFFIX,roco.qq.com
@@ -577,6 +589,7 @@ DOMAIN-SUFFIX,rsg.sc
 DOMAIN-SUFFIX,rstatic.net
 DOMAIN-SUFFIX,ruinedking.com
 DOMAIN-SUFFIX,s.team
+DOMAIN-SUFFIX,sanguosha.com
 DOMAIN-SUFFIX,sccreator.cn
 DOMAIN-SUFFIX,sccreators.cn
 DOMAIN-SUFFIX,scescdn.cn
@@ -691,6 +704,7 @@ DOMAIN-SUFFIX,timibase.com
 DOMAIN-SUFFIX,titanfall.com
 DOMAIN-SUFFIX,tnt-ea.com
 DOMAIN-SUFFIX,tuer123.com
+DOMAIN-SUFFIX,tuyoo.com
 DOMAIN-SUFFIX,twinmotion.com
 DOMAIN-SUFFIX,ubi.com
 DOMAIN-SUFFIX,ubisoft.com
@@ -711,6 +725,7 @@ DOMAIN-SUFFIX,valvesoftware.com
 DOMAIN-SUFFIX,vgtime.com
 DOMAIN-SUFFIX,videoxiaoyouxi.com
 DOMAIN-SUFFIX,visceralgames.com
+DOMAIN-SUFFIX,wanmei.com
 DOMAIN-SUFFIX,wanwan4399.com
 DOMAIN-SUFFIX,wariolandshakeit.com
 DOMAIN-SUFFIX,wariowarediy.com
@@ -734,6 +749,7 @@ DOMAIN-SUFFIX,wiisportsresort.com
 DOMAIN-SUFFIX,wiiugamepad.com
 DOMAIN-SUFFIX,wiivc.net
 DOMAIN-SUFFIX,winegame.net
+DOMAIN-SUFFIX,wmsj.cn
 DOMAIN-SUFFIX,wmsjsteam.com
 DOMAIN-SUFFIX,wo1wan.com
 DOMAIN-SUFFIX,worldflipper.akamaized.net
@@ -756,7 +772,9 @@ DOMAIN-SUFFIX,xd.com
 DOMAIN-SUFFIX,xdcdn.net
 DOMAIN-SUFFIX,xdsummit.com
 DOMAIN-SUFFIX,xenoblade.com
+DOMAIN-SUFFIX,xhlsgs.com
 DOMAIN-SUFFIX,xindong.com
+DOMAIN-SUFFIX,xinwuji.com
 DOMAIN-SUFFIX,xn--mts47c3w9b1qr.cn
 DOMAIN-SUFFIX,xn--mts47c3w9b1qr.net
 DOMAIN-SUFFIX,xn--owtw8cc49ajfl.cn
@@ -764,6 +782,7 @@ DOMAIN-SUFFIX,ycgame.com
 DOMAIN-SUFFIX,yingxiong.com
 DOMAIN-SUFFIX,ynoproject.net
 DOMAIN-SUFFIX,yogify.com
+DOMAIN-SUFFIX,yokaverse.com
 DOMAIN-SUFFIX,yoshisnewisland.com
 DOMAIN-SUFFIX,youba.com
 DOMAIN-SUFFIX,yuanshen.com
@@ -774,6 +793,7 @@ DOMAIN-SUFFIX,yxwsgame.com
 DOMAIN-SUFFIX,yzyxgame.com
 DOMAIN-SUFFIX,zcjbgame.com
 DOMAIN-SUFFIX,zenlesszonezero.com
+DOMAIN-SUFFIX,zhuoyou.com
 DOMAIN-SUFFIX,zhuoyuegame.com
 DOMAIN-KEYWORD,garena
 DOMAIN-KEYWORD,goto-game

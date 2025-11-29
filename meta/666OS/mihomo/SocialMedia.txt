@@ -1,7 +1,7 @@
 # NAME: SocialMedia
 # AUTHOR: YYDS666
-# UPDATED: 2025-11-29 02:19:47
-# TOTAL: 575
+# UPDATED: 2025-11-30 02:18:54
+# TOTAL: 574
 DOMAIN,e122475.dscg.akamaiedge.net
 DOMAIN,fbcdn-a.akamaihd.net
 DOMAIN,licdn.cn.cdn20.com
@@ -119,7 +119,6 @@ DOMAIN-SUFFIX,facebook30.com
 DOMAIN-SUFFIX,facebook30.net
 DOMAIN-SUFFIX,facebook30.org
 DOMAIN-SUFFIX,facebook4business.com
-DOMAIN-SUFFIX,facebookads.com
 DOMAIN-SUFFIX,facebookadvertisingsecrets.com
 DOMAIN-SUFFIX,facebookatschool.com
 DOMAIN-SUFFIX,facebookawards.com

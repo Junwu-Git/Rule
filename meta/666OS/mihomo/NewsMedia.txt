@@ -1,7 +1,7 @@
 # NAME: NewsMedia
 # AUTHOR: YYDS666
-# UPDATED: 2025-11-29 02:19:43
-# TOTAL: 1275
+# UPDATED: 2025-11-30 02:18:52
+# TOTAL: 1272
 DOMAIN,aod-pod-uk-live.akamaized.net
 DOMAIN,as-dash-uk-live.akamaized.net
 DOMAIN,as-hls-uk-live.akamaized.net
@@ -186,7 +186,6 @@ DOMAIN-SUFFIX,cairnspost.com.au
 DOMAIN-SUFFIX,careerfundas.com
 DOMAIN-SUFFIX,careerjournal.com
 DOMAIN-SUFFIX,casoneexchange.com
-DOMAIN-SUFFIX,cbs
 DOMAIN-SUFFIX,cbs.com
 DOMAIN-SUFFIX,cbsaavideo.com
 DOMAIN-SUFFIX,cbscorporation.com
@@ -978,7 +977,6 @@ DOMAIN-SUFFIX,shenyun.org
 DOMAIN-SUFFIX,shenyuncreations.com
 DOMAIN-SUFFIX,shenyunperformingarts.org
 DOMAIN-SUFFIX,shopspeedtv.com
-DOMAIN-SUFFIX,showtime
 DOMAIN-SUFFIX,shuziyimin.org
 DOMAIN-SUFFIX,sibreal.org
 DOMAIN-SUFFIX,sinchew.com.my
@@ -1066,7 +1064,6 @@ DOMAIN-SUFFIX,theepochtimessubscribe.com
 DOMAIN-SUFFIX,thefoxnation.com
 DOMAIN-SUFFIX,thegatewaypundit.com
 DOMAIN-SUFFIX,thegeorgiascene.com
-DOMAIN-SUFFIX,theguardian
 DOMAIN-SUFFIX,theguardian.com
 DOMAIN-SUFFIX,theguardiandns.com
 DOMAIN-SUFFIX,thehealthsite.com
