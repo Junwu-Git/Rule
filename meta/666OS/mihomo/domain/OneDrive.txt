@@ -1,0 +1,15 @@
+# NAME: OneDrive
+# AUTHOR: YYDS666
+# UPDATED: 2025-12-01 02:19:11
+# TOTAL: 11
++.1drv.com
++.1drv.ms
++.livefilestore.com
++.onedrive.co
++.onedrive.co.uk
++.onedrive.com
++.onedrive.eu
++.onedrive.live.com
++.onedrive.net
++.onedrive.org
++.storage.live.com

@@ -1,7 +1,7 @@
 # NAME: AI
 # AUTHOR: YYDS666
-# UPDATED: 2025-11-30 02:18:53
-# TOTAL: 237
+# UPDATED: 2025-12-01 02:19:10
+# TOTAL: 243
 DOMAIN,ai.google.dev
 DOMAIN,aistudio.google.com
 DOMAIN,alkalicore-pa.clients6.google.com
@@ -36,6 +36,7 @@ DOMAIN,gemini.google.com
 DOMAIN,gspe1-ssl.ls.apple.com
 DOMAIN,guzzoni.apple.com
 DOMAIN,imagine.meta.com
+DOMAIN,makersuite.google.com
 DOMAIN,mj.run
 DOMAIN,o33249.ingest.sentry.io
 DOMAIN,openai-api.arkoselabs.com
@@ -45,6 +46,7 @@ DOMAIN,openaicom.imgix.net
 DOMAIN,openaicomproductionae4b.blob.core.windows.net
 DOMAIN,platform.openai.com
 DOMAIN,pplx-res.cloudinary.com
+DOMAIN,proactivebackend-pa.googleapis.com
 DOMAIN,production-openaicom-storage.azureedge.net
 DOMAIN,servd-anthropic-website.b-cdn.net
 DOMAIN,static.cloudflareinsights.com
@@ -64,6 +66,7 @@ DOMAIN-SUFFIX,api-sg-central.marscode.com
 DOMAIN-SUFFIX,api.marscode.com
 DOMAIN-SUFFIX,api.statsig.com
 DOMAIN-SUFFIX,api2d.com
+DOMAIN-SUFFIX,apis.google.com
 DOMAIN-SUFFIX,apps.mzstatic.com
 DOMAIN-SUFFIX,auth0.com
 DOMAIN-SUFFIX,bard.google.com
@@ -223,7 +226,10 @@ DOMAIN-SUFFIX,x.ai
 DOMAIN-SUFFIX,zijieapi.com
 DOMAIN-KEYWORD,byteoversea
 DOMAIN-KEYWORD,ciciai
+DOMAIN-KEYWORD,colab
+DOMAIN-KEYWORD,developerprofiles
 DOMAIN-KEYWORD,diabrowser
+DOMAIN-KEYWORD,generativelanguage
 DOMAIN-KEYWORD,generativelanguage.googleapis
 DOMAIN-KEYWORD,labs.google
 DOMAIN-KEYWORD,lemon8

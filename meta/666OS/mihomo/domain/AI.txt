@@ -1,7 +1,7 @@
 # NAME: AI
 # AUTHOR: YYDS666
-# UPDATED: 2025-11-30 02:18:53
-# TOTAL: 219
+# UPDATED: 2025-12-01 02:19:10
+# TOTAL: 222
 +.abtestvm-sg.bytedance.com
 +.abtestvm.bytedance.com
 +.ai.com
@@ -15,6 +15,7 @@
 +.api.marscode.com
 +.api.statsig.com
 +.api2d.com
++.apis.google.com
 +.apps.mzstatic.com
 +.auth0.com
 +.bard.google.com
@@ -206,6 +207,7 @@ gemini.google.com
 gspe1-ssl.ls.apple.com
 guzzoni.apple.com
 imagine.meta.com
+makersuite.google.com
 mj.run
 o33249.ingest.sentry.io
 openai-api.arkoselabs.com
@@ -215,6 +217,7 @@ openaicom.imgix.net
 openaicomproductionae4b.blob.core.windows.net
 platform.openai.com
 pplx-res.cloudinary.com
+proactivebackend-pa.googleapis.com
 production-openaicom-storage.azureedge.net
 servd-anthropic-website.b-cdn.net
 static.cloudflareinsights.com

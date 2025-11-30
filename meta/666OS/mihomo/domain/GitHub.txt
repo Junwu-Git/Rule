@@ -1,0 +1,35 @@
+# NAME: GitHub
+# AUTHOR: YYDS666
+# UPDATED: 2025-12-01 02:19:11
+# TOTAL: 31
++.atom.io
++.blob.core.windows.net
++.dependabot.com
++.gh.io
++.ghcr.io
++.git.io
++.github.ai
++.github.blog
++.github.com
++.github.community
++.github.dev
++.github.io
++.githubapp.com
++.githubassets.com
++.githubcopilot.com
++.githubhackathon.com
++.githubnext.com
++.githubpreview.dev
++.githubstatus.com
++.githubuniverse.com
++.githubusercontent.com
++.myoctocat.com
++.npm.community
++.npmjs.com
++.npmjs.org
++.octocaptcha.com
++.opensource.guide
++.repo.new
++.thegithubshop.com
+github-api.arkoselabs.com
+github-cloud.s3.amazonaws.com
