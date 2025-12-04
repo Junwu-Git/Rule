@@ -1,7 +1,7 @@
 # NAME: AI
 # AUTHOR: YYDS666
-# UPDATED: 2025-12-04 02:23:21
-# TOTAL: 243
+# UPDATED: 2025-12-05 02:23:26
+# TOTAL: 244
 DOMAIN,ai.google.dev
 DOMAIN,aistudio.google.com
 DOMAIN,alkalicore-pa.clients6.google.com
@@ -229,6 +229,7 @@ DOMAIN-KEYWORD,ciciai
 DOMAIN-KEYWORD,colab
 DOMAIN-KEYWORD,developerprofiles
 DOMAIN-KEYWORD,diabrowser
+DOMAIN-KEYWORD,dola
 DOMAIN-KEYWORD,generativelanguage
 DOMAIN-KEYWORD,generativelanguage.googleapis
 DOMAIN-KEYWORD,labs.google
