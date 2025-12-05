@@ -1,7 +1,7 @@
 # NAME: Streaming
 # AUTHOR: YYDS666
-# UPDATED: 2025-12-05 02:23:24
-# TOTAL: 588
+# UPDATED: 2025-12-06 02:19:36
+# TOTAL: 572
 +.20thcenturystudios.com.au
 +.20thcenturystudios.com.br
 +.20thcenturystudios.jp
@@ -231,26 +231,11 @@
 +.nationalgeographic.com
 +.nationalgeographicpartners.com
 +.naver.com
-+.netflix.ca
 +.netflix.com
 +.netflix.net
-+.netflixdnstest0.com
-+.netflixdnstest1.com
-+.netflixdnstest10.com
-+.netflixdnstest2.com
-+.netflixdnstest3.com
-+.netflixdnstest4.com
-+.netflixdnstest5.com
-+.netflixdnstest6.com
-+.netflixdnstest7.com
-+.netflixdnstest8.com
-+.netflixdnstest9.com
-+.netflixinvestor.com
-+.netflixtechblog.com
 +.nflxext.com
 +.nflximg.com
 +.nflximg.net
-+.nflxsearch.net
 +.nflxso.net
 +.nflxvideo.net
 +.ngeo.com
@@ -571,7 +556,6 @@ kktv-theater.kk.stream
 linear.tv.apple.com
 link.theplatform.com
 litvfreemobile-hichannel.cdn.hinet.net
-netflix.com.edgesuite.net
 p-bstarstatic.akamaized.net
 p.bstarstatic.com
 p16-tiktokcdn-com.akamaized.net
