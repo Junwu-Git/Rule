@@ -1,7 +1,7 @@
 # NAME: SocialMedia
 # AUTHOR: YYDS666
-# UPDATED: 2025-12-06 02:19:37
-# TOTAL: 587
+# UPDATED: 2025-12-07 02:18:57
+# TOTAL: 592
 +.9ineverse.com
 +.aboutfacebook.com
 +.accessfacebookfromschool.com
@@ -382,6 +382,7 @@
 +.igcdn.com
 +.igsonar.com
 +.igtv.com
++.imgsmail.ru
 +.imstagram.com
 +.imtagram.com
 +.instaadder.com
@@ -456,6 +457,7 @@
 +.lnkd.in
 +.lnstagram-help.com
 +.login-account.net
++.mail.ru
 +.maniakey.homes
 +.markzuckerberg.com
 +.mfmf.club
@@ -487,6 +489,7 @@
 +.msk.ilnk.info
 +.msk.kitazawa.me
 +.mvk.com
++.mycdn.me
 +.myfbfans.com
 +.naver.jp
 +.newsfeed.com
@@ -494,6 +497,8 @@
 +.nhncorp.jp
 +.nijimiss.moe
 +.oekakiskey.com
++.ok.ru
++.okcdn.ru
 +.oninstagram.com
 +.online-deals.net
 +.online-instagram.com

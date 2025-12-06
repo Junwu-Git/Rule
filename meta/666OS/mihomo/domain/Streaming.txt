@@ -1,7 +1,7 @@
 # NAME: Streaming
 # AUTHOR: YYDS666
-# UPDATED: 2025-12-06 02:19:36
-# TOTAL: 572
+# UPDATED: 2025-12-07 02:18:56
+# TOTAL: 575
 +.20thcenturystudios.com.au
 +.20thcenturystudios.com.br
 +.20thcenturystudios.jp
@@ -294,6 +294,7 @@
 +.thisispolaris.com
 +.tidal.com
 +.tik-tokapi.com
++.tiktok-row.net
 +.tiktok.com
 +.tiktokcdn-eu.com
 +.tiktokcdn-us.com
@@ -301,6 +302,8 @@
 +.tiktokd.net
 +.tiktokd.org
 +.tiktokeu-cdn.com
++.tiktokglobalshopv.com
++.tiktokminis.us
 +.tiktokrow-cdn.com
 +.tiktokv.com
 +.tiktokv.eu

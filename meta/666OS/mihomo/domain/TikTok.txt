@@ -1,11 +1,12 @@
 # NAME: TikTok
 # AUTHOR: YYDS666
-# UPDATED: 2025-12-06 02:19:39
-# TOTAL: 21
+# UPDATED: 2025-12-07 02:18:57
+# TOTAL: 24
 +.byteoversea.com
 +.muscdn.com
 +.musical.ly
 +.tik-tokapi.com
++.tiktok-row.net
 +.tiktok.com
 +.tiktokcdn-eu.com
 +.tiktokcdn-us.com
@@ -13,6 +14,8 @@
 +.tiktokd.net
 +.tiktokd.org
 +.tiktokeu-cdn.com
++.tiktokglobalshopv.com
++.tiktokminis.us
 +.tiktokrow-cdn.com
 +.tiktokv.com
 +.tiktokv.eu

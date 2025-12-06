@@ -1,7 +1,7 @@
 # NAME: SocialMedia
 # AUTHOR: YYDS666
-# UPDATED: 2025-12-06 02:19:37
-# TOTAL: 574
+# UPDATED: 2025-12-07 02:18:57
+# TOTAL: 579
 DOMAIN,e122475.dscg.akamaiedge.net
 DOMAIN,fbcdn-a.akamaihd.net
 DOMAIN,licdn.cn.cdn20.com
@@ -371,6 +371,7 @@ DOMAIN-SUFFIX,ig.me
 DOMAIN-SUFFIX,igcdn.com
 DOMAIN-SUFFIX,igsonar.com
 DOMAIN-SUFFIX,igtv.com
+DOMAIN-SUFFIX,imgsmail.ru
 DOMAIN-SUFFIX,imstagram.com
 DOMAIN-SUFFIX,imtagram.com
 DOMAIN-SUFFIX,instaadder.com
@@ -445,6 +446,7 @@ DOMAIN-SUFFIX,liverail.tv
 DOMAIN-SUFFIX,lnkd.in
 DOMAIN-SUFFIX,lnstagram-help.com
 DOMAIN-SUFFIX,login-account.net
+DOMAIN-SUFFIX,mail.ru
 DOMAIN-SUFFIX,maniakey.homes
 DOMAIN-SUFFIX,markzuckerberg.com
 DOMAIN-SUFFIX,mfmf.club
@@ -463,6 +465,7 @@ DOMAIN-SUFFIX,mradx.net
 DOMAIN-SUFFIX,msk.ilnk.info
 DOMAIN-SUFFIX,msk.kitazawa.me
 DOMAIN-SUFFIX,mvk.com
+DOMAIN-SUFFIX,mycdn.me
 DOMAIN-SUFFIX,myfbfans.com
 DOMAIN-SUFFIX,naver.jp
 DOMAIN-SUFFIX,newsfeed.com
@@ -470,6 +473,8 @@ DOMAIN-SUFFIX,nextstop.com
 DOMAIN-SUFFIX,nhncorp.jp
 DOMAIN-SUFFIX,nijimiss.moe
 DOMAIN-SUFFIX,oekakiskey.com
+DOMAIN-SUFFIX,ok.ru
+DOMAIN-SUFFIX,okcdn.ru
 DOMAIN-SUFFIX,oninstagram.com
 DOMAIN-SUFFIX,online-deals.net
 DOMAIN-SUFFIX,online-instagram.com

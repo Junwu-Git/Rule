@@ -1,7 +1,7 @@
 # NAME: Games
 # AUTHOR: YYDS666
-# UPDATED: 2025-12-06 02:19:33
-# TOTAL: 871
+# UPDATED: 2025-12-07 02:18:47
+# TOTAL: 909
 +.100classicbooks.com
 +.17roco.com
 +.2k.com
@@ -91,6 +91,7 @@
 +.blackboxgames.com
 +.blizzard.com
 +.blizzardgearstore.com
++.blox.com
 +.bluearchive-cn.com
 +.bluearchive.jp
 +.blz-contentstack.com
@@ -246,8 +247,11 @@
 +.ghostgames.com
 +.giratina.com
 +.gloryofheracles.com
++.goblocks.com
++.goblox.com
 +.gog-statics.com
 +.gog.com
++.gooblox.com
 +.goto-game.com
 +.goto-game.mobi
 +.goto-game.net.cn
@@ -278,6 +282,7 @@
 +.hoyo.link
 +.hoyolab.com
 +.hoyoverse.com
++.humancoexperience.com
 +.humblebundle.com
 +.hutpromos.com
 +.hyprsense.com
@@ -538,9 +543,14 @@
 +.quixel.com
 +.quixel.se
 +.radgametools.com
++.rblx.co
++.rblx.com
 +.rblx.org
 +.rbx.com
 +.rbxcdn.com
++.rbxinfra.net
++.rbxlabs.com
++.rbxtrk.com
 +.realcybertron.com
 +.realityscan.com
 +.renovacionxboxlive.com
@@ -559,16 +569,44 @@
 +.riotpin.com
 +.riotpoints.com
 +.rmwxgame.com
++.ro-blox.com
 +.ro.com
-+.roblox-api.arkoselabs.co
++.roadblocks.com
++.roblocks.com
++.roblox-api.arkoselabs.com
++.roblox.ca
++.roblox.cc
++.roblox.cl
 +.roblox.cn
++.roblox.co.jp
++.roblox.co.uk
 +.roblox.com
++.roblox.de
++.roblox.dk
++.roblox.eu
++.roblox.fr
++.roblox.hu
++.roblox.it
++.roblox.jp
++.roblox.kr
++.roblox.mx
++.roblox.net
++.roblox.org
++.roblox.ph
++.roblox.pt
 +.roblox.qq.com
++.roblox.sk
++.roblox.tv
++.roblox.uk
++.roblox.us
++.roblox.vn
 +.robloxdev.cn
 +.robloxlabs.com
 +.roborecall.com
 +.rockstargames.com
 +.roco.qq.com
++.rowblocks.com
++.rowblox.com
 +.rsg.sc
 +.rstatic.net
 +.ruinedking.com

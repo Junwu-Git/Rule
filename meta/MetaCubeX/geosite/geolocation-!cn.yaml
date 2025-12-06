@@ -683,7 +683,7 @@ payload:
     - +.apple
     - +.android
     - +.amazon
-    - +.javfv.com
+    - +.javfun.me
     - +.rou.video
     - +.12diasderegalosdeitunes.pe
     - +.12joursdecadeauxdeitunes.com
@@ -2740,6 +2740,7 @@ payload:
     - +.archivx.to
     - +.archlinux.org
     - +.archlinuxarm.org
+    - +.arcraiders.com
     - +.arctosia.com
     - +.area120.com
     - +.area51.to
@@ -4323,7 +4324,7 @@ payload:
     - +.bloombergpolarlake.com
     - +.bloombergprep.com
     - +.bloombergquint.com
-    - +.bloombergradio.com
+    - +.javmobile.mobi
     - +.bloombergsef.com
     - +.bloombergspace.com
     - +.bloombergstatus.com
@@ -5300,7 +5301,7 @@ payload:
     - +.camgoddess.tv
     - +.camonster.com
     - +.campaign-archive.com
-    - +.campaignforuyghurs.org
+    - +.javmix.tv
     - +.campushp.com
     - +.campuslondon.com
     - +.camrabbit.com
@@ -8194,6 +8195,8 @@ payload:
     - +.emaga.com
     - +.emagic.de
     - +.emanna.com
+    - +.embark-studios.com
+    - +.embark.games
     - +.embase.com
     - +.embed-cdn.com
     - +.embed.ly
@@ -8832,6 +8835,8 @@ payload:
     - +.faceid99.com
     - +.faceid99.net
     - +.faceidglobal.com
+    - +.faceit-cdn.net
+    - +.faceit.com
     - +.faceless.me
     - +.faceobk.com
     - +.faceobok.com
@@ -13408,8 +13413,8 @@ payload:
     - +.javfree.sh
     - +.javfuck.net
     - +.javfull.net
-    - +.javfun.me
     - +.000webhost.com
+    - +.javfv.com
     - +.javgg.net
     - +.javgrown.com
     - +.javhard.net
@@ -13442,10 +13447,10 @@ payload:
     - +.javlibrary.tv
     - +.javmenu.com
     - +.javmix.me
-    - +.javmix.tv
-    - +.lamrim.com
-    - +.shownote.com
-    - +.sankei-call.jp
+    - +.campaignforuyghurs.org
+    - +.bloombergradio.com
+    - +.wangruoshui.net
+    - +.javmodel.com
     - +.javmoo.com
     - +.javmoo.xyz
     - +.javmost.com
@@ -14132,7 +14137,7 @@ payload:
     - +.windy.com
     - +.lamayeshe.com
     - +.windscribe.com
-    - +.javmobile.mobi
+    - +.lamrim.com
     - +.lanasbigboobs.com
     - +.landofhope.tv
     - +.langsuirs.com
@@ -17195,7 +17200,7 @@ payload:
     - +.wankoz.com
     - +.wankizer.com
     - +.wankgames.com
-    - +.wangruoshui.net
+    - +.javmobile.net
     - +.wango.org
     - +.wanglixiong.com
     - +.wangjinbo.org
@@ -19506,6 +19511,7 @@ payload:
     - +.rea.tech
     - +.reabble.com
     - +.reachporn.com
+    - +.reachthefinals.com
     - +.reachtheworldonfacebook.com
     - +.react.com
     - +.reactjs.com
@@ -20015,7 +20021,7 @@ payload:
     - +.sankei-ad-info.com
     - +.sankei-ad.net
     - +.volvopenta.nl
-    - +.javmodel.com
+    - +.sankei-call.jp
     - +.volvopenta.it
     - +.volvopenta.fr
     - +.volvopenta.es
@@ -20647,7 +20653,7 @@ payload:
     - +.shotgunvfx.com
     - +.shotwithgeforce.com
     - +.showhaotu.com
-    - +.javmobile.net
+    - +.shownote.com
     - +.showtime.com
     - +.showtime.jp
     - +.showtimeanytime.com

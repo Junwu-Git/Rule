@@ -1,7 +1,7 @@
 # NAME: China
 # AUTHOR: YYDS666
-# UPDATED: 2025-12-06 02:19:32
-# TOTAL: 6008
+# UPDATED: 2025-12-07 02:18:51
+# TOTAL: 6038
 +.00cdn.com
 +.0123456789.com
 +.0379home.com
@@ -73,6 +73,7 @@
 +.17989.com
 +.17cdn.com
 +.17house.com
++.17k.com
 +.17roco.com
 +.17u.net
 +.17usoft.com
@@ -819,6 +820,7 @@
 +.bfcdnbf.com
 +.bfcdnrd.com
 +.bfcdnsc.com
++.bgwxc.com
 +.bh3.com
 +.bhsr.com
 +.biancheng.net
@@ -1177,6 +1179,7 @@
 +.chat.top
 +.chaz.fun
 +.chazhengla.com
++.chazidian.com
 +.chaziyu.com
 +.che168.com
 +.checkzeit.com
@@ -1732,6 +1735,7 @@
 +.dwstatic.com
 +.dxm-cdn.com
 +.dxm-int.com
++.dxmjinr.com
 +.dxmlcf.com
 +.dxmlcfintech.com
 +.dxmpay.com
@@ -2220,6 +2224,7 @@
 +.hackinn.com
 +.hacpai.com
 +.haidilao.com
++.haidubooks.com
 +.haier.com
 +.haier.net
 +.haiersmarthomes.com
@@ -2247,6 +2252,7 @@
 +.hapierxia.com
 +.hapipixia.com
 +.hapiyixia.com
++.hapjs.org
 +.happyhlddz.com
 +.harmonyos.com
 +.hazq.com
@@ -2263,6 +2269,8 @@
 +.hecdn.net
 +.hefei.cc
 +.heisha.net
++.heiyan.com
++.heiyanimg.com
 +.heiyu.space
 +.hello-inc.com
 +.hellobike.com
@@ -2330,12 +2338,14 @@
 +.hongdefund.com
 +.hongen.com
 +.hongsanban.com
++.hongshu.com
 +.hongtastock.com
 +.hongxiu.com
 +.hongyuanqh.com
 +.honor.com
 +.honorfile.com
 +.hostloc.com
++.hotread.com
 +.houdao.com
 +.houyicaiji.com
 +.houyuantuan.com
@@ -2616,6 +2626,7 @@
 +.izuche.com
 +.izuchebao.com
 +.j-test.com
++.jamcz.com
 +.jandan.net
 +.janrain.biz
 +.janrainservices.com
@@ -2901,6 +2912,7 @@
 +.kingsoft-office-service.com
 +.kingsoft.com
 +.kiyuu.club
++.kjcdn.com
 +.kjwugx.com
 +.kk1.vip
 +.kkmh.com
@@ -2961,6 +2973,7 @@
 +.kugouvoice.com
 +.kugouyouth.com
 +.kujiale.com
++.kujiang.com
 +.kumiao.com
 +.kunlunaq.com
 +.kunlunar.com
@@ -3263,6 +3276,8 @@
 +.medlinker.com
 +.meegobeta.com
 +.mei.com
++.meican.com
++.meicanstatic.com
 +.meifang.com
 +.meika360.com
 +.meilishuo.com
@@ -3280,6 +3295,7 @@
 +.meizu.com
 +.mengtuoshi.wang
 +.merach.com
++.meta.law
 +.metalrevolution.com
 +.mfcteda.com
 +.mgmt-azure-api.cn
@@ -3384,6 +3400,8 @@
 +.morganstanleyhuaxin.com
 +.mortein.cn
 +.moseeker.com
++.motie.com
++.motieimg.com
 +.moulem.com
 +.movefree.cn
 +.moyubuluo.com
@@ -3706,6 +3724,7 @@
 +.platform.dell.com
 +.pmphmooc.com
 +.pn1waq.com
++.podcast.xyz
 +.poizon-inner.com
 +.poizon-inner.net
 +.poizon-support.com
@@ -3893,6 +3912,7 @@
 +.qwenlm.ai
 +.qy.net
 +.qyer.com
++.qyerstatic.com
 +.qyunapp.com
 +.qywx.com
 +.qzhuye.com
@@ -3932,6 +3952,7 @@
 +.rockyenglish.com
 +.rong360.com
 +.rongechain.com
++.rongshuxia.com
 +.route53.cn
 +.routewize.com
 +.rpglogs.cn
@@ -4044,6 +4065,7 @@
 +.shouyoubus.com
 +.shrbank.com
 +.shssp.org
++.shuhai.com
 +.shuidichou.com
 +.shuidihuzhu.com
 +.shuiyaohuo.com
@@ -4219,6 +4241,7 @@
 +.t8tms.com
 +.t9tms.com
 +.tacool.com
++.tadu.com
 +.taichuan.com
 +.taichuan.net
 +.taihe.com
@@ -4787,6 +4810,7 @@
 +.vrzwk.net
 +.vrzwk.top
 +.vscenevideo.com
++.vsread.com
 +.vvstc.com
 +.vxo7tu.com
 +.vzuu.com
@@ -5010,8 +5034,10 @@
 +.xiaoxiongxitong.com
 +.xiaoyuankousuan.com
 +.xiaoyuxitong.com
++.xiaoyuzhoufm.com
 +.xiayx.com
 +.xiazaiba.com
++.xiezuocat.com
 +.xiguaapp.com
 +.xiguashipin.net
 +.xiguavideo.net
@@ -5110,6 +5136,9 @@
 +.xycdn.com
 +.xycloud.com
 +.xywy.com
++.xyzcdn.net
++.xyzfm.link
++.xyzfm.space
 +.xzking.com
 +.yahoo.cn
 +.yahoo.com.cn
@@ -5353,6 +5382,7 @@
 +.zhuanzhuan.com
 +.zhuayoukong.com
 +.zhubajie.com
++.zhulang.com
 +.zhuoyou.com
 +.zhuoyuegame.com
 +.zhuye.kim
@@ -5393,6 +5423,7 @@
 +.zsxq.com
 +.zszq.com
 +.zt-express.com
++.ztedevices.com
 +.ztemall.com
 +.ztems.com
 +.ztfsec.com
@@ -5411,6 +5442,7 @@
 +.zuihuimai.com
 +.zuk.com
 +.zuodao.com
++.zuowen.com
 +.zuowen8.com
 +.zuowenwang.net
 +.zuoyebang.cc
@@ -5465,7 +5497,6 @@ avail.googleflights.net
 b.c2r.ts.cdn.office.net
 bag-cdn.itunes-apple.com.akadns.net
 bag.itunes.apple.com
-bbs.ztedevices.com
 beacons.gcp.gvt2.com
 beacons.gvt2.com
 beacons2.gvt2.com
@@ -6005,7 +6036,6 @@ www.microsoft.com
 www.pxcc.com
 www.recaptcha.net
 www.support.apple.com
-www.ztedevices.com
 www4-static.gog-statics.com
 xn--flw351e.com
 xp.apple.com
