@@ -1,15 +1,6 @@
-# FacMate Emby服务
 DOMAIN-SUFFIX,makima.online
 PROCESS-NAME,HD-Player.exe
-# UZ 玩偶哥哥分流
 DOMAIN-KEYWORD,wogg
-DOMAIN-SUFFIX,jwan.site
 DOMAIN,cdn3.jiedaibao.gs
-
-DOMAIN,cdn3.jiedaibao.gs
-DOMAIN,lax.sexemby.com
-DOMAIN,cn2.sexemby.com96
-DOMAIN,us4837.sexemby.com
-DOMAIN,hk.sexemby.com
-DOMAIN,jp4837.direct.sexemby.com
 DOMAIN,neo.facal.one
+DOMAIN-SUFFIX,ggchan.dev
