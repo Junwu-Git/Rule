@@ -29,3 +29,5 @@ github-cloud.s3.amazonaws.com
 +.npm.community
 +.npmjs.com
 +.blob.core.windows.net
++.collector.github.com
++.copilot-telemetry.githubusercontent.com
