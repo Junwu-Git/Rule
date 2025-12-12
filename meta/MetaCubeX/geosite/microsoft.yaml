@@ -6,10 +6,6 @@ payload:
     - statics-marketingsites-eas-ms-com.akamaized.net
     - statics-marketingsites-eus-ms-com.akamaized.net
     - statics-marketingsites-wcus-ms-com.akamaized.net
-    - crl.microsoft.com
-    - mscrl.microsoft.com
-    - ocsp.microsoft.com
-    - oneocsp.microsoft.com
     - flightsimulator.azureedge.net
     - prodforza.blob.core.windows.net
     - azure.microsoft.com
@@ -32,23 +28,28 @@ payload:
     - vscode.blob.core.windows.net
     - vscode.search.windows.net
     - vsmarketplacebadge.apphb.com
+    - crl.microsoft.com
+    - mscrl.microsoft.com
+    - ocsp.microsoft.com
+    - oneocsp.microsoft.com
     - +.microsoft
     - +.hotmail
     - +.office
     - +.skype
     - +.windows
-    - +.bing
-    - +.azure
     - +.xbox
     - +.onedriveupdater
     - +.onedrive
-    - +.msocsp.com
-    - +.msocdn.com
+    - +.bing
+    - +.azure
+    - +.yammer.com
+    - +.msidentity.com
+    - +.microsoft.cl
     - +.microsoft.com
     - +.microsoft.cz
     - +.microsoft.de
-    - +.microsoft.dk
-    - +.microsoftnews.org
+    - +.tellmewhygame.com
+    - +.microsoft.ee
     - +.microsoft.es
     - +.microsoft.eu
     - +.microsoft.fi
@@ -196,8 +197,8 @@ payload:
     - +.msgamesresearch.com
     - +.msgamestudios.com
     - +.mshome.net
-    - +.msidentity.com
-    - +.microsoftnewsforkids.com
+    - +.xbox.co
+    - +.msocdn.com
     - +.msturing.org
     - +.msudalosti.com
     - +.mymicrosoft.com
@@ -273,49 +274,14 @@ payload:
     - +.windowsupdate.com
     - +.winhec.com
     - +.winhec.net
-    - +.yammer.com
-    - +.microsoft.ch
-    - +.microsoftnews.cc
-    - +.xamarin.com
-    - +.vscode-unpkg.net
-    - +.microsoftnews.com
-    - +.microsoftnews.net
-    - +.microsoft.ee
-    - +.microsoft.cl
-    - +.sharepoint.cn
-    - +.microsoftnewsforkids.org
-    - +.microsoftnewskids.com
-    - +.microsoftnewskids.net
-    - +.microsoftnewskids.org
-    - +.msn.com
-    - +.msnewskids.com
-    - +.msnewskids.net
-    - +.msnewskids.org
-    - +.msnkids.com
-    - +.microsoftstart.com
-    - +.start.com
     - +.microsoft.cat
-    - +.microsoft.ca
-    - +.onedrive.com
-    - +.microsoftnewsforkids.net
-    - +.livefilestore.com
-    - +.1drv.com
-    - +.vscode-cdn.net
-    - +.vscode.dev
-    - +.vsassets.io
-    - +.vfsforgit.org
-    - +.vfsforgit.com
-    - +.visualstudio.net
-    - +.visualstudio.eu
-    - +.visualstudio.co
-    - +.visualstudio.com
-    - +.microsoft.by
     - +.gamepass.com
+    - +.1drv.com
     - +.orithegame.com
     - +.renovacionxboxlive.com
-    - +.tellmewhygame.com
-    - +.xbox.co
-    - +.xbox.com
+    - +.microsoft.dk
+    - +.microsoft.ch
+    - +.xbx.lv
     - +.xbox.eu
     - +.xbox.org
     - +.xbox360.co
@@ -332,7 +298,7 @@ payload:
     - +.xboxplayanywhere.com
     - +.xboxservices.com
     - +.xboxstudios.com
-    - +.xbx.lv
+    - +.xbox.com
     - +.asobostudio.com
     - +.flightsimulator.com
     - +.beth.games
@@ -351,7 +317,7 @@ payload:
     - +.minecraftservices.com
     - +.minecraftshop.com
     - +.mojang.com
-    - +.microsoft.be
+    - +.microsoft.ca
     - +.aadrm.com
     - +.azure-devices-int.net
     - +.azure-devices.net
@@ -408,7 +374,7 @@ payload:
     - +.azure-dns.info
     - +.azure-dns.net
     - +.azure-dns.org
-    - +.microsoft.az
+    - +.microsoft.by
     - +.microsoftdiplomados.com
     - +.bing123.com
     - +.flipwithsurface.com
@@ -434,7 +400,9 @@ payload:
     - +.office365love.com
     - +.office365tw.com
     - +.renovacionoffice.com
-    - +.visualstudio-staging.com
+    - +.livefilestore.com
+    - +.sharepoint.cn
+    - +.onedrive.com
     - +.githubhackathon.com
     - +.git.io
     - +.atom.io
@@ -463,7 +431,6 @@ payload:
     - +.npmjs.org
     - +.npm.community
     - +.npmjs.com
-    - +.uwpcommunitytoolkit.com
     - +.adaptivecards.io
     - +.api-extractor.com
     - +.apisof.net
@@ -501,12 +468,45 @@ payload:
     - +.sankie.net
     - +.sqlserveronlinux.com
     - +.timelinestoryteller.com
-    - +.spoprod-a.akamaihd.net
-    - +.visualstudio.co.uk
+    - +.uwpcommunitytoolkit.com
+    - +.visualstudio-staging.com
+    - +.visualstudio.com
+    - +.visualstudio.co
+    - +.visualstudio.eu
+    - +.visualstudio.net
+    - +.vfsforgit.com
+    - +.vfsforgit.org
+    - +.vsassets.io
+    - +.vscode.dev
+    - +.vscode-cdn.net
+    - +.vscode-unpkg.net
+    - +.xamarin.com
+    - +.msocsp.com
+    - +.microsoftnews.cc
+    - +.microsoftnews.com
+    - +.microsoftnews.net
+    - +.microsoftnews.org
+    - +.microsoftnewsforkids.com
+    - +.microsoftnewsforkids.net
+    - +.microsoftnewsforkids.org
+    - +.microsoftnewskids.com
+    - +.microsoftnewskids.net
+    - +.microsoftnewskids.org
+    - +.msn.com
+    - +.msnewskids.com
+    - +.msnewskids.net
+    - +.msnewskids.org
+    - +.msnkids.com
+    - +.microsoftstart.com
+    - +.start.com
+    - +.microsoft.be
+    - +.microsoft.az
     - +.live.com.au
-    - +.skype-edf.akadns.net
     - +.skypedata.akadns.net
+    - +.skype-edf.akadns.net
+    - +.visualstudio.co.uk
     - +.microsoftstore.com.hk
+    - +.spoprod-a.akamaihd.net
     - +.clarity.ms
     - +.dcg.microsoft.com
     - +.dynamics.cn
@@ -578,9 +578,6 @@ payload:
     - vz.download.prss.microsoft.com
     - wscont1.apps.microsoft.com
     - wscont2.apps.microsoft.com
-    - www.microsoft.com
-    - +.microsoftnews.cn
-    - +.msn.cn
     - +.xboxlive.cn
     - +.21vbc.com
     - +.21vbluecloud.com
@@ -682,3 +679,6 @@ payload:
     - +.microsoftreactor.cn
     - +.microsoftreactor.com.cn
     - +.reactorms.com.cn
+    - www.microsoft.com
+    - +.microsoftnews.cn
+    - +.msn.cn
