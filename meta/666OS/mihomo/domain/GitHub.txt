@@ -1,9 +1,11 @@
 # NAME: GitHub
 # AUTHOR: YYDS666
-# UPDATED: 2025-12-13 02:22:14
-# TOTAL: 31
+# UPDATED: 2025-12-14 02:18:50
+# TOTAL: 33
 +.atom.io
 +.blob.core.windows.net
++.collector.github.com
++.copilot-telemetry.githubusercontent.com
 +.dependabot.com
 +.gh.io
 +.ghcr.io

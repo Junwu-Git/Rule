@@ -1,7 +1,7 @@
 # NAME: Streaming
 # AUTHOR: YYDS666
-# UPDATED: 2025-12-13 02:22:05
-# TOTAL: 575
+# UPDATED: 2025-12-14 02:18:42
+# TOTAL: 581
 +.20thcenturystudios.com.au
 +.20thcenturystudios.com.br
 +.20thcenturystudios.jp
@@ -26,6 +26,7 @@
 +.biliintl.com
 +.brightline.tv
 +.byspotify.com
++.bytedapm.com
 +.byteoversea.com
 +.c4assets.com
 +.cbsaavideo.com
@@ -294,6 +295,7 @@
 +.thisispolaris.com
 +.tidal.com
 +.tik-tokapi.com
++.tiktok-minis.com
 +.tiktok-row.net
 +.tiktok.com
 +.tiktokcdn-eu.com
@@ -564,6 +566,10 @@ p.bstarstatic.com
 p16-tiktokcdn-com.akamaized.net
 play-edge.itunes.apple.com
 players.brightcove.net
+roovza-launches.appsflyersdk.com
+roovza.inapps.appsflyersdk.com
+roovza.launches.appsflyersdk.com
+roovza.skadsdk.appsflyersdk.com
 s3-ap-southeast-1.amazonaws.com
 spotify.com.edgesuite.net
 spotify.map.fastly.net

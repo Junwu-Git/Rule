@@ -1,7 +1,7 @@
 # NAME: Streaming
 # AUTHOR: YYDS666
-# UPDATED: 2025-12-13 02:22:05
-# TOTAL: 397
+# UPDATED: 2025-12-14 02:18:42
+# TOTAL: 403
 DOMAIN,44wilhpljf.execute-api.ap-southeast-1.amazonaws.com
 DOMAIN,api-abematv.bucketeer.jp
 DOMAIN,api.viu.now.com
@@ -67,6 +67,10 @@ DOMAIN,p.bstarstatic.com
 DOMAIN,p16-tiktokcdn-com.akamaized.net
 DOMAIN,play-edge.itunes.apple.com
 DOMAIN,players.brightcove.net
+DOMAIN,roovza-launches.appsflyersdk.com
+DOMAIN,roovza.inapps.appsflyersdk.com
+DOMAIN,roovza.launches.appsflyersdk.com
+DOMAIN,roovza.skadsdk.appsflyersdk.com
 DOMAIN,s3-ap-southeast-1.amazonaws.com
 DOMAIN,spotify.com.edgesuite.net
 DOMAIN,spotify.map.fastly.net
@@ -104,6 +108,7 @@ DOMAIN-SUFFIX,beautyandthebeastmusical.co.uk
 DOMAIN-SUFFIX,biliintl.com
 DOMAIN-SUFFIX,brightline.tv
 DOMAIN-SUFFIX,byspotify.com
+DOMAIN-SUFFIX,bytedapm.com
 DOMAIN-SUFFIX,byteoversea.com
 DOMAIN-SUFFIX,c4assets.com
 DOMAIN-SUFFIX,cbsaavideo.com
@@ -318,6 +323,7 @@ DOMAIN-SUFFIX,thestationbymaker.com
 DOMAIN-SUFFIX,thisispolaris.com
 DOMAIN-SUFFIX,tidal.com
 DOMAIN-SUFFIX,tik-tokapi.com
+DOMAIN-SUFFIX,tiktok-minis.com
 DOMAIN-SUFFIX,tiktok-row.net
 DOMAIN-SUFFIX,tiktok.com
 DOMAIN-SUFFIX,tiktokcdn-eu.com

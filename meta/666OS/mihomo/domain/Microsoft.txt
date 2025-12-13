@@ -1,7 +1,7 @@
 # NAME: Microsoft
 # AUTHOR: YYDS666
-# UPDATED: 2025-12-13 02:22:05
-# TOTAL: 684
+# UPDATED: 2025-12-14 02:18:45
+# TOTAL: 686
 +.1drv.com
 +.1drv.ms
 +.21vbc.com
@@ -162,6 +162,8 @@
 +.cn.bing.net
 +.cn.mm.bing.net
 +.codethemicrobit.com
++.collector.github.com
++.copilot-telemetry.githubusercontent.com
 +.cortanaanalytics.com
 +.cortanaskills.com
 +.cosmosdb.info

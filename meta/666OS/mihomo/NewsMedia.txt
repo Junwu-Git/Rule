@@ -1,7 +1,7 @@
 # NAME: NewsMedia
 # AUTHOR: YYDS666
-# UPDATED: 2025-12-13 02:22:13
-# TOTAL: 1272
+# UPDATED: 2025-12-14 02:18:40
+# TOTAL: 1278
 DOMAIN,aod-pod-uk-live.akamaized.net
 DOMAIN,as-dash-uk-live.akamaized.net
 DOMAIN,as-hls-uk-live.akamaized.net
@@ -234,6 +234,7 @@ DOMAIN-SUFFIX,collegejournal.com
 DOMAIN-SUFFIX,collins.co.uk
 DOMAIN-SUFFIX,collins.in
 DOMAIN-SUFFIX,cool18.com
+DOMAIN-SUFFIX,cool3c.com
 DOMAIN-SUFFIX,coolloud.org.tw
 DOMAIN-SUFFIX,corepublishingsolutions.com
 DOMAIN-SUFFIX,coronavirusnow.com
@@ -269,6 +270,7 @@ DOMAIN-SUFFIX,dmgmediaprivacy.co.uk
 DOMAIN-SUFFIX,dnai.in
 DOMAIN-SUFFIX,dnaindia.com
 DOMAIN-SUFFIX,donatecarsoh.org
+DOMAIN-SUFFIX,donga.com
 DOMAIN-SUFFIX,dongtaiwang.com
 DOMAIN-SUFFIX,dowjones.com
 DOMAIN-SUFFIX,dowjones.io
@@ -522,6 +524,7 @@ DOMAIN-SUFFIX,gclubs.com
 DOMAIN-SUFFIX,geelongadvertiser.com.au
 DOMAIN-SUFFIX,gendai.net
 DOMAIN-SUFFIX,geraldoatlarge.com
+DOMAIN-SUFFIX,getnews.jp
 DOMAIN-SUFFIX,gettr.com
 DOMAIN-SUFFIX,gfashion.com
 DOMAIN-SUFFIX,gisplanning.com
@@ -611,6 +614,7 @@ DOMAIN-SUFFIX,iproperty.com
 DOMAIN-SUFFIX,iproperty.com.my
 DOMAIN-SUFFIX,iproperty.com.sg
 DOMAIN-SUFFIX,ironna.jp
+DOMAIN-SUFFIX,itmedia.co.jp
 DOMAIN-SUFFIX,itripto.com
 DOMAIN-SUFFIX,iza.ne.jp
 DOMAIN-SUFFIX,japan-forward.com
@@ -646,6 +650,7 @@ DOMAIN-SUFFIX,londonreal.tv
 DOMAIN-SUFFIX,loveparents.org
 DOMAIN-SUFFIX,ltn.com.tw
 DOMAIN-SUFFIX,ltsports.com.tw
+DOMAIN-SUFFIX,macaodaily.com
 DOMAIN-SUFFIX,machigoto.jp
 DOMAIN-SUFFIX,macrumors.com
 DOMAIN-SUFFIX,mailhealth.com
@@ -1194,6 +1199,7 @@ DOMAIN-SUFFIX,want-media.com
 DOMAIN-SUFFIX,wantblogger.com
 DOMAIN-SUFFIX,warroom.org
 DOMAIN-SUFFIX,washingtonpost.com
+DOMAIN-SUFFIX,watch.impress.co.jp
 DOMAIN-SUFFIX,watchinese.com
 DOMAIN-SUFFIX,watchout.tw
 DOMAIN-SUFFIX,wealth.com.tw

@@ -1,7 +1,7 @@
 # NAME: China
 # AUTHOR: YYDS666
-# UPDATED: 2025-12-13 02:22:11
-# TOTAL: 6038
+# UPDATED: 2025-12-14 02:18:40
+# TOTAL: 6077
 +.00cdn.com
 +.0123456789.com
 +.0379home.com
@@ -278,11 +278,10 @@
 +.7230.com
 +.72byte.com
 +.72whys.com
-+.75.team
-+.75team.com
 +.7down.com
 +.7fresh.com
 +.7k7k.com
++.7moor-fs1.com
 +.7moor.com
 +.7po.com
 +.7x24cc.com
@@ -451,6 +450,7 @@
 +.alifanyi.com
 +.aligames.com
 +.aligenie.com
++.aligfwaf.com
 +.aliimg.com
 +.alikmd.com
 +.alikunlun.com
@@ -734,6 +734,7 @@
 +.bankofchina.com
 +.banmaaike.com
 +.baofeng.com
++.baofeng.net
 +.baomitu.com
 +.baoxianshichang.com
 +.baseopendev.com
@@ -963,7 +964,6 @@
 +.bytedance.org
 +.bytedanceapi.com
 +.bytedancehermestest.com
-+.bytedapm.com
 +.bytedcdn.com
 +.bytedeliver.com
 +.bytedgames.com
@@ -1160,6 +1160,7 @@
 +.cftsupport.com
 +.cfund108.com
 +.cfzq.com
++.cgames.com
 +.cgws.com
 +.ch.com
 +.chachaba.com
@@ -1240,11 +1241,13 @@
 +.chongdiantou.com
 +.chouti.com
 +.chrstatic.com
++.chuangcache.com
 +.chuangcdn.com
 +.chuangxin.com
 +.chuanke.com
 +.chuansong.me
 +.chuansongme.com
++.chuapp.com
 +.chugou360.com
 +.chujingapp.com
 +.chunyuyisheng.com
@@ -1483,6 +1486,7 @@
 +.cubead.com
 +.cwxzx.com
 +.cxbiji.com
++.cxmt.com
 +.cyagen.com
 +.cyber-bay.cn
 +.cyber-bay.com.cn
@@ -1504,6 +1508,7 @@
 +.dandanplay.com
 +.dandanvoice.com
 +.dangbei.com
++.dangbei.net
 +.dangdang.com
 +.danji100.com
 +.danji6.com
@@ -1512,6 +1517,7 @@
 +.daocloud.io
 +.daojia.com
 +.daovoice.io
++.dataeye.com
 +.dayainfo.com
 +.dayin8.com
 +.dayu.com
@@ -1678,6 +1684,7 @@
 +.douyincdn.com
 +.douyincloud.net
 +.douyincloud.run
++.douyinec.com
 +.douyinfe.com
 +.douyinliving.com
 +.douyinpic.com
@@ -1742,6 +1749,7 @@
 +.dxmstatic.com
 +.dxmyqh.com
 +.dxpmedia.com
++.dxy.com
 +.dxycdn.com
 +.dxzq.net
 +.dycloud.run
@@ -1749,6 +1757,7 @@
 +.dyhjw.com
 +.dynamics.cn
 +.dzdvip.com
++.dzng.com
 +.dzsc.com
 +.dzw3.com
 +.dzwww.com
@@ -1799,6 +1808,7 @@
 +.ecjobhome.com
 +.ecloud-gdu.com
 +.ecombdapi.com
++.ecombdstatic.com
 +.ecukwai.com
 +.edgekey88.net
 +.edgeonedy1.com
@@ -2072,7 +2082,9 @@
 +.gameitop.com
 +.gameloop.com
 +.gamemei.com
++.gameres.com
 +.gamersky.com
++.gamewower.com
 +.ganji.com
 +.ganjiangvpn.com
 +.ganjistatic1.com
@@ -2086,6 +2098,7 @@
 +.gcloudcstestonly.com
 +.gclouddolphin.com
 +.gcloudsdk.com
++.gcloudsvcs.com
 +.gcores.com
 +.gdjdxy.com
 +.gdliontech.com
@@ -2237,6 +2250,7 @@
 +.handanjob.com
 +.hangjiayun.com
 +.hangzhouyq.com
++.hanyi.com
 +.hao123.com
 +.hao123img.com
 +.hao222.com
@@ -2474,6 +2488,7 @@
 +.icloud.net.cn
 +.icloudapple.cn
 +.icourse163.org
++.icpcw.com
 +.icplishi.com
 +.ics.design
 +.idcgcloudcs.com
@@ -2583,6 +2598,7 @@
 +.iqiyipic.com
 +.iqoo.com
 +.iranshao.com
++.ireader.com
 +.irs01.com
 +.irsnp.com
 +.isd.com
@@ -2739,6 +2755,7 @@
 +.jianzhi8.com
 +.jiaodong.net
 +.jiaoyimao.com
++.jiashule.com
 +.jiasu.bohe.com
 +.jiasuhui.com
 +.jiasule.com
@@ -2761,6 +2778,7 @@
 +.jingxi.com
 +.jinianbi.com
 +.jinrishici.com
++.jinritemai.com
 +.jinrongren.net
 +.jinse.com
 +.jinshuju.com
@@ -3066,6 +3084,7 @@
 +.larkvc.com
 +.larsonlimited.com
 +.lascn.net
++.latepost.com
 +.lawxp.com
 +.lawyee.org
 +.lazada.com
@@ -3470,6 +3489,7 @@
 +.myyx618.com
 +.myzaker.com
 +.mzres.com
++.nadianshi.com
 +.nagcloudcs.com
 +.naixuecha.com
 +.namiso.com
@@ -3500,6 +3520,7 @@
 +.newbandeng.com
 +.newcoder.com
 +.newniu.com
++.news.yxrb.net
 +.newupbank.com
 +.newyx.net
 +.nextstudios.com
@@ -3583,6 +3604,7 @@
 +.officeplus.cn
 +.officese.com
 +.officewebapps.cn
++.ofweek.com
 +.oi-wiki.com
 +.oicq88.com
 +.okjike.com
@@ -3769,6 +3791,7 @@
 +.pupumall.com
 +.pushcfg.com
 +.py-axa.com
++.qbitai.com
 +.qbox.me
 +.qc188.com
 +.qcc.com
@@ -3839,8 +3862,10 @@
 +.qikoo.com
 +.qiku.com
 +.qikucdn.com
++.qiluyidian.net
 +.qimao.com
 +.qingcache.com
++.qingcdn.com
 +.qingcloud.com
 +.qingdaochina.org
 +.qingdaonews.com
@@ -3868,6 +3893,7 @@
 +.qiyukf.com
 +.qiyukf.net
 +.qizuang.com
++.ql1d.com
 +.qlinkto.cn
 +.qlivecdn.com
 +.qm989.com
@@ -4017,6 +4043,7 @@
 +.sfacg.com
 +.sfbuy.com
 +.sfcar.hk
++.sfccn.com
 +.sfgy.org
 +.sgamer.com
 +.sgsic.com
@@ -4121,6 +4148,7 @@
 +.snssdk.com
 +.so.com
 +.sobot.com
++.soboten.com
 +.socpk.com
 +.sofreight.com
 +.softwhy.com
@@ -4448,6 +4476,7 @@
 +.tjjt360.com
 +.tjstats.com
 +.tkhealthcare.com
++.tl88.net
 +.tlbapm.com
 +.tlgslb.com
 +.tlivecdn.com
@@ -4508,6 +4537,7 @@
 +.toutiaovod.com
 +.toutiaowap.com
 +.toutiaowap.net
++.touying.com
 +.touzid.com
 +.tower.im
 +.tower0788.com
@@ -4524,6 +4554,7 @@
 +.tripcdn.com
 +.tritoninfo.net
 +.trjcn.com
++.trpcdn.net
 +.trunktech.com
 +.trust-provider.cn
 +.trustcenter.cn
@@ -5130,6 +5161,7 @@
 +.xunfeixxj.com
 +.xunlei.com
 +.xunyou.com
++.xunyou.mobi
 +.xwbank.com
 +.xxsy.net
 +.xxtmail.com
@@ -5228,10 +5260,12 @@
 +.youlian.fun
 +.youshang.com
 +.youxiake.com
++.youxichaguan.com
 +.youxigt.com
 +.youxihezi.net
 +.youxila.com
 +.youxiniao.com
++.youxiputao.com
 +.youyierp.com
 +.youyitms.com
 +.youyiwms.com
@@ -5294,6 +5328,7 @@
 +.yunqishi.net
 +.yunshipei.com
 +.yunxiao.com
++.yunxinfw.com
 +.yunzhijia.com
 +.yunzhuxue.com
 +.yupoo.com
@@ -5345,6 +5380,9 @@
 +.zhan.com
 +.zhanbuba.com
 +.zhangyoubao.com
++.zhangyue.com
++.zhangyue01.com
++.zhangyuecdn.com
 +.zhanqi.tv
 +.zhanzhang.net
 +.zhaodanji.com
@@ -5414,6 +5452,7 @@
 +.zjzsa.com
 +.zmengzhu.com
 +.zmifi.com
++.znds.com
 +.zofund.com
 +.zongheng.com
 +.zoom3g.com

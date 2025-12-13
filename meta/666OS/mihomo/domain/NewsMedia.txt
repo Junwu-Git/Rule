@@ -1,7 +1,7 @@
 # NAME: NewsMedia
 # AUTHOR: YYDS666
-# UPDATED: 2025-12-13 02:22:13
-# TOTAL: 1393
+# UPDATED: 2025-12-14 02:18:40
+# TOTAL: 1399
 +.1degree.com.au
 +.47gyosei.jp
 +.47news.jp
@@ -235,6 +235,7 @@
 +.collins.co.uk
 +.collins.in
 +.cool18.com
++.cool3c.com
 +.coolloud.org.tw
 +.corepublishingsolutions.com
 +.coronavirusnow.com
@@ -274,6 +275,7 @@
 +.dnai.in
 +.dnaindia.com
 +.donatecarsoh.org
++.donga.com
 +.dongtaiwang.com
 +.dowjones.com
 +.dowjones.io
@@ -574,6 +576,7 @@
 +.geelongadvertiser.com.au
 +.gendai.net
 +.geraldoatlarge.com
++.getnews.jp
 +.gettr.com
 +.gfashion.com
 +.gisplanning.com
@@ -682,6 +685,7 @@
 +.iproperty.com.my
 +.iproperty.com.sg
 +.ironna.jp
++.itmedia.co.jp
 +.itripto.com
 +.iza.ne.jp
 +.japan-forward.com
@@ -717,6 +721,7 @@
 +.loveparents.org
 +.ltn.com.tw
 +.ltsports.com.tw
++.macaodaily.com
 +.machigoto.jp
 +.macrumors.com
 +.mailhealth.com
@@ -1305,6 +1310,7 @@
 +.wantblogger.com
 +.warroom.org
 +.washingtonpost.com
++.watch.impress.co.jp
 +.watchinese.com
 +.watchout.tw
 +.wealth.com.tw

@@ -1,7 +1,7 @@
 # NAME: Cloudflare
 # AUTHOR: YYDS666
-# UPDATED: 2025-12-13 02:22:13
-# TOTAL: 58
+# UPDATED: 2025-12-14 02:18:48
+# TOTAL: 60
 +.argotunnel.com
 +.cf-china.info
 +.cf-ipfs.com
@@ -52,10 +52,12 @@
 +.cloudflaretest.com
 +.cloudflarewarp.com
 +.every1dns.net
++.imagedelivery.net
 +.isbgpsafeyet.com
 +.one.one.one
 +.pacloudflare.com
 +.pages.dev
++.r2.dev
 +.trycloudflare.com
 +.videodelivery.net
 +.warp.plus

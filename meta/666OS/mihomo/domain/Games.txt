@@ -1,7 +1,7 @@
 # NAME: Games
 # AUTHOR: YYDS666
-# UPDATED: 2025-12-13 02:22:07
-# TOTAL: 909
+# UPDATED: 2025-12-14 02:18:43
+# TOTAL: 917
 +.100classicbooks.com
 +.17roco.com
 +.2k.com
@@ -42,6 +42,8 @@
 +.5054399.net
 +.71acg.com
 +.71acg.net
++.7k7k.com
++.9game.cn
 +.9xgame.com
 +.ac-pocketcamp.com
 +.aki-game.com
@@ -51,6 +53,7 @@
 +.anticheatexpert.com
 +.apexlegends.com
 +.appeeres.com
++.arcraiders.com
 +.artstation.com
 +.asobostudio.com
 +.astral-vector.com
@@ -189,6 +192,8 @@
 +.elderscrolls.com
 +.electronicarts.com
 +.electronicarts.fr
++.embark-studios.com
++.embark.games
 +.epicgames.com
 +.epicgames.dev
 +.epicgamescdn.com
@@ -196,6 +201,8 @@
 +.excitebots.com
 +.fab.com
 +.fabricmc.net
++.faceit-cdn.net
++.faceit.com
 +.fanatical.com
 +.ffbuddy.com
 +.fifastreet.com
@@ -242,6 +249,7 @@
 +.gcloudcstestonly.com
 +.gclouddolphin.com
 +.gcloudsdk.com
++.gcloudsvcs.com
 +.gdtimg.com
 +.genshinimpact.com
 +.ghostgames.com
@@ -424,6 +432,7 @@
 +.nexoncdn.co.kr
 +.nextstudios.com
 +.nextworkshop.net
++.nexus-cdn.com
 +.nexusmods.com
 +.nfsworld.com
 +.nikke-de.com
@@ -551,6 +560,7 @@
 +.rbxinfra.net
 +.rbxlabs.com
 +.rbxtrk.com
++.reachthefinals.com
 +.realcybertron.com
 +.realityscan.com
 +.renovacionxboxlive.com
@@ -716,7 +726,6 @@
 +.texasholdemcup.cn
 +.texasholdemcup.com
 +.texasholdemcup.net
-+.tgbus.com
 +.tgpro.top
 +.tgprocs.net
 +.thedreadwolfrises.com
@@ -753,7 +762,6 @@
 +.uoherald.com
 +.uplay.com
 +.valvesoftware.com
-+.vgtime.com
 +.videoxiaoyouxi.com
 +.visceralgames.com
 +.vrzwk.cn

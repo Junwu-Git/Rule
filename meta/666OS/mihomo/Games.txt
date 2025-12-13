@@ -1,7 +1,7 @@
 # NAME: Games
 # AUTHOR: YYDS666
-# UPDATED: 2025-12-13 02:22:07
-# TOTAL: 816
+# UPDATED: 2025-12-14 02:18:43
+# TOTAL: 824
 DOMAIN,a.ppy.sh
 DOMAIN,a4e8s8k3.map2.ssl.hwcdn.net
 DOMAIN,alibaba.cdn.steampipe.steamcontent.com
@@ -114,6 +114,8 @@ DOMAIN-SUFFIX,5054399.com
 DOMAIN-SUFFIX,5054399.net
 DOMAIN-SUFFIX,71acg.com
 DOMAIN-SUFFIX,71acg.net
+DOMAIN-SUFFIX,7k7k.com
+DOMAIN-SUFFIX,9game.cn
 DOMAIN-SUFFIX,9xgame.com
 DOMAIN-SUFFIX,ac-pocketcamp.com
 DOMAIN-SUFFIX,aki-game.com
@@ -123,6 +125,7 @@ DOMAIN-SUFFIX,anthemthegame.com
 DOMAIN-SUFFIX,anticheatexpert.com
 DOMAIN-SUFFIX,apexlegends.com
 DOMAIN-SUFFIX,appeeres.com
+DOMAIN-SUFFIX,arcraiders.com
 DOMAIN-SUFFIX,artstation.com
 DOMAIN-SUFFIX,asobostudio.com
 DOMAIN-SUFFIX,astral-vector.com
@@ -261,6 +264,8 @@ DOMAIN-SUFFIX,egdownload.fastly-edge.com
 DOMAIN-SUFFIX,elderscrolls.com
 DOMAIN-SUFFIX,electronicarts.com
 DOMAIN-SUFFIX,electronicarts.fr
+DOMAIN-SUFFIX,embark-studios.com
+DOMAIN-SUFFIX,embark.games
 DOMAIN-SUFFIX,epicgames.com
 DOMAIN-SUFFIX,epicgames.dev
 DOMAIN-SUFFIX,epicgamescdn.com
@@ -268,6 +273,8 @@ DOMAIN-SUFFIX,escapefromtarkov.com
 DOMAIN-SUFFIX,excitebots.com
 DOMAIN-SUFFIX,fab.com
 DOMAIN-SUFFIX,fabricmc.net
+DOMAIN-SUFFIX,faceit-cdn.net
+DOMAIN-SUFFIX,faceit.com
 DOMAIN-SUFFIX,fanatical.com
 DOMAIN-SUFFIX,ffbuddy.com
 DOMAIN-SUFFIX,fifastreet.com
@@ -304,6 +311,7 @@ DOMAIN-SUFFIX,gcloudcstest.com
 DOMAIN-SUFFIX,gcloudcstestonly.com
 DOMAIN-SUFFIX,gclouddolphin.com
 DOMAIN-SUFFIX,gcloudsdk.com
+DOMAIN-SUFFIX,gcloudsvcs.com
 DOMAIN-SUFFIX,gdtimg.com
 DOMAIN-SUFFIX,genshinimpact.com
 DOMAIN-SUFFIX,ghostgames.com
@@ -474,6 +482,7 @@ DOMAIN-SUFFIX,nexon.io
 DOMAIN-SUFFIX,nexoncdn.co.kr
 DOMAIN-SUFFIX,nextstudios.com
 DOMAIN-SUFFIX,nextworkshop.net
+DOMAIN-SUFFIX,nexus-cdn.com
 DOMAIN-SUFFIX,nexusmods.com
 DOMAIN-SUFFIX,nfsworld.com
 DOMAIN-SUFFIX,nikke-de.com
@@ -573,6 +582,7 @@ DOMAIN-SUFFIX,rbxcdn.com
 DOMAIN-SUFFIX,rbxinfra.net
 DOMAIN-SUFFIX,rbxlabs.com
 DOMAIN-SUFFIX,rbxtrk.com
+DOMAIN-SUFFIX,reachthefinals.com
 DOMAIN-SUFFIX,realcybertron.com
 DOMAIN-SUFFIX,realityscan.com
 DOMAIN-SUFFIX,renovacionxboxlive.com
@@ -697,7 +707,6 @@ DOMAIN-SUFFIX,tencentstart.com
 DOMAIN-SUFFIX,texasholdemcup.cn
 DOMAIN-SUFFIX,texasholdemcup.com
 DOMAIN-SUFFIX,texasholdemcup.net
-DOMAIN-SUFFIX,tgbus.com
 DOMAIN-SUFFIX,tgpro.top
 DOMAIN-SUFFIX,tgprocs.net
 DOMAIN-SUFFIX,thedreadwolfrises.com
@@ -734,7 +743,6 @@ DOMAIN-SUFFIX,uo.com
 DOMAIN-SUFFIX,uoherald.com
 DOMAIN-SUFFIX,uplay.com
 DOMAIN-SUFFIX,valvesoftware.com
-DOMAIN-SUFFIX,vgtime.com
 DOMAIN-SUFFIX,videoxiaoyouxi.com
 DOMAIN-SUFFIX,visceralgames.com
 DOMAIN-SUFFIX,wanmei.com
