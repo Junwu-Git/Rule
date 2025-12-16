@@ -1,6 +1,6 @@
 # NAME: Instagram
 # AUTHOR: YYDS666
-# UPDATED: 2025-12-16 02:22:58
+# UPDATED: 2025-12-17 02:22:54
 # TOTAL: 74
 DOMAIN-SUFFIX,achat-followers-instagram.com
 DOMAIN-SUFFIX,acheter-followers-instagram.com
