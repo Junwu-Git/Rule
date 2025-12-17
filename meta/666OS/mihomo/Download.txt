@@ -1,6 +1,6 @@
 # NAME: Download
 # AUTHOR: YYDS666
-# UPDATED: 2025-12-17 02:22:44
+# UPDATED: 2025-12-18 02:23:22
 # TOTAL: 201
 DOMAIN,captive.apple.com
 DOMAIN,console.gl-inet.com

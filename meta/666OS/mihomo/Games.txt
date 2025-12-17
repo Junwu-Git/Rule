@@ -1,6 +1,6 @@
 # NAME: Games
 # AUTHOR: YYDS666
-# UPDATED: 2025-12-17 02:22:52
+# UPDATED: 2025-12-18 02:23:15
 # TOTAL: 824
 DOMAIN,a.ppy.sh
 DOMAIN,a4e8s8k3.map2.ssl.hwcdn.net

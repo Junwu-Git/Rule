@@ -1,7 +1,7 @@
 # NAME: Proxy
 # AUTHOR: YYDS666
-# UPDATED: 2025-12-17 02:22:49
-# TOTAL: 6325
+# UPDATED: 2025-12-18 02:23:22
+# TOTAL: 6327
 +.000webhost.com
 +.030buy.com
 +.0rz.tw
@@ -499,6 +499,7 @@
 +.bit-z.com
 +.bit.do
 +.bit.ly
++.bitbaby.com
 +.bitbay.net
 +.bitchute.com
 +.bitcointalk.org
@@ -2159,6 +2160,7 @@
 +.icons8.com
 +.icu-project.org
 +.id.heroku.com
++.idcflare.com
 +.identi.ca
 +.idiomconnection.com
 +.idope.se

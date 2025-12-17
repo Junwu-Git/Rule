@@ -1,7 +1,7 @@
 # NAME: Proxy
 # AUTHOR: YYDS666
-# UPDATED: 2025-12-17 02:22:49
-# TOTAL: 6334
+# UPDATED: 2025-12-18 02:23:22
+# TOTAL: 6336
 DOMAIN,0rz.tw
 DOMAIN,1-apple.com.tw
 DOMAIN,123rf.com
@@ -1725,6 +1725,7 @@ DOMAIN-SUFFIX,bird.so
 DOMAIN-SUFFIX,bit-z.com
 DOMAIN-SUFFIX,bit.do
 DOMAIN-SUFFIX,bit.ly
+DOMAIN-SUFFIX,bitbaby.com
 DOMAIN-SUFFIX,bitbay.net
 DOMAIN-SUFFIX,bitchute.com
 DOMAIN-SUFFIX,bitcointalk.org
@@ -3304,6 +3305,7 @@ DOMAIN-SUFFIX,iconpaper.org
 DOMAIN-SUFFIX,icons8.com
 DOMAIN-SUFFIX,icu-project.org
 DOMAIN-SUFFIX,id.heroku.com
+DOMAIN-SUFFIX,idcflare.com
 DOMAIN-SUFFIX,identi.ca
 DOMAIN-SUFFIX,idiomconnection.com
 DOMAIN-SUFFIX,idope.se
