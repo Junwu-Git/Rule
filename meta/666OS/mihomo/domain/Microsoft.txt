@@ -1,7 +1,7 @@
 # NAME: Microsoft
 # AUTHOR: YYDS666
-# UPDATED: 2025-12-20 02:21:24
-# TOTAL: 686
+# UPDATED: 2025-12-21 02:18:46
+# TOTAL: 688
 +.1drv.com
 +.1drv.ms
 +.21vbc.com
@@ -145,6 +145,8 @@
 +.botframework.com
 +.brazilpartneruniversity.com
 +.breakdown.me
++.browser.events.data.msn.cn
++.browser.events.data.msn.com
 +.c-msedge.net
 +.callersbane.com
 +.cegid-cloud.cn

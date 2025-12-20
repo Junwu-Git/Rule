@@ -1,7 +1,7 @@
 # NAME: AI
 # AUTHOR: YYDS666
-# UPDATED: 2025-12-20 02:21:21
-# TOTAL: 224
+# UPDATED: 2025-12-21 02:18:44
+# TOTAL: 227
 +.abtestvm-sg.bytedance.com
 +.abtestvm.bytedance.com
 +.ai.com
@@ -100,6 +100,7 @@
 +.jasper.ai
 +.jules.google
 +.jules.google.com
++.kiro.dev
 +.labs.google
 +.launchdarkly.com
 +.lemon8-app.com
@@ -128,6 +129,8 @@
 +.oaistatic.com
 +.oaiusercontent.com
 +.observeit.net
++.opal.google
++.opal.google.com
 +.openai.com
 +.openai.com.cdn.cloudflare.net
 +.openaiapi-site.azureedge.net

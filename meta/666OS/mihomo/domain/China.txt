@@ -1,7 +1,7 @@
 # NAME: China
 # AUTHOR: YYDS666
-# UPDATED: 2025-12-20 02:21:30
-# TOTAL: 6077
+# UPDATED: 2025-12-21 02:18:41
+# TOTAL: 6102
 +.00cdn.com
 +.0123456789.com
 +.0379home.com
@@ -1472,10 +1472,21 @@
 +.csslcloud.net
 +.csto.com
 +.csxbank.com
++.ctbcdn.com
++.ctcdnov.net
++.ctdcdn.com
++.ctdns.net
 +.ctfile.com
 +.ctfund.com
++.ctgcdn.com
++.cthcdn.com
++.cthcdn.net
 +.ctiforum.com
++.ctlcdn.com
++.ctlcdn.net
 +.ctoutiao.com
++.ctovcdn.com
++.ctrender.com
 +.ctrip.com
 +.ctripbiz.com
 +.ctripgslb.com
@@ -1483,6 +1494,14 @@
 +.ctripteam.com
 +.ctsbw.com
 +.ctsec.com
++.ctxcdn.com
++.ctxcdn.net
++.ctxirang.com
++.ctycdn.net
++.ctyuninner.com
++.ctyunwaf.com
++.ctyunwaf1.com
++.ctzcdn.com
 +.cubead.com
 +.cwxzx.com
 +.cxbiji.com
@@ -3324,6 +3343,7 @@
 +.mi-idc.com
 +.mi-img.com
 +.mi.com
++.miaibox.com
 +.miaobolive.com
 +.miaomiaoz.com
 +.miaomiaozhe.com
@@ -3414,6 +3434,8 @@
 +.mokahr.com
 +.moleecel.com
 +.moocollege.com
++.moonvy.com
++.moonvy.cool
 +.mop.com
 +.morefreegame.com
 +.morganstanleyhuaxin.com
@@ -3637,6 +3659,7 @@
 +.openkylin.top
 +.openlearning.com
 +.openmidas.com
++.openvela.com
 +.oppo.com
 +.oppo.mobi
 +.oppocolor.com
@@ -5030,6 +5053,7 @@
 +.xiangrikuijianzhan.com
 +.xiangrikuisite.com
 +.xianjiqun.com
++.xiaoaiassist.com
 +.xiaobaixitong.com
 +.xiaodutv.com
 +.xiaoe-tech.com
@@ -5050,6 +5074,7 @@
 +.xiaomiflash.com
 +.xiaomiinc.com
 +.xiaomiinc.net
++.xiaomimimo.com
 +.xiaomimobile.com
 +.xiaomingtaiji.com
 +.xiaominr.com

@@ -1,7 +1,7 @@
 # NAME: Microsoft
 # AUTHOR: YYDS666
-# UPDATED: 2025-12-20 02:21:24
-# TOTAL: 597
+# UPDATED: 2025-12-21 02:18:45
+# TOTAL: 599
 DOMAIN,az764295.vo.msecnd.net
 DOMAIN,azure.microsoft.com
 DOMAIN,azuremarketplace.microsoft.com
@@ -196,6 +196,8 @@ DOMAIN-SUFFIX,boswp.com
 DOMAIN-SUFFIX,botframework.com
 DOMAIN-SUFFIX,brazilpartneruniversity.com
 DOMAIN-SUFFIX,breakdown.me
+DOMAIN-SUFFIX,browser.events.data.msn.cn
+DOMAIN-SUFFIX,browser.events.data.msn.com
 DOMAIN-SUFFIX,c-msedge.net
 DOMAIN-SUFFIX,callersbane.com
 DOMAIN-SUFFIX,cegid-cloud.cn

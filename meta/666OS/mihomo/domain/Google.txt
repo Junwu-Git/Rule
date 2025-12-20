@@ -1,7 +1,7 @@
 # NAME: Google
 # AUTHOR: YYDS666
-# UPDATED: 2025-12-20 02:21:23
-# TOTAL: 1090
+# UPDATED: 2025-12-21 02:18:47
+# TOTAL: 1089
 +.0emm.com
 +.1e100.net
 +.1ucrs.com
@@ -906,7 +906,6 @@ firebaseremoteconfig.googleapis.com
 fontfiles.googleapis.com
 fonts.googleapis.com
 fonts.gstatic.com
-fundingchoicesmessages.google.com
 g0.gstatic.com
 g1.gstatic.com
 g2.gstatic.com
