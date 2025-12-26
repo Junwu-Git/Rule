@@ -1,7 +1,7 @@
 # NAME: AI
 # AUTHOR: YYDS666
-# UPDATED: 2025-12-26 02:20:49
-# TOTAL: 227
+# UPDATED: 2025-12-27 02:21:37
+# TOTAL: 228
 +.abtestvm-sg.bytedance.com
 +.abtestvm.bytedance.com
 +.ai.com
@@ -16,6 +16,7 @@
 +.api.statsig.com
 +.api2d.com
 +.apis.google.com
++.app-analytics-services.com
 +.apps.mzstatic.com
 +.auth0.com
 +.bard.google.com

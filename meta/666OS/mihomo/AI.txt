@@ -1,7 +1,7 @@
 # NAME: AI
 # AUTHOR: YYDS666
-# UPDATED: 2025-12-26 02:20:49
-# TOTAL: 249
+# UPDATED: 2025-12-27 02:21:37
+# TOTAL: 250
 DOMAIN,ai.google.dev
 DOMAIN,aistudio.google.com
 DOMAIN,alkalicore-pa.clients6.google.com
@@ -67,6 +67,7 @@ DOMAIN-SUFFIX,api.marscode.com
 DOMAIN-SUFFIX,api.statsig.com
 DOMAIN-SUFFIX,api2d.com
 DOMAIN-SUFFIX,apis.google.com
+DOMAIN-SUFFIX,app-analytics-services.com
 DOMAIN-SUFFIX,apps.mzstatic.com
 DOMAIN-SUFFIX,auth0.com
 DOMAIN-SUFFIX,bard.google.com

@@ -1,6 +1,6 @@
 # NAME: Proxy
 # AUTHOR: YYDS666
-# UPDATED: 2025-12-26 02:20:56
+# UPDATED: 2025-12-27 02:21:36
 # TOTAL: 6330
 +.000webhost.com
 +.030buy.com
@@ -860,7 +860,6 @@
 +.chromecast.com
 +.chromeexperiments.com
 +.chromestatus.com
-+.chromium.org
 +.chuang-yen.org
 +.chubold.com
 +.chushigangdrug.ch
@@ -2600,6 +2599,7 @@
 +.lookpic.com
 +.looktoronto.com
 +.lotuslight.org.tw
++.lovart.ai
 +.lovetvshow.com
 +.lpsg.com
 +.lrfz.com
