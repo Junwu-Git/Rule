@@ -1,7 +1,7 @@
 # NAME: Emby
 # AUTHOR: YYDS666
-# UPDATED: 2025-12-27 02:21:33
-# TOTAL: 202
+# UPDATED: 2025-12-28 02:19:55
+# TOTAL: 204
 DOMAIN,api.trakt.tv
 DOMAIN,auroramedia.vip
 DOMAIN,cc.coemn.com
@@ -17,6 +17,7 @@ DOMAIN,emby.nebula-media.org
 DOMAIN,emby.revival.baby
 DOMAIN,emby.yomo.lol
 DOMAIN,favoritewife.com
+DOMAIN,global.uhdnow.com
 DOMAIN,jg.sfcj.org
 DOMAIN,ju.sfcj.org
 DOMAIN,m.mobaiemby.site
@@ -38,6 +39,7 @@ DOMAIN,starharn-cf.nebula-media.org
 DOMAIN,starharn.nebula-media.org
 DOMAIN,super.yezi.my
 DOMAIN,us.nanflix.net
+DOMAIN,v1.uhdnow.com
 DOMAIN,web-starharn.nebula-media.org
 DOMAIN,web.nebula-media.org
 DOMAIN,z.sfcj.org

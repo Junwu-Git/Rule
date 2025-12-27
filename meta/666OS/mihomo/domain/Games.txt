@@ -1,7 +1,7 @@
 # NAME: Games
 # AUTHOR: YYDS666
-# UPDATED: 2025-12-27 02:21:33
-# TOTAL: 917
+# UPDATED: 2025-12-28 02:19:56
+# TOTAL: 920
 +.100classicbooks.com
 +.17roco.com
 +.2k.com
@@ -764,6 +764,9 @@
 +.valvesoftware.com
 +.videoxiaoyouxi.com
 +.visceralgames.com
++.vrchat.cloud
++.vrchat.com
++.vrchat.net
 +.vrzwk.cn
 +.vrzwk.com
 +.vrzwk.net

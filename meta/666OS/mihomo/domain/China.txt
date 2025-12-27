@@ -1,7 +1,7 @@
 # NAME: China
 # AUTHOR: YYDS666
-# UPDATED: 2025-12-27 02:21:43
-# TOTAL: 6102
+# UPDATED: 2025-12-28 02:20:02
+# TOTAL: 6136
 +.00cdn.com
 +.0123456789.com
 +.0379home.com
@@ -382,6 +382,7 @@
 +.agora.io
 +.agoralab.co
 +.agrantsem.com
++.ahfda.com
 +.ahitv.com
 +.aicdn.com
 +.aichaoxing.com
@@ -613,6 +614,7 @@
 +.asczwa.com
 +.asczxcefsv.com
 +.asfiovnxocqpcry.com.cn
++.askdiandian.com
 +.asklib.com
 +.asklink.com
 +.asktug.com
@@ -1216,6 +1218,7 @@
 +.chinamobileltd.com
 +.chinanetcenter.com
 +.chinanews.com
++.chinaott.com
 +.chinapay.com
 +.chinapp.net
 +.chinapubmed.net
@@ -1386,6 +1389,7 @@
 +.cmf.ltd
 +.cmfchina.com
 +.cmpassport.com
++.cmread.com
 +.cn
 +.cn-cdn1.skymansion.net
 +.cn.bing.com
@@ -1606,6 +1610,7 @@
 +.dianchacha.com
 +.diandao.org
 +.diandian.com
++.diandianlife.top
 +.diandianqi.com
 +.dianping.com
 +.dianwannan.com
@@ -1722,6 +1727,7 @@
 +.dpma.cc
 +.draftstatic.com
 +.dratio.com
++.dreame.tech
 +.dreams-travel.com
 +.drivergenius.com
 +.drp321.com
@@ -1856,6 +1862,7 @@
 +.engkoo.com
 +.enterdesk.com
 +.eoeandroid.com
++.eoffcn.com
 +.eolink.com
 +.er07.com
 +.erji.net
@@ -1876,7 +1883,9 @@
 +.exmailgz.com
 +.expreview.com
 +.extfans.com
++.eziot.com
 +.ezpro.pro
++.ezviz.com
 +.f.cx
 +.fa-part.com
 +.faceshift.cn
@@ -2063,7 +2072,10 @@
 +.funshion.com
 +.funshion.net
 +.futu5.com
++.futuesop.com
++.futuniuniu.com
 +.futunn.com
++.futustatic.com
 +.fuwai.com
 +.fuwj.com
 +.fxt365.com
@@ -2155,6 +2167,7 @@
 +.gitee.com
 +.gitee.io
 +.gitv.tv
++.gk100.com
 +.gkecnapps.cn
 +.globalsign.cn
 +.globalsign.com
@@ -2339,10 +2352,15 @@
 +.hihonorcdn.com
 +.hihonorcloud.com
 +.hiido.com
++.hik-cloud.com
++.hik-express.com
++.hikiot.com
++.hikmall.com
 +.hikunpeng.cn
 +.hikunpeng.com
 +.hikunpeng.com.cn
 +.hikunpeng.net
++.hikvision.com
 +.hisensehitachi.com
 +.hisilicon.com
 +.hisilicon.com.cn
@@ -2506,10 +2524,12 @@
 +.icloud.com.cn
 +.icloud.net.cn
 +.icloudapple.cn
++.icntvcdn.com
 +.icourse163.org
 +.icpcw.com
 +.icplishi.com
 +.ics.design
++.ictbda.com
 +.idcgcloudcs.com
 +.idcquan.com
 +.idongdong.com
@@ -2593,6 +2613,7 @@
 +.inkwai.com
 +.insidear.cn
 +.inspirecloud.com
++.insta360.com
 +.intel.cn
 +.intsig.com
 +.intsig.net
@@ -2761,6 +2782,7 @@
 +.jet-ego.com
 +.jet-logistics.com
 +.jetlogistic.com
++.jfdaily.com
 +.jhgtgb.com
 +.jhscm.com
 +.jia.com
@@ -2842,6 +2864,7 @@
 +.jlcops.com
 +.jlcsj.com
 +.jlcsmt.com
++.jmgo.com
 +.jmlk.co
 +.jmstatic.com
 +.job5588.com
@@ -2860,6 +2883,7 @@
 +.jpush.io
 +.jpushoa.com
 +.jsbc.com
++.jsdmirror.com
 +.jsehealth.com
 +.jslife.net
 +.jsrdgg.com
@@ -3310,6 +3334,7 @@
 +.mechina.org
 +.mechrevo.com
 +.media.paperclipclub.net
++.mediastory.cc
 +.medicexam.net
 +.medlinker.com
 +.meegobeta.com
@@ -3373,6 +3398,7 @@
 +.miercn.com
 +.migames.com
 +.migucloud.com
++.migufun.com
 +.miguvideo.com
 +.mihayo.com
 +.mihayou.com
@@ -4107,6 +4133,7 @@
 +.shizhuang-inc.com
 +.shizhuang-inc.net
 +.shmetro.com
++.shobserver.com
 +.shopee.cn
 +.shopeesz.com
 +.shopss.com
@@ -4198,6 +4225,7 @@
 +.soufunimg.com
 +.soul-app.com
 +.souqian.com
++.southcn.com
 +.southmoney.com
 +.sparenode.com
 +.sparkletour.com
@@ -4276,6 +4304,7 @@
 +.swiftui.com.cn
 +.swsmu.com
 +.sxcxldjy.com
++.sydw8.com
 +.synology.cn
 +.sys321.com
 +.syxlgame.com
@@ -5042,6 +5071,7 @@
 +.xhlsgs.com
 +.xhscdn.com
 +.xhscdn.net
++.xhslink.com
 +.xiachufang.com
 +.xiamai.net
 +.xiamenair.com
@@ -5303,6 +5333,8 @@
 +.ypppt.com
 +.yqb.com
 +.yrz.name
++.ys7.com
++.ysjf.com
 +.yslyhr.com
 +.ystbds.com
 +.ysten.com
@@ -5396,9 +5428,11 @@
 +.zebracdn.com
 +.zeekrlife.com
 +.zgcbank.com
++.zggqzp.com
 +.zgjm.org
 +.zgjsks.com
 +.zglxw.com
++.zgsydw.com
 +.zgxytc.com
 +.zgzcw.com
 +.zgzsa.com

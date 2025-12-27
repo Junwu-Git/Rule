@@ -1,7 +1,7 @@
 # NAME: Emby
 # AUTHOR: YYDS666
-# UPDATED: 2025-12-27 02:21:33
-# TOTAL: 220
+# UPDATED: 2025-12-28 02:19:55
+# TOTAL: 222
 +.114514.quest
 +.123456.al
 +.16bit.cfd
@@ -198,6 +198,7 @@ emby.nebula-media.org
 emby.revival.baby
 emby.yomo.lol
 favoritewife.com
+global.uhdnow.com
 jg.sfcj.org
 ju.sfcj.org
 m.mobaiemby.site
@@ -219,6 +220,7 @@ starharn-cf.nebula-media.org
 starharn.nebula-media.org
 super.yezi.my
 us.nanflix.net
+v1.uhdnow.com
 web-starharn.nebula-media.org
 web.nebula-media.org
 z.sfcj.org

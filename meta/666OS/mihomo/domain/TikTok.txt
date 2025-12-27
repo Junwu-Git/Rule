@@ -1,7 +1,7 @@
 # NAME: TikTok
 # AUTHOR: YYDS666
-# UPDATED: 2025-12-27 02:21:44
-# TOTAL: 30
+# UPDATED: 2025-12-28 02:20:03
+# TOTAL: 35
 +.bytedapm.com
 +.byteoversea.com
 +.muscdn.com
@@ -12,7 +12,10 @@
 +.tiktok.com
 +.tiktokcdn-eu.com
 +.tiktokcdn-us.com
++.tiktokcdn-us.com.edgesuite.net
 +.tiktokcdn.com
++.tiktokcdn.com.akamaized.net
++.tiktokcdn.com.edgesuite.net
 +.tiktokd.net
 +.tiktokd.org
 +.tiktokeu-cdn.com
@@ -20,6 +23,8 @@
 +.tiktokminis.us
 +.tiktokrow-cdn.com
 +.tiktokv.com
++.tiktokv.com.edgekey.net
++.tiktokv.com.edgesuite.net
 +.tiktokv.eu
 +.tiktokv.us
 +.tiktokw.eu

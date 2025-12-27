@@ -1,7 +1,7 @@
 # NAME: Proxy
 # AUTHOR: YYDS666
-# UPDATED: 2025-12-27 02:21:36
-# TOTAL: 6330
+# UPDATED: 2025-12-28 02:19:57
+# TOTAL: 6332
 +.000webhost.com
 +.030buy.com
 +.0rz.tw
@@ -197,6 +197,7 @@
 +.alicejapan.co.jp
 +.alive.bar
 +.aljazeera.com
++.aljazeera.net
 +.alkasir.com
 +.all4mom.org
 +.allcoin.com
@@ -1101,7 +1102,6 @@
 +.delcamp.net
 +.demo.unlock-music.dev
 +.demosisto.hk
-+.deno.dev
 +.depositphotos.com
 +.desc.se
 +.desipro.de
@@ -1169,7 +1169,6 @@
 +.docker.com
 +.docker.io
 +.dockerstatus.com
-+.docs.deno.com
 +.docs.new
 +.documentingreality.com
 +.dojin.com
@@ -1718,6 +1717,7 @@
 +.gfw.press
 +.gfw.report
 +.gfwatch.org
++.gfwbao.com
 +.ggpht.com
 +.ggssl.com
 +.ghidra-sre.org
@@ -2285,6 +2285,7 @@
 +.ismalltits.com
 +.ismprofessional.net
 +.israbox.com
++.issues.chromium.org
 +.issuu.com
 +.istars.co.nz
 +.istockphoto.com
@@ -3932,6 +3933,7 @@
 +.stboy.net
 +.stc.com.sa
 +.steamcommunity.com
++.steamladder.com
 +.steampowered.com
 +.steamstatic.com
 +.steel-storm.com

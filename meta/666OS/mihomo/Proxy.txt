@@ -1,7 +1,7 @@
 # NAME: Proxy
 # AUTHOR: YYDS666
-# UPDATED: 2025-12-27 02:21:36
-# TOTAL: 6339
+# UPDATED: 2025-12-28 02:19:57
+# TOTAL: 6341
 DOMAIN,0rz.tw
 DOMAIN,1-apple.com.tw
 DOMAIN,123rf.com
@@ -1431,6 +1431,7 @@ DOMAIN-SUFFIX,alhayat.com
 DOMAIN-SUFFIX,alicejapan.co.jp
 DOMAIN-SUFFIX,alive.bar
 DOMAIN-SUFFIX,aljazeera.com
+DOMAIN-SUFFIX,aljazeera.net
 DOMAIN-SUFFIX,alkasir.com
 DOMAIN-SUFFIX,all4mom.org
 DOMAIN-SUFFIX,allcoin.com
@@ -2327,7 +2328,6 @@ DOMAIN-SUFFIX,deja.com
 DOMAIN-SUFFIX,delcamp.net
 DOMAIN-SUFFIX,demo.unlock-music.dev
 DOMAIN-SUFFIX,demosisto.hk
-DOMAIN-SUFFIX,deno.dev
 DOMAIN-SUFFIX,depositphotos.com
 DOMAIN-SUFFIX,desc.se
 DOMAIN-SUFFIX,desipro.de
@@ -2395,7 +2395,6 @@ DOMAIN-SUFFIX,doc.new
 DOMAIN-SUFFIX,docker.com
 DOMAIN-SUFFIX,docker.io
 DOMAIN-SUFFIX,dockerstatus.com
-DOMAIN-SUFFIX,docs.deno.com
 DOMAIN-SUFFIX,docs.new
 DOMAIN-SUFFIX,documentingreality.com
 DOMAIN-SUFFIX,dojin.com
@@ -2922,6 +2921,7 @@ DOMAIN-SUFFIX,gfsale.com
 DOMAIN-SUFFIX,gfw.press
 DOMAIN-SUFFIX,gfw.report
 DOMAIN-SUFFIX,gfwatch.org
+DOMAIN-SUFFIX,gfwbao.com
 DOMAIN-SUFFIX,ggpht.com
 DOMAIN-SUFFIX,ggssl.com
 DOMAIN-SUFFIX,ghidra-sre.org
@@ -3430,6 +3430,7 @@ DOMAIN-SUFFIX,ismaelan.com
 DOMAIN-SUFFIX,ismalltits.com
 DOMAIN-SUFFIX,ismprofessional.net
 DOMAIN-SUFFIX,israbox.com
+DOMAIN-SUFFIX,issues.chromium.org
 DOMAIN-SUFFIX,issuu.com
 DOMAIN-SUFFIX,istars.co.nz
 DOMAIN-SUFFIX,istockphoto.com
@@ -5055,6 +5056,7 @@ DOMAIN-SUFFIX,staticflickr.com
 DOMAIN-SUFFIX,stboy.net
 DOMAIN-SUFFIX,stc.com.sa
 DOMAIN-SUFFIX,steamcommunity.com
+DOMAIN-SUFFIX,steamladder.com
 DOMAIN-SUFFIX,steampowered.com
 DOMAIN-SUFFIX,steamstatic.com
 DOMAIN-SUFFIX,steel-storm.com

@@ -1,7 +1,7 @@
 # NAME: Games
 # AUTHOR: YYDS666
-# UPDATED: 2025-12-27 02:21:33
-# TOTAL: 824
+# UPDATED: 2025-12-28 02:19:56
+# TOTAL: 827
 DOMAIN,a.ppy.sh
 DOMAIN,a4e8s8k3.map2.ssl.hwcdn.net
 DOMAIN,alibaba.cdn.steampipe.steamcontent.com
@@ -745,6 +745,9 @@ DOMAIN-SUFFIX,uplay.com
 DOMAIN-SUFFIX,valvesoftware.com
 DOMAIN-SUFFIX,videoxiaoyouxi.com
 DOMAIN-SUFFIX,visceralgames.com
+DOMAIN-SUFFIX,vrchat.cloud
+DOMAIN-SUFFIX,vrchat.com
+DOMAIN-SUFFIX,vrchat.net
 DOMAIN-SUFFIX,wanmei.com
 DOMAIN-SUFFIX,wanwan4399.com
 DOMAIN-SUFFIX,wariolandshakeit.com
