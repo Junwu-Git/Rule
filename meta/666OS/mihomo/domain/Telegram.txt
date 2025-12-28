@@ -1,6 +1,6 @@
 # NAME: Telegram
 # AUTHOR: YYDS666
-# UPDATED: 2025-12-28 02:19:57
+# UPDATED: 2025-12-29 02:20:49
 # TOTAL: 32
 +.cdn-telegram.org
 +.comments.app
