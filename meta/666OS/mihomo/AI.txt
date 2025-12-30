@@ -1,7 +1,7 @@
 # NAME: AI
 # AUTHOR: YYDS666
-# UPDATED: 2025-12-30 02:22:26
-# TOTAL: 250
+# UPDATED: 2025-12-31 02:22:23
+# TOTAL: 251
 DOMAIN,ai.google.dev
 DOMAIN,aistudio.google.com
 DOMAIN,alkalicore-pa.clients6.google.com
@@ -28,6 +28,7 @@ DOMAIN,console.anthropic.com
 DOMAIN,copilot.github.com
 DOMAIN,copilot.microsoft.com
 DOMAIN,cp4.cloudflare.com
+DOMAIN,d3ssuo6fbvr.cloudfront.net
 DOMAIN,default.exp-tas.com
 DOMAIN,edgeservices.bing.com
 DOMAIN,gateway.ai.cloudflare.com
