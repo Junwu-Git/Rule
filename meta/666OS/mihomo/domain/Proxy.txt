@@ -1,7 +1,7 @@
 # NAME: Proxy
 # AUTHOR: YYDS666
-# UPDATED: 2026-01-02 02:21:42
-# TOTAL: 6334
+# UPDATED: 2026-01-03 02:21:36
+# TOTAL: 6351
 +.000webhost.com
 +.030buy.com
 +.0rz.tw
@@ -3299,6 +3299,23 @@
 +.pinimg.com
 +.pinkrod.com
 +.pinoy-n.com
++.pinterest.at
++.pinterest.ca
++.pinterest.cl
++.pinterest.co.uk
++.pinterest.com
++.pinterest.com.au
++.pinterest.com.mx
++.pinterest.de
++.pinterest.es
++.pinterest.fr
++.pinterest.ie
++.pinterest.it
++.pinterest.jp
++.pinterest.nz
++.pinterest.ph
++.pinterest.pt
++.pinterest.se
 +.pipii.tv
 +.piring.com
 +.pixeldrain.com
