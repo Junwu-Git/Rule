@@ -1,7 +1,7 @@
 # NAME: China
 # AUTHOR: YYDS666
-# UPDATED: 2026-01-03 02:21:42
-# TOTAL: 6136
+# UPDATED: 2026-01-04 02:20:01
+# TOTAL: 6139
 +.00cdn.com
 +.0123456789.com
 +.0379home.com
@@ -12,6 +12,7 @@
 +.100bt.com
 +.100offer.com
 +.100tal.com
++.10155.com
 +.11467.com
 +.114blog.com
 +.114chn.com
@@ -368,7 +369,9 @@
 +.acwifi.net
 +.acwing.com
 +.adcommerce.cn
++.adidas.cn
 +.adidas.com.cn
++.adidasspecialtysports.cn
 +.admin5.com
 +.adobedc.cn
 +.adxvip.com

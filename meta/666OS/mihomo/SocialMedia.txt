@@ -1,7 +1,7 @@
 # NAME: SocialMedia
 # AUTHOR: YYDS666
-# UPDATED: 2026-01-03 02:21:36
-# TOTAL: 579
+# UPDATED: 2026-01-04 02:19:58
+# TOTAL: 580
 DOMAIN,e122475.dscg.akamaiedge.net
 DOMAIN,fbcdn-a.akamaihd.net
 DOMAIN,licdn.cn.cdn20.com
@@ -502,6 +502,7 @@ DOMAIN-SUFFIX,threads.com
 DOMAIN-SUFFIX,threads.net
 DOMAIN-SUFFIX,toplayerserver.com
 DOMAIN-SUFFIX,trpger.us
+DOMAIN-SUFFIX,truthsocial.com
 DOMAIN-SUFFIX,tweetdeck.com
 DOMAIN-SUFFIX,twimg.com
 DOMAIN-SUFFIX,twitpic.com
