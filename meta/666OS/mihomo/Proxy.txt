@@ -1,7 +1,7 @@
 # NAME: Proxy
 # AUTHOR: YYDS666
-# UPDATED: 2026-01-05 02:20:28
-# TOTAL: 6343
+# UPDATED: 2026-01-06 02:23:22
+# TOTAL: 6348
 DOMAIN,0rz.tw
 DOMAIN,1-apple.com.tw
 DOMAIN,123rf.com
@@ -1407,6 +1407,7 @@ DOMAIN-SUFFIX,agoda.com
 DOMAIN-SUFFIX,agoogleaday.com
 DOMAIN-SUFFIX,agro.hk
 DOMAIN-SUFFIX,ai.dev
+DOMAIN-SUFFIX,ai.studio
 DOMAIN-SUFFIX,aiosearch.com
 DOMAIN-SUFFIX,aiph.net
 DOMAIN-SUFFIX,airasia.com
@@ -2302,6 +2303,7 @@ DOMAIN-SUFFIX,daum.net
 DOMAIN-SUFFIX,david-kilgour.com
 DOMAIN-SUFFIX,dawangidc.com
 DOMAIN-SUFFIX,daxa.cn
+DOMAIN-SUFFIX,dazn.com
 DOMAIN-SUFFIX,db.tt
 DOMAIN-SUFFIX,dbgjd.com
 DOMAIN-SUFFIX,dcard.tw
@@ -4289,6 +4291,8 @@ DOMAIN-SUFFIX,onlytweets.com
 DOMAIN-SUFFIX,onthehunt.com
 DOMAIN-SUFFIX,ontrac.com
 DOMAIN-SUFFIX,oojj.de
+DOMAIN-SUFFIX,ooni.io
+DOMAIN-SUFFIX,ooni.org
 DOMAIN-SUFFIX,open.firstory.me
 DOMAIN-SUFFIX,openai.com
 DOMAIN-SUFFIX,opendemocracy.net
@@ -5986,6 +5990,7 @@ DOMAIN-SUFFIX,xbox.com
 DOMAIN-SUFFIX,xbox.net
 DOMAIN-SUFFIX,xbtce.com
 DOMAIN-SUFFIX,xcafe.in
+DOMAIN-SUFFIX,xcancel.com
 DOMAIN-SUFFIX,xcity.jp
 DOMAIN-SUFFIX,xcritic.com
 DOMAIN-SUFFIX,xerotica.com

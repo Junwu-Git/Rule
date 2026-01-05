@@ -1,7 +1,7 @@
 # NAME: Proxy
 # AUTHOR: YYDS666
-# UPDATED: 2026-01-05 02:20:28
-# TOTAL: 6351
+# UPDATED: 2026-01-06 02:23:22
+# TOTAL: 6356
 +.000webhost.com
 +.030buy.com
 +.0rz.tw
@@ -173,6 +173,7 @@
 +.agoogleaday.com
 +.agro.hk
 +.ai.dev
++.ai.studio
 +.aiosearch.com
 +.aiph.net
 +.airasia.com
@@ -1076,6 +1077,7 @@
 +.david-kilgour.com
 +.dawangidc.com
 +.daxa.cn
++.dazn.com
 +.db.tt
 +.dbgjd.com
 +.dcard.tw
@@ -3157,6 +3159,8 @@
 +.onthehunt.com
 +.ontrac.com
 +.oojj.de
++.ooni.io
++.ooni.org
 +.open.firstory.me
 +.openai.com
 +.opendemocracy.net
@@ -4898,6 +4902,7 @@
 +.xbox.net
 +.xbtce.com
 +.xcafe.in
++.xcancel.com
 +.xcity.jp
 +.xcritic.com
 +.xerotica.com
