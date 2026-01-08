@@ -1,7 +1,7 @@
 # NAME: Emby
 # AUTHOR: YYDS666
-# UPDATED: 2026-01-08 02:23:22
-# TOTAL: 204
+# UPDATED: 2026-01-09 02:20:34
+# TOTAL: 202
 DOMAIN,api.trakt.tv
 DOMAIN,auroramedia.vip
 DOMAIN,cc.coemn.com
@@ -20,8 +20,6 @@ DOMAIN,favoritewife.com
 DOMAIN,global.uhdnow.com
 DOMAIN,jg.sfcj.org
 DOMAIN,ju.sfcj.org
-DOMAIN,m.mobaiemby.site
-DOMAIN,mcdn.mobaiemby.site
 DOMAIN,notnetflix.cos.cat
 DOMAIN,onatoshi.114514.quest
 DOMAIN,pub1.emby.wtf

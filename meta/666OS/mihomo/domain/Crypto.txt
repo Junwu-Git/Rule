@@ -1,7 +1,7 @@
 # NAME: Crypto
 # AUTHOR: YYDS666
-# UPDATED: 2026-01-08 02:23:16
-# TOTAL: 430
+# UPDATED: 2026-01-09 02:20:37
+# TOTAL: 431
 +.1inch.io
 +.aave.com
 +.account-paypal.info
@@ -406,6 +406,7 @@
 +.wiseid.com
 +.wisekey.com
 +.wisekey.com.hk
++.wsot2022.com
 +.www-paypal.info
 +.www-paypal.us
 +.wwwxoom.com

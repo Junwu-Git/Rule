@@ -1,7 +1,7 @@
 # NAME: Emby
 # AUTHOR: YYDS666
-# UPDATED: 2026-01-08 02:23:22
-# TOTAL: 222
+# UPDATED: 2026-01-09 02:20:34
+# TOTAL: 220
 +.114514.quest
 +.123456.al
 +.16bit.cfd
@@ -201,8 +201,6 @@ favoritewife.com
 global.uhdnow.com
 jg.sfcj.org
 ju.sfcj.org
-m.mobaiemby.site
-mcdn.mobaiemby.site
 notnetflix.cos.cat
 onatoshi.114514.quest
 pub1.emby.wtf
