@@ -6,11 +6,9 @@ payload:
     - statics-marketingsites-eas-ms-com.akamaized.net
     - statics-marketingsites-eus-ms-com.akamaized.net
     - statics-marketingsites-wcus-ms-com.akamaized.net
-    - crl.microsoft.com
-    - mscrl.microsoft.com
-    - ocsp.microsoft.com
-    - oneocsp.microsoft.com
     - location.microsoft.com
+    - github-api.arkoselabs.com
+    - github-cloud.s3.amazonaws.com
     - az764295.vo.msecnd.net
     - bingsettingssearch.trafficmanager.net
     - default.exp-tas.com
@@ -26,29 +24,32 @@ payload:
     - vscode.blob.core.windows.net
     - vscode.search.windows.net
     - vsmarketplacebadge.apphb.com
-    - prodforza.blob.core.windows.net
+    - crl.microsoft.com
+    - mscrl.microsoft.com
+    - ocsp.microsoft.com
+    - oneocsp.microsoft.com
     - flightsimulator.azureedge.net
+    - prodforza.blob.core.windows.net
     - azure.microsoft.com
     - azuremarketplace.microsoft.com
-    - github-api.arkoselabs.com
-    - github-cloud.s3.amazonaws.com
     - +.microsoft
     - +.hotmail
     - +.office
     - +.skype
     - +.windows
-    - +.azure
-    - +.xbox
     - +.bing
     - +.onedriveupdater
     - +.onedrive
-    - +.msocsp.com
-    - +.msocdn.com
+    - +.azure
+    - +.xbox
+    - +.yammer.com
+    - +.msidentity.com
+    - +.microsoft.cl
     - +.microsoft.com
     - +.microsoft.cz
     - +.microsoft.de
-    - +.microsoft.dk
-    - +.microsoftnews.org
+    - +.masalladeloslimites.com
+    - +.microsoft.ee
     - +.microsoft.es
     - +.microsoft.eu
     - +.microsoft.fi
@@ -196,8 +197,8 @@ payload:
     - +.msgamesresearch.com
     - +.msgamestudios.com
     - +.mshome.net
-    - +.msidentity.com
-    - +.microsoftnewsforkids.com
+    - +.bingapis.com
+    - +.msocdn.com
     - +.msturing.org
     - +.msudalosti.com
     - +.mymicrosoft.com
@@ -273,49 +274,14 @@ payload:
     - +.windowsupdate.com
     - +.winhec.com
     - +.winhec.net
-    - +.yammer.com
-    - +.microsoft.ch
-    - +.microsoftnews.cc
-    - +.npmjs.com
-    - +.npm.community
-    - +.microsoftnews.com
-    - +.microsoftnews.net
-    - +.microsoft.ee
-    - +.microsoft.cl
-    - +.sharepoint.cn
-    - +.microsoftnewsforkids.org
-    - +.microsoftnewskids.com
-    - +.microsoftnewskids.net
-    - +.microsoftnewskids.org
-    - +.msn.com
-    - +.msnewskids.com
-    - +.msnewskids.net
-    - +.msnewskids.org
-    - +.msnkids.com
-    - +.microsoftstart.com
-    - +.start.com
     - +.microsoft.cat
-    - +.microsoft.ca
-    - +.onedrive.com
-    - +.microsoftnewsforkids.net
-    - +.livefilestore.com
-    - +.1drv.com
-    - +.npmjs.org
-    - +.thegithubshop.com
-    - +.repo.new
-    - +.opensource.guide
-    - +.octocaptcha.com
-    - +.myoctocat.com
-    - +.githubusercontent.com
-    - +.githubuniverse.com
-    - +.githubstatus.com
-    - +.microsoft.by
     - +.microsoftdiplomados.com
+    - +.1drv.com
     - +.bing123.com
     - +.flipwithsurface.com
-    - +.masalladeloslimites.com
-    - +.bingapis.com
-    - +.bingapistatistics.com
+    - +.microsoft.dk
+    - +.microsoft.ch
+    - +.office365love.com
     - +.bingparachute.com
     - +.bingsandbox.com
     - +.bingvisualsearch.com
@@ -332,10 +298,40 @@ payload:
     - +.microsoftmxfilantropia.com
     - +.microsoftpartnersolutions.com
     - +.msunlimitedcloudsummit.com
-    - +.office365love.com
+    - +.bingapistatistics.com
     - +.office365tw.com
     - +.renovacionoffice.com
+    - +.livefilestore.com
+    - +.sharepoint.cn
+    - +.onedrive.com
+    - +.githubhackathon.com
+    - +.git.io
+    - +.atom.io
+    - +.ghcr.io
+    - +.githubnext.com
+    - +.github.ai
+    - +.github.blog
+    - +.github.com
+    - +.github.community
+    - +.github.dev
+    - +.github.io
+    - +.githubpreview.dev
+    - +.githubassets.com
+    - +.githubcopilot.com
+    - +.gh.io
+    - +.dependabot.com
     - +.githubapp.com
+    - +.githubstatus.com
+    - +.githubuniverse.com
+    - +.githubusercontent.com
+    - +.myoctocat.com
+    - +.octocaptcha.com
+    - +.opensource.guide
+    - +.repo.new
+    - +.thegithubshop.com
+    - +.npmjs.org
+    - +.npm.community
+    - +.npmjs.com
     - +.adaptivecards.io
     - +.api-extractor.com
     - +.apisof.net
@@ -387,8 +383,25 @@ payload:
     - +.vscode-cdn.net
     - +.vscode-unpkg.net
     - +.xamarin.com
-    - +.dependabot.com
-    - +.microsoft.be
+    - +.msocsp.com
+    - +.microsoftnews.cc
+    - +.microsoftnews.com
+    - +.microsoftnews.net
+    - +.microsoftnews.org
+    - +.microsoftnewsforkids.com
+    - +.microsoftnewsforkids.net
+    - +.microsoftnewsforkids.org
+    - +.microsoftnewskids.com
+    - +.microsoftnewskids.net
+    - +.microsoftnewskids.org
+    - +.msn.com
+    - +.msnewskids.com
+    - +.msnewskids.net
+    - +.msnewskids.org
+    - +.msnkids.com
+    - +.microsoftstart.com
+    - +.start.com
+    - +.microsoft.ca
     - +.gamepass.com
     - +.orithegame.com
     - +.renovacionxboxlive.com
@@ -412,6 +425,8 @@ payload:
     - +.xboxservices.com
     - +.xboxstudios.com
     - +.xbx.lv
+    - +.asobostudio.com
+    - +.flightsimulator.com
     - +.beth.games
     - +.bethesda.net
     - +.bethesdagamestudios.com
@@ -428,9 +443,7 @@ payload:
     - +.minecraftservices.com
     - +.minecraftshop.com
     - +.mojang.com
-    - +.asobostudio.com
-    - +.flightsimulator.com
-    - +.microsoft.az
+    - +.microsoft.by
     - +.aadrm.com
     - +.azure-devices-int.net
     - +.azure-devices.net
@@ -486,27 +499,14 @@ payload:
     - +.azure-dns.info
     - +.azure-dns.net
     - +.azure-dns.org
-    - +.githubhackathon.com
-    - +.git.io
-    - +.atom.io
-    - +.ghcr.io
-    - +.githubnext.com
-    - +.github.ai
-    - +.github.blog
-    - +.github.com
-    - +.github.community
-    - +.github.dev
-    - +.github.io
-    - +.githubpreview.dev
-    - +.githubassets.com
-    - +.githubcopilot.com
-    - +.gh.io
-    - +.spoprod-a.akamaihd.net
+    - +.microsoft.be
+    - +.microsoft.az
     - +.live.com.au
-    - +.visualstudio.co.uk
-    - +.skype-edf.akadns.net
     - +.skypedata.akadns.net
+    - +.skype-edf.akadns.net
+    - +.visualstudio.co.uk
     - +.microsoftstore.com.hk
+    - +.spoprod-a.akamaihd.net
     - +.dcg.microsoft.com
     - +.dynamics.cn
     - +.engkoo.com
@@ -574,9 +574,6 @@ payload:
     - vz.download.prss.microsoft.com
     - wscont1.apps.microsoft.com
     - wscont2.apps.microsoft.com
-    - www.microsoft.com
-    - +.microsoftnews.cn
-    - +.msn.cn
     - +.bing.com.cn
     - +.bingads.com
     - +.cn.bing.com
@@ -587,15 +584,14 @@ payload:
     - +.th.bing.com
     - bj1.api.bing.com
     - emoi-cncdn.bing.com
+    - +.collector.github.com
+    - +.copilot-telemetry.githubusercontent.com
     - +.microsoftreactor.cn
     - +.microsoftreactor.com.cn
     - +.reactorms.com.cn
-    - +.browser.events.data.msn.cn
-    - +.browser.events.data.msn.com
-    - +.clarity.ms
-    - +.microsoftads.com
-    - +.msads.net
-    - +.nelreports.net
+    - www.microsoft.com
+    - +.microsoftnews.cn
+    - +.msn.cn
     - +.xboxlive.cn
     - +.21vbc.com
     - +.21vbluecloud.com
@@ -682,5 +678,9 @@ payload:
     - +.azure-dns-8.cn
     - +.azure-dns-9.cn
     - +.azure-dns-10.cn
-    - +.collector.github.com
-    - +.copilot-telemetry.githubusercontent.com
+    - +.browser.events.data.msn.cn
+    - +.browser.events.data.msn.com
+    - +.clarity.ms
+    - +.microsoftads.com
+    - +.msads.net
+    - +.nelreports.net

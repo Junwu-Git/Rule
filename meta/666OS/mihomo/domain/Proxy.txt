@@ -1,7 +1,7 @@
 # NAME: Proxy
 # AUTHOR: YYDS666
-# UPDATED: 2026-01-09 02:20:34
-# TOTAL: 6356
+# UPDATED: 2026-01-10 02:22:41
+# TOTAL: 6360
 +.000webhost.com
 +.030buy.com
 +.0rz.tw
@@ -126,7 +126,6 @@
 +.abematv.akamaized.net
 +.ablwang.com
 +.aboluowang.com
-+.about.gitlab.com
 +.about.me
 +.abplive.com
 +.abs.edu
@@ -1739,6 +1738,7 @@
 +.githubassets.com
 +.githubcopilot.com
 +.githubusercontent.com
++.gitlab.com
 +.gitlab.net
 +.gizlen.net
 +.gjczz.com
@@ -2251,6 +2251,7 @@
 +.invidio.us
 +.inxian.com
 +.iownyour.org
++.ip.sb
 +.ipdefenseforum.com
 +.ipfire.org
 +.ipfs.4everland.io
@@ -2851,6 +2852,7 @@
 +.musicade.net
 +.musixmatch.com
 +.muslimvideo.com
++.mux.com
 +.muzi.com
 +.muzi.net
 +.muzu.tv
@@ -3707,6 +3709,7 @@
 +.serveuser.com
 +.serveusers.com
 +.sesawe.net
++.setapp.com
 +.sethwklein.net
 +.setn.com
 +.settv.com.tw
@@ -5188,6 +5191,7 @@ antichristendom.com
 antiwave.net
 anysex.com
 aofriend.com
+api.ip.sb
 apkmonk.com
 appdownloader.net
 apple-relay.apple.com
