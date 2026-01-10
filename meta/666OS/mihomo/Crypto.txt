@@ -1,7 +1,7 @@
 # NAME: Crypto
 # AUTHOR: YYDS666
-# UPDATED: 2026-01-10 02:22:44
-# TOTAL: 362
+# UPDATED: 2026-01-11 02:21:04
+# TOTAL: 363
 DOMAIN,bybit-exchange.github.io
 DOMAIN,bybit.ada.support
 DOMAIN,d3r7nsslvs6aaf.cloudfront.net
@@ -34,6 +34,7 @@ DOMAIN-SUFFIX,billmelater.info
 DOMAIN-SUFFIX,billmelater.net
 DOMAIN-SUFFIX,binanceapi.com
 DOMAIN-SUFFIX,binancecnt.com
+DOMAIN-SUFFIX,bingx.com
 DOMAIN-SUFFIX,bisq.io
 DOMAIN-SUFFIX,bisq.network
 DOMAIN-SUFFIX,bitbank.cc

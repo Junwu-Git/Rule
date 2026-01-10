@@ -1,7 +1,7 @@
 # NAME: China
 # AUTHOR: YYDS666
-# UPDATED: 2026-01-10 02:22:46
-# TOTAL: 6139
+# UPDATED: 2026-01-11 02:21:11
+# TOTAL: 6150
 +.00cdn.com
 +.0123456789.com
 +.0379home.com
@@ -393,6 +393,7 @@
 +.aiganggu.com
 +.aigc-cloud.com
 +.aihst8.com
++.aihuishou.com
 +.aiketour.com
 +.aiops.com
 +.aipage.com
@@ -553,6 +554,7 @@
 +.anticheatexpert.com
 +.antpcdn.com
 +.antutu.com
++.antutu.net
 +.anxia.com
 +.anycross.com
 +.anywlan.com
@@ -1158,6 +1160,7 @@
 +.cf-ns.net
 +.cf-ns.site
 +.cf-ns.tech
++.cfc108.com
 +.cftest5.cn
 +.cftest6.cn
 +.cftest7.com
@@ -1255,6 +1258,7 @@
 +.chuansongme.com
 +.chuapp.com
 +.chugou360.com
++.chuimg.com
 +.chujingapp.com
 +.chunyuyisheng.com
 +.chushou.tv
@@ -1796,6 +1800,7 @@
 +.eastmoneyfutures.com
 +.eastsoo.com
 +.easy-signing.com
++.easytomessage.com
 +.easytrip.com
 +.eayyou.com
 +.eb-ind.com
@@ -1984,6 +1989,9 @@
 +.fm365.com
 +.fm3838.com
 +.fnjiasu.com
++.fnnas.com
++.fnnas.net
++.fnos.net
 +.fofa.info
 +.fofa.so
 +.follow.is
@@ -4067,6 +4075,7 @@
 +.sbsjk.com
 +.sc96655.com
 +.scdng.com
++.schoopia.com
 +.scm121.com
 +.scoregg.com
 +.sczsxx.com
@@ -4349,6 +4358,7 @@
 +.taomee.com
 +.taopiaopiao.com
 +.taou.com
++.tapapks.com
 +.tapimg.com
 +.tapimg.net
 +.taptap.com
@@ -4556,6 +4566,7 @@
 +.tongfangpc.com
 +.tongtaiamc.com
 +.tongxianghuicn.com
++.tongxuepie.com
 +.tongyi.aliyun.com
 +.tongyi.com
 +.tools.team

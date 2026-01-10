@@ -1,7 +1,7 @@
 # NAME: Games
 # AUTHOR: YYDS666
-# UPDATED: 2026-01-10 02:22:42
-# TOTAL: 827
+# UPDATED: 2026-01-11 02:21:05
+# TOTAL: 828
 DOMAIN,a.ppy.sh
 DOMAIN,a4e8s8k3.map2.ssl.hwcdn.net
 DOMAIN,alibaba.cdn.steampipe.steamcontent.com
@@ -692,6 +692,7 @@ DOMAIN-SUFFIX,swtor.com
 DOMAIN-SUFFIX,swtor.net
 DOMAIN-SUFFIX,syxlgame.com
 DOMAIN-SUFFIX,take2games.com
+DOMAIN-SUFFIX,tapapks.com
 DOMAIN-SUFFIX,tapimg.com
 DOMAIN-SUFFIX,tapimg.net
 DOMAIN-SUFFIX,taptap.cn

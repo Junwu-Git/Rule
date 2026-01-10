@@ -1,7 +1,7 @@
 # NAME: Crypto
 # AUTHOR: YYDS666
-# UPDATED: 2026-01-10 02:22:44
-# TOTAL: 431
+# UPDATED: 2026-01-11 02:21:04
+# TOTAL: 432
 +.1inch.io
 +.aave.com
 +.account-paypal.info
@@ -53,6 +53,7 @@
 +.binancezh.pro
 +.binancezh.sh
 +.binancezh.top
++.bingx.com
 +.bisq.io
 +.bisq.network
 +.bitbank.cc

@@ -1,7 +1,7 @@
 # NAME: AI
 # AUTHOR: YYDS666
-# UPDATED: 2026-01-10 02:22:44
-# TOTAL: 251
+# UPDATED: 2026-01-11 02:21:11
+# TOTAL: 253
 DOMAIN,ai.google.dev
 DOMAIN,aistudio.google.com
 DOMAIN,alkalicore-pa.clients6.google.com
@@ -57,6 +57,7 @@ DOMAIN,www.bing.com
 DOMAIN-SUFFIX,abtestvm-sg.bytedance.com
 DOMAIN-SUFFIX,abtestvm.bytedance.com
 DOMAIN-SUFFIX,ai.com
+DOMAIN-SUFFIX,ai.studio
 DOMAIN-SUFFIX,aida.googleapis.com
 DOMAIN-SUFFIX,aiproxy.io
 DOMAIN-SUFFIX,aisandbox-pa.googleapis.com
@@ -155,6 +156,7 @@ DOMAIN-SUFFIX,jules.google
 DOMAIN-SUFFIX,jules.google.com
 DOMAIN-SUFFIX,kiro.dev
 DOMAIN-SUFFIX,labs.google
+DOMAIN-SUFFIX,labs.google.com
 DOMAIN-SUFFIX,launchdarkly.com
 DOMAIN-SUFFIX,lemon8-app.com
 DOMAIN-SUFFIX,lemon8cdn.com

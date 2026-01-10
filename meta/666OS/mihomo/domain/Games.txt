@@ -1,7 +1,7 @@
 # NAME: Games
 # AUTHOR: YYDS666
-# UPDATED: 2026-01-10 02:22:42
-# TOTAL: 920
+# UPDATED: 2026-01-11 02:21:05
+# TOTAL: 921
 +.100classicbooks.com
 +.17roco.com
 +.2k.com
@@ -711,6 +711,7 @@
 +.swtor.net
 +.syxlgame.com
 +.take2games.com
++.tapapks.com
 +.tapimg.com
 +.tapimg.net
 +.taptap.cn
