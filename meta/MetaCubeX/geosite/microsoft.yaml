@@ -6,10 +6,6 @@ payload:
     - statics-marketingsites-eas-ms-com.akamaized.net
     - statics-marketingsites-eus-ms-com.akamaized.net
     - statics-marketingsites-wcus-ms-com.akamaized.net
-    - crl.microsoft.com
-    - mscrl.microsoft.com
-    - ocsp.microsoft.com
-    - oneocsp.microsoft.com
     - flightsimulator.azureedge.net
     - prodforza.blob.core.windows.net
     - azure.microsoft.com
@@ -30,6 +26,10 @@ payload:
     - vscode.blob.core.windows.net
     - vscode.search.windows.net
     - vsmarketplacebadge.apphb.com
+    - crl.microsoft.com
+    - mscrl.microsoft.com
+    - ocsp.microsoft.com
+    - oneocsp.microsoft.com
     - github-api.arkoselabs.com
     - github-cloud.s3.amazonaws.com
     - +.microsoft
@@ -38,17 +38,18 @@ payload:
     - +.skype
     - +.windows
     - +.onedrive
+    - +.onedriveupdater
     - +.bing
     - +.azure
     - +.xbox
-    - +.onedriveupdater
-    - +.yammer.com
-    - +.msidentity.com
+    - +.winhec.net
+    - +.mshome.net
+    - +.microsoft.ch
     - +.microsoft.cl
     - +.microsoft.com
     - +.microsoft.cz
-    - +.microsoft.de
-    - +.microsoftpersonalcontent.com
+    - +.onedrive.com
+    - +.microsoft.dk
     - +.microsoft.ee
     - +.microsoft.es
     - +.microsoft.eu
@@ -168,6 +169,7 @@ payload:
     - +.microsoftonline-p.com
     - +.microsoftonline.com
     - +.microsoftpartnercommunity.com
+    - +.microsoftpersonalcontent.com
     - +.microsoftready.com
     - +.microsoftsiteselection.com
     - +.microsoftstore.com
@@ -195,8 +197,8 @@ payload:
     - +.msftnet.org
     - +.msgamesresearch.com
     - +.msgamestudios.com
-    - +.mshome.net
-    - +.onedrive.com
+    - +.sharepoint.cn
+    - +.msidentity.com
     - +.msocdn.com
     - +.msturing.org
     - +.msudalosti.com
@@ -272,16 +274,13 @@ payload:
     - +.windowssearch.com
     - +.windowsupdate.com
     - +.winhec.com
-    - +.winhec.net
-    - +.microsoft.cat
-    - +.msocsp.com
+    - +.microsoft.ca
+    - +.yammer.com
     - +.start.com
     - +.microsoftstart.com
-    - +.microsoft.ca
-    - +.microsoft.dk
-    - +.microsoft.ch
-    - +.tellmewhygame.com
-    - +.livefilestore.com
+    - +.microsoft.de
+    - +.microsoft.cat
+    - +.xbox.co
     - +.1drv.com
     - +.msnkids.com
     - +.msnewskids.org
@@ -296,8 +295,8 @@ payload:
     - +.gamepass.com
     - +.orithegame.com
     - +.renovacionxboxlive.com
-    - +.sharepoint.cn
-    - +.xbox.co
+    - +.tellmewhygame.com
+    - +.livefilestore.com
     - +.xbox.com
     - +.xbox.eu
     - +.xbox.org
@@ -316,6 +315,12 @@ payload:
     - +.xboxservices.com
     - +.xboxstudios.com
     - +.xbx.lv
+    - +.callersbane.com
+    - +.minecraft-services.net
+    - +.minecraft.net
+    - +.minecraftservices.com
+    - +.minecraftshop.com
+    - +.mojang.com
     - +.asobostudio.com
     - +.flightsimulator.com
     - +.beth.games
@@ -328,12 +333,6 @@ payload:
     - +.forzamotorsport.net
     - +.forzaracingchampionship.com
     - +.forzarc.com
-    - +.callersbane.com
-    - +.minecraft-services.net
-    - +.minecraft.net
-    - +.minecraftservices.com
-    - +.minecraftshop.com
-    - +.mojang.com
     - +.microsoft.be
     - +.aadrm.com
     - +.azure-devices-int.net
@@ -469,6 +468,7 @@ payload:
     - +.vscode-unpkg.net
     - +.xamarin.com
     - +.microsoftnewsforkids.com
+    - +.msocsp.com
     - +.githubhackathon.com
     - +.git.io
     - +.atom.io
@@ -574,7 +574,6 @@ payload:
     - vz.download.prss.microsoft.com
     - wscont1.apps.microsoft.com
     - wscont2.apps.microsoft.com
-    - www.microsoft.com
     - +.xboxlive.cn
     - +.21vbc.com
     - +.21vbluecloud.com
@@ -671,15 +670,18 @@ payload:
     - +.th.bing.com
     - bj1.api.bing.com
     - emoi-cncdn.bing.com
+    - +.microsoftreactor.cn
+    - +.microsoftreactor.com.cn
+    - +.reactorms.com.cn
+    - www.microsoft.com
+    - +.collector.github.com
+    - +.copilot-telemetry.githubusercontent.com
     - +.browser.events.data.msn.cn
     - +.browser.events.data.msn.com
     - +.clarity.ms
     - +.microsoftads.com
     - +.msads.net
     - +.nelreports.net
-    - +.microsoftreactor.cn
-    - +.microsoftreactor.com.cn
-    - +.reactorms.com.cn
     - +.collector.github.com
     - +.copilot-telemetry.githubusercontent.com
     - +.microsoftnews.cn
