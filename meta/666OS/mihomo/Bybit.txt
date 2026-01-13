@@ -1,6 +1,6 @@
 # NAME: Bybit
 # AUTHOR: YYDS666
-# UPDATED: 2026-01-13 02:23:52
+# UPDATED: 2026-01-14 02:23:54
 # TOTAL: 16
 DOMAIN,bybit-exchange.github.io
 DOMAIN,bybit.ada.support
