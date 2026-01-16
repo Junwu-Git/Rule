@@ -1,6 +1,6 @@
 # NAME: Proxy
 # AUTHOR: YYDS666
-# UPDATED: 2026-01-16 02:27:58
+# UPDATED: 2026-01-17 02:23:02
 # TOTAL: 6360
 +.000webhost.com
 +.030buy.com
@@ -126,6 +126,7 @@
 +.abematv.akamaized.net
 +.ablwang.com
 +.aboluowang.com
++.about.gitlab.com
 +.about.me
 +.abplive.com
 +.abs.edu
@@ -1738,7 +1739,6 @@
 +.githubassets.com
 +.githubcopilot.com
 +.githubusercontent.com
-+.gitlab.com
 +.gitlab.net
 +.gizlen.net
 +.gjczz.com

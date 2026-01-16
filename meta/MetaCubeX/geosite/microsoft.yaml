@@ -11,8 +11,8 @@ payload:
     - mscrl.microsoft.com
     - ocsp.microsoft.com
     - oneocsp.microsoft.com
-    - flightsimulator.azureedge.net
     - prodforza.blob.core.windows.net
+    - flightsimulator.azureedge.net
     - azure.microsoft.com
     - azuremarketplace.microsoft.com
     - github-api.arkoselabs.com
@@ -305,6 +305,20 @@ payload:
     - +.vscode-cdn.net
     - +.vscode.dev
     - +.vsassets.io
+    - +.microsoft.ca
+    - +.microsoft.by
+    - +.onedrive.com
+    - +.sharepoint.cn
+    - +.livefilestore.com
+    - +.1drv.com
+    - +.vfsforgit.org
+    - +.vfsforgit.com
+    - +.visualstudio.net
+    - +.visualstudio.eu
+    - +.visualstudio.co
+    - +.visualstudio.com
+    - +.visualstudio-staging.com
+    - +.msocsp.com
     - +.microsoftnews.cc
     - +.microsoftnews.com
     - +.microsoftnews.net
@@ -322,20 +336,6 @@ payload:
     - +.msnkids.com
     - +.microsoftstart.com
     - +.start.com
-    - +.msocsp.com
-    - +.microsoft.ca
-    - +.microsoft.by
-    - +.onedrive.com
-    - +.sharepoint.cn
-    - +.livefilestore.com
-    - +.1drv.com
-    - +.vfsforgit.org
-    - +.vfsforgit.com
-    - +.visualstudio.net
-    - +.visualstudio.eu
-    - +.visualstudio.co
-    - +.visualstudio.com
-    - +.visualstudio-staging.com
     - +.microsoft.be
     - +.gamepass.com
     - +.orithegame.com
@@ -360,8 +360,6 @@ payload:
     - +.xboxservices.com
     - +.xboxstudios.com
     - +.xbx.lv
-    - +.asobostudio.com
-    - +.flightsimulator.com
     - +.beth.games
     - +.bethesda.net
     - +.bethesdagamestudios.com
@@ -378,6 +376,8 @@ payload:
     - +.minecraftservices.com
     - +.minecraftshop.com
     - +.mojang.com
+    - +.asobostudio.com
+    - +.flightsimulator.com
     - +.microsoft.az
     - +.aadrm.com
     - +.azure-devices-int.net
@@ -592,9 +592,9 @@ payload:
     - +.nelreports.net
     - +.collector.github.com
     - +.copilot-telemetry.githubusercontent.com
+    - www.microsoft.com
     - +.microsoftnews.cn
     - +.msn.cn
-    - www.microsoft.com
     - +.xboxlive.cn
     - +.21vbc.com
     - +.21vbluecloud.com

@@ -1,7 +1,7 @@
 # NAME: AI
 # AUTHOR: YYDS666
-# UPDATED: 2026-01-16 02:28:04
-# TOTAL: 231
+# UPDATED: 2026-01-17 02:23:03
+# TOTAL: 233
 +.abtestvm-sg.bytedance.com
 +.abtestvm.bytedance.com
 +.ai.com
@@ -185,6 +185,8 @@ ai.google.dev
 aistudio.google.com
 alkalicore-pa.clients6.google.com
 alkalimakersuite-pa.clients6.google.com
+antigravity-unleash.goog
+antigravity.google
 api-iam.intercom.io
 api.anthropic.com
 api.elevenlabs.io

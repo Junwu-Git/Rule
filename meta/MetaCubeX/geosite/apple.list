@@ -1738,6 +1738,11 @@ weatherkit.apple.com
 www.apple.com
 www.apple.com.edgekey.net.globalredir.akadns.net
 xp.apple.com
++.advertising.apple.com
++.api-adservices.apple.com
++.iadsdk.apple.com
++.iad.apple.com
++.qwapi.com
 +.researchkit.cn
 +.researchkit.com.cn
 +.swiftui.cn
@@ -1770,8 +1775,3 @@ valid.origin-apple.com.akadns.net
 +.itunesapple.cn
 +.itunesradio.cn
 +.itunesradio.com.cn
-+.advertising.apple.com
-+.api-adservices.apple.com
-+.iadsdk.apple.com
-+.iad.apple.com
-+.qwapi.com
