@@ -1,7 +1,7 @@
 # NAME: NewsMedia
 # AUTHOR: YYDS666
-# UPDATED: 2026-01-17 02:22:56
-# TOTAL: 1399
+# UPDATED: 2026-01-18 02:20:03
+# TOTAL: 1406
 +.1degree.com.au
 +.47gyosei.jp
 +.47news.jp
@@ -672,6 +672,7 @@
 +.init.shop
 +.inmediahk.net
 +.innovations-i.com
++.inquirer.net
 +.inside.com.tw
 +.insider-intelligence.com
 +.insider.com
@@ -724,6 +725,7 @@
 +.macaodaily.com
 +.machigoto.jp
 +.macrumors.com
++.maidonanews.jp
 +.mailhealth.com
 +.mailonline.co.uk
 +.mailonline.com
@@ -910,14 +912,18 @@
 +.ntdimg.com
 +.ntdtv-dc.com
 +.ntdtv.ca
++.ntdtv.co.il
 +.ntdtv.co.kr
 +.ntdtv.com
 +.ntdtv.com.tw
++.ntdtv.fr
 +.ntdtv.jp
 +.ntdtv.kr
 +.ntdtv.org
 +.ntdtv.ru
++.ntdtv.se
 +.ntdtvla.com
++.ntdvideo.tw
 +.ntdvn.com
 +.ntnews.com.au
 +.nxtdig.com.hk
@@ -1235,6 +1241,7 @@
 +.tvnaviweb.jp
 +.twgreatnews.com
 +.twnextdigital.com
++.twreporter.org
 +.typeisbeautiful.com
 +.udn.com
 +.udn.com.tw

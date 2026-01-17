@@ -1,7 +1,7 @@
 # NAME: NewsMedia
 # AUTHOR: YYDS666
-# UPDATED: 2026-01-17 02:22:56
-# TOTAL: 1278
+# UPDATED: 2026-01-18 02:20:03
+# TOTAL: 1282
 DOMAIN,aod-pod-uk-live.akamaized.net
 DOMAIN,as-dash-uk-live.akamaized.net
 DOMAIN,as-hls-uk-live.akamaized.net
@@ -601,6 +601,7 @@ DOMAIN-SUFFIX,infowarsmedia.com
 DOMAIN-SUFFIX,init.shop
 DOMAIN-SUFFIX,inmediahk.net
 DOMAIN-SUFFIX,innovations-i.com
+DOMAIN-SUFFIX,inquirer.net
 DOMAIN-SUFFIX,inside.com.tw
 DOMAIN-SUFFIX,insider-intelligence.com
 DOMAIN-SUFFIX,insider.com
@@ -653,6 +654,7 @@ DOMAIN-SUFFIX,ltsports.com.tw
 DOMAIN-SUFFIX,macaodaily.com
 DOMAIN-SUFFIX,machigoto.jp
 DOMAIN-SUFFIX,macrumors.com
+DOMAIN-SUFFIX,maidonanews.jp
 DOMAIN-SUFFIX,mailhealth.com
 DOMAIN-SUFFIX,mailonline.co.uk
 DOMAIN-SUFFIX,mailonline.com
@@ -835,6 +837,7 @@ DOMAIN-SUFFIX,ntdca.com
 DOMAIN-SUFFIX,ntdimg.com
 DOMAIN-SUFFIX,ntdtv-dc.com
 DOMAIN-SUFFIX,ntdtvla.com
+DOMAIN-SUFFIX,ntdvideo.tw
 DOMAIN-SUFFIX,ntdvn.com
 DOMAIN-SUFFIX,ntnews.com.au
 DOMAIN-SUFFIX,nxtdig.com.hk
@@ -1129,6 +1132,7 @@ DOMAIN-SUFFIX,tvmost.com.hk
 DOMAIN-SUFFIX,tvnaviweb.jp
 DOMAIN-SUFFIX,twgreatnews.com
 DOMAIN-SUFFIX,twnextdigital.com
+DOMAIN-SUFFIX,twreporter.org
 DOMAIN-SUFFIX,typeisbeautiful.com
 DOMAIN-SUFFIX,udn.com
 DOMAIN-SUFFIX,udn.com.tw

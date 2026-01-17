@@ -1,7 +1,7 @@
 # NAME: AI
 # AUTHOR: YYDS666
-# UPDATED: 2026-01-17 02:23:03
-# TOTAL: 233
+# UPDATED: 2026-01-18 02:20:00
+# TOTAL: 242
 +.abtestvm-sg.bytedance.com
 +.abtestvm.bytedance.com
 +.ai.com
@@ -12,6 +12,8 @@
 +.aistudio.google.com
 +.algolia.net
 +.anthropic.com
++.antigravity-unleash.goog
++.antigravity.google
 +.api-sg-central.marscode.com
 +.api.marscode.com
 +.api.statsig.com
@@ -185,8 +187,10 @@ ai.google.dev
 aistudio.google.com
 alkalicore-pa.clients6.google.com
 alkalimakersuite-pa.clients6.google.com
+antigravity-pa.googleapis.com
 antigravity-unleash.goog
 antigravity.google
+antigravity.googleapis.com
 api-iam.intercom.io
 api.anthropic.com
 api.elevenlabs.io
@@ -205,11 +209,14 @@ cdn.leonardo.ai
 cdn.usefathom.com
 chat.openai.com
 chat.openai.com.cdn.cloudflare.net
+cloudaicompanion.googleapis.com
+cloudcode-pa.googleapis.com
 console.anthropic.com
 copilot.github.com
 copilot.microsoft.com
 cp4.cloudflare.com
 d3ssuo6fbvr.cloudfront.net
+daily-cloudcode-pa.googleapis.com
 default.exp-tas.com
 edgeservices.bing.com
 gateway.ai.cloudflare.com
@@ -220,6 +227,8 @@ guzzoni.apple.com
 imagine.meta.com
 makersuite.google.com
 mj.run
+notebooklm-pa.googleapis.com
+notebooklm.googleapis.com
 o33249.ingest.sentry.io
 openai-api.arkoselabs.com
 openaiapi-site.azureedge.net

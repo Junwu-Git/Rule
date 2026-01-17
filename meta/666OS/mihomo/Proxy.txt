@@ -1,7 +1,7 @@
 # NAME: Proxy
 # AUTHOR: YYDS666
-# UPDATED: 2026-01-17 02:23:02
-# TOTAL: 6352
+# UPDATED: 2026-01-18 02:19:57
+# TOTAL: 6353
 DOMAIN,0rz.tw
 DOMAIN,1-apple.com.tw
 DOMAIN,123rf.com
@@ -728,7 +728,6 @@ DOMAIN,news.nationalgeographic.com
 DOMAIN,news.sina.com.hk
 DOMAIN,news.sinchew.com.my
 DOMAIN,news.singtao.ca
-DOMAIN,news.tvbs.com.tw
 DOMAIN,news100.com.tw
 DOMAIN,newschinacomment.org
 DOMAIN,newstarnet.com
@@ -1419,6 +1418,7 @@ DOMAIN-SUFFIX,aisex.com
 DOMAIN-SUFFIX,ait.org.tw
 DOMAIN-SUFFIX,aiweiweiblog.com
 DOMAIN-SUFFIX,aka.ms
+DOMAIN-SUFFIX,akamai.tvb.com
 DOMAIN-SUFFIX,akiba-online.com
 DOMAIN-SUFFIX,akiba-web.com
 DOMAIN-SUFFIX,akinator.com
@@ -1486,8 +1486,6 @@ DOMAIN-SUFFIX,angela-merkel.de
 DOMAIN-SUFFIX,angola.org
 DOMAIN-SUFFIX,angularjs.org
 DOMAIN-SUFFIX,aniscartujo.com
-DOMAIN-SUFFIX,annas-archive.org
-DOMAIN-SUFFIX,annas-archive.se
 DOMAIN-SUFFIX,anobii.com
 DOMAIN-SUFFIX,anonfiles.com
 DOMAIN-SUFFIX,anonymitynetwork.com
@@ -2748,7 +2746,6 @@ DOMAIN-SUFFIX,foreignaffairs.com
 DOMAIN-SUFFIX,foreignpolicy.com
 DOMAIN-SUFFIX,form.new
 DOMAIN-SUFFIX,forms.new
-DOMAIN-SUFFIX,forum.tvb.com
 DOMAIN-SUFFIX,forum4hk.com
 DOMAIN-SUFFIX,forvo.com
 DOMAIN-SUFFIX,fountmedia.io
@@ -4043,6 +4040,7 @@ DOMAIN-SUFFIX,myspace.com
 DOMAIN-SUFFIX,myspacecdn.com
 DOMAIN-SUFFIX,mytalkbox.com
 DOMAIN-SUFFIX,mytizi.com
+DOMAIN-SUFFIX,mytvsuper.com
 DOMAIN-SUFFIX,mywife.cc
 DOMAIN-SUFFIX,mywww.biz
 DOMAIN-SUFFIX,myz.info
@@ -4110,6 +4108,7 @@ DOMAIN-SUFFIX,newnews.ca
 DOMAIN-SUFFIX,news.ebc.net.tw
 DOMAIN-SUFFIX,news.mt.co.kr
 DOMAIN-SUFFIX,news.seehua.com
+DOMAIN-SUFFIX,news.tvbs.com.tw
 DOMAIN-SUFFIX,news.ycombinator.com
 DOMAIN-SUFFIX,news1.kr
 DOMAIN-SUFFIX,news18.com
@@ -5501,6 +5500,7 @@ DOMAIN-SUFFIX,tuvpn.com
 DOMAIN-SUFFIX,tv.apple.com
 DOMAIN-SUFFIX,tv.com
 DOMAIN-SUFFIX,tv.jtbc.joins.com
+DOMAIN-SUFFIX,tvbanywhere.com
 DOMAIN-SUFFIX,tvboxnow.com
 DOMAIN-SUFFIX,tvmost.com.hk
 DOMAIN-SUFFIX,tvplayvideos.com
@@ -6215,6 +6215,7 @@ DOMAIN-KEYWORD,adobe
 DOMAIN-KEYWORD,airbnb
 DOMAIN-KEYWORD,airtable
 DOMAIN-KEYWORD,amazonaws
+DOMAIN-KEYWORD,annas-archive
 DOMAIN-KEYWORD,anthropic
 DOMAIN-KEYWORD,archive
 DOMAIN-KEYWORD,asana

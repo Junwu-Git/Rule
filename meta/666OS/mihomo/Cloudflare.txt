@@ -1,11 +1,13 @@
 # NAME: Cloudflare
 # AUTHOR: YYDS666
-# UPDATED: 2026-01-17 02:23:00
-# TOTAL: 928
+# UPDATED: 2026-01-18 02:20:00
+# TOTAL: 938
 DOMAIN-SUFFIX,argotunnel.com
+DOMAIN-SUFFIX,browser.run
 DOMAIN-SUFFIX,cf-china.info
 DOMAIN-SUFFIX,cf-ipfs.com
 DOMAIN-SUFFIX,cfargotunnel.com
+DOMAIN-SUFFIX,cfdata.org
 DOMAIN-SUFFIX,cfl.re
 DOMAIN-SUFFIX,cftest5.cn
 DOMAIN-SUFFIX,cftest6.cn
@@ -18,16 +20,17 @@ DOMAIN-SUFFIX,cloudflare-esni.com
 DOMAIN-SUFFIX,cloudflare-gateway.com
 DOMAIN-SUFFIX,cloudflare-ipfs.com
 DOMAIN-SUFFIX,cloudflare-quic.com
-DOMAIN-SUFFIX,cloudflare.com
-DOMAIN-SUFFIX,cloudflare.net
-DOMAIN-SUFFIX,cloudflare.tv
+DOMAIN-SUFFIX,cloudflare-terms-of-service-abuse.com
 DOMAIN-SUFFIX,cloudflareaccess.com
 DOMAIN-SUFFIX,cloudflareanycast.net
 DOMAIN-SUFFIX,cloudflareapps.com
 DOMAIN-SUFFIX,cloudflarebolt.com
+DOMAIN-SUFFIX,cloudflarebrowser.com
+DOMAIN-SUFFIX,cloudflarechallenge.com
 DOMAIN-SUFFIX,cloudflarechina.cn
 DOMAIN-SUFFIX,cloudflareclient.com
 DOMAIN-SUFFIX,cloudflarecn.net
+DOMAIN-SUFFIX,cloudflarecp.com
 DOMAIN-SUFFIX,cloudflareglobal.net
 DOMAIN-SUFFIX,cloudflareinsights-cn.com
 DOMAIN-SUFFIX,cloudflareinsights.com
@@ -38,6 +41,7 @@ DOMAIN-SUFFIX,cloudflareportal.com
 DOMAIN-SUFFIX,cloudflarepreview.com
 DOMAIN-SUFFIX,cloudflareprod.com
 DOMAIN-SUFFIX,cloudflareregistrar.com
+DOMAIN-SUFFIX,cloudflareresearch.com
 DOMAIN-SUFFIX,cloudflareresolve.com
 DOMAIN-SUFFIX,cloudflaressl.com
 DOMAIN-SUFFIX,cloudflarestaging.com
@@ -45,8 +49,11 @@ DOMAIN-SUFFIX,cloudflarestatus.com
 DOMAIN-SUFFIX,cloudflarestorage.com
 DOMAIN-SUFFIX,cloudflarestoragegw.com
 DOMAIN-SUFFIX,cloudflarestream.com
+DOMAIN-SUFFIX,cloudflaresupport.com
 DOMAIN-SUFFIX,cloudflaretest.com
 DOMAIN-SUFFIX,cloudflarewarp.com
+DOMAIN-SUFFIX,cloudflareworkers.com
+DOMAIN-SUFFIX,encryptedsni.com
 DOMAIN-SUFFIX,every1dns.net
 DOMAIN-SUFFIX,imagedelivery.net
 DOMAIN-SUFFIX,isbgpsafeyet.com
@@ -59,6 +66,7 @@ DOMAIN-SUFFIX,videodelivery.net
 DOMAIN-SUFFIX,warp.plus
 DOMAIN-SUFFIX,workers.dev
 DOMAIN-KEYWORD,cf-ns
+DOMAIN-KEYWORD,cloudflare
 IP-CIDR,1.0.0.0/24,no-resolve
 IP-CIDR,1.1.1.0/24,no-resolve
 IP-CIDR,102.132.188.0/24,no-resolve
@@ -85,6 +93,7 @@ IP-CIDR,103.22.200.0/22,no-resolve
 IP-CIDR,103.245.228.0/23,no-resolve
 IP-CIDR,103.31.4.0/22,no-resolve
 IP-CIDR,103.31.79.0/24,no-resolve
+IP-CIDR,103.79.229.0/24,no-resolve
 IP-CIDR,103.81.228.0/24,no-resolve
 IP-CIDR,104.129.164.0/22,no-resolve
 IP-CIDR,104.156.176.0/23,no-resolve
@@ -174,6 +183,7 @@ IP-CIDR,143.14.224.0/24,no-resolve
 IP-CIDR,143.14.229.0/24,no-resolve
 IP-CIDR,143.14.251.0/24,no-resolve
 IP-CIDR,143.20.247.0/24,no-resolve
+IP-CIDR,144.124.208.0/24,no-resolve
 IP-CIDR,144.124.211.0/24,no-resolve
 IP-CIDR,147.185.161.0/24,no-resolve
 IP-CIDR,147.189.42.0/23,no-resolve
@@ -214,7 +224,7 @@ IP-CIDR,154.62.129.0/24,no-resolve
 IP-CIDR,154.81.141.0/24,no-resolve
 IP-CIDR,154.83.2.0/24,no-resolve
 IP-CIDR,154.83.22.0/23,no-resolve
-IP-CIDR,154.83.30.0/24,no-resolve
+IP-CIDR,154.83.30.0/23,no-resolve
 IP-CIDR,154.84.14.0/23,no-resolve
 IP-CIDR,154.84.16.0/24,no-resolve
 IP-CIDR,154.84.18.0/24,no-resolve
@@ -449,7 +459,6 @@ IP-CIDR,23.179.248.0/24,no-resolve
 IP-CIDR,23.180.136.0/24,no-resolve
 IP-CIDR,23.227.37.0/24,no-resolve
 IP-CIDR,23.227.38.0/23,no-resolve
-IP-CIDR,23.227.48.0/23,no-resolve
 IP-CIDR,23.227.60.0/24,no-resolve
 IP-CIDR,23.247.163.0/24,no-resolve
 IP-CIDR,25.129.196.0/22,no-resolve
@@ -498,10 +507,10 @@ IP-CIDR,49.238.236.0/22,no-resolve
 IP-CIDR,5.10.214.0/23,no-resolve
 IP-CIDR,5.10.244.0/22,no-resolve
 IP-CIDR,5.175.141.0/24,no-resolve
-IP-CIDR,5.182.84.0/23,no-resolve
 IP-CIDR,5.226.179.0/24,no-resolve
 IP-CIDR,5.226.181.0/24,no-resolve
 IP-CIDR,5.226.183.0/24,no-resolve
+IP-CIDR,61.245.108.0/24,no-resolve
 IP-CIDR,61.32.240.0/24,no-resolve
 IP-CIDR,62.146.255.0/24,no-resolve
 IP-CIDR,62.169.155.0/24,no-resolve
@@ -520,6 +529,7 @@ IP-CIDR,66.71.220.0/24,no-resolve
 IP-CIDR,66.81.247.0/24,no-resolve
 IP-CIDR,66.81.255.0/24,no-resolve
 IP-CIDR,66.84.82.0/24,no-resolve
+IP-CIDR,66.92.62.0/24,no-resolve
 IP-CIDR,66.93.178.0/24,no-resolve
 IP-CIDR,66.94.32.0/20,no-resolve
 IP-CIDR,68.169.48.0/20,no-resolve

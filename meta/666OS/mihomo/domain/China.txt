@@ -1,7 +1,7 @@
 # NAME: China
 # AUTHOR: YYDS666
-# UPDATED: 2026-01-17 02:22:59
-# TOTAL: 6150
+# UPDATED: 2026-01-18 02:20:02
+# TOTAL: 6176
 +.00cdn.com
 +.0123456789.com
 +.0379home.com
@@ -190,6 +190,7 @@
 +.4399biule.com
 +.4399dmw.com
 +.4399er.com
++.4399hdhh.com
 +.4399hhh.com
 +.4399inc.com
 +.4399mail.com
@@ -264,6 +265,7 @@
 +.5ifund.com
 +.5khouse.com
 +.5read.com
++.5wyxi.com
 +.5you.com
 +.6-u.com
 +.61.com
@@ -340,6 +342,7 @@
 +.aardio.com
 +.abc-ca.com
 +.abchina.com
++.abdf002.com
 +.abhouses.com
 +.aboutamazon.cn
 +.ac.fun
@@ -499,6 +502,7 @@
 +.allawntech.com
 +.alloyteam.com
 +.allyes.com
++.alookweb.com
 +.aloys233.top
 +.alphabet.com.cn
 +.alphabet.net.cn
@@ -539,6 +543,7 @@
 +.anfensi.com
 +.anfutong.cn
 +.anfutong.com.cn
++.anhuinews.com
 +.animetamashi.com
 +.anitama.net
 +.anjuke.com
@@ -925,6 +930,7 @@
 +.bthhotels.com
 +.btime.com
 +.build9s.io
++.buke999.com
 +.burningvocabulary.com
 +.bvfcdn.com
 +.bx0byte.com
@@ -1395,6 +1401,7 @@
 +.cmf.biz
 +.cmf.ltd
 +.cmfchina.com
++.cmicapm.com
 +.cmpassport.com
 +.cmread.com
 +.cn
@@ -1565,6 +1572,7 @@
 +.dcdapp.com
 +.dcdkjx.com
 +.dcg.microsoft.com
++.dcloud.io
 +.dcloudlive.com
 +.dcloudlive.net
 +.dcloudsp.com
@@ -1747,6 +1755,7 @@
 +.duba.com
 +.duba.net
 +.dui.ai
++.dui88.com
 +.duiopen.com
 +.duitang.com
 +.duoduocdn.com
@@ -1761,6 +1770,7 @@
 +.duowan.com
 +.durex.com.cn
 +.durexchina.com.cn
++.dutenews.com
 +.dutils.com
 +.duxiaoman-int.com
 +.duxiaoman.com
@@ -2298,6 +2308,7 @@
 +.hao123img.com
 +.hao222.com
 +.haofenshu.com
++.haohaowan.net
 +.haokan.com
 +.haolietou.com
 +.haoso.com
@@ -2352,6 +2363,7 @@
 +.hf-aw.com
 +.hftfund.com
 +.hhtravel.com
++.hiaiabc.com
 +.hiascend.cn
 +.hiascend.com
 +.hichina.com
@@ -3143,6 +3155,7 @@
 +.lawyee.org
 +.lazada.com
 +.lazycat.cloud
++.lbtp.com
 +.lckfb.com
 +.lczq.com
 +.ld246.com
@@ -3152,6 +3165,7 @@
 +.leangoo.com
 +.leanote.com
 +.leautolink.com
++.lebo.top
 +.lecloud.com
 +.lecloudapi.com
 +.ledu.com
@@ -3299,6 +3313,7 @@
 +.mahjongcup.com
 +.mahjongcup.net
 +.mail4399.com
++.maindown4399.com
 +.maisanqi.com
 +.maitix.com
 +.maixhub.com
@@ -3456,6 +3471,7 @@
 +.mob.com
 +.mobileinternational.com.cn
 +.mobmore.com
++.mobsdks.com
 +.modelarts-infer.com
 +.modelarts-maas.com
 +.moegirl.org
@@ -3528,6 +3544,7 @@
 +.mydown.com
 +.mydrivers.com
 +.myelasticsearch.com
++.mygolbs.com
 +.myhuaweicloud-custom.com
 +.myhuaweicloud-koodrive.com
 +.myhuaweicloud-obs.com
@@ -4151,6 +4168,7 @@
 +.shopss.com
 +.shoujihuifu.com
 +.shouqianba.com
++.shoutanjjj.com
 +.shouyoubus.com
 +.shrbank.com
 +.shssp.org
@@ -4325,6 +4343,8 @@
 +.szfw.org
 +.szhk.com
 +.szlcsc.com
++.sznews.com
++.szpgm.com
 +.szzfgjj.com
 +.t00ls.cc
 +.t00ls.net
@@ -4865,6 +4885,7 @@
 +.volcfcdnsc.com
 +.volcfxgjrtm.com
 +.volcgroup.com
++.volcgslb-mlt.com
 +.volcgslb.com
 +.volcgtm.com
 +.volciad.com
@@ -5069,6 +5090,7 @@
 +.x315.com
 +.xa-bank.com
 +.xafc.com
++.xbext.com
 +.xbiao.com
 +.xboxlive.cn
 +.xcsc.com
@@ -5307,6 +5329,7 @@
 +.yizhitou.com
 +.yjbys.com
 +.ykimg.com
++.yksdks.com
 +.ykzq.com
 +.yl-scm.com
 +.ylike.net
@@ -5335,6 +5358,7 @@
 +.youxila.com
 +.youxiniao.com
 +.youxiputao.com
++.youxituoluo.com
 +.youyierp.com
 +.youyitms.com
 +.youyiwms.com
@@ -5411,7 +5435,9 @@
 +.yxbao.com
 +.yxdmgame.com
 +.yxdown.com
++.yxhapi.com
 +.yxhhdl.com
++.yxhimg.com
 +.yximgs.com
 +.yxwsgame.com
 +.yy.com

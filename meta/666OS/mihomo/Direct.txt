@@ -1,6 +1,6 @@
 # NAME: Direct
 # AUTHOR: YYDS666
-# UPDATED: 2026-01-17 02:22:59
+# UPDATED: 2026-01-18 02:19:56
 # TOTAL: 35
 DOMAIN,captive.apple.com
 DOMAIN,connect.qq.com

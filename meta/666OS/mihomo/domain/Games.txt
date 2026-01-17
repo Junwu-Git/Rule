@@ -1,7 +1,7 @@
 # NAME: Games
 # AUTHOR: YYDS666
-# UPDATED: 2026-01-17 02:22:55
-# TOTAL: 921
+# UPDATED: 2026-01-18 02:19:58
+# TOTAL: 938
 +.100classicbooks.com
 +.17roco.com
 +.2k.com
@@ -27,6 +27,7 @@
 +.4399biule.com
 +.4399dmw.com
 +.4399er.com
++.4399hdhh.com
 +.4399hhh.com
 +.4399inc.com
 +.4399mail.com
@@ -40,11 +41,13 @@
 +.4399yyy.com
 +.5054399.com
 +.5054399.net
++.5wyxi.com
 +.71acg.com
 +.71acg.net
 +.7k7k.com
 +.9game.cn
 +.9xgame.com
++.abdf002.com
 +.ac-pocketcamp.com
 +.aki-game.com
 +.amiibo.com
@@ -103,6 +106,7 @@
 +.brawlstars.cn
 +.brawlstars.com
 +.brawlstarsgame.com
++.buke999.com
 +.bx1k.com
 +.callersbane.com
 +.camelot-europe.com
@@ -144,6 +148,7 @@
 +.dicela.com
 +.dicela.net
 +.diddykongracing.com
++.dinopoloclub.com
 +.dkr.com
 +.dl.steam.clngaa.com
 +.dobest.com
@@ -270,6 +275,7 @@
 +.gtgres.com
 +.guoping123.com
 +.hackyourconsole.com
++.haohaowan.net
 +.happyhlddz.com
 +.hayday.com
 +.haydaygame.com
@@ -358,6 +364,7 @@
 +.mahjongcup.com
 +.mahjongcup.net
 +.mail4399.com
++.maindown4399.com
 +.marioandluigidreamteam.com
 +.mariobroswii.com
 +.mariokart.cn
@@ -394,6 +401,7 @@
 +.mirrorsedge2d.com
 +.miyoushe.com
 +.mo.co
++.mobimon.com.tw
 +.modrinth.com
 +.mojang.com
 +.molesports.com
@@ -480,6 +488,7 @@
 +.nintendoswitch.net
 +.nintendoswitchtogether.com
 +.nintendowii.com
++.noxygames.com
 +.nzsiteres.com
 +.offworldindustries.com
 +.offworldindustries.net
@@ -491,6 +500,7 @@
 +.papermc.io
 +.paragon.com
 +.personaltrainermath.com
++.phira.cn
 +.pinkcore.com
 +.pinkcore.net
 +.planetminecraft.com
@@ -552,6 +562,8 @@
 +.quixel.com
 +.quixel.se
 +.radgametools.com
++.rayark.download
++.rayark.net
 +.rblx.co
 +.rblx.com
 +.rblx.org
@@ -633,6 +645,8 @@
 +.sekai.colorfulpalette.org
 +.shadowcomplex.com
 +.shyxhy.com
++.sih-db.com
++.sih.app
 +.simcity-buildit.com
 +.simcity.com
 +.skate2.com
@@ -679,6 +693,7 @@
 +.steamdb.info
 +.steamdeck.com
 +.steamgames.com
++.steaminventoryhelper.com
 +.steampowered.com
 +.steampowered.com.8686c.com
 +.steamserver.net
@@ -843,7 +858,9 @@
 +.youba.com
 +.yuanshen.com
 +.yxdmgame.com
++.yxhapi.com
 +.yxhhdl.com
++.yxhimg.com
 +.yximg.cn
 +.yxwsgame.com
 +.yzyxgame.com
