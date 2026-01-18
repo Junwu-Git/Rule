@@ -1,6 +1,6 @@
 # NAME: Emby
 # AUTHOR: YYDS666
-# UPDATED: 2026-01-18 02:20:01
+# UPDATED: 2026-01-19 02:19:57
 # TOTAL: 202
 DOMAIN,api.trakt.tv
 DOMAIN,auroramedia.vip
