@@ -1,7 +1,7 @@
 # NAME: Proxy
 # AUTHOR: YYDS666
-# UPDATED: 2026-01-20 02:23:09
-# TOTAL: 6353
+# UPDATED: 2026-01-21 02:27:03
+# TOTAL: 6355
 DOMAIN,0rz.tw
 DOMAIN,1-apple.com.tw
 DOMAIN,123rf.com
@@ -5847,6 +5847,7 @@ DOMAIN-SUFFIX,weebly.com
 DOMAIN-SUFFIX,wefightcensorship.org
 DOMAIN-SUFFIX,wefong.com
 DOMAIN-SUFFIX,wego.here.com
+DOMAIN-SUFFIX,weights.com
 DOMAIN-SUFFIX,weihuo.org
 DOMAIN-SUFFIX,weijingsheng.org
 DOMAIN-SUFFIX,weiming.info
@@ -6107,6 +6108,7 @@ DOMAIN-SUFFIX,you.com
 DOMAIN-SUFFIX,youdontcare.com
 DOMAIN-SUFFIX,youjizz.com
 DOMAIN-SUFFIX,youmaker.com
+DOMAIN-SUFFIX,youmind.com
 DOMAIN-SUFFIX,youngpornvideos.com
 DOMAIN-SUFFIX,youpai.org
 DOMAIN-SUFFIX,youporn.com
