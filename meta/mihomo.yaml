@@ -50,6 +50,7 @@ keep-alive-interval: 15
 
 # 用户验证
 authentication:
+# 密码自行修改
   - "mihomo:59OpHVdZx2GqVEbiosWx"
 skip-auth-prefixes:
   - 192.168.1.0/24
@@ -72,12 +73,16 @@ external-ui-url: https://github.com/Zephyruso/zashboard/releases/latest/download
 external-ui-name: zashboard
 external-ui: ui
 external-controller: 0.0.0.0:9090
+# 密码自行修改
 secret: "59OpHVdZx2GqVEbiosWx"
 
 # API CORS 标头配置
 external-controller-cors:
   allow-origins:
-    - http://192.168.36.1:9095
+    # 自行添加/修改为本地局域网
+    - http://192.168.36.1:9090
+    - http://192.168.0.1:9090
+    - http://192.168.1.1:9090
     - http://localhost:9090
     - http://127.0.0.1:9090
   allow-private-network: true
@@ -96,19 +101,17 @@ geox-url:
 # 流量嗅探
 sniffer:
   enable: true
-  override-destination: false
-  force-dns-mapping: true
-  parse-pure-ip: true
   sniff:
     HTTP:
       ports: [80, 8080-8880]
-      override-destination: false
+      override-destination: true
     TLS:
+      ports: [443, 8443]
+    QUIC:
       ports: [443, 8443]
   skip-domain:
     - "Mijia Cloud"
     - "+.push.apple.com"
-    - "+.apple.com"
 
 # TUN模式定义
 tun:
@@ -125,16 +128,12 @@ tun:
 dns:
   enable: true
   ipv6: true
-  respect-rules: true
   enhanced-mode: fake-ip
   fake-ip-range: 198.18.0.1/16
   default-nameserver:
-    - 119.29.29.29
-    - 180.184.1.1
-    - 223.5.5.5
-  proxy-server-nameserver:
-    - https://dns.alidns.com/dns-query
-    - https://doh.pub/dns-query
+    - tls://119.29.29.29
+    - tls://223.5.5.5
+    - tls://180.184.1.1
   nameserver:
     - https://dns.alidns.com/dns-query
     - https://doh.pub/dns-query
@@ -144,7 +143,7 @@ dns:
     - rule-set:cn_domain
     - rule-set:private_domain
     - rule-set:connectivity-check
-    - "*.beijixingxing.com"
+    # 特殊协议与服务 
     - "+.m2m"
     - "+.$injections.adguard.org"
     - "+.$local.adguard.org"
@@ -182,7 +181,7 @@ proxy-groups:
 
   - name: 故障转移
     <<: *FallBack
-    proxies: [新加坡,香港,台湾,日本,韩国,美国,全部节点,直连]
+    proxies: [香港,新加坡,台湾,日本,韩国,美国,全部节点,直连]
     icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/ULB.png
 
   - name: AI助手
@@ -401,6 +400,11 @@ rule-providers:
     url: "https://raw.githubusercontent.com/Junwu-Git/Rule/refs/heads/main/Reject_rules.list" 
     path: ./rulesets/reject_rules.list  
 
+  emby_rules:
+    <<: *ClassicalText
+    url: "https://raw.githubusercontent.com/Junwu-Git/Rule/refs/heads/main/emby_rules.list" 
+    path: ./rulesets/emby_rules.list  
+
   proxy_rules:
     <<: *ClassicalText
     url: "https://raw.githubusercontent.com/Junwu-Git/Rule/refs/heads/main/Proxy_rules.list" 
@@ -581,16 +585,17 @@ rule-providers:
 # 规则
 rules:
   # 防御类
+  - AND,((DST-PORT,443),(NETWORK,UDP),(NOT,((GEOIP,CN)))),REJECT  # 阻止海外 QUIC
   - RULE-SET,category-public-tracker,REJECT-DROP
   # - IP-CIDR,95.161.76.100/31,REJECT-DROP,no-resolve
-  # - AND,((DST-PORT,443),(NETWORK,UDP)),REJECT-DROP
   
   # 私有/修正类
   - RULE-SET,fix-direct,直连
-  - RULE-SET,xptv,直连
+  # - RULE-SET,xptv,直连
 
   # ✅ 自定义规则（提前）
   - RULE-SET,reject_rules,REJECT-DROP
+  - RULE-SET,emby_rules,Emby
   - RULE-SET,proxy_rules,国外网络
   - RULE-SET,direct_rules,国内网络
 
@@ -632,4 +637,4 @@ rules:
   - RULE-SET,cn_ip,国内网络
 
   # 兜底规则
-  - MATCH,漏网之鱼     
+  - MATCH,漏网之鱼
