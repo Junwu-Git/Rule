@@ -1,7 +1,7 @@
 # NAME: Crypto
 # AUTHOR: YYDS666
-# UPDATED: 2026-01-24 02:24:37
-# TOTAL: 432
+# UPDATED: 2026-01-25 02:21:26
+# TOTAL: 434
 +.1inch.io
 +.aave.com
 +.account-paypal.info
@@ -38,6 +38,7 @@
 +.binance.vision
 +.binanceapi.com
 +.binancecnt.com
++.binanceru.net
 +.binancezh.be
 +.binancezh.biz
 +.binancezh.cc
@@ -183,6 +184,7 @@
 +.okx-dns.com
 +.okx-dns1.com
 +.okx-dns2.com
++.okx.cab
 +.okx.com
 +.okx.com.cdn.cloudflare.net
 +.onekey-asset.com

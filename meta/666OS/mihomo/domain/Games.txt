@@ -1,7 +1,7 @@
 # NAME: Games
 # AUTHOR: YYDS666
-# UPDATED: 2026-01-24 02:24:38
-# TOTAL: 938
+# UPDATED: 2026-01-25 02:21:30
+# TOTAL: 933
 +.100classicbooks.com
 +.17roco.com
 +.2k.com
@@ -56,6 +56,7 @@
 +.anticheatexpert.com
 +.apexlegends.com
 +.appeeres.com
++.arcaea.cn
 +.arcraiders.com
 +.artstation.com
 +.asobostudio.com
@@ -199,6 +200,8 @@
 +.electronicarts.fr
 +.embark-studios.com
 +.embark.games
++.eneba.com
++.eneba.games
 +.epicgames.com
 +.epicgames.dev
 +.epicgamescdn.com
@@ -317,6 +320,7 @@
 +.juequling.com
 +.kirbysepicyarn.com
 +.kirbysuperstarultra.com
++.kraftonde.com
 +.kurogames.com
 +.kyurem.com
 +.labycore.cn
@@ -508,6 +512,7 @@
 +.play4free.com
 +.playapex.com
 +.playartifact.com
++.playbattlegrounds.com
 +.playhearthstone.com
 +.playnintendo.com
 +.playoverwatch.com
@@ -548,6 +553,7 @@
 +.projectapex.com
 +.protondb.com
 +.proximabeta.com
++.pubg.com
 +.pubghelper.com
 +.pubgno1.cn
 +.pubgtool.com
@@ -592,7 +598,6 @@
 +.riotpoints.com
 +.rmwxgame.com
 +.ro-blox.com
-+.ro.com
 +.roadblocks.com
 +.roblocks.com
 +.roblox-api.arkoselabs.com
@@ -726,13 +731,6 @@
 +.swtor.net
 +.syxlgame.com
 +.take2games.com
-+.tapapks.com
-+.tapimg.com
-+.tapimg.net
-+.taptap.cn
-+.taptap.com
-+.taptap.io
-+.taptapdada.com
 +.tarkov.com
 +.tcfmglobal.com
 +.teamneedforspeed.com
@@ -838,13 +836,9 @@
 +.xboxservices.com
 +.xboxstudios.com
 +.xbx.lv
-+.xd.cn
-+.xd.com
-+.xdcdn.net
 +.xdsummit.com
 +.xenoblade.com
 +.xhlsgs.com
-+.xindong.com
 +.xinwuji.com
 +.xn--mts47c3w9b1qr.cn
 +.xn--mts47c3w9b1qr.net
@@ -911,6 +905,7 @@ osu.ppy.sh
 prd-priconne-redive.akamaized.net
 prodforza.blob.core.windows.net
 productcard.gog-statics.com
+pubg1.battleye.com
 roblox-load-generator-configuration.s3.us-east-2.amazonaws.com
 roblox-poc.global.ssl.fastly.net
 robloxcorp.s.llnwi.net

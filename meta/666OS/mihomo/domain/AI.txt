@@ -1,7 +1,7 @@
 # NAME: AI
 # AUTHOR: YYDS666
-# UPDATED: 2026-01-24 02:24:38
-# TOTAL: 242
+# UPDATED: 2026-01-25 02:21:25
+# TOTAL: 247
 +.abtestvm-sg.bytedance.com
 +.abtestvm.bytedance.com
 +.ai.com
@@ -114,6 +114,8 @@
 +.lf-cdn.marscode.com
 +.lf-rc1.yhgfb-static.com
 +.livekit.cloud
++.liveperson.net
++.lpsnmedia.net
 +.makersuite.google.com
 +.maliva-mcs.byteoversea.com
 +.marscode.com
@@ -182,6 +184,9 @@
 +.vcs-sg.byteoversea.com
 +.vmweb-va.ciciai.com
 +.x.ai
++.youmind.ai
++.youmind.com
++.youmind.site
 +.zijieapi.com
 ai.google.dev
 aistudio.google.com

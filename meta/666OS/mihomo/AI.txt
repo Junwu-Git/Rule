@@ -1,7 +1,7 @@
 # NAME: AI
 # AUTHOR: YYDS666
-# UPDATED: 2026-01-24 02:24:38
-# TOTAL: 264
+# UPDATED: 2026-01-25 02:21:25
+# TOTAL: 269
 DOMAIN,ai.google.dev
 DOMAIN,aistudio.google.com
 DOMAIN,alkalicore-pa.clients6.google.com
@@ -175,6 +175,8 @@ DOMAIN-SUFFIX,leonardo.ai
 DOMAIN-SUFFIX,lf-cdn.marscode.com
 DOMAIN-SUFFIX,lf-rc1.yhgfb-static.com
 DOMAIN-SUFFIX,livekit.cloud
+DOMAIN-SUFFIX,liveperson.net
+DOMAIN-SUFFIX,lpsnmedia.net
 DOMAIN-SUFFIX,makersuite.google.com
 DOMAIN-SUFFIX,maliva-mcs.byteoversea.com
 DOMAIN-SUFFIX,marscode.com
@@ -243,6 +245,9 @@ DOMAIN-SUFFIX,ulikecam.com
 DOMAIN-SUFFIX,vcs-sg.byteoversea.com
 DOMAIN-SUFFIX,vmweb-va.ciciai.com
 DOMAIN-SUFFIX,x.ai
+DOMAIN-SUFFIX,youmind.ai
+DOMAIN-SUFFIX,youmind.com
+DOMAIN-SUFFIX,youmind.site
 DOMAIN-SUFFIX,zijieapi.com
 DOMAIN-KEYWORD,byteoversea
 DOMAIN-KEYWORD,ciciai

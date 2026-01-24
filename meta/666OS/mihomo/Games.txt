@@ -1,7 +1,7 @@
 # NAME: Games
 # AUTHOR: YYDS666
-# UPDATED: 2026-01-24 02:24:38
-# TOTAL: 845
+# UPDATED: 2026-01-25 02:21:30
+# TOTAL: 840
 DOMAIN,a.ppy.sh
 DOMAIN,a4e8s8k3.map2.ssl.hwcdn.net
 DOMAIN,alibaba.cdn.steampipe.steamcontent.com
@@ -45,6 +45,7 @@ DOMAIN,osu.ppy.sh
 DOMAIN,prd-priconne-redive.akamaized.net
 DOMAIN,prodforza.blob.core.windows.net
 DOMAIN,productcard.gog-statics.com
+DOMAIN,pubg1.battleye.com
 DOMAIN,roblox-load-generator-configuration.s3.us-east-2.amazonaws.com
 DOMAIN,roblox-poc.global.ssl.fastly.net
 DOMAIN,robloxcorp.s.llnwi.net
@@ -128,6 +129,7 @@ DOMAIN-SUFFIX,anthemthegame.com
 DOMAIN-SUFFIX,anticheatexpert.com
 DOMAIN-SUFFIX,apexlegends.com
 DOMAIN-SUFFIX,appeeres.com
+DOMAIN-SUFFIX,arcaea.cn
 DOMAIN-SUFFIX,arcraiders.com
 DOMAIN-SUFFIX,artstation.com
 DOMAIN-SUFFIX,asobostudio.com
@@ -271,6 +273,8 @@ DOMAIN-SUFFIX,electronicarts.com
 DOMAIN-SUFFIX,electronicarts.fr
 DOMAIN-SUFFIX,embark-studios.com
 DOMAIN-SUFFIX,embark.games
+DOMAIN-SUFFIX,eneba.com
+DOMAIN-SUFFIX,eneba.games
 DOMAIN-SUFFIX,epicgames.com
 DOMAIN-SUFFIX,epicgames.dev
 DOMAIN-SUFFIX,epicgamescdn.com
@@ -375,6 +379,7 @@ DOMAIN-SUFFIX,joyjoy.net
 DOMAIN-SUFFIX,juequling.com
 DOMAIN-SUFFIX,kirbysepicyarn.com
 DOMAIN-SUFFIX,kirbysuperstarultra.com
+DOMAIN-SUFFIX,kraftonde.com
 DOMAIN-SUFFIX,kurogames.com
 DOMAIN-SUFFIX,kyurem.com
 DOMAIN-SUFFIX,labycore.cn
@@ -530,6 +535,7 @@ DOMAIN-SUFFIX,plantsvszombies2.com
 DOMAIN-SUFFIX,play4free.com
 DOMAIN-SUFFIX,playapex.com
 DOMAIN-SUFFIX,playartifact.com
+DOMAIN-SUFFIX,playbattlegrounds.com
 DOMAIN-SUFFIX,playhearthstone.com
 DOMAIN-SUFFIX,playnintendo.com
 DOMAIN-SUFFIX,playoverwatch.com
@@ -570,6 +576,7 @@ DOMAIN-SUFFIX,prismlauncher.org
 DOMAIN-SUFFIX,projectapex.com
 DOMAIN-SUFFIX,protondb.com
 DOMAIN-SUFFIX,proximabeta.com
+DOMAIN-SUFFIX,pubg.com
 DOMAIN-SUFFIX,pubghelper.com
 DOMAIN-SUFFIX,pubgno1.cn
 DOMAIN-SUFFIX,pubgtool.com
@@ -608,7 +615,6 @@ DOMAIN-SUFFIX,riotpin.com
 DOMAIN-SUFFIX,riotpoints.com
 DOMAIN-SUFFIX,rmwxgame.com
 DOMAIN-SUFFIX,ro-blox.com
-DOMAIN-SUFFIX,ro.com
 DOMAIN-SUFFIX,roadblocks.com
 DOMAIN-SUFFIX,roblocks.com
 DOMAIN-SUFFIX,roblox-api.arkoselabs.com
@@ -707,13 +713,6 @@ DOMAIN-SUFFIX,swtor.com
 DOMAIN-SUFFIX,swtor.net
 DOMAIN-SUFFIX,syxlgame.com
 DOMAIN-SUFFIX,take2games.com
-DOMAIN-SUFFIX,tapapks.com
-DOMAIN-SUFFIX,tapimg.com
-DOMAIN-SUFFIX,tapimg.net
-DOMAIN-SUFFIX,taptap.cn
-DOMAIN-SUFFIX,taptap.com
-DOMAIN-SUFFIX,taptap.io
-DOMAIN-SUFFIX,taptapdada.com
 DOMAIN-SUFFIX,tarkov.com
 DOMAIN-SUFFIX,tcfmglobal.com
 DOMAIN-SUFFIX,teamneedforspeed.com
@@ -806,13 +805,9 @@ DOMAIN-SUFFIX,xboxplayanywhere.com
 DOMAIN-SUFFIX,xboxservices.com
 DOMAIN-SUFFIX,xboxstudios.com
 DOMAIN-SUFFIX,xbx.lv
-DOMAIN-SUFFIX,xd.cn
-DOMAIN-SUFFIX,xd.com
-DOMAIN-SUFFIX,xdcdn.net
 DOMAIN-SUFFIX,xdsummit.com
 DOMAIN-SUFFIX,xenoblade.com
 DOMAIN-SUFFIX,xhlsgs.com
-DOMAIN-SUFFIX,xindong.com
 DOMAIN-SUFFIX,xinwuji.com
 DOMAIN-SUFFIX,xn--mts47c3w9b1qr.cn
 DOMAIN-SUFFIX,xn--mts47c3w9b1qr.net
