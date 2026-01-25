@@ -1,6 +1,6 @@
 # NAME: TikTok
 # AUTHOR: YYDS666
-# UPDATED: 2026-01-25 02:21:31
+# UPDATED: 2026-01-26 02:21:17
 # TOTAL: 31
 DOMAIN,p16-tiktokcdn-com.akamaized.net
 DOMAIN,roovza-launches.appsflyersdk.com
