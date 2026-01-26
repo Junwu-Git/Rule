@@ -1,9 +1,7 @@
 # NAME: AI
 # AUTHOR: YYDS666
-# UPDATED: 2026-01-26 02:21:12
-# TOTAL: 247
-+.abtestvm-sg.bytedance.com
-+.abtestvm.bytedance.com
+# UPDATED: 2026-01-27 02:26:16
+# TOTAL: 205
 +.ai.com
 +.ai.studio
 +.aida.googleapis.com
@@ -14,8 +12,6 @@
 +.anthropic.com
 +.antigravity-unleash.goog
 +.antigravity.google
-+.api-sg-central.marscode.com
-+.api.marscode.com
 +.api.statsig.com
 +.api2d.com
 +.apis.google.com
@@ -23,12 +19,6 @@
 +.apps.mzstatic.com
 +.auth0.com
 +.bard.google.com
-+.bytedapm.com
-+.bytednsdoc.com
-+.byteintl.net
-+.byteoversea.com
-+.capcut.com
-+.capcutapi.com
 +.cerebras.ai
 +.character.ai
 +.chat.com
@@ -68,8 +58,6 @@
 +.diabrowser.engineering
 +.diffusionbee.com
 +.dify.ai
-+.discord.com
-+.discord.gg
 +.dola.com
 +.duck.ai
 +.elevenlabs.com
@@ -94,13 +82,10 @@
 +.hf.space
 +.host.livekit.cloud
 +.huggingface.co
-+.ibytedtos.com
-+.ibyteimg.com
 +.identrust.com
++.immersivetranslate.com
 +.intercom.io
 +.intercomcdn.com
-+.ipstatp.com
-+.itobsnssdk.com
 +.jasper.ai
 +.jules.google
 +.jules.google.com
@@ -108,28 +93,16 @@
 +.labs.google
 +.labs.google.com
 +.launchdarkly.com
-+.lemon8-app.com
-+.lemon8cdn.com
 +.leonardo.ai
-+.lf-cdn.marscode.com
-+.lf-rc1.yhgfb-static.com
 +.livekit.cloud
 +.liveperson.net
 +.lpsnmedia.net
 +.makersuite.google.com
-+.maliva-mcs.byteoversea.com
 +.marscode.com
-+.mchost.guru
-+.mcs-va.ciciai.com
-+.mcs.zijieapi.com
 +.meta.ai
 +.microsoft-copilot.com
 +.midjourney.com
 +.mistral.ai
-+.mon-va.byteoversea.com
-+.mon.zijieapi.com
-+.muscdn.com
-+.musical.ly
 +.notebooklm.google
 +.notebooklm.google.com
 +.oaifree.com
@@ -145,7 +118,6 @@
 +.openart.ai
 +.openrouter.ai
 +.oystermercury.top
-+.pangle.io
 +.pawan.krd
 +.perplexity.ai
 +.perplexity.com
@@ -160,34 +132,20 @@
 +.runwayml.com
 +.segment.io
 +.sentry.io
-+.sf16-tcc-tos-sg.byteoversea.com
-+.sgali-mcs.byteoversea.com
 +.smoot.apple.com
-+.snapkit.com
 +.sora.com
 +.sourcegraph.com
 +.stability.ai
 +.stablediffusionweb.com
-+.starling-oversea.byteoversea.com
 +.stripe.com
 +.synthesia.io
 +.tabnine.com
-+.tik-tokapi.com
-+.tiktok.com
-+.tiktokcdn-us.com
-+.tiktokcdn.com
-+.tiktokv.com
 +.trae.ai
-+.ttwstatic.com
 +.turn.livekit.cloud
-+.ulikecam.com
-+.vcs-sg.byteoversea.com
-+.vmweb-va.ciciai.com
 +.x.ai
 +.youmind.ai
 +.youmind.com
 +.youmind.site
-+.zijieapi.com
 ai.google.dev
 aistudio.google.com
 alkalicore-pa.clients6.google.com
