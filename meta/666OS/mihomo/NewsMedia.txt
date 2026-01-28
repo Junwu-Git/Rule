@@ -1,31 +1,7 @@
 # NAME: NewsMedia
 # AUTHOR: YYDS666
-# UPDATED: 2026-01-28 02:29:28
-# TOTAL: 1282
-DOMAIN,aod-pod-uk-live.akamaized.net
-DOMAIN,as-dash-uk-live.akamaized.net
-DOMAIN,as-hls-uk-live.akamaized.net
-DOMAIN,asahishimbun.sc.omtrdc.net
-DOMAIN,cbsi.live.ott.irdeto.com
-DOMAIN,cbsplaylistserver.aws.syncbak.com
-DOMAIN,cbsservice.aws.syncbak.com
-DOMAIN,deutschewelle.h-cdn.com
-DOMAIN,foxnewsplayer-a.akamaihd.net
-DOMAIN,himalaya-exchange.zendesk.com
-DOMAIN,link.theplatform.com
-DOMAIN,ve-dash-uk-live.akamaized.net
-DOMAIN,ve-uhd-push-uk-live.akamaized.net
-DOMAIN,vod-dash-uk-live.akamaized.net
-DOMAIN,vod-dash-ww-live.akamaized.net
-DOMAIN,vod-hls-uk-live.akamaized.net
-DOMAIN,vod-sub-uk-live.akamaized.net
-DOMAIN,vod-thumb-uk-live.akamaized.net
-DOMAIN,vod-thumb-ww-live.akamaized.net
-DOMAIN,vs-cmaf-push-uk-live.akamaized.net
-DOMAIN,vs-cmaf-pushb-ww-live.akamaized.net
-DOMAIN,vs-hls-push-uk-live.akamaized.net
-DOMAIN,vs-hls-pushb-uk-live.akamaized.net
-DOMAIN,zeenews-fonts.s3.amazonaws.com
+# UPDATED: 2026-01-28 12:01:32
+# TOTAL: 1258
 DOMAIN-SUFFIX,1degree.com.au
 DOMAIN-SUFFIX,47gyosei.jp
 DOMAIN-SUFFIX,47news.jp

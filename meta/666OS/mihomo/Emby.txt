@@ -1,46 +1,7 @@
 # NAME: Emby
 # AUTHOR: YYDS666
-# UPDATED: 2026-01-28 02:29:34
-# TOTAL: 202
-DOMAIN,api.trakt.tv
-DOMAIN,auroramedia.vip
-DOMAIN,cc.coemn.com
-DOMAIN,cdn1.nebula-media.org
-DOMAIN,cf-cdn1.nebula-media.org
-DOMAIN,cf.sfcj.org
-DOMAIN,cminf.sfcat.link
-DOMAIN,cuinf.sfcat.link
-DOMAIN,emby-cdn1.nebula-media.org
-DOMAIN,emby.jingzhe.pro
-DOMAIN,emby.my
-DOMAIN,emby.nebula-media.org
-DOMAIN,emby.revival.baby
-DOMAIN,emby.yomo.lol
-DOMAIN,favoritewife.com
-DOMAIN,global.uhdnow.com
-DOMAIN,jg.sfcj.org
-DOMAIN,ju.sfcj.org
-DOMAIN,notnetflix.cos.cat
-DOMAIN,onatoshi.114514.quest
-DOMAIN,pub1.emby.wtf
-DOMAIN,pub2.emby.wtf
-DOMAIN,pub3.emby.wtf
-DOMAIN,qdz-de.vfing.de
-DOMAIN,qdz-hk-0.vfing.de
-DOMAIN,qdz-hk-1.vfing.de
-DOMAIN,qdz-hk-2.vfing.de
-DOMAIN,qdz-hk-hol.vfing.de
-DOMAIN,qdz-sg.vfing.de
-DOMAIN,qdzcdn.vfing.de
-DOMAIN,speedtest.imcloud.tw
-DOMAIN,starharn-cf.nebula-media.org
-DOMAIN,starharn.nebula-media.org
-DOMAIN,super.yezi.my
-DOMAIN,us.nanflix.net
-DOMAIN,v1.uhdnow.com
-DOMAIN,web-starharn.nebula-media.org
-DOMAIN,web.nebula-media.org
-DOMAIN,z.sfcj.org
+# UPDATED: 2026-01-28 12:01:34
+# TOTAL: 163
 DOMAIN-SUFFIX,114514.quest
 DOMAIN-SUFFIX,123456.al
 DOMAIN-SUFFIX,16bit.cfd

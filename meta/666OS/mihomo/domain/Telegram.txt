@@ -1,7 +1,7 @@
 # NAME: Telegram
 # AUTHOR: YYDS666
-# UPDATED: 2026-01-28 02:29:31
-# TOTAL: 33
+# UPDATED: 2026-01-28 12:03:45
+# TOTAL: 36
 +.ayugram.one
 +.cdn-telegram.org
 +.comments.app
@@ -10,6 +10,7 @@
 +.graph.org
 +.ime.io
 +.imemessenger.app
++.legra.ph
 +.mbrx.app
 +.nekogram.app
 +.nicegram.app
@@ -35,3 +36,5 @@
 +.unigram.app
 +.usercontent.dev
 +.webk.app
+api.imem.app
+api.swiftgram.app

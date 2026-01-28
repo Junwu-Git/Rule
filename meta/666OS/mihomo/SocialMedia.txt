@@ -1,11 +1,7 @@
 # NAME: SocialMedia
 # AUTHOR: YYDS666
-# UPDATED: 2026-01-28 02:29:32
-# TOTAL: 580
-DOMAIN,e122475.dscg.akamaiedge.net
-DOMAIN,fbcdn-a.akamaihd.net
-DOMAIN,licdn.cn.cdn20.com
-DOMAIN,linkedin.sc.omtrdc.net
+# UPDATED: 2026-01-28 12:01:35
+# TOTAL: 576
 DOMAIN-SUFFIX,9ineverse.com
 DOMAIN-SUFFIX,aboutfacebook.com
 DOMAIN-SUFFIX,accessfacebookfromschool.com

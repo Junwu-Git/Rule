@@ -1,15 +1,7 @@
 # NAME: Spotify
 # AUTHOR: YYDS666
-# UPDATED: 2026-01-28 02:29:34
-# TOTAL: 23
-DOMAIN,audio-ak-spotify-com.akamaized.net
-DOMAIN,audio4-ak-spotify-com.akamaized.net
-DOMAIN,cdn-spotify-experiments.conductrics.com
-DOMAIN,heads-ak-spotify-com.akamaized.net
-DOMAIN,heads4-ak-spotify-com.akamaized.net
-DOMAIN,spotify.com.edgesuite.net
-DOMAIN,spotify.map.fastly.net
-DOMAIN,spotify.map.fastlylb.net
+# UPDATED: 2026-01-28 12:03:46
+# TOTAL: 15
 DOMAIN-SUFFIX,byspotify.com
 DOMAIN-SUFFIX,pscdn.co
 DOMAIN-SUFFIX,scdn.co

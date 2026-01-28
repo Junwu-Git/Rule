@@ -1,14 +1,7 @@
 # NAME: Crypto
 # AUTHOR: YYDS666
-# UPDATED: 2026-01-28 02:29:29
-# TOTAL: 365
-DOMAIN,bybit-exchange.github.io
-DOMAIN,bybit.ada.support
-DOMAIN,d3r7nsslvs6aaf.cloudfront.net
-DOMAIN,deribit.cdn.prismic.io
-DOMAIN,onekey.zendesk.com
-DOMAIN,straitsx-826709081262441084-b790f87a2ae6fd417434295.freshchat.com
-DOMAIN,venmo.s3.amazonaws.com
+# UPDATED: 2026-01-28 12:01:33
+# TOTAL: 358
 DOMAIN-SUFFIX,1inch.io
 DOMAIN-SUFFIX,aave.com
 DOMAIN-SUFFIX,account-paypal.info

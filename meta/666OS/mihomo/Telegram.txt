@@ -1,7 +1,9 @@
 # NAME: Telegram
 # AUTHOR: YYDS666
-# UPDATED: 2026-01-28 02:29:31
-# TOTAL: 54
+# UPDATED: 2026-01-28 12:03:45
+# TOTAL: 70
+DOMAIN,api.imem.app
+DOMAIN,api.swiftgram.app
 DOMAIN-SUFFIX,ayugram.one
 DOMAIN-SUFFIX,cdn-telegram.org
 DOMAIN-SUFFIX,comments.app
@@ -10,6 +12,7 @@ DOMAIN-SUFFIX,forkgram.org
 DOMAIN-SUFFIX,graph.org
 DOMAIN-SUFFIX,ime.io
 DOMAIN-SUFFIX,imemessenger.app
+DOMAIN-SUFFIX,legra.ph
 DOMAIN-SUFFIX,mbrx.app
 DOMAIN-SUFFIX,nekogram.app
 DOMAIN-SUFFIX,nicegram.app
@@ -31,13 +34,19 @@ DOMAIN-SUFFIX,tx.me
 DOMAIN-SUFFIX,unigram.app
 DOMAIN-SUFFIX,usercontent.dev
 DOMAIN-SUFFIX,webk.app
+DOMAIN-KEYWORD,nicegram
 DOMAIN-KEYWORD,telegram
+IP-CIDR,109.239.140.0/24,no-resolve
+IP-CIDR,139.59.210.98/32,no-resolve
 IP-CIDR,149.154.160.0/20,no-resolve
 IP-CIDR,149.154.175.0/22,no-resolve
 IP-CIDR,185.76.151.0/22,no-resolve
 IP-CIDR,185.76.151.0/24,no-resolve
+IP-CIDR,196.55.216.167/32,no-resolve
+IP-CIDR,5.28.192.0/18,no-resolve
 IP-CIDR,91.105.192.0/22,no-resolve
 IP-CIDR,91.105.192.0/23,no-resolve
+IP-CIDR,91.108.0.0/16,no-resolve
 IP-CIDR,91.108.12.0/22,no-resolve
 IP-CIDR,91.108.16.0/21,no-resolve
 IP-CIDR,91.108.16.0/22,no-resolve
@@ -50,9 +59,16 @@ IP-CIDR,95.161.64.0/20,no-resolve
 IP-CIDR6,2001:67c:4e8::/48,no-resolve
 IP-CIDR6,2001:67c:4e8::/48,no-resolve
 IP-CIDR6,2001:b28:f23c::/47,no-resolve
+IP-CIDR6,2001:b28:f23c::/47,no-resolve
 IP-CIDR6,2001:b28:f23c::/48,no-resolve
 IP-CIDR6,2001:b28:f23d::/48,no-resolve
 IP-CIDR6,2001:b28:f23f::/48,no-resolve
 IP-CIDR6,2001:b28:f23f::/48,no-resolve
+IP-CIDR6,2a0a:f280::/29,no-resolve
 IP-CIDR6,2a0a:f280::/32,no-resolve
 IP-CIDR6,2a0a:f280::/32,no-resolve
+IP-ASN,211157,no-resolve
+IP-ASN,44907,no-resolve
+IP-ASN,59930,no-resolve
+IP-ASN,62014,no-resolve
+IP-ASN,62041,no-resolve

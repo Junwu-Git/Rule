@@ -1,51 +1,7 @@
 # NAME: Download
 # AUTHOR: YYDS666
-# UPDATED: 2026-01-28 02:29:32
-# TOTAL: 201
-DOMAIN,captive.apple.com
-DOMAIN,console.gl-inet.com
-DOMAIN,hotspot.cslwifi.com
-DOMAIN,injections.adguard.org
-DOMAIN,instant.arubanetworks.com
-DOMAIN,ipv4.joyhd.net
-DOMAIN,local.adguard.org
-DOMAIN,mobile.hotspot
-DOMAIN,on.springsunday.net
-DOMAIN,pt.btschool.club
-DOMAIN,pt.ourhelp.club
-DOMAIN,repeater.asus.com
-DOMAIN,router.asus.com
-DOMAIN,setmeup.arubanetworks.com
-DOMAIN,t.audiences.me
-DOMAIN,t.hddolby.com
-DOMAIN,t.hdhome.org
-DOMAIN,t.pthome.net
-DOMAIN,t.pthome.org
-DOMAIN,t.ubits.club
-DOMAIN,tracker-public.tjupt.org
-DOMAIN,tracker.52dic.vip
-DOMAIN,tracker.carpt.net
-DOMAIN,tracker.cinefiles.info
-DOMAIN,tracker.hdarea.club
-DOMAIN,tracker.hdkyl.in
-DOMAIN,tracker.hdsky.me
-DOMAIN,tracker.hdtime.org
-DOMAIN,tracker.hhan.club
-DOMAIN,tracker.keepfrds.com
-DOMAIN,tracker.leaves.red
-DOMAIN,tracker.m-team.cc
-DOMAIN,tracker.m-team.io
-DOMAIN,tracker.nanyangpt.com
-DOMAIN,tracker.open.cd
-DOMAIN,tracker.ptchdbits.co
-DOMAIN,tracker.pterclub.com
-DOMAIN,tracker.qingwa.pro
-DOMAIN,tracker.qingwapt.com
-DOMAIN,tracker.qingwapt.org
-DOMAIN,tracker.rainbowisland.co
-DOMAIN,tracker.totheglory.im
-DOMAIN,tracker.zhuque.in
-DOMAIN,tracker01.ilovelemonhd.me
+# UPDATED: 2026-01-28 12:03:46
+# TOTAL: 157
 DOMAIN-SUFFIX,52pt.site
 DOMAIN-SUFFIX,acg.rip
 DOMAIN-SUFFIX,acm.org

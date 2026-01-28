@@ -1,22 +1,7 @@
 # NAME: Direct
 # AUTHOR: YYDS666
-# UPDATED: 2026-01-28 02:29:31
-# TOTAL: 35
-DOMAIN,captive.apple.com
-DOMAIN,connect.qq.com
-DOMAIN,connect.rom.miui.com
-DOMAIN,connectivitycheck.gstatic.com
-DOMAIN,connectivitycheck.platform.hicloud.com
-DOMAIN,connectivitycheck.platform.hihonorcloud.com
-DOMAIN,cp.cloudflare.com
-DOMAIN,detectportal.firefox.com
-DOMAIN,network-test.debian.org
-DOMAIN,networkcheck.kde.org
-DOMAIN,ping.archlinux.org
-DOMAIN,speedtest.10086.cn
-DOMAIN,www.gstatic.com
-DOMAIN,www.msftconnecttest.com
-DOMAIN,www.msftncsi.com
+# UPDATED: 2026-01-28 12:01:32
+# TOTAL: 20
 DOMAIN-SUFFIX,checkip.dyndns.org
 DOMAIN-SUFFIX,checkip.synology.com
 DOMAIN-SUFFIX,checkipv6.dyndns.org

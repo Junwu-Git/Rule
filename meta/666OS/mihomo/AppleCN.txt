@@ -1,28 +1,7 @@
 # NAME: AppleCN
 # AUTHOR: YYDS666
-# UPDATED: 2026-01-28 02:29:33
-# TOTAL: 39
-DOMAIN,api.smoot.apple.cn
-DOMAIN,api.smoot.apple.com
-DOMAIN,appleid.apple.com
-DOMAIN,captive.apple.com
-DOMAIN,configuration.apple.com
-DOMAIN,developer.apple.com
-DOMAIN,deviceenrollment.apple.com
-DOMAIN,deviceservices-external.apple.com
-DOMAIN,devstreaming-cdn.apple.com
-DOMAIN,fitness.apple.com
-DOMAIN,gs-loc-cn.apple.com
-DOMAIN,gs-loc.apple.com
-DOMAIN,guzzoni.apple.com
-DOMAIN,identity.apple.com
-DOMAIN,idmsa.apple.com
-DOMAIN,mask-h2.icloud.com
-DOMAIN,mask.icloud.com
-DOMAIN,mesu.apple.com
-DOMAIN,setup.icloud.com
-DOMAIN,smp-device-content.apple.com
-DOMAIN,updates-http.cdn-apple.com
+# UPDATED: 2026-01-28 12:01:34
+# TOTAL: 18
 DOMAIN-SUFFIX,apple-cloudkit.com
 DOMAIN-SUFFIX,apple-dns.cn
 DOMAIN-SUFFIX,apple-fitness.com

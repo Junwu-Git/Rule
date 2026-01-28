@@ -1,7 +1,7 @@
 # NAME: Proxy
 # AUTHOR: YYDS666
-# UPDATED: 2026-01-28 02:29:31
-# TOTAL: 6367
+# UPDATED: 2026-01-28 12:01:34
+# TOTAL: 6368
 +.000webhost.com
 +.030buy.com
 +.0rz.tw
@@ -394,6 +394,7 @@
 +.b0ne.com
 +.babylonbee.com
 +.backchina.com
++.backend-v2.crixet.com
 +.bad.news
 +.badiucao.com
 +.badjojo.com
