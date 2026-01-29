@@ -1,6 +1,6 @@
 # NAME: Crypto
 # AUTHOR: YYDS666
-# UPDATED: 2026-01-28 12:01:33
+# UPDATED: 2026-01-30 02:29:23
 # TOTAL: 434
 +.1inch.io
 +.aave.com

@@ -1,7 +1,7 @@
 # NAME: Proxy
 # AUTHOR: YYDS666
-# UPDATED: 2026-01-28 12:01:34
-# TOTAL: 6368
+# UPDATED: 2026-01-30 02:29:21
+# TOTAL: 6369
 +.000webhost.com
 +.030buy.com
 +.0rz.tw
@@ -1590,6 +1590,7 @@
 +.freess.org
 +.freessh.us
 +.freetcp.com
++.freeterabox.com
 +.freetibet.net
 +.freetibet.org
 +.freetibetanheroes.org
