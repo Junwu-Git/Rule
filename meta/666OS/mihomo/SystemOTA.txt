@@ -1,6 +1,6 @@
 # NAME: SystemOTA
 # AUTHOR: YYDS666
-# UPDATED: 2026-01-30 02:31:33
+# UPDATED: 2026-01-30 19:39:25
 # TOTAL: 13
 DOMAIN-SUFFIX,appldnld-lb.apple.com.akadns.net
 DOMAIN-SUFFIX,appldnld.apple.com

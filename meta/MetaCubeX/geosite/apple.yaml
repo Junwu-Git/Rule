@@ -3,13 +3,6 @@ payload:
     - apple.com.akadns.net
     - configuration-lb.ls-apple.com.akadns.net
     - push-apple.com.akadns.net
-    - apple-tv-plus-press.apple.com
-    - hls-amt.itunes.apple.com
-    - hls.itunes.apple.com
-    - np-edge.itunes.apple.com
-    - play-edge.itunes.apple.com
-    - tv.applemusic.com
-    - uts-api.itunes.apple.com
     - beatselectronicsllc.tt.omtrdc.net
     - www-cdn.icloud.com.akadns.net
     - notary-submissions-prod.s3-accelerate.amazonaws.com
@@ -17,8 +10,15 @@ payload:
     - appleworldwidedeveloper.hb-api.omtrdc.net
     - appleworldwidedeveloper.sc.omtrdc.net
     - p-events-delivery.akamaized.net
+    - apple-tv-plus-press.apple.com
+    - hls-amt.itunes.apple.com
+    - hls.itunes.apple.com
+    - np-edge.itunes.apple.com
+    - play-edge.itunes.apple.com
+    - tv.applemusic.com
+    - uts-api.itunes.apple.com
     - +.apple
-    - +.beatsblackfridayretails.com
+    - +.beatsboxingdayuksale.com
     - +.ipod.hk
     - +.apple.be
     - +.apple.bg
@@ -126,8 +126,8 @@ payload:
     - +.itunes-radio.net
     - +.itunesradio.com
     - +.ituneas.com
-    - +.itunbes.com
-    - +.beatsboxingdayuksale.com
+    - +.beatsbydrdre-headphones.com
+    - +.itun.es
     - +.12joursdecadeauxdeitunes.com
     - +.12diasderegalosdeitunes.pe
     - +.12diasderegalosdeitunes.hn
@@ -277,7 +277,7 @@ payload:
     - +.ipod.eu
     - +.ipod.fr
     - +.ipod.gr
-    - +.beatsbydrdre-headphones.com
+    - +.beatsbydrdre-officials5.com
     - +.ipod.is
     - +.ipod.net
     - +.ipod.no
@@ -319,7 +319,7 @@ payload:
     - +.macbookair.jp
     - +.macbookair.net
     - +.macbookpro.co
-    - +.beatsbydrdre-officials5.com
+    - +.beatsbydrdre-online.com
     - +.icloud.vn
     - +.macbookpro.net
     - +.macbookpro.us
@@ -687,7 +687,6 @@ payload:
     - +.sustainthesound.com
     - +.supplybestjerseys.com
     - +.superearsenjoy.com
-    - +.sunglassessale2014.com
     - +.100beatscheap.com
     - +.1monsterbeatsbydreus.com
     - +.2013beatsbydrdreonline.com
@@ -766,11 +765,11 @@ payload:
     - +.beatsbeatsmonster.com
     - +.beatsbestdeals.com
     - +.beatsblackfridaydeals.net
+    - +.beatsblackfridayretails.com
     - +.apple.ae
-    - +.itun.es
+    - +.itunbes.com
     - +.apple.at
     - +.macbookpro.com
-    - +.beatsbydrdre-online.com
     - +.beatsbydrdre-onsale.com
     - +.beatsbydrdre-store.com
     - +.beatsbydrdre-store.us
@@ -1363,8 +1362,9 @@ payload:
     - +.straightouttasomewhere.com
     - +.studiobeatsbydrdre.com
     - +.sulwerphoto.com
-    - +.applecomputers.co.nz
-    - +.applecomputer.co.nz
+    - +.sunglassessale2014.com
+    - +.applecomputer.com.tw
+    - +.applecomputer.co.in
     - +.webobjects.co.uk
     - +.quicktime.com.au
     - +.mr-apple.com.tw
@@ -1379,12 +1379,11 @@ payload:
     - +.applepremiumreseller.com.au
     - +.applemalaysia.com.my
     - +.applehongkong.com.hk
-    - +.ipadmini.com.lk
-    - +.applecomputer.com.tw
+    - +.applecomputers.co.nz
     - +.applecomputer.com.hk
-    - +.applecomputer.co.in
+    - +.applecomputer.co.nz
     - +.appleclub.com.hk
-    - +.applecentar.co.rs
+    - +.applecentre.com.au
     - +.appleaustralia.net.au
     - +.appleaustralia.com.au
     - +.1to1conference.com.au
@@ -1395,8 +1394,8 @@ payload:
     - +.apple.comscoreresearch.com
     - +.applemusic.com.au
     - +.apple-watch.com.ru
-    - +.iphone.com.au
-    - +.macbookair.com.es
+    - +.macbookpro.com.au
+    - +.ipadmini.com.lk
     - +.macbookair.com.au
     - +.macbookair.co.uk
     - +.macbookair.co.kr
@@ -1415,9 +1414,10 @@ payload:
     - +.iphone4.com.br
     - +.iphone.net.gr
     - +.iphone.com.gr
-    - +.macbookpro.com.au
-    - +.applestore.com.pt
-    - +.applecentre.com.au
+    - +.iphone.com.au
+    - +.macbookair.com.es
+    - +.applestore.com.pl
+    - +.applecentar.co.rs
     - +.ipadair.com.es
     - +.ipadair.com.br
     - +.ipad.co.kr
@@ -1428,7 +1428,7 @@ payload:
     - +.applestore.com.sn
     - +.applestore.com.ru
     - +.applestore.com.ro
-    - +.applestore.com.pl
+    - +.applestore.com.pt
     - +.applestore.com.ph
     - +.applestore.com.my
     - +.applestore.com.jo

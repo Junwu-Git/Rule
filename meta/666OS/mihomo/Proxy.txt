@@ -1,7 +1,7 @@
 # NAME: Proxy
 # AUTHOR: YYDS666
-# UPDATED: 2026-01-30 02:29:21
-# TOTAL: 5123
+# UPDATED: 2026-01-30 19:41:38
+# TOTAL: 5124
 DOMAIN-SUFFIX,000webhost.com
 DOMAIN-SUFFIX,030buy.com
 DOMAIN-SUFFIX,0rz.tw
@@ -3660,6 +3660,7 @@ DOMAIN-SUFFIX,sijihuisuo.com
 DOMAIN-SUFFIX,silkbook.com
 DOMAIN-SUFFIX,silvergatebank.com
 DOMAIN-SUFFIX,simbolostwitter.com
+DOMAIN-SUFFIX,simianx.ai
 DOMAIN-SUFFIX,simplecd.me
 DOMAIN-SUFFIX,simplecd.org
 DOMAIN-SUFFIX,simpleswap.io

@@ -1,7 +1,7 @@
 # NAME: Proxy
 # AUTHOR: YYDS666
-# UPDATED: 2026-01-30 02:29:21
-# TOTAL: 6369
+# UPDATED: 2026-01-30 19:41:38
+# TOTAL: 6370
 +.000webhost.com
 +.030buy.com
 +.0rz.tw
@@ -3789,6 +3789,7 @@
 +.silkbook.com
 +.silvergatebank.com
 +.simbolostwitter.com
++.simianx.ai
 +.simplecd.me
 +.simplecd.org
 +.simpleswap.io
