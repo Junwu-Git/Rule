@@ -1,7 +1,7 @@
 # NAME: Games
 # AUTHOR: YYDS666
-# UPDATED: 2026-01-30 19:41:39
-# TOTAL: 933
+# UPDATED: 2026-02-01 02:19:10
+# TOTAL: 942
 +.100classicbooks.com
 +.17roco.com
 +.2k.com
@@ -58,6 +58,8 @@
 +.appeeres.com
 +.arcaea.cn
 +.arcraiders.com
++.arma3.com
++.armaplatform.com
 +.artstation.com
 +.asobostudio.com
 +.astral-vector.com
@@ -95,6 +97,7 @@
 +.biligame.net
 +.bioware.com
 +.biowarestore.com
++.bistudio.com
 +.blackboxgames.com
 +.blizzard.com
 +.blizzardgearstore.com
@@ -102,6 +105,7 @@
 +.bluearchive-cn.com
 +.bluearchive.jp
 +.blz-contentstack.com
++.bohemia.net
 +.boombeach.com
 +.bowsersinsidestory.com
 +.brawlstars.cn
@@ -141,6 +145,7 @@
 +.darkness-risen.com
 +.dawngate.com
 +.dawngatechronicles.com
++.dayz.com
 +.deadspacegame.com
 +.diablo3.com
 +.diabloimmortal.com
@@ -369,6 +374,7 @@
 +.mahjongcup.net
 +.mail4399.com
 +.maindown4399.com
++.makearmanotwar.com
 +.marioandluigidreamteam.com
 +.mariobroswii.com
 +.mariokart.cn
@@ -652,6 +658,7 @@
 +.shyxhy.com
 +.sih-db.com
 +.sih.app
++.silicagame.com
 +.simcity-buildit.com
 +.simcity.com
 +.skate2.com
@@ -777,6 +784,7 @@
 +.uplay.com
 +.valvesoftware.com
 +.videoxiaoyouxi.com
++.vigorgame.com
 +.visceralgames.com
 +.vrchat.cloud
 +.vrchat.com
@@ -845,6 +853,7 @@
 +.xn--owtw8cc49ajfl.cn
 +.ycgame.com
 +.yingxiong.com
++.ylands.com
 +.ynoproject.net
 +.yogify.com
 +.yokaverse.com

@@ -1,7 +1,7 @@
 # NAME: AI
 # AUTHOR: YYDS666
-# UPDATED: 2026-01-30 19:39:25
-# TOTAL: 205
+# UPDATED: 2026-02-01 02:19:09
+# TOTAL: 206
 +.ai.com
 +.ai.studio
 +.aida.googleapis.com
@@ -46,6 +46,7 @@
 +.comfyregistry.org
 +.copilot.microsoft.com
 +.coze.com
++.crixet.com
 +.cursor-cdn.com
 +.cursor.com
 +.cursor.sh

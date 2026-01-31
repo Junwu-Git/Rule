@@ -1,7 +1,7 @@
 # NAME: Proxy
 # AUTHOR: YYDS666
-# UPDATED: 2026-01-30 19:41:38
-# TOTAL: 6370
+# UPDATED: 2026-02-01 02:19:13
+# TOTAL: 6374
 +.000webhost.com
 +.030buy.com
 +.0rz.tw
@@ -429,6 +429,7 @@
 +.bb-chat.tv
 +.bbc.co.uk
 +.bbc.com
++.bbc.pdn.tritondigital.com
 +.bbcchinese.com
 +.bbchat.tv
 +.bbci.co.uk
@@ -1087,6 +1088,7 @@
 +.db.tt
 +.dbgjd.com
 +.dcard.tw
++.dcs-spotify.megaphone.fm
 +.ddc.com.tw
 +.ddex.io
 +.ddns.info
@@ -1977,6 +1979,7 @@
 +.hegre-art.com
 +.helloandroid.com
 +.helloqueer.com
++.help.byspotify.com
 +.helpeachpeople.com
 +.helpster.de
 +.helpzhuling.org
@@ -5006,6 +5009,7 @@
 +.yesasia.com
 +.yesasia.com.hk
 +.yespornplease.com
++.yfsp.tv
 +.ygto.com
 +.yhcw.net
 +.yibada.com
