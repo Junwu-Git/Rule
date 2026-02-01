@@ -1,7 +1,7 @@
 # NAME: Proxy
 # AUTHOR: YYDS666
-# UPDATED: 2026-02-01 02:19:12
-# TOTAL: 5128
+# UPDATED: 2026-02-02 02:18:27
+# TOTAL: 5129
 DOMAIN-SUFFIX,000webhost.com
 DOMAIN-SUFFIX,030buy.com
 DOMAIN-SUFFIX,0rz.tw
@@ -3932,6 +3932,7 @@ DOMAIN-SUFFIX,taconet.com.tw
 DOMAIN-SUFFIX,taedp.org.tw
 DOMAIN-SUFFIX,tafm.org
 DOMAIN-SUFFIX,tagwalk.com
+DOMAIN-SUFFIX,tails.net
 DOMAIN-SUFFIX,taipei.gov.tw
 DOMAIN-SUFFIX,taipeisociety.org
 DOMAIN-SUFFIX,taipeitimes.com

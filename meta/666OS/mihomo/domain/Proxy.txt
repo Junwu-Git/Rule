@@ -1,7 +1,7 @@
 # NAME: Proxy
 # AUTHOR: YYDS666
-# UPDATED: 2026-02-01 02:19:13
-# TOTAL: 6374
+# UPDATED: 2026-02-02 02:18:27
+# TOTAL: 6375
 +.000webhost.com
 +.030buy.com
 +.0rz.tw
@@ -4065,6 +4065,7 @@
 +.taedp.org.tw
 +.tafm.org
 +.tagwalk.com
++.tails.net
 +.taipei.gov.tw
 +.taipeisociety.org
 +.taipeitimes.com
