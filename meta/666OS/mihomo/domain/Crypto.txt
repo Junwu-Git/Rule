@@ -1,7 +1,7 @@
 # NAME: Crypto
 # AUTHOR: YYDS666
-# UPDATED: 2026-02-06 02:34:41
-# TOTAL: 434
+# UPDATED: 2026-02-08 02:21:02
+# TOTAL: 436
 +.1inch.io
 +.aave.com
 +.account-paypal.info
@@ -85,6 +85,8 @@
 +.braintreeps.com
 +.briantreepayments.net
 +.briantreepayments.tv
++.bsappapi.com
++.bscdnweb.com
 +.btcbox.co.jp
 +.buyfast-paysmart.net
 +.byabcde.com

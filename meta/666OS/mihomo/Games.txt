@@ -1,7 +1,7 @@
 # NAME: Games
 # AUTHOR: YYDS666
-# UPDATED: 2026-02-06 02:34:43
-# TOTAL: 776
+# UPDATED: 2026-02-08 02:21:03
+# TOTAL: 777
 DOMAIN-SUFFIX,100classicbooks.com
 DOMAIN-SUFFIX,17roco.com
 DOMAIN-SUFFIX,2k.com
@@ -463,6 +463,7 @@ DOMAIN-SUFFIX,personaltrainermath.com
 DOMAIN-SUFFIX,phira.cn
 DOMAIN-SUFFIX,pinkcore.com
 DOMAIN-SUFFIX,pinkcore.net
+DOMAIN-SUFFIX,pjsekai.sega.jp
 DOMAIN-SUFFIX,planetminecraft.com
 DOMAIN-SUFFIX,plantsvszombies2.com
 DOMAIN-SUFFIX,play4free.com

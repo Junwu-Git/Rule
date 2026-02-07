@@ -1,7 +1,7 @@
 # NAME: AI
 # AUTHOR: YYDS666
-# UPDATED: 2026-02-06 02:34:42
-# TOTAL: 162
+# UPDATED: 2026-02-08 02:21:00
+# TOTAL: 164
 DOMAIN-SUFFIX,ai.com
 DOMAIN-SUFFIX,ai.studio
 DOMAIN-SUFFIX,aida.googleapis.com
@@ -99,6 +99,8 @@ DOMAIN-SUFFIX,livekit.cloud
 DOMAIN-SUFFIX,liveperson.net
 DOMAIN-SUFFIX,lpsnmedia.net
 DOMAIN-SUFFIX,makersuite.google.com
+DOMAIN-SUFFIX,manus.im
+DOMAIN-SUFFIX,manuscdn.com
 DOMAIN-SUFFIX,marscode.com
 DOMAIN-SUFFIX,meta.ai
 DOMAIN-SUFFIX,microsoft-copilot.com

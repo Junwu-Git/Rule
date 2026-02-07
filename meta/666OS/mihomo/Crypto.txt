@@ -1,7 +1,7 @@
 # NAME: Crypto
 # AUTHOR: YYDS666
-# UPDATED: 2026-02-06 02:34:41
-# TOTAL: 359
+# UPDATED: 2026-02-08 02:21:02
+# TOTAL: 361
 DOMAIN-SUFFIX,1inch.io
 DOMAIN-SUFFIX,aave.com
 DOMAIN-SUFFIX,account-paypal.info
@@ -55,6 +55,8 @@ DOMAIN-SUFFIX,braintreepaymentsolutions.com
 DOMAIN-SUFFIX,braintreeps.com
 DOMAIN-SUFFIX,briantreepayments.net
 DOMAIN-SUFFIX,briantreepayments.tv
+DOMAIN-SUFFIX,bsappapi.com
+DOMAIN-SUFFIX,bscdnweb.com
 DOMAIN-SUFFIX,btcbox.co.jp
 DOMAIN-SUFFIX,buyfast-paysmart.net
 DOMAIN-SUFFIX,byabcde.com

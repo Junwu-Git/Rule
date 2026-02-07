@@ -1,7 +1,7 @@
 # NAME: Games
 # AUTHOR: YYDS666
-# UPDATED: 2026-02-06 02:34:43
-# TOTAL: 942
+# UPDATED: 2026-02-08 02:21:03
+# TOTAL: 943
 +.100classicbooks.com
 +.17roco.com
 +.2k.com
@@ -513,6 +513,7 @@
 +.phira.cn
 +.pinkcore.com
 +.pinkcore.net
++.pjsekai.sega.jp
 +.planetminecraft.com
 +.plantsvszombies2.com
 +.play4free.com

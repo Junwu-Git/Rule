@@ -1,7 +1,7 @@
 # NAME: Microsoft
 # AUTHOR: YYDS666
-# UPDATED: 2026-02-06 02:36:54
-# TOTAL: 688
+# UPDATED: 2026-02-08 02:21:04
+# TOTAL: 689
 +.1drv.com
 +.1drv.ms
 +.21vbc.com
@@ -664,6 +664,7 @@ oemsoc.download.prss.microsoft.com
 officecdn-microsoft-com.akamaized.net
 officecdn.microsoft.com
 oneocsp.microsoft.com
+packages.microsoft.com
 poshtestgallery.cloudapp.net
 prodforza.blob.core.windows.net
 psg-int-centralus.cloudapp.net
