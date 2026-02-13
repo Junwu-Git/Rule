@@ -6,10 +6,6 @@ payload:
     - statics-marketingsites-eas-ms-com.akamaized.net
     - statics-marketingsites-eus-ms-com.akamaized.net
     - statics-marketingsites-wcus-ms-com.akamaized.net
-    - crl.microsoft.com
-    - mscrl.microsoft.com
-    - ocsp.microsoft.com
-    - oneocsp.microsoft.com
     - prodforza.blob.core.windows.net
     - flightsimulator.azureedge.net
     - azure.microsoft.com
@@ -33,6 +29,10 @@ payload:
     - vscode.blob.core.windows.net
     - vscode.search.windows.net
     - vsmarketplacebadge.apphb.com
+    - crl.microsoft.com
+    - mscrl.microsoft.com
+    - ocsp.microsoft.com
+    - oneocsp.microsoft.com
     - +.microsoft
     - +.hotmail
     - +.office
@@ -43,13 +43,13 @@ payload:
     - +.xbox
     - +.onedriveupdater
     - +.onedrive
-    - +.msocsp.com
+    - +.microsoftnews.cc
     - +.msocdn.com
     - +.microsoft.com
     - +.microsoft.cz
     - +.microsoft.de
     - +.microsoft.dk
-    - +.microsoftnews.org
+    - +.microsoftnewsforkids.com
     - +.microsoft.es
     - +.microsoft.eu
     - +.microsoft.fi
@@ -198,7 +198,7 @@ payload:
     - +.msgamestudios.com
     - +.mshome.net
     - +.msidentity.com
-    - +.microsoftnewsforkids.com
+    - +.microsoftnewsforkids.net
     - +.msturing.org
     - +.msudalosti.com
     - +.mymicrosoft.com
@@ -276,15 +276,14 @@ payload:
     - +.winhec.net
     - +.yammer.com
     - +.microsoft.ch
-    - +.microsoftnews.cc
-    - +.xamarin.com
-    - +.vscode-unpkg.net
     - +.microsoftnews.com
+    - +.msocsp.com
+    - +.xamarin.com
     - +.microsoftnews.net
+    - +.microsoftnews.org
     - +.microsoft.ee
     - +.microsoft.cl
-    - +.sharepoint.cn
-    - +.microsoftnewsforkids.org
+    - +.livefilestore.com
     - +.microsoftnewskids.com
     - +.microsoftnewskids.net
     - +.microsoftnewskids.org
@@ -298,9 +297,10 @@ payload:
     - +.microsoft.cat
     - +.microsoft.ca
     - +.onedrive.com
-    - +.microsoftnewsforkids.net
-    - +.livefilestore.com
+    - +.sharepoint.cn
+    - +.microsoftnewsforkids.org
     - +.1drv.com
+    - +.vscode-unpkg.net
     - +.vscode-cdn.net
     - +.vscode.dev
     - +.vsassets.io
@@ -309,7 +309,6 @@ payload:
     - +.visualstudio.net
     - +.visualstudio.eu
     - +.visualstudio.co
-    - +.visualstudio.com
     - +.microsoft.by
     - +.gamepass.com
     - +.orithegame.com
@@ -334,6 +333,12 @@ payload:
     - +.xboxservices.com
     - +.xboxstudios.com
     - +.xbx.lv
+    - +.beth.games
+    - +.bethesda.net
+    - +.bethesdagamestudios.com
+    - +.bethsoft.com
+    - +.doom.com
+    - +.elderscrolls.com
     - +.forza.net
     - +.forzamotorsport.net
     - +.forzaracingchampionship.com
@@ -346,12 +351,6 @@ payload:
     - +.mojang.com
     - +.asobostudio.com
     - +.flightsimulator.com
-    - +.beth.games
-    - +.bethesda.net
-    - +.bethesdagamestudios.com
-    - +.bethsoft.com
-    - +.doom.com
-    - +.elderscrolls.com
     - +.microsoft.be
     - +.aadrm.com
     - +.azure-devices-int.net
@@ -435,7 +434,7 @@ payload:
     - +.office365love.com
     - +.office365tw.com
     - +.renovacionoffice.com
-    - +.visualstudio-staging.com
+    - +.visualstudio.com
     - +.githubnext.com
     - +.git.io
     - +.atom.io
@@ -460,11 +459,11 @@ payload:
     - +.opensource.guide
     - +.repo.new
     - +.thegithubshop.com
+    - +.npmjs.org
     - +.githubcopilot.com
     - +.npm.community
     - +.npmjs.com
-    - +.npmjs.org
-    - +.uwpcommunitytoolkit.com
+    - +.visualstudio-staging.com
     - +.adaptivecards.io
     - +.api-extractor.com
     - +.apisof.net
@@ -502,9 +501,10 @@ payload:
     - +.sankie.net
     - +.sqlserveronlinux.com
     - +.timelinestoryteller.com
+    - +.uwpcommunitytoolkit.com
     - +.spoprod-a.akamaihd.net
-    - +.visualstudio.co.uk
     - +.live.com.au
+    - +.visualstudio.co.uk
     - +.skype-edf.akadns.net
     - +.skypedata.akadns.net
     - +.microsoftstore.com.hk
@@ -579,7 +579,6 @@ payload:
     - vz.download.prss.microsoft.com
     - wscont1.apps.microsoft.com
     - wscont2.apps.microsoft.com
-    - www.microsoft.com
     - +.microsoftnews.cn
     - +.msn.cn
     - +.browser.events.data.msn.cn
@@ -685,3 +684,4 @@ payload:
     - +.microsoftreactor.cn
     - +.microsoftreactor.com.cn
     - +.reactorms.com.cn
+    - www.microsoft.com
