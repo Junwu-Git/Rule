@@ -1,7 +1,7 @@
 # NAME: SocialMedia
 # AUTHOR: YYDS666
-# UPDATED: 2026-02-14 02:33:14
-# TOTAL: 576
+# UPDATED: 2026-02-16 02:21:54
+# TOTAL: 579
 DOMAIN-SUFFIX,9ineverse.com
 DOMAIN-SUFFIX,aboutfacebook.com
 DOMAIN-SUFFIX,accessfacebookfromschool.com
@@ -13,6 +13,7 @@ DOMAIN-SUFFIX,acheterdesfollowersinstagram.com
 DOMAIN-SUFFIX,acheterfollowersinstagram.com
 DOMAIN-SUFFIX,ads-twitter.com
 DOMAIN-SUFFIX,advancediddetection.com
+DOMAIN-SUFFIX,analytics.facebook.com
 DOMAIN-SUFFIX,askfacebook.net
 DOMAIN-SUFFIX,askfacebook.org
 DOMAIN-SUFFIX,atdmt2.com
@@ -115,6 +116,7 @@ DOMAIN-SUFFIX,facebook30.com
 DOMAIN-SUFFIX,facebook30.net
 DOMAIN-SUFFIX,facebook30.org
 DOMAIN-SUFFIX,facebook4business.com
+DOMAIN-SUFFIX,facebookads.com
 DOMAIN-SUFFIX,facebookadvertisingsecrets.com
 DOMAIN-SUFFIX,facebookatschool.com
 DOMAIN-SUFFIX,facebookawards.com
@@ -477,6 +479,7 @@ DOMAIN-SUFFIX,online-instagram.com
 DOMAIN-SUFFIX,onlineinstagram.com
 DOMAIN-SUFFIX,opencreate.org
 DOMAIN-SUFFIX,periscope.tv
+DOMAIN-SUFFIX,pixel.facebook.com
 DOMAIN-SUFFIX,pscp.tv
 DOMAIN-SUFFIX,reachtheworldonfacebook.com
 DOMAIN-SUFFIX,redkix.com

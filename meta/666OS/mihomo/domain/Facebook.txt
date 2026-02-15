@@ -1,7 +1,7 @@
 # NAME: Facebook
 # AUTHOR: YYDS666
-# UPDATED: 2026-02-14 02:33:16
-# TOTAL: 468
+# UPDATED: 2026-02-16 02:21:58
+# TOTAL: 471
 +.aboutfacebook.com
 +.accessfacebookfromschool.com
 +.acebooik.com
@@ -11,6 +11,7 @@
 +.acheterdesfollowersinstagram.com
 +.acheterfollowersinstagram.com
 +.advancediddetection.com
++.analytics.facebook.com
 +.askfacebook.net
 +.askfacebook.org
 +.atdmt2.com
@@ -121,6 +122,7 @@
 +.facebook30.net
 +.facebook30.org
 +.facebook4business.com
++.facebookads.com
 +.facebookadvertisingsecrets.com
 +.facebookatschool.com
 +.facebookawards.com
@@ -443,6 +445,7 @@
 +.online-instagram.com
 +.onlineinstagram.com
 +.opencreate.org
++.pixel.facebook.com
 +.reachtheworldonfacebook.com
 +.redkix.com
 +.rocksdb.org

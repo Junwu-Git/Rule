@@ -1,7 +1,7 @@
 # NAME: SocialMedia
 # AUTHOR: YYDS666
-# UPDATED: 2026-02-14 02:33:14
-# TOTAL: 593
+# UPDATED: 2026-02-16 02:21:54
+# TOTAL: 596
 +.9ineverse.com
 +.aboutfacebook.com
 +.accessfacebookfromschool.com
@@ -13,6 +13,7 @@
 +.acheterfollowersinstagram.com
 +.ads-twitter.com
 +.advancediddetection.com
++.analytics.facebook.com
 +.askfacebook.net
 +.askfacebook.org
 +.atdmt2.com
@@ -130,6 +131,7 @@
 +.facebook30.net
 +.facebook30.org
 +.facebook4business.com
++.facebookads.com
 +.facebookadvertisingsecrets.com
 +.facebookatschool.com
 +.facebookawards.com
@@ -505,6 +507,7 @@
 +.onlineinstagram.com
 +.opencreate.org
 +.periscope.tv
++.pixel.facebook.com
 +.pscp.tv
 +.reachtheworldonfacebook.com
 +.redkix.com

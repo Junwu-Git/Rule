@@ -1,7 +1,8 @@
 # NAME: TikTok
 # AUTHOR: YYDS666
-# UPDATED: 2026-02-14 02:33:16
-# TOTAL: 26
+# UPDATED: 2026-02-16 02:21:58
+# TOTAL: 27
+DOMAIN-SUFFIX,analytics.tiktok.com
 DOMAIN-SUFFIX,bytedapm.com
 DOMAIN-SUFFIX,byteoversea.com
 DOMAIN-SUFFIX,muscdn.com

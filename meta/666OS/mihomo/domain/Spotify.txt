@@ -1,7 +1,7 @@
 # NAME: Spotify
 # AUTHOR: YYDS666
-# UPDATED: 2026-02-14 02:33:16
-# TOTAL: 23
+# UPDATED: 2026-02-16 02:21:58
+# TOTAL: 26
 +.byspotify.com
 +.pscdn.co
 +.scdn.co
@@ -17,8 +17,11 @@
 +.spotifyforbrands.com
 +.spotifyjobs.com
 +.tospotify.com
+adeventtracker.spotify.com
+adstudio-assets.scdn.co
 audio-ak-spotify-com.akamaized.net
 audio4-ak-spotify-com.akamaized.net
+bloodhound.spotify.com
 cdn-spotify-experiments.conductrics.com
 heads-ak-spotify-com.akamaized.net
 heads4-ak-spotify-com.akamaized.net

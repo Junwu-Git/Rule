@@ -1,7 +1,7 @@
 # NAME: China
 # AUTHOR: YYDS666
-# UPDATED: 2026-02-14 02:33:12
-# TOTAL: 116199
+# UPDATED: 2026-02-16 02:21:51
+# TOTAL: 116197
 +.0.zone
 +.00.net
 +.000.link
@@ -79415,7 +79415,6 @@
 +.redmart.com
 +.redmou.com
 +.rednetdns.com
-+.rednotecdn.com
 +.redocn.com
 +.redodopower.com
 +.redoop.com
@@ -101818,7 +101817,6 @@
 +.xhslink.com
 +.xhslw.com
 +.xhsmlt.com
-+.xhsrcdn.com
 +.xhsrmyy.com
 +.xhsxmt.com
 +.xhsyqx.com

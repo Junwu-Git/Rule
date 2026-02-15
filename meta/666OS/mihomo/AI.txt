@@ -1,7 +1,7 @@
 # NAME: AI
 # AUTHOR: YYDS666
-# UPDATED: 2026-02-14 02:31:02
-# TOTAL: 164
+# UPDATED: 2026-02-16 02:19:40
+# TOTAL: 167
 DOMAIN-SUFFIX,ai.com
 DOMAIN-SUFFIX,ai.studio
 DOMAIN-SUFFIX,aida.googleapis.com
@@ -36,6 +36,7 @@ DOMAIN-SUFFIX,client-api.arkoselabs.com
 DOMAIN-SUFFIX,clipdrop.co
 DOMAIN-SUFFIX,cocopilot.org
 DOMAIN-SUFFIX,codeium.com
+DOMAIN-SUFFIX,codeiumdata.com
 DOMAIN-SUFFIX,codepilot.ai
 DOMAIN-SUFFIX,coderabbit.ai
 DOMAIN-SUFFIX,coderabbit.gallery.vsassets.io
@@ -145,6 +146,8 @@ DOMAIN-SUFFIX,synthesia.io
 DOMAIN-SUFFIX,tabnine.com
 DOMAIN-SUFFIX,trae.ai
 DOMAIN-SUFFIX,turn.livekit.cloud
+DOMAIN-SUFFIX,windsurf.build
+DOMAIN-SUFFIX,windsurf.com
 DOMAIN-SUFFIX,x.ai
 DOMAIN-SUFFIX,youmind.ai
 DOMAIN-SUFFIX,youmind.com

@@ -1,7 +1,7 @@
 # NAME: AI
 # AUTHOR: YYDS666
-# UPDATED: 2026-02-14 02:31:02
-# TOTAL: 208
+# UPDATED: 2026-02-16 02:19:40
+# TOTAL: 211
 +.ai.com
 +.ai.studio
 +.aida.googleapis.com
@@ -36,6 +36,7 @@
 +.clipdrop.co
 +.cocopilot.org
 +.codeium.com
++.codeiumdata.com
 +.codepilot.ai
 +.coderabbit.ai
 +.coderabbit.gallery.vsassets.io
@@ -145,6 +146,8 @@
 +.tabnine.com
 +.trae.ai
 +.turn.livekit.cloud
++.windsurf.build
++.windsurf.com
 +.x.ai
 +.youmind.ai
 +.youmind.com

@@ -1,7 +1,7 @@
 # NAME: Streaming
 # AUTHOR: YYDS666
-# UPDATED: 2026-02-14 02:33:15
-# TOTAL: 624
+# UPDATED: 2026-02-16 02:21:53
+# TOTAL: 629
 +.20thcenturystudios.com.au
 +.20thcenturystudios.com.br
 +.20thcenturystudios.jp
@@ -11,11 +11,13 @@
 +.abema-tv.com
 +.abema.io
 +.abema.tv
++.ads.youtube.com
 +.adventuresbydisney.com
 +.aiv-cdn.net
 +.aiv-delivery.net
 +.amazonvideo.com
 +.ameba.jp
++.analytics.tiktok.com
 +.babble.com
 +.babyzone.com
 +.bahamut.com.tw
@@ -545,6 +547,8 @@
 +.yt.be
 +.ytimg.com
 44wilhpljf.execute-api.ap-southeast-1.amazonaws.com
+adeventtracker.spotify.com
+adstudio-assets.scdn.co
 api-abematv.bucketeer.jp
 api.viu.now.com
 apm-misaka.biliapi.net
@@ -555,6 +559,7 @@ avodmp4s3ww-a.akamaihd.net
 bahamut.akamaized.net
 bcbolt446c5271-a.akamaihd.net
 bcbolthboa-a.akamaihd.net
+bloodhound.spotify.com
 cbsi.live.ott.irdeto.com
 cbsplaylistserver.aws.syncbak.com
 cbsservice.aws.syncbak.com

@@ -1,7 +1,8 @@
 # NAME: YouTube
 # AUTHOR: YYDS666
-# UPDATED: 2026-02-14 02:33:16
-# TOTAL: 177
+# UPDATED: 2026-02-16 02:21:58
+# TOTAL: 178
++.ads.youtube.com
 +.ggpht.cn
 +.ggpht.com
 +.googlevideo.com
