@@ -1,6 +1,6 @@
 # NAME: Proxy
 # AUTHOR: YYDS666
-# UPDATED: 2026-02-18 02:40:57
+# UPDATED: 2026-02-20 02:38:03
 # TOTAL: 3876
 DOMAIN-SUFFIX,000webhost.com
 DOMAIN-SUFFIX,1-apple.com.tw
@@ -1386,7 +1386,6 @@ DOMAIN-SUFFIX,gutteruncensored.com
 DOMAIN-SUFFIX,gvm.com.tw
 DOMAIN-SUFFIX,gvt0.com
 DOMAIN-SUFFIX,gvt1.com
-DOMAIN-SUFFIX,gvt1.com]
 DOMAIN-SUFFIX,gvt3.com
 DOMAIN-SUFFIX,gwins.org
 DOMAIN-SUFFIX,gwtproject.org
@@ -2049,6 +2048,7 @@ DOMAIN-SUFFIX,moptt.tw
 DOMAIN-SUFFIX,moresci.sale
 DOMAIN-SUFFIX,morningsun.org
 DOMAIN-SUFFIX,mos.ru
+DOMAIN-SUFFIX,mosavi.io
 DOMAIN-SUFFIX,movements.org
 DOMAIN-SUFFIX,moviefap.com
 DOMAIN-SUFFIX,mpettis.com

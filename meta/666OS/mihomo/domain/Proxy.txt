@@ -1,6 +1,6 @@
 # NAME: Proxy
 # AUTHOR: YYDS666
-# UPDATED: 2026-02-18 02:40:57
+# UPDATED: 2026-02-20 02:38:03
 # TOTAL: 4361
 +.000webhost.com
 +.1-apple.com.tw
@@ -1625,7 +1625,6 @@
 +.gvm.com.tw
 +.gvt0.com
 +.gvt1.com
-+.gvt1.com]
 +.gvt3.com
 +.gwins.org
 +.gwtproject.org
@@ -2299,6 +2298,7 @@
 +.moresci.sale
 +.morningsun.org
 +.mos.ru
++.mosavi.io
 +.movements.org
 +.moviefap.com
 +.mpettis.com
