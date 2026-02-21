@@ -1,7 +1,7 @@
 # NAME: Games
 # AUTHOR: YYDS666
-# UPDATED: 2026-02-20 02:40:16
-# TOTAL: 799
+# UPDATED: 2026-02-22 02:20:22
+# TOTAL: 808
 DOMAIN-SUFFIX,100classicbooks.com
 DOMAIN-SUFFIX,17roco.com
 DOMAIN-SUFFIX,2k.com
@@ -619,6 +619,7 @@ DOMAIN-SUFFIX,star-conflict.com
 DOMAIN-SUFFIX,starcraft.com
 DOMAIN-SUFFIX,starcraft2.com
 DOMAIN-SUFFIX,starfox.com
+DOMAIN-SUFFIX,stargazer-games.com
 DOMAIN-SUFFIX,starwarsbattlefront.com
 DOMAIN-SUFFIX,starwarsbattlefront2.com
 DOMAIN-SUFFIX,starwarsfallenorder.com
@@ -640,6 +641,8 @@ DOMAIN-SUFFIX,steamstatic.com
 DOMAIN-SUFFIX,steamstatic.com.8686c.com
 DOMAIN-SUFFIX,steamunlocked.net
 DOMAIN-SUFFIX,steamusercontent.com
+DOMAIN-SUFFIX,stellasora.global
+DOMAIN-SUFFIX,stellasora.jp
 DOMAIN-SUFFIX,supercell.com
 DOMAIN-SUFFIX,supercell.helpshift.com
 DOMAIN-SUFFIX,supercell.net
@@ -771,9 +774,15 @@ DOMAIN-SUFFIX,ycgame.com
 DOMAIN-SUFFIX,yingxiong.com
 DOMAIN-SUFFIX,ylands.com
 DOMAIN-SUFFIX,ynoproject.net
+DOMAIN-SUFFIX,yo-star.com
 DOMAIN-SUFFIX,yogify.com
 DOMAIN-SUFFIX,yokaverse.com
 DOMAIN-SUFFIX,yoshisnewisland.com
+DOMAIN-SUFFIX,yostar-pictures.co.jp
+DOMAIN-SUFFIX,yostar.cn
+DOMAIN-SUFFIX,yostar.co.jp
+DOMAIN-SUFFIX,yostar.net
+DOMAIN-SUFFIX,yostarplat.com
 DOMAIN-SUFFIX,youba.com
 DOMAIN-SUFFIX,yuanshen.com
 DOMAIN-SUFFIX,yxdmgame.com

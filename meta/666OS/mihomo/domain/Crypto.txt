@@ -1,7 +1,7 @@
 # NAME: Crypto
 # AUTHOR: YYDS666
-# UPDATED: 2026-02-20 02:40:18
-# TOTAL: 436
+# UPDATED: 2026-02-22 02:20:26
+# TOTAL: 441
 +.1inch.io
 +.aave.com
 +.account-paypal.info
@@ -59,6 +59,7 @@
 +.bisq.network
 +.bitbank.cc
 +.bitcoin.org
++.bitcoincore.org
 +.bitcointalk.org
 +.bitfinex.com
 +.bitflyer.com
@@ -71,6 +72,7 @@
 +.bitsquare.io
 +.bitstamp.net
 +.bittrex.com
++.blockchain.com
 +.blockfrost.io
 +.bml.info
 +.bnbstatic.com
@@ -145,6 +147,7 @@
 +.gateio.services
 +.gemini.com
 +.getbraintree.com
++.gmgn.ai
 +.gmoney.org
 +.guardarian.com
 +.hashflow.com
@@ -404,6 +407,8 @@
 +.venmo.net
 +.venmo.org
 +.walletconnect.com
++.walletconnect.org
++.web3modal.org
 +.webmoneyinfo.com
 +.wintermute.com
 +.wiremoneytoirelandwithxoomeasierandcheaper.com

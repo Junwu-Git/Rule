@@ -1,7 +1,7 @@
 # NAME: Crypto
 # AUTHOR: YYDS666
-# UPDATED: 2026-02-20 02:40:18
-# TOTAL: 361
+# UPDATED: 2026-02-22 02:20:26
+# TOTAL: 366
 DOMAIN-SUFFIX,1inch.io
 DOMAIN-SUFFIX,aave.com
 DOMAIN-SUFFIX,account-paypal.info
@@ -33,6 +33,7 @@ DOMAIN-SUFFIX,bisq.io
 DOMAIN-SUFFIX,bisq.network
 DOMAIN-SUFFIX,bitbank.cc
 DOMAIN-SUFFIX,bitcoin.org
+DOMAIN-SUFFIX,bitcoincore.org
 DOMAIN-SUFFIX,bitcointalk.org
 DOMAIN-SUFFIX,bitfinex.com
 DOMAIN-SUFFIX,bitflyer.com
@@ -45,6 +46,7 @@ DOMAIN-SUFFIX,bitquick.co
 DOMAIN-SUFFIX,bitsquare.io
 DOMAIN-SUFFIX,bitstamp.net
 DOMAIN-SUFFIX,bittrex.com
+DOMAIN-SUFFIX,blockchain.com
 DOMAIN-SUFFIX,blockfrost.io
 DOMAIN-SUFFIX,bml.info
 DOMAIN-SUFFIX,bnbstatic.com
@@ -115,6 +117,7 @@ DOMAIN-SUFFIX,gateio.live
 DOMAIN-SUFFIX,gateio.services
 DOMAIN-SUFFIX,gemini.com
 DOMAIN-SUFFIX,getbraintree.com
+DOMAIN-SUFFIX,gmgn.ai
 DOMAIN-SUFFIX,gmoney.org
 DOMAIN-SUFFIX,guardarian.com
 DOMAIN-SUFFIX,hashflow.com
@@ -326,6 +329,8 @@ DOMAIN-SUFFIX,uniswap.org
 DOMAIN-SUFFIX,upbit.com
 DOMAIN-SUFFIX,venmo-touch.com
 DOMAIN-SUFFIX,walletconnect.com
+DOMAIN-SUFFIX,walletconnect.org
+DOMAIN-SUFFIX,web3modal.org
 DOMAIN-SUFFIX,webmoneyinfo.com
 DOMAIN-SUFFIX,wintermute.com
 DOMAIN-SUFFIX,wiremoneytoirelandwithxoomeasierandcheaper.com

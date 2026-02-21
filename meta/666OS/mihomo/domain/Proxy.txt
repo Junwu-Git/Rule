@@ -1,7 +1,7 @@
 # NAME: Proxy
 # AUTHOR: YYDS666
-# UPDATED: 2026-02-20 02:38:03
-# TOTAL: 4361
+# UPDATED: 2026-02-22 02:20:24
+# TOTAL: 4366
 +.000webhost.com
 +.1-apple.com.tw
 +.1000giri.net
@@ -129,6 +129,7 @@
 +.akamai.tvb.com
 +.akiba-online.com
 +.akiba-web.com
++.akile.io
 +.akinator.com
 +.akow.org
 +.alabout.com
@@ -262,6 +263,7 @@
 +.aspistrategist.org.au
 +.assembla.com
 +.assets.bwbx.io
++.assets.nxtrace.org
 +.assimp.org
 +.astrill.com
 +.atc.org.au
@@ -2191,6 +2193,7 @@
 +.mediawiki.org
 +.medibang.com
 +.medium.com
++.meee.com.tw
 +.meetup.com
 +.mega.co.nz
 +.mega.io
@@ -2526,6 +2529,7 @@
 +.ooni.org
 +.open.firstory.me
 +.openai.com
++.opencritic.com
 +.opendemocracy.net
 +.openid.net
 +.openleaks.org
@@ -3833,6 +3837,7 @@
 +.wwitv.com
 +.www.ajsands.com
 +.www.bing.com
++.www.clashverge.dev
 +.www.hoyolab.com
 +.www.lorenzetti.com.br
 +.www.moztw.org
