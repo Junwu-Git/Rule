@@ -1,7 +1,7 @@
 # NAME: Proxy
 # AUTHOR: YYDS666
-# UPDATED: 2026-02-22 02:20:24
-# TOTAL: 4366
+# UPDATED: 2026-02-24 02:46:11
+# TOTAL: 4367
 +.000webhost.com
 +.1-apple.com.tw
 +.1000giri.net
@@ -3400,6 +3400,7 @@
 +.topsy.com
 +.toptip.ca
 +.toptoon.net
++.tor.eff.org
 +.torguard.net
 +.torlock.com
 +.torproject.org

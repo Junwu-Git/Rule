@@ -1,7 +1,7 @@
 # NAME: Proxy
 # AUTHOR: YYDS666
-# UPDATED: 2026-02-22 02:20:24
-# TOTAL: 3881
+# UPDATED: 2026-02-24 02:46:11
+# TOTAL: 3882
 DOMAIN-SUFFIX,000webhost.com
 DOMAIN-SUFFIX,1-apple.com.tw
 DOMAIN-SUFFIX,1000giri.net
@@ -3123,6 +3123,7 @@ DOMAIN-SUFFIX,topbtc.com
 DOMAIN-SUFFIX,topsy.com
 DOMAIN-SUFFIX,toptip.ca
 DOMAIN-SUFFIX,toptoon.net
+DOMAIN-SUFFIX,tor.eff.org
 DOMAIN-SUFFIX,torguard.net
 DOMAIN-SUFFIX,torlock.com
 DOMAIN-SUFFIX,torproject.org
