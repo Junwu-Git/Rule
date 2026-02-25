@@ -1,7 +1,7 @@
 # NAME: Proxy
 # AUTHOR: YYDS666
-# UPDATED: 2026-02-24 02:46:11
-# TOTAL: 3882
+# UPDATED: 2026-02-26 02:51:46
+# TOTAL: 3883
 DOMAIN-SUFFIX,000webhost.com
 DOMAIN-SUFFIX,1-apple.com.tw
 DOMAIN-SUFFIX,1000giri.net
@@ -1148,6 +1148,7 @@ DOMAIN-SUFFIX,free.com.tw
 DOMAIN-SUFFIX,freebeacon.com
 DOMAIN-SUFFIX,freebrowser.org
 DOMAIN-SUFFIX,freechinaweibo.com
+DOMAIN-SUFFIX,freedom.gov
 DOMAIN-SUFFIX,freedomhouse.org
 DOMAIN-SUFFIX,freedominfonetweb.wordpress.com
 DOMAIN-SUFFIX,freedomsherald.org

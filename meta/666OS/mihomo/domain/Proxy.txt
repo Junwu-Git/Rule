@@ -1,7 +1,7 @@
 # NAME: Proxy
 # AUTHOR: YYDS666
-# UPDATED: 2026-02-24 02:46:11
-# TOTAL: 4367
+# UPDATED: 2026-02-26 02:51:46
+# TOTAL: 4368
 +.000webhost.com
 +.1-apple.com.tw
 +.1000giri.net
@@ -1178,6 +1178,7 @@
 +.freebeacon.com
 +.freebrowser.org
 +.freechinaweibo.com
++.freedom.gov
 +.freedomhouse.org
 +.freedominfonetweb.wordpress.com
 +.freedomsherald.org
