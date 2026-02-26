@@ -7,9 +7,6 @@ DOMAIN-SUFFIX,bujidao.org
 # 一元机场
 DOMAIN-SUFFIX,一元机场.com
 
-# 可莉规则地址
-DOMAIN-SUFFIX,kelee.one
-
 # 其它
 DOMAIN-SUFFIX,linux.do
 DOMAIN-SUFFIX,userstylesapi.com
@@ -29,7 +26,6 @@ DOMAIN-SUFFIX,aoaostar.com
 DOMAIN-SUFFIX,listary.com
 DOMAIN-SUFFIX,clawcloudrun.com
 DOMAIN-KEYWORD,clawcloudrun
-DOMAIN-SUFFIX,beijixingxing.com
 DOMAIN-SUFFIX,zeabur.app
 DOMAIN-SUFFIX,zeabur.com
 DOMAIN,sms-activate.io
