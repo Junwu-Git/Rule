@@ -1,6 +1,6 @@
 # NAME: Gemini
 # AUTHOR: YYDS666
-# UPDATED: 2026-02-26 02:51:47
+# UPDATED: 2026-02-28 02:28:08
 # TOTAL: 10
 +.apis.google.com
 +.bard.google.com
