@@ -1,7 +1,7 @@
 # NAME: Apple
 # AUTHOR: YYDS666
-# UPDATED: 2026-02-28 02:25:50
-# TOTAL: 1803
+# UPDATED: 2026-03-02 02:20:41
+# TOTAL: 1806
 +.100beatscheap.com
 +.12diasdepresentesdeitunes.com
 +.12diasderegalosdeitunes.cl
@@ -1557,6 +1557,7 @@ adcdownload.apple.com.akadns.net
 amp-api-edge-lb-cn.itunes-apple.com.akadns.net
 amp-api-edge-lb.itunes-apple.com.akadns.net
 amp-api-edge.apps.apple.com
+amp-api-edge.music.apple.com
 amp-api-search-edge.apps.apple.com
 amp-api-updates.apps.apple.com
 amp-api.apps.apple.com
@@ -1712,6 +1713,7 @@ misc-assets.itunes.apple.com
 ml-api.apple.com
 ml.cdn-apple.com
 music.apple.com
+musicstatus.music.apple.com
 mvod.itunes.apple.com
 myapp.itunes.apple.com
 news-client.apple.com
@@ -1760,6 +1762,7 @@ sh-pod2-smp-device.apple.com
 shazam-insights.cdn-apple.com
 smp-device-content.apple.com
 sp.itunes.apple.com
+speedysub.music.apple.com
 static.gc.apple.com
 stocks-sparkline-lb.apple.com.akadns.net
 stocks-sparkline.apple.com

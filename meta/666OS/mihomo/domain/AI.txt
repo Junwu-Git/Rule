@@ -1,7 +1,7 @@
 # NAME: AI
 # AUTHOR: YYDS666
-# UPDATED: 2026-02-28 02:25:47
-# TOTAL: 211
+# UPDATED: 2026-03-02 02:20:42
+# TOTAL: 212
 +.ai.com
 +.ai.studio
 +.aida.googleapis.com
@@ -205,6 +205,7 @@ openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
 openaicom.imgix.net
 openaicomproductionae4b.blob.core.windows.net
 platform.openai.com
+ppl-ai-file-upload.s3.amazonaws.com
 pplx-res.cloudinary.com
 proactivebackend-pa.googleapis.com
 production-openaicom-storage.azureedge.net
