@@ -1,7 +1,7 @@
 # NAME: Proxy
 # AUTHOR: YYDS666
-# UPDATED: 2026-03-04 02:33:06
-# TOTAL: 4372
+# UPDATED: 2026-03-06 03:08:27
+# TOTAL: 4373
 +.000webhost.com
 +.1-apple.com.tw
 +.1000giri.net
@@ -924,6 +924,7 @@
 +.dougscripts.com
 +.doujincafe.com
 +.dowjones.com
++.download.dappcdn.com
 +.dpool.top
 +.dpp.org.tw
 +.dpr.info
