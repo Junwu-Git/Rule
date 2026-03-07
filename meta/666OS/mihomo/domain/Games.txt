@@ -1,7 +1,7 @@
 # NAME: Games
 # AUTHOR: YYDS666
-# UPDATED: 2026-03-06 03:06:08
-# TOTAL: 998
+# UPDATED: 2026-03-08 02:18:16
+# TOTAL: 997
 +.100classicbooks.com
 +.17roco.com
 +.2k.com
@@ -324,8 +324,6 @@
 +.ihappystudio.cn
 +.ihappystudio.com
 +.ihykb.com
-+.illusion.co.jp
-+.illusion.jp
 +.img4399.com
 +.in.th
 +.industrialtoys.com
@@ -434,6 +432,7 @@
 +.mszdld.cn
 +.mszdld.com
 +.mszdld.net
++.muvluv-girls-garden.com
 +.my4399.com
 +.mysims.com
 +.mysimsracing.com

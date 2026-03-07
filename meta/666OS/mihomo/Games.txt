@@ -1,7 +1,7 @@
 # NAME: Games
 # AUTHOR: YYDS666
-# UPDATED: 2026-03-06 03:06:08
-# TOTAL: 808
+# UPDATED: 2026-03-08 02:18:16
+# TOTAL: 807
 DOMAIN-SUFFIX,100classicbooks.com
 DOMAIN-SUFFIX,17roco.com
 DOMAIN-SUFFIX,2k.com
@@ -310,8 +310,6 @@ DOMAIN-SUFFIX,i3839.com
 DOMAIN-SUFFIX,ihappystudio.cn
 DOMAIN-SUFFIX,ihappystudio.com
 DOMAIN-SUFFIX,ihykb.com
-DOMAIN-SUFFIX,illusion.co.jp
-DOMAIN-SUFFIX,illusion.jp
 DOMAIN-SUFFIX,img4399.com
 DOMAIN-SUFFIX,in.th
 DOMAIN-SUFFIX,industrialtoys.com
@@ -412,6 +410,7 @@ DOMAIN-SUFFIX,morefreegame.com
 DOMAIN-SUFFIX,mszdld.cn
 DOMAIN-SUFFIX,mszdld.com
 DOMAIN-SUFFIX,mszdld.net
+DOMAIN-SUFFIX,muvluv-girls-garden.com
 DOMAIN-SUFFIX,my4399.com
 DOMAIN-SUFFIX,mysims.com
 DOMAIN-SUFFIX,mysimsracing.com

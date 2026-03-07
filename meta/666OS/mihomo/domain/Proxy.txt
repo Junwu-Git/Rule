@@ -1,7 +1,7 @@
 # NAME: Proxy
 # AUTHOR: YYDS666
-# UPDATED: 2026-03-06 03:08:27
-# TOTAL: 4373
+# UPDATED: 2026-03-08 02:18:17
+# TOTAL: 4376
 +.000webhost.com
 +.1-apple.com.tw
 +.1000giri.net
@@ -896,6 +896,7 @@
 +.dmcdn.net
 +.dmhy.org
 +.dmm.co.jp
++.dns.cloudflare.com
 +.dns2go.com
 +.dnscrypt.org
 +.dnssec.net
@@ -1477,6 +1478,7 @@
 +.google.cv
 +.google.cz
 +.google.de
++.google.dev
 +.google.dk
 +.google.dm
 +.google.dz
@@ -1879,6 +1881,7 @@
 +.interseclab.org
 +.inthenameofconfuciusmovie.com
 +.investigating.wordpress.com
++.investing.com
 +.invidio.us
 +.inxian.com
 +.ip.sb

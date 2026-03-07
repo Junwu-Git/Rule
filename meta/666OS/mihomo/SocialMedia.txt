@@ -1,7 +1,7 @@
 # NAME: SocialMedia
 # AUTHOR: YYDS666
-# UPDATED: 2026-03-06 03:08:26
-# TOTAL: 582
+# UPDATED: 2026-03-08 02:18:18
+# TOTAL: 587
 DOMAIN-SUFFIX,9ineverse.com
 DOMAIN-SUFFIX,aboutfacebook.com
 DOMAIN-SUFFIX,accessfacebookfromschool.com
@@ -423,6 +423,7 @@ DOMAIN-SUFFIX,intagram.com
 DOMAIN-SUFFIX,intagrm.com
 DOMAIN-SUFFIX,internet.org
 DOMAIN-SUFFIX,intgram.com
+DOMAIN-SUFFIX,joinmastodon.org
 DOMAIN-SUFFIX,kingstagram.com
 DOMAIN-SUFFIX,klik.me
 DOMAIN-SUFFIX,l-0005.dc-msedge.net
@@ -447,6 +448,8 @@ DOMAIN-SUFFIX,login-account.net
 DOMAIN-SUFFIX,mail.ru
 DOMAIN-SUFFIX,maniakey.homes
 DOMAIN-SUFFIX,markzuckerberg.com
+DOMAIN-SUFFIX,mastodon.online
+DOMAIN-SUFFIX,mastodon.social
 DOMAIN-SUFFIX,mfmf.club
 DOMAIN-SUFFIX,mi.kochudaho.me
 DOMAIN-SUFFIX,mi.mashiro.site
@@ -480,7 +483,9 @@ DOMAIN-SUFFIX,oninstagram.com
 DOMAIN-SUFFIX,online-deals.net
 DOMAIN-SUFFIX,online-instagram.com
 DOMAIN-SUFFIX,onlineinstagram.com
+DOMAIN-SUFFIX,onlyfans.com
 DOMAIN-SUFFIX,opencreate.org
+DOMAIN-SUFFIX,pawoo.net
 DOMAIN-SUFFIX,periscope.tv
 DOMAIN-SUFFIX,pixel.facebook.com
 DOMAIN-SUFFIX,pscp.tv

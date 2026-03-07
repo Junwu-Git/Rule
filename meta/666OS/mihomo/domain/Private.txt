@@ -1,7 +1,7 @@
 # NAME: Private
 # AUTHOR: YYDS666
-# UPDATED: 2026-03-06 03:08:23
-# TOTAL: 227
+# UPDATED: 2026-03-08 02:20:34
+# TOTAL: 228
 +.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.ip6.arpa
 +.0.in-addr.arpa
 +.0.openwrt.pool.ntp.org
@@ -176,6 +176,7 @@
 +.s2m.time.edu.cn
 +.sgp.ntp.org.cn
 +.stun.l.google.com
++.stun.services.mozilla.com
 +.tendawifi.com
 +.test
 +.test.steampowered.com

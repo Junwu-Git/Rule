@@ -1,7 +1,7 @@
 # NAME: SocialMedia
 # AUTHOR: YYDS666
-# UPDATED: 2026-03-06 03:08:26
-# TOTAL: 599
+# UPDATED: 2026-03-08 02:18:18
+# TOTAL: 606
 +.9ineverse.com
 +.aboutfacebook.com
 +.accessfacebookfromschool.com
@@ -438,6 +438,7 @@
 +.intagrm.com
 +.internet.org
 +.intgram.com
++.joinmastodon.org
 +.kingstagram.com
 +.klik.me
 +.l-0005.dc-msedge.net
@@ -462,6 +463,8 @@
 +.mail.ru
 +.maniakey.homes
 +.markzuckerberg.com
++.mastodon.online
++.mastodon.social
 +.mfmf.club
 +.mi.kochudaho.me
 +.mi.mashiro.site
@@ -508,7 +511,9 @@
 +.online-deals.net
 +.online-instagram.com
 +.onlineinstagram.com
++.onlyfans.com
 +.opencreate.org
++.pawoo.net
 +.periscope.tv
 +.pixel.facebook.com
 +.pscp.tv
@@ -601,3 +606,5 @@ e122475.dscg.akamaiedge.net
 fbcdn-a.akamaihd.net
 licdn.cn.cdn20.com
 linkedin.sc.omtrdc.net
+st-ok-pts.cdn-vk.ru
+st-ok.cdn-vk.ru

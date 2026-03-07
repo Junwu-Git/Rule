@@ -1,7 +1,7 @@
 # NAME: AI
 # AUTHOR: YYDS666
-# UPDATED: 2026-03-06 03:08:27
-# TOTAL: 212
+# UPDATED: 2026-03-08 02:20:33
+# TOTAL: 213
 +.ai.com
 +.ai.studio
 +.aida.googleapis.com
@@ -98,6 +98,7 @@
 +.leonardo.ai
 +.livekit.cloud
 +.liveperson.net
++.lovart.ai
 +.lpsnmedia.net
 +.makersuite.google.com
 +.manus.im

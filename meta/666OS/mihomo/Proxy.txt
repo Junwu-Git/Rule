@@ -1,7 +1,7 @@
 # NAME: Proxy
 # AUTHOR: YYDS666
-# UPDATED: 2026-03-06 03:08:27
-# TOTAL: 3889
+# UPDATED: 2026-03-08 02:18:17
+# TOTAL: 3891
 DOMAIN-SUFFIX,000webhost.com
 DOMAIN-SUFFIX,1-apple.com.tw
 DOMAIN-SUFFIX,1000giri.net
@@ -883,6 +883,7 @@ DOMAIN-SUFFIX,dmc.nico
 DOMAIN-SUFFIX,dmcdn.net
 DOMAIN-SUFFIX,dmhy.org
 DOMAIN-SUFFIX,dmm.co.jp
+DOMAIN-SUFFIX,dns.cloudflare.com
 DOMAIN-SUFFIX,dns2go.com
 DOMAIN-SUFFIX,dnscrypt.org
 DOMAIN-SUFFIX,dnssec.net
@@ -1634,6 +1635,7 @@ DOMAIN-SUFFIX,internetpopculture.com
 DOMAIN-SUFFIX,interseclab.org
 DOMAIN-SUFFIX,inthenameofconfuciusmovie.com
 DOMAIN-SUFFIX,investigating.wordpress.com
+DOMAIN-SUFFIX,investing.com
 DOMAIN-SUFFIX,invidio.us
 DOMAIN-SUFFIX,inxian.com
 DOMAIN-SUFFIX,ip.sb
