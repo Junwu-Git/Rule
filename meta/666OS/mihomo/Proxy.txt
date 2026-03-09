@@ -1,7 +1,7 @@
 # NAME: Proxy
 # AUTHOR: YYDS666
-# UPDATED: 2026-03-08 02:18:17
-# TOTAL: 3891
+# UPDATED: 2026-03-10 02:38:48
+# TOTAL: 3892
 DOMAIN-SUFFIX,000webhost.com
 DOMAIN-SUFFIX,1-apple.com.tw
 DOMAIN-SUFFIX,1000giri.net
@@ -2725,6 +2725,7 @@ DOMAIN-SUFFIX,shenyunshop.com
 DOMAIN-SUFFIX,shenzhoufilm.com
 DOMAIN-SUFFIX,shenzhouzhengdao.org
 DOMAIN-SUFFIX,shiksha.com
+DOMAIN-SUFFIX,shitjournal.org
 DOMAIN-SUFFIX,shixiao.org
 DOMAIN-SUFFIX,shizhao.org
 DOMAIN-SUFFIX,shodanhq.com

@@ -1,7 +1,7 @@
 # NAME: Proxy
 # AUTHOR: YYDS666
-# UPDATED: 2026-03-08 02:18:17
-# TOTAL: 4376
+# UPDATED: 2026-03-10 02:38:48
+# TOTAL: 4377
 +.000webhost.com
 +.1-apple.com.tw
 +.1000giri.net
@@ -2993,6 +2993,7 @@
 +.shenzhoufilm.com
 +.shenzhouzhengdao.org
 +.shiksha.com
++.shitjournal.org
 +.shixiao.org
 +.shizhao.org
 +.shodanhq.com
