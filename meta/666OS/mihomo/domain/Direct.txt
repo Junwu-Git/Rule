@@ -1,6 +1,6 @@
 # NAME: Direct
 # AUTHOR: YYDS666
-# UPDATED: 2026-03-10 02:38:51
+# UPDATED: 2026-03-12 02:38:49
 # TOTAL: 33
 +.checkip.dyndns.org
 +.checkip.synology.com
