@@ -163,7 +163,6 @@ dns:
     - "+.docker.io"
     - "+.push.apple.com"
 
-
 # 本地自建节点组
 proxies+: 
   - name: "直连"
@@ -174,92 +173,47 @@ proxies+:
 proxy-groups:
   - name: 默认选择
     type: select
-    proxies: [故障转移,香港,台湾,日本,新加坡,韩国,美国,全部节点,其它地区,直连]
+    proxies: [新加坡,香港,美国,全部节点,直连]
     icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Proxy.png
-
-  - name: 故障转移
-    <<: *FallBack
-    proxies: [新加坡,香港,台湾,日本,韩国,美国,全部节点,直连]
-    icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/ULB.png
 
   - name: AI助手
     type: select
-    proxies: [默认选择,香港,台湾,日本,新加坡,美国,全部节点,直连]
+    proxies: [默认选择,新加坡,美国,香港,全部节点,直连]
     icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/ChatGPT.png
-
-  - name: Telegram
-    type: select
-    proxies: [默认选择,香港,台湾,日本,新加坡,美国,全部节点,直连]
-    icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Telegram.png
 
   - name: Twitter
     type: select
-    proxies: [默认选择,香港,台湾,日本,新加坡,美国,全部节点,直连]
+    proxies: [默认选择,美国,新加坡,香港,全部节点,直连]
     icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Twitter.png
 
   - name: Emby
     type: select
-    proxies: [国际媒体,默认选择,香港,台湾,日本,新加坡,美国,全部节点,其它地区,直连]
+    proxies: [直连,默认选择,香港,新加坡,美国,全部节点]
     icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Emby.png
-
-  - name: Bahamut
-    type: select
-    proxies: [国际媒体,默认选择,香港,台湾,日本,新加坡,美国,全部节点,其它地区,直连]
-    icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Bahamut.png
-
-  - name: 国内媒体
-    type: select
-    proxies: [直连,默认选择,香港,台湾,日本,新加坡,美国,全部节点]
-    icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/DomesticMedia.png
-
-  - name: 国际媒体
-    type: select
-    proxies: [默认选择,香港,台湾,日本,新加坡,美国,全部节点,直连]
-    icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/ForeignMedia.png
-
-  - name: Google
-    type: select
-    proxies: [默认选择,香港,台湾,日本,新加坡,美国,全部节点,直连]
-    icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Google_Search.png
-
-  - name: Github
-    type: select
-    proxies: [默认选择,香港,台湾,日本,新加坡,美国,全部节点,直连]
-    icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/GitHub.png
 
   - name: Onedrive
     type: select
-    proxies: [默认选择,香港,台湾,日本,新加坡,美国,全部节点,直连]
+    proxies: [默认选择,香港,新加坡,美国,全部节点,直连]
     icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/OneDrive.png
 
   - name: Microsoft
     type: select
-    proxies: [直连,默认选择,香港,台湾,日本,新加坡,美国,全部节点]
+    proxies: [直连,默认选择,香港,新加坡,美国,全部节点]
     icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Microsoft.png
 
   - name: Apple
     type: select
-    proxies: [直连,默认选择,香港,台湾,日本,新加坡,美国,全部节点]
+    proxies: [直连,默认选择,香港,新加坡,美国,全部节点]
     icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Apple_2.png
 
   - name: Game
     type: select
-    proxies: [默认选择,香港,台湾,日本,新加坡,美国,全部节点,直连]
+    proxies: [默认选择,香港,新加坡,美国,全部节点,直连]
     icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Game.png
-
-  - name: 国内网络
-    type: select
-    proxies: [直连,默认选择,香港,台湾,日本,新加坡,美国,全部节点]
-    icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/China.png
-
-  - name: 国外网络
-    type: select
-    proxies: [默认选择,香港,台湾,日本,新加坡,美国,全部节点,直连]
-    icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Global.png
 
   - name: 漏网之鱼
     type: select
-    proxies: [默认选择,香港,台湾,日本,新加坡,美国,全部节点,直连]
+    proxies: [默认选择,香港,新加坡,美国,全部节点,直连]
     icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Final.png
 
   # 地区策略
@@ -271,14 +225,6 @@ proxy-groups:
     filter: *FilterHK
     icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Hong_Kong.png
 
-  - name: 台湾
-    type: select
-    proxies: [台湾自动]
-    include-all: true
-    exclude-type: direct
-    filter: *FilterTW
-    icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Taiwan.png
-
   - name: 新加坡
     type: select
     proxies: [新加坡自动]
@@ -286,22 +232,6 @@ proxy-groups:
     exclude-type: direct
     filter: *FilterSG
     icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Singapore.png
-
-  - name: 日本
-    type: select
-    proxies: [日本自动]
-    include-all: true
-    exclude-type: direct
-    filter: *FilterJP
-    icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Japan.png
-
-  - name: 韩国
-    type: select
-    proxies: [韩国自动]
-    include-all: true
-    exclude-type: direct
-    filter: *FilterKR
-    icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Korea.png
 
   - name: 美国
     type: select
@@ -317,24 +247,9 @@ proxy-groups:
     filter: *FilterHK
     icon: https://git.imee.me/https://github.com/Koolson/Qure/raw/master/IconSet/Color/Auto.png
 
-  - name: 台湾自动
-    <<: *UrlTest
-    filter: *FilterTW
-    icon: https://git.imee.me/https://github.com/Koolson/Qure/raw/master/IconSet/Color/Auto.png
-
   - name: 新加坡自动
     <<: *UrlTest
     filter: *FilterSG
-    icon: https://git.imee.me/https://github.com/Koolson/Qure/raw/master/IconSet/Color/Auto.png
-
-  - name: 日本自动
-    <<: *UrlTest
-    filter: *FilterJP
-    icon: https://git.imee.me/https://github.com/Koolson/Qure/raw/master/IconSet/Color/Auto.png
-
-  - name: 韩国自动
-    <<: *UrlTest
-    filter: *FilterKR
     icon: https://git.imee.me/https://github.com/Koolson/Qure/raw/master/IconSet/Color/Auto.png
 
   - name: 美国自动
@@ -349,13 +264,6 @@ proxy-groups:
     exclude-type: direct
     filter: *FilterAll
     icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Server.png
-
-  - name: 其它地区
-    type: select
-    include-all: true
-    exclude-type: direct
-    filter: *FilterOther
-    icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/United_Nations.png
 
 rule-providers:
   fake-ip-filter:
@@ -594,45 +502,45 @@ rules:
   # ✅ 自定义规则（提前）
   - RULE-SET,reject_rules,REJECT-DROP
   - RULE-SET,emby_rules,Emby
-  - RULE-SET,proxy_rules,国外网络
-  - RULE-SET,direct_rules,国内网络
+  - RULE-SET,proxy_rules,默认选择
+  - RULE-SET,direct_rules,直连
 
   # 平台/服务类规则
   - RULE-SET,openAi,AI助手
   - RULE-SET,category-ai-!cn,AI助手
-  - RULE-SET,telegram_domain,Telegram
+  - RULE-SET,telegram_domain,默认选择
   - RULE-SET,twitter_domain,Twitter
   - RULE-SET,emby,Emby
-  - RULE-SET,bahamut_domain,Bahamut
-  - RULE-SET,youtube_domain,国际媒体
-  - RULE-SET,netflix_domain,国际媒体
-  - RULE-SET,spotify_domain,国际媒体
-  - RULE-SET,bilibili_domain,国内媒体
-  - RULE-SET,github_domain,Github
+  - RULE-SET,bahamut_domain,默认选择
+  - RULE-SET,youtube_domain,默认选择
+  - RULE-SET,netflix_domain,默认选择
+  - RULE-SET,spotify_domain,默认选择
+  - RULE-SET,bilibili_domain,直连
+  - RULE-SET,github_domain,默认选择
   - RULE-SET,onedrive,Onedrive
   - RULE-SET,microsoft,Microsoft
-  - RULE-SET,google_domain,Google
-  - RULE-SET,apple-cn,国内网络
+  - RULE-SET,google_domain,默认选择
+  - RULE-SET,apple-cn,直连
   - RULE-SET,apple,Apple 
-  - RULE-SET,cloudflare-cn,国内网络
+  - RULE-SET,cloudflare-cn,直连
   - RULE-SET,game,Game
-  - RULE-SET,download,国内网络
+  - RULE-SET,download,直连
 
   # 大类匹配
-  - RULE-SET,cn_domain,国内网络
-  - RULE-SET,gfw_domain,国外网络
-  - RULE-SET,geolocation-!cn,国外网络
+  - RULE-SET,cn_domain,直连
+  - RULE-SET,gfw_domain,默认选择
+  - RULE-SET,geolocation-!cn,默认选择
 
   # IP 匹配
   - RULE-SET,private_ip,直连,no-resolve
   - RULE-SET,xptv_ip,直连,no-resolve
   - RULE-SET,emby_ip,Emby,no-resolve
   - RULE-SET,ai_ip,AI助手,no-resolve
-  - RULE-SET,google_ip,Google,no-resolve
-  - RULE-SET,netflix_ip,国际媒体,no-resolve
-  - RULE-SET,telegram_ip,Telegram,no-resolve
+  - RULE-SET,google_ip,默认选择,no-resolve
+  - RULE-SET,netflix_ip,默认选择,no-resolve
+  - RULE-SET,telegram_ip,默认选择,no-resolve
   - RULE-SET,twitter_ip,Twitter,no-resolve
-  - RULE-SET,cn_ip,国内网络
+  - RULE-SET,cn_ip,直连
 
   # 兜底规则
   - MATCH,漏网之鱼
