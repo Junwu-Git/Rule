@@ -1,7 +1,7 @@
 # NAME: AI
 # AUTHOR: YYDS666
-# UPDATED: 2026-03-14 02:29:17
-# TOTAL: 213
+# UPDATED: 2026-03-16 02:23:08
+# TOTAL: 217
 +.ai.com
 +.ai.studio
 +.aida.googleapis.com
@@ -28,10 +28,12 @@
 +.cici.com
 +.ciciai.com
 +.ciciaicdn.com
++.clau.de
 +.claude.ai
 +.claude.com
 +.claudemcpclient.com
 +.claudeusercontent.com
++.clawhub.ai
 +.client-api.arkoselabs.com
 +.clipdrop.co
 +.cocopilot.org
@@ -79,6 +81,7 @@
 +.grok.com
 +.grok.x.com
 +.groq.com
++.h2o.ai
 +.heygen.com
 +.hf.co
 +.hf.space
@@ -121,6 +124,7 @@
 +.openaiapi-site.azureedge.net
 +.openaicom.imgix.net
 +.openart.ai
++.openclaw.ai
 +.openrouter.ai
 +.oystermercury.top
 +.pawan.krd

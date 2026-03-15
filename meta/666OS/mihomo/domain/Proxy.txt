@@ -1,7 +1,7 @@
 # NAME: Proxy
 # AUTHOR: YYDS666
-# UPDATED: 2026-03-14 02:27:00
-# TOTAL: 4377
+# UPDATED: 2026-03-16 02:23:10
+# TOTAL: 4378
 +.000webhost.com
 +.1-apple.com.tw
 +.1000giri.net
@@ -3877,6 +3877,7 @@
 +.xcafe.in
 +.xcancel.com
 +.xcity.jp
++.xdaforums.com
 +.xerotica.com
 +.xfinity.com
 +.xfxssr.me
