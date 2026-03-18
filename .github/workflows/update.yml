@@ -33,40 +33,106 @@ jobs:
 
       - name: Set current date (Beijing Time)
         run: echo "DATE=$(TZ='Asia/Shanghai' date '+%Y年%m月%d日 %H:%M:%S')" >> $GITHUB_ENV
-        
+
       - name: Install dependencies
         run: |
           sudo apt-get update
           sudo apt-get install -y curl
 
-      # [修正] 将 'git pull' 替换为更稳健的 'git fetch' + 'git reset' 模式
+      - name: Initialize warning files
+        run: |
+          echo "同步警告记录（${{ env.DATE }}）：" > warning.md
+          echo "" > new_warning.md
+
+      # [改进] 封装为函数，fetch 失败自动重试 clone，clone 失败写 warning 而不中断 job
       - name: Clone or update source repositories
         run: |
-          if [ -d "meta-rules-dat" ]; then (cd meta-rules-dat && git fetch && git reset --hard origin/meta); else git clone --depth=1 --branch meta https://github.com/MetaCubeX/meta-rules-dat.git; fi
-          if [ -d "ios_rule_script" ]; then (cd ios_rule_script && git fetch && git reset --hard origin/master); else git clone --depth=1 --branch master https://github.com/blackmatrix7/ios_rule_script.git; fi
-          if [ -d "rules" ]; then (cd rules && git fetch && git reset --hard origin/release); else git clone --depth=1 --branch release https://github.com/666OS/rules.git; fi
+          clone_or_update() {
+            local dir=$1 url=$2 branch=$3
+            if [ -d "$dir" ]; then
+              echo "更新 $dir ..."
+              if (cd "$dir" && git fetch && git reset --hard origin/$branch); then
+                echo "$dir 更新成功"
+              else
+                echo "$dir fetch 失败，尝试重新 clone..."
+                rm -rf "$dir"
+                if git clone --depth=1 --branch "$branch" "$url" "$dir"; then
+                  echo "$dir 重新 clone 成功"
+                else
+                  echo "${{ env.DATE }}，${dir} clone 失败，跳过该源" >> warning.md
+                  echo "${dir} clone 失败，跳过该源" >> new_warning.md
+                fi
+              fi
+            else
+              echo "首次 clone $dir ..."
+              if git clone --depth=1 --branch "$branch" "$url" "$dir"; then
+                echo "$dir clone 成功"
+              else
+                echo "${{ env.DATE }}，${dir} clone 失败，跳过该源" >> warning.md
+                echo "${dir} clone 失败，跳过该源" >> new_warning.md
+              fi
+            fi
+          }
+
+          clone_or_update meta-rules-dat https://github.com/MetaCubeX/meta-rules-dat.git meta
+          clone_or_update ios_rule_script  https://github.com/blackmatrix7/ios_rule_script.git master
+          clone_or_update rules            https://github.com/666OS/rules.git release
 
       - name: Prepare folders
         run: |
           mkdir -p meta/MetaCubeX/geoip meta/MetaCubeX/geosite meta/blackmatrix7 meta/666OS/mihomo
 
-      - name: Initialize warning files
-        run: |
-          echo "同步警告记录：" > warning.md
-          echo "" > new_warning.md
-
       - name: Copy geoip files from MetaCubeX
         run: |
-          for base in private cn google netflix twitter telegram; do for ext in mrs list yaml; do src="meta-rules-dat/geo/geoip/${base}.${ext}"; dst="meta/MetaCubeX/geoip/${base}.${ext}"; if [[ -f "$src" ]]; then cp "$src" "$dst"; else echo "${{ env.DATE }}，${base}.${ext}（geoip），未拷贝" >> warning.md; echo "${base}.${ext}（geoip），未拷贝" >> new_warning.md; fi; done; done
+          for base in private cn google netflix twitter telegram; do
+            for ext in mrs list yaml; do
+              src="meta-rules-dat/geo/geoip/${base}.${ext}"
+              dst="meta/MetaCubeX/geoip/${base}.${ext}"
+              if [[ -f "$src" ]]; then
+                cp "$src" "$dst"
+              else
+                echo "${{ env.DATE }}，${base}.${ext}（geoip），未拷贝" >> warning.md
+                echo "${base}.${ext}（geoip），未拷贝" >> new_warning.md
+              fi
+            done
+          done
+
       - name: Copy geosite files from MetaCubeX
         run: |
-          for base in category-public-tracker private connectivity-check cn openai category-ai-!cn github twitter youtube apple-cn apple cloudflare-cn google onedrive microsoft category-games telegram netflix bilibili bahamut spotify pixiv gfw geolocation-!cn discord; do for ext in mrs list yaml; do src="meta-rules-dat/geo/geosite/${base}.${ext}"; dst="meta/MetaCubeX/geosite/${base}.${ext}"; if [[ -f "$src" ]]; then cp "$src" "$dst"; else echo "${{ env.DATE }}，${base}.${ext}（geosite），未拷贝" >> warning.md; echo "${base}.${ext}（geosite），未拷贝" >> new_warning.md; fi; done; done
+          for base in category-public-tracker private connectivity-check cn openai category-ai-!cn github twitter youtube apple-cn apple cloudflare-cn google onedrive microsoft category-games telegram netflix bilibili bahamut spotify pixiv gfw geolocation-!cn discord; do
+            for ext in mrs list yaml; do
+              src="meta-rules-dat/geo/geosite/${base}.${ext}"
+              dst="meta/MetaCubeX/geosite/${base}.${ext}"
+              if [[ -f "$src" ]]; then
+                cp "$src" "$dst"
+              else
+                echo "${{ env.DATE }}，${base}.${ext}（geosite），未拷贝" >> warning.md
+                echo "${base}.${ext}（geosite），未拷贝" >> new_warning.md
+              fi
+            done
+          done
+
       - name: Copy Game_No_Resolve.yaml from blackmatrix7
         run: |
-          src="ios_rule_script/rule/Clash/Game/Game_No_Resolve.yaml"; dst="meta/blackmatrix7/Game_No_Resolve.yaml"; if [[ -f "$src" ]]; then cp "$src" "$dst"; else echo "${{ env.DATE }}，Game_No_Resolve.yaml，未拷贝" >> warning.md; echo "Game_No_Resolve.yaml，未拷贝" >> new_warning.md; fi
+          src="ios_rule_script/rule/Clash/Game/Game_No_Resolve.yaml"
+          dst="meta/blackmatrix7/Game_No_Resolve.yaml"
+          if [[ -f "$src" ]]; then
+            cp "$src" "$dst"
+          else
+            echo "${{ env.DATE }}，Game_No_Resolve.yaml，未拷贝" >> warning.md
+            echo "Game_No_Resolve.yaml，未拷贝" >> new_warning.md
+          fi
+
       - name: Copy mihomo files from 666OS
         run: |
-          src_dir="rules/mihomo"; dst_dir="meta/666OS/mihomo"; if [[ -d "$src_dir" ]]; then cp -rf "$src_dir"/. "$dst_dir/"; else echo "${{ env.DATE }}，666OS/rules/mihomo 文件夹，未拷贝" >> warning.md; echo "666OS/rules/mihomo 文件夹，未拷贝" >> new_warning.md; fi
+          src_dir="rules/mihomo"
+          dst_dir="meta/666OS/mihomo"
+          if [[ -d "$src_dir" ]]; then
+            cp -rf "$src_dir"/. "$dst_dir/"
+          else
+            echo "${{ env.DATE }}，666OS/rules/mihomo 文件夹，未拷贝" >> warning.md
+            echo "666OS/rules/mihomo 文件夹，未拷贝" >> new_warning.md
+          fi
 
       - name: Commit and push changes
         env:
@@ -74,7 +140,7 @@ jobs:
         run: |
           git config --global user.name "GitHub Action"
           git config --global user.email "action@github.com"
-          
+
           if [ -n "$(git status --porcelain)" ]; then
             echo "Changes detected. Committing and pushing..."
             git add meta warning.md new_warning.md
@@ -90,7 +156,11 @@ jobs:
         id: read_warnings
         if: always()
         run: |
-          content=$(cat new_warning.md); content="${content//'%'/'%25'}"; content="${content//$'\n'/'%0A'}"; content="${content//$'\r'/'%0D'}"; echo "content=$content" >> $GITHUB_OUTPUT
+          content=$(cat new_warning.md)
+          content="${content//'%'/'%25'}"
+          content="${content//$'\n'/'%0A'}"
+          content="${content//$'\r'/'%0D'}"
+          echo "content=$content" >> $GITHUB_OUTPUT
 
       - name: Telegram Notify if new warnings exist
         if: always() && steps.read_warnings.outputs.content != ''
@@ -100,6 +170,6 @@ jobs:
           token: ${{ secrets.TELEGRAM_BOT_TOKEN }}
           message: |
             ⚠️ **GitHub Action 同步警告**
-            
+
             ${{ steps.read_warnings.outputs.content }}
           format: markdown
