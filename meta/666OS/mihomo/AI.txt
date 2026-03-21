@@ -1,7 +1,7 @@
 # NAME: AI
 # AUTHOR: YYDS666
-# UPDATED: 2026-03-20 02:42:20
-# TOTAL: 172
+# UPDATED: 2026-03-22 02:20:17
+# TOTAL: 173
 DOMAIN-SUFFIX,ai.com
 DOMAIN-SUFFIX,ai.studio
 DOMAIN-SUFFIX,aida.googleapis.com
@@ -144,6 +144,7 @@ DOMAIN-SUFFIX,sentry.io
 DOMAIN-SUFFIX,smoot.apple.com
 DOMAIN-SUFFIX,sora.com
 DOMAIN-SUFFIX,sourcegraph.com
+DOMAIN-SUFFIX,spicywriter.com
 DOMAIN-SUFFIX,stability.ai
 DOMAIN-SUFFIX,stablediffusionweb.com
 DOMAIN-SUFFIX,stripe.com

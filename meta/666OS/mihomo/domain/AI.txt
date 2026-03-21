@@ -1,7 +1,7 @@
 # NAME: AI
 # AUTHOR: YYDS666
-# UPDATED: 2026-03-20 02:42:20
-# TOTAL: 217
+# UPDATED: 2026-03-22 02:20:17
+# TOTAL: 218
 +.ai.com
 +.ai.studio
 +.aida.googleapis.com
@@ -144,6 +144,7 @@
 +.smoot.apple.com
 +.sora.com
 +.sourcegraph.com
++.spicywriter.com
 +.stability.ai
 +.stablediffusionweb.com
 +.stripe.com
