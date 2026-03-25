@@ -1,7 +1,7 @@
 # NAME: Proxy
 # AUTHOR: YYDS666
-# UPDATED: 2026-03-24 02:40:00
-# TOTAL: 4383
+# UPDATED: 2026-03-26 02:41:01
+# TOTAL: 4384
 +.000webhost.com
 +.1-apple.com.tw
 +.1000giri.net
@@ -3901,6 +3901,7 @@
 +.xm.com
 +.xml-training-guide.com
 +.xn--11xs86f.icu
++.xn--1jqvh729avzfcy2d8ummib.com
 +.xn--4gq171p.com
 +.xn--9iqy04a7fi01l.com
 +.xn--9pr62r24a.com
