@@ -1,6 +1,6 @@
 # NAME: Proxy
 # AUTHOR: YYDS666
-# UPDATED: 2026-03-26 02:41:01
+# UPDATED: 2026-03-28 02:43:16
 # TOTAL: 4384
 +.000webhost.com
 +.1-apple.com.tw
@@ -2907,7 +2907,6 @@
 +.rutracker.net
 +.rutracker.org
 +.s-cute.com
-+.s.rmimg.com
 +.s.yimg.com
 +.s3-ap-northeast-1.amazonaws.com
 +.s3-ap-northeast-2.amazonaws.com
@@ -3907,6 +3906,7 @@
 +.xn--9pr62r24a.com
 +.xn--czq75pvv1aj5c.org
 +.xn--i2ru8q2qg.com
++.xn--kcrv3utim32hx9f6qe.com
 +.xn--ngstr-lra8j.com
 +.xn--noss43i.com
 +.xn--oiq.cc

@@ -1,7 +1,7 @@
 # NAME: China
 # AUTHOR: YYDS666
-# UPDATED: 2026-03-26 02:43:24
-# TOTAL: 118170
+# UPDATED: 2026-03-28 02:43:10
+# TOTAL: 118173
 +.0.zone
 +.00.net
 +.000.link
@@ -12549,6 +12549,7 @@
 +.anhuisjx.com
 +.anhuisuya.com
 +.anhuiwine.com
++.anhuiyun.com
 +.anhuizk.com
 +.ani-sh.com
 +.aniccw.net
@@ -117985,6 +117986,7 @@ icecast-ruvr.cdnvideo.ru
 images-cn-8.ssl-images-amazon.com
 images-cn.ssl-images-amazon.com
 ip.istatmenus.app
+izattime.qcomgeo2.com
 jpts.sinovision.net
 kcrw.streamguys1.com
 kjzz.streamguys1.com
@@ -118166,6 +118168,7 @@ www.szmgiptv.com
 www.yxssp.com
 www4-static.gog-statics.com
 xn--flw351e.com
+xtratime.qcomgeo2.com
 youku.cdn2-youku.com
 zb.dehua.tv
 zb.pzhgd.com
