@@ -1,7 +1,7 @@
 # NAME: Games
 # AUTHOR: YYDS666
-# UPDATED: 2026-03-28 02:43:15
-# TOTAL: 997
+# UPDATED: 2026-03-30 02:27:44
+# TOTAL: 1004
 +.100classicbooks.com
 +.17roco.com
 +.2k.com
@@ -128,6 +128,7 @@
 +.cdncl.net
 +.championshipseriesleague.com
 +.chillingo.com
++.chunkbase.com
 +.clash.com
 +.clashmini.com
 +.clashofclans.com
@@ -227,6 +228,7 @@
 +.faceit-cdn.net
 +.faceit.com
 +.fanatical.com
++.feihuo.com
 +.ffbuddy.com
 +.fifastreet.com
 +.fifastreet3.com
@@ -414,6 +416,7 @@
 +.minecraft-services.net
 +.minecraft.net
 +.minecraft.wiki
++.minecraftforge.net
 +.minecraftservices.com
 +.minecraftshop.com
 +.mirrorsedge.com
@@ -442,6 +445,7 @@
 +.mythicgames.com
 +.n0vadesktop.com
 +.nagcloudcs.com
++.namemc.com
 +.needforspeed.com
 +.needforspeedboost.com
 +.needforspeeddriftkings.com
@@ -457,6 +461,7 @@
 +.needforspeedtimeattack.com
 +.needforspeedundergroundeast.com
 +.nentindo.net
++.neoforged.net
 +.newsupermariobrosu.com
 +.nexon.co.jp
 +.nexon.com
@@ -517,6 +522,7 @@
 +.offworldindustries.com
 +.offworldindustries.net
 +.op.gg
++.optifine.net
 +.origin.com
 +.origin.tv
 +.orithegame.com
@@ -688,6 +694,7 @@
 +.spearhead.kr
 +.speedhunters.com
 +.speedrun.com
++.spigotmc.org
 +.splatoon2tournament.com
 +.spore.com
 +.spyjinx.com
