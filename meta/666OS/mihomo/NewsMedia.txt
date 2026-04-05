@@ -1,7 +1,7 @@
 # NAME: NewsMedia
 # AUTHOR: YYDS666
-# UPDATED: 2026-04-04 02:31:40
-# TOTAL: 1258
+# UPDATED: 2026-04-06 02:28:35
+# TOTAL: 1298
 DOMAIN-SUFFIX,1degree.com.au
 DOMAIN-SUFFIX,47gyosei.jp
 DOMAIN-SUFFIX,47news.jp
@@ -55,6 +55,8 @@ DOMAIN-SUFFIX,asahi.com
 DOMAIN-SUFFIX,asahicom.jp
 DOMAIN-SUFFIX,asakonet.co.jp
 DOMAIN-SUFFIX,atnext.com
+DOMAIN-SUFFIX,autoesporte.com
+DOMAIN-SUFFIX,autoesporte.com.br
 DOMAIN-SUFFIX,aweencore.com
 DOMAIN-SUFFIX,awetv.com
 DOMAIN-SUFFIX,axios.com
@@ -96,6 +98,7 @@ DOMAIN-SUFFIX,bestmallawards.com
 DOMAIN-SUFFIX,bestrecipes.com.au
 DOMAIN-SUFFIX,bgov.com
 DOMAIN-SUFFIX,bgr.in
+DOMAIN-SUFFIX,bhfm.com.br
 DOMAIN-SUFFIX,bidi.net.uk
 DOMAIN-SUFFIX,bigbigchannel.com.hk
 DOMAIN-SUFFIX,bigbigshop.com
@@ -161,7 +164,9 @@ DOMAIN-SUFFIX,caijinglengyan.com
 DOMAIN-SUFFIX,cairnspost.com.au
 DOMAIN-SUFFIX,careerfundas.com
 DOMAIN-SUFFIX,careerjournal.com
+DOMAIN-SUFFIX,cartola.com.br
 DOMAIN-SUFFIX,casoneexchange.com
+DOMAIN-SUFFIX,cbn.com.br
 DOMAIN-SUFFIX,cbs.com
 DOMAIN-SUFFIX,cbsaavideo.com
 DOMAIN-SUFFIX,cbscorporation.com
@@ -276,6 +281,8 @@ DOMAIN-SUFFIX,enanyang.my
 DOMAIN-SUFFIX,encoretvb.com
 DOMAIN-SUFFIX,engadget.com
 DOMAIN-SUFFIX,epicreads.com
+DOMAIN-SUFFIX,epoca.com.br
+DOMAIN-SUFFIX,epocanegocios.com.br
 DOMAIN-SUFFIX,epoch.cloud
 DOMAIN-SUFFIX,epoch.org.il
 DOMAIN-SUFFIX,epochbase.com
@@ -489,6 +496,7 @@ DOMAIN-SUFFIX,fxn.ws
 DOMAIN-SUFFIX,fxnetwork.com
 DOMAIN-SUFFIX,fxnetworks.com
 DOMAIN-SUFFIX,g-tvapp.com
+DOMAIN-SUFFIX,g1.com.br
 DOMAIN-SUFFIX,ganjing.com
 DOMAIN-SUFFIX,ganjing.world
 DOMAIN-SUFFIX,ganjingworld.com
@@ -508,12 +516,21 @@ DOMAIN-SUFFIX,glasamerike.net
 DOMAIN-SUFFIX,globalriskregulator.com
 DOMAIN-SUFFIX,globalvoices.org
 DOMAIN-SUFFIX,globalvoicesonline.org
+DOMAIN-SUFFIX,globo.com
+DOMAIN-SUFFIX,globo.com.br
+DOMAIN-SUFFIX,globoplay.com
+DOMAIN-SUFFIX,globoplay.com.br
+DOMAIN-SUFFIX,globoradio.com.br
+DOMAIN-SUFFIX,globoreporter.com.br
+DOMAIN-SUFFIX,globorural.com.br
 DOMAIN-SUFFIX,gnews.org
 DOMAIN-SUFFIX,goldcoastbulletin.com.au
 DOMAIN-SUFFIX,golos-ameriki.ru
 DOMAIN-SUFFIX,golosameriki.com
 DOMAIN-SUFFIX,gooddaychicago.com
 DOMAIN-SUFFIX,gotraffic.net
+DOMAIN-SUFFIX,gshow.com
+DOMAIN-SUFFIX,gshow.com.br
 DOMAIN-SUFFIX,gtv.org
 DOMAIN-SUFFIX,gtv1.org
 DOMAIN-SUFFIX,gtvmediagroupfairfund.com
@@ -571,6 +588,7 @@ DOMAIN-SUFFIX,igniteseurope.com
 DOMAIN-SUFFIX,ind.sh
 DOMAIN-SUFFIX,india.com
 DOMAIN-SUFFIX,indiancolleges.com
+DOMAIN-SUFFIX,infoglobo.com.br
 DOMAIN-SUFFIX,infotimes.com.tw
 DOMAIN-SUFFIX,infowars.com
 DOMAIN-SUFFIX,infowarsmedia.com
@@ -831,6 +849,8 @@ DOMAIN-SUFFIX,nytimes.com
 DOMAIN-SUFFIX,nytstyle.com
 DOMAIN-SUFFIX,oanencore.com
 DOMAIN-SUFFIX,oann.com
+DOMAIN-SUFFIX,oghost.com.br
+DOMAIN-SUFFIX,oglobo.com.br
 DOMAIN-SUFFIX,omghk.com
 DOMAIN-SUFFIX,omoplanet.com
 DOMAIN-SUFFIX,on.cc
@@ -851,6 +871,8 @@ DOMAIN-SUFFIX,pashtovoa.com
 DOMAIN-SUFFIX,passiontimes.hk
 DOMAIN-SUFFIX,pcmarket.com.hk
 DOMAIN-SUFFIX,peacocktv.com
+DOMAIN-SUFFIX,pegn.com
+DOMAIN-SUFFIX,pegn.com.br
 DOMAIN-SUFFIX,pensions-expert.com
 DOMAIN-SUFFIX,peoplenews.tw
 DOMAIN-SUFFIX,persagg.com
@@ -872,6 +894,7 @@ DOMAIN-SUFFIX,qmap.pub
 DOMAIN-SUFFIX,quicktake.video
 DOMAIN-SUFFIX,racked.com
 DOMAIN-SUFFIX,radiofarda.com
+DOMAIN-SUFFIX,radioglobo.com.br
 DOMAIN-SUFFIX,radiomango.fm
 DOMAIN-SUFFIX,radiomarsho.com
 DOMAIN-SUFFIX,radiosvoboda.org
@@ -914,6 +937,13 @@ DOMAIN-SUFFIX,reuters.com
 DOMAIN-SUFFIX,reuters.tv
 DOMAIN-SUFFIX,reutersagency.cn
 DOMAIN-SUFFIX,reutersmedia.net
+DOMAIN-SUFFIX,revistaepoca.com
+DOMAIN-SUFFIX,revistaepoca.com.br
+DOMAIN-SUFFIX,revistagalileu.com.br
+DOMAIN-SUFFIX,revistapegn.com
+DOMAIN-SUFFIX,revistapegn.com.br
+DOMAIN-SUFFIX,revistaquem.com.br
+DOMAIN-SUFFIX,revistavalor.com.br
 DOMAIN-SUFFIX,rexcha.com
 DOMAIN-SUFFIX,rfa.org
 DOMAIN-SUFFIX,rferl.org
@@ -954,6 +984,7 @@ DOMAIN-SUFFIX,seiron-sankei.com
 DOMAIN-SUFFIX,setn.com
 DOMAIN-SUFFIX,settv.com.tw
 DOMAIN-SUFFIX,severreal.org
+DOMAIN-SUFFIX,sgr.com.br
 DOMAIN-SUFFIX,sharpdaily.tw
 DOMAIN-SUFFIX,shelfstuff.com
 DOMAIN-SUFFIX,shenyun.com
@@ -1032,6 +1063,8 @@ DOMAIN-SUFFIX,taste.com.au
 DOMAIN-SUFFIX,techatbloomberg.com
 DOMAIN-SUFFIX,technews.tw
 DOMAIN-SUFFIX,techradar.com
+DOMAIN-SUFFIX,techtudo.com
+DOMAIN-SUFFIX,techtudo.com.br
 DOMAIN-SUFFIX,teenchoice.com
 DOMAIN-SUFFIX,testonfox.com
 DOMAIN-SUFFIX,the-japan-news.com
@@ -1116,6 +1149,8 @@ DOMAIN-SUFFIX,udndata.com
 DOMAIN-SUFFIX,udnfunlife.com
 DOMAIN-SUFFIX,ulifestyle.com.hk
 DOMAIN-SUFFIX,umagazine.com.hk
+DOMAIN-SUFFIX,umsoplaneta.com
+DOMAIN-SUFFIX,umsoplaneta.com.br
 DOMAIN-SUFFIX,universalorlando.com
 DOMAIN-SUFFIX,universalpictures.com
 DOMAIN-SUFFIX,universalpicturesinternational.com
@@ -1126,6 +1161,10 @@ DOMAIN-SUFFIX,upmedia.mg
 DOMAIN-SUFFIX,urduvoa.com
 DOMAIN-SUFFIX,usatoday.com
 DOMAIN-SUFFIX,usatodaynetworkservice.com
+DOMAIN-SUFFIX,valor.com.br
+DOMAIN-SUFFIX,valoreconomico.com.br
+DOMAIN-SUFFIX,valorinveste.com
+DOMAIN-SUFFIX,valorinveste.com.br
 DOMAIN-SUFFIX,vanitaonline.com
 DOMAIN-SUFFIX,vanitha.in
 DOMAIN-SUFFIX,vanithaveedu.com
@@ -1208,6 +1247,7 @@ DOMAIN-SUFFIX,wsjshop.com
 DOMAIN-SUFFIX,wsjwine.com
 DOMAIN-SUFFIX,wujieliulan.com
 DOMAIN-SUFFIX,xinsheng.net
+DOMAIN-SUFFIX,xuxaverso.com.br
 DOMAIN-SUFFIX,xwbo.com
 DOMAIN-SUFFIX,ycombinator.com
 DOMAIN-SUFFIX,ydn.com.tw

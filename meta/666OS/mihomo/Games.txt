@@ -1,7 +1,7 @@
 # NAME: Games
 # AUTHOR: YYDS666
-# UPDATED: 2026-04-04 02:31:43
-# TOTAL: 814
+# UPDATED: 2026-04-06 02:26:15
+# TOTAL: 825
 DOMAIN-SUFFIX,100classicbooks.com
 DOMAIN-SUFFIX,17roco.com
 DOMAIN-SUFFIX,2k.com
@@ -376,6 +376,7 @@ DOMAIN-SUFFIX,mariokart8.com
 DOMAIN-SUFFIX,mariosupersluggers.com
 DOMAIN-SUFFIX,masseffect.com
 DOMAIN-SUFFIX,masseffectarchives.com
+DOMAIN-SUFFIX,masteroforion.com
 DOMAIN-SUFFIX,maxis.com
 DOMAIN-SUFFIX,me4399.com
 DOMAIN-SUFFIX,metalrevolution.com
@@ -727,6 +728,8 @@ DOMAIN-SUFFIX,vrchat.com
 DOMAIN-SUFFIX,vrchat.net
 DOMAIN-SUFFIX,wanmei.com
 DOMAIN-SUFFIX,wanwan4399.com
+DOMAIN-SUFFIX,wargaming.com
+DOMAIN-SUFFIX,wargaming.net
 DOMAIN-SUFFIX,wariolandshakeit.com
 DOMAIN-SUFFIX,wariowarediy.com
 DOMAIN-SUFFIX,warnerbrosgames.com
@@ -741,6 +744,8 @@ DOMAIN-SUFFIX,wegame.com
 DOMAIN-SUFFIX,wegame.com.cn
 DOMAIN-SUFFIX,wegameplus.com
 DOMAIN-SUFFIX,werepository.com.cn
+DOMAIN-SUFFIX,wgcdn.co
+DOMAIN-SUFFIX,wgcrowd.io
 DOMAIN-SUFFIX,wii-u.com
 DOMAIN-SUFFIX,wiifit.com
 DOMAIN-SUFFIX,wiifitu.com
@@ -755,7 +760,13 @@ DOMAIN-SUFFIX,wmsjsteam.com
 DOMAIN-SUFFIX,wo1wan.com
 DOMAIN-SUFFIX,worldflipper.akamaized.net
 DOMAIN-SUFFIX,worldflipper.jp
+DOMAIN-SUFFIX,worldoftanks.com
+DOMAIN-SUFFIX,worldoftanks.eu
 DOMAIN-SUFFIX,worldofwarcraft.com
+DOMAIN-SUFFIX,worldofwarplanes.com
+DOMAIN-SUFFIX,worldofwarships.com
+DOMAIN-SUFFIX,wotblitz.com
+DOMAIN-SUFFIX,wowsblitz.com
 DOMAIN-SUFFIX,wtmobile.com
 DOMAIN-SUFFIX,xboxab.com
 DOMAIN-SUFFIX,xboxgamepass.com

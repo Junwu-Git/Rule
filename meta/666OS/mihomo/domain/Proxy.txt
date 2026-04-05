@@ -1,7 +1,7 @@
 # NAME: Proxy
 # AUTHOR: YYDS666
-# UPDATED: 2026-04-04 02:33:58
-# TOTAL: 4385
+# UPDATED: 2026-04-06 02:28:36
+# TOTAL: 4389
 +.000webhost.com
 +.1-apple.com.tw
 +.1000giri.net
@@ -229,6 +229,7 @@
 +.appsto.re
 +.aptoide.com
 +.arc.net
++.archive-it.org
 +.archive.fo
 +.archive.is
 +.archive.li
@@ -899,6 +900,7 @@
 +.dmhy.org
 +.dmm.co.jp
 +.dns.cloudflare.com
++.dns.sb
 +.dns2go.com
 +.dnscrypt.org
 +.dnssec.net
@@ -909,6 +911,7 @@
 +.dockerstatus.com
 +.docs.new
 +.documentingreality.com
++.doh.sb
 +.dolc.de
 +.dolf.org.hk
 +.dongtaiwang.com
@@ -916,6 +919,7 @@
 +.doom9.org
 +.doosho.com
 +.doourbest.org
++.dot.sb
 +.dotplane.com
 +.dotsub.com
 +.dotvpn.com
