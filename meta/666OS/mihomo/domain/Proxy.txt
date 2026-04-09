@@ -1,7 +1,7 @@
 # NAME: Proxy
 # AUTHOR: YYDS666
-# UPDATED: 2026-04-08 02:46:45
-# TOTAL: 4390
+# UPDATED: 2026-04-10 02:47:08
+# TOTAL: 4387
 +.000webhost.com
 +.1-apple.com.tw
 +.1000giri.net
@@ -179,11 +179,10 @@
 +.angola.org
 +.angularjs.org
 +.aniscartujo.com
-+.annas-archive.in
-+.annas-archive.li
++.annas-archive.gd
++.annas-archive.gl
 +.annas-archive.org
-+.annas-archive.pm
-+.annas-archive.se
++.annas-archive.pk
 +.anobii.com
 +.anonfiles.com
 +.anonymouse.org
@@ -2210,7 +2209,6 @@
 +.medibang.com
 +.medium.com
 +.meee.com.tw
-+.meetup.com
 +.mega.co.nz
 +.mega.io
 +.mega.nz
@@ -2278,6 +2276,7 @@
 +.mirrormedia.mg
 +.missav.com
 +.missav.ws
++.mistral.ai
 +.mitbbs.com
 +.miuipolska.pl
 +.mixero.com
@@ -2786,7 +2785,6 @@
 +.putty.org
 +.pximg.net
 +.python.com.tw
-+.pytorch.org
 +.qbittorrent.org
 +.qgirl.com.tw
 +.qi-gong.me
@@ -3267,7 +3265,6 @@
 +.telegram.org
 +.telegram.space
 +.telegramdownload.com
-+.telegraph.co.uk
 +.telesco.pe
 +.tellapart.com
 +.temu.com
