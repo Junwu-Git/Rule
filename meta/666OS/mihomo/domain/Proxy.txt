@@ -1,7 +1,7 @@
 # NAME: Proxy
 # AUTHOR: YYDS666
-# UPDATED: 2026-04-10 02:47:08
-# TOTAL: 4387
+# UPDATED: 2026-04-12 02:26:58
+# TOTAL: 4388
 +.000webhost.com
 +.1-apple.com.tw
 +.1000giri.net
@@ -2939,6 +2939,7 @@
 +.savetibet.org
 +.savetibetstore.org
 +.saveuighur.org
++.sbti.unun.dev
 +.scache.vzw.com
 +.scache1.vzw.com
 +.scache2.vzw.com

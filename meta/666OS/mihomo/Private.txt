@@ -1,7 +1,7 @@
 # NAME: Private
 # AUTHOR: YYDS666
-# UPDATED: 2026-04-10 02:47:09
-# TOTAL: 223
+# UPDATED: 2026-04-12 02:26:59
+# TOTAL: 222
 DOMAIN-SUFFIX,0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.ip6.arpa
 DOMAIN-SUFFIX,0.in-addr.arpa
 DOMAIN-SUFFIX,0.openwrt.pool.ntp.org
@@ -179,7 +179,6 @@ DOMAIN-SUFFIX,stun.l.google.com
 DOMAIN-SUFFIX,stun.services.mozilla.com
 DOMAIN-SUFFIX,tendawifi.com
 DOMAIN-SUFFIX,test
-DOMAIN-SUFFIX,test.steampowered.com
 DOMAIN-SUFFIX,time6.aliyun.com
 DOMAIN-SUFFIX,time6.apple.com
 DOMAIN-SUFFIX,time7.aliyun.com

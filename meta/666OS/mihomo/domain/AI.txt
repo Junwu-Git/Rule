@@ -1,7 +1,7 @@
 # NAME: AI
 # AUTHOR: YYDS666
-# UPDATED: 2026-04-10 02:44:59
-# TOTAL: 218
+# UPDATED: 2026-04-12 02:26:59
+# TOTAL: 222
 +.ai.com
 +.ai.studio
 +.aida.googleapis.com
@@ -66,6 +66,9 @@
 +.duck.ai
 +.elevenlabs.com
 +.elevenlabs.io
++.envato-static.com
++.envato.com
++.envatousercontent.com
 +.events.statsigapi.net
 +.featuregates.org
 +.gateway.ai.cloudflare.com
@@ -150,6 +153,7 @@
 +.stripe.com
 +.synthesia.io
 +.tabnine.com
++.themeforest.net
 +.trae.ai
 +.turn.livekit.cloud
 +.windsurf.build
