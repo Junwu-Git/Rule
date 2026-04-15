@@ -1,7 +1,7 @@
 # NAME: Proxy
 # AUTHOR: YYDS666
-# UPDATED: 2026-04-14 02:58:21
-# TOTAL: 4388
+# UPDATED: 2026-04-16 02:57:52
+# TOTAL: 4376
 +.000webhost.com
 +.1-apple.com.tw
 +.1000giri.net
@@ -1702,8 +1702,6 @@
 +.hk.jiepang.com
 +.hk01.com
 +.hka8964.wordpress.com
-+.hkacg.com
-+.hkacg.net
 +.hkanews.wordpress.com
 +.hkbookcity.com
 +.hkchronicles.com
@@ -2337,7 +2335,6 @@
 +.muzi.net
 +.muzu.tv
 +.mvg.jp
-+.mx981.com
 +.my-private-network.co.uk
 +.my.pcloud.com
 +.myaudiocast.com
@@ -2546,6 +2543,7 @@
 +.ooni.org
 +.open.firstory.me
 +.openai.com
++.openart.ai
 +.opencritic.com
 +.opendemocracy.net
 +.openid.net
@@ -2913,13 +2911,6 @@
 +.s-cute.com
 +.s.yimg.com
 +.s3-ap-northeast-1.amazonaws.com
-+.s3-ap-northeast-2.amazonaws.com
-+.s3-ap-southeast-1.amazonaws.com
-+.s3-ap-southeast-2.amazonaws.com
-+.s3-eu-central-1.amazonaws.com
-+.s3.ap-northeast-2.amazonaws.com
-+.s3.eu-central-1.amazonaws.com
-+.s3.us-east-1.amazonaws.com
 +.sacks.com
 +.sacom.hk
 +.sadistic-v.com
@@ -3700,7 +3691,6 @@
 +.vrporn.com
 +.vrsmash.com
 +.vtunnel.com
-+.vuku.cc
 +.vultryhw.com
 +.vzw.com
 +.w-pool.com
@@ -3899,7 +3889,6 @@
 +.xijie.wordpress.com
 +.xinjiangpolicefiles.org
 +.xinmiao.com.hk
-+.xjp.cc
 +.xjtravelguide.com
 +.xm.com
 +.xml-training-guide.com
@@ -4153,7 +4142,6 @@ david-kilgour.com
 deck.ly
 digiland.tw
 disk.yandex.com
-download.aircrack-ng.org
 dscn.info
 dstk.dk
 duga.jp
