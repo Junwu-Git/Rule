@@ -1,6 +1,6 @@
 # NAME: Facebook
 # AUTHOR: YYDS666
-# UPDATED: 2026-04-16 03:00:12
+# UPDATED: 2026-04-18 02:41:16
 # TOTAL: 566
 DOMAIN,fbcdn-a.akamaihd.net
 DOMAIN-SUFFIX,aboutfacebook.com
