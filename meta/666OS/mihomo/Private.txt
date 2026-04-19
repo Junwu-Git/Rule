@@ -1,7 +1,7 @@
 # NAME: Private
 # AUTHOR: YYDS666
-# UPDATED: 2026-04-18 02:43:38
-# TOTAL: 222
+# UPDATED: 2026-04-20 02:31:57
+# TOTAL: 223
 DOMAIN-SUFFIX,0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.ip6.arpa
 DOMAIN-SUFFIX,0.in-addr.arpa
 DOMAIN-SUFFIX,0.openwrt.pool.ntp.org
@@ -117,6 +117,7 @@ DOMAIN-SUFFIX,invalid
 DOMAIN-SUFFIX,ip6-localhost
 DOMAIN-SUFFIX,ip6-loopback
 DOMAIN-SUFFIX,jp.ntp.org.cn
+DOMAIN-SUFFIX,kis.v2.scr.kaspersky-labs.com
 DOMAIN-SUFFIX,kr.ntp.org.cn
 DOMAIN-SUFFIX,lan
 DOMAIN-SUFFIX,leike.cc

@@ -1,7 +1,7 @@
 # NAME: Private
 # AUTHOR: YYDS666
-# UPDATED: 2026-04-18 02:43:38
-# TOTAL: 227
+# UPDATED: 2026-04-20 02:31:57
+# TOTAL: 229
 +.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.ip6.arpa
 +.0.in-addr.arpa
 +.0.openwrt.pool.ntp.org
@@ -117,6 +117,7 @@
 +.ip6-localhost
 +.ip6-loopback
 +.jp.ntp.org.cn
++.kis.v2.scr.kaspersky-labs.com
 +.kr.ntp.org.cn
 +.lan
 +.leike.cc
@@ -220,6 +221,7 @@
 +.zte.home
 asusrouter.com
 instant.arubanetworks.com
+local.adguard.org
 miwifi.com
 oasisauth.h3c.com
 router.asus.com

@@ -1,7 +1,7 @@
 # NAME: SocialMedia
 # AUTHOR: YYDS666
-# UPDATED: 2026-04-18 02:41:16
-# TOTAL: 606
+# UPDATED: 2026-04-20 02:31:58
+# TOTAL: 626
 +.9ineverse.com
 +.aboutfacebook.com
 +.accessfacebookfromschool.com
@@ -12,8 +12,11 @@
 +.acheterdesfollowersinstagram.com
 +.acheterfollowersinstagram.com
 +.ads-twitter.com
++.adv.vk.com
 +.advancediddetection.com
 +.analytics.facebook.com
++.analytics.vk.com
++.apiok.ru
 +.askfacebook.net
 +.askfacebook.org
 +.atdmt2.com
@@ -28,6 +31,7 @@
 +.buyingfacebooklikes.com
 +.careersatfb.com
 +.carstagram.com
++.cdn-vk.net
 +.cdn-vk.ru
 +.cdninstagram.com
 +.celebgramme.com
@@ -384,9 +388,9 @@
 +.igcdn.com
 +.igsonar.com
 +.igtv.com
-+.imgsmail.ru
 +.imstagram.com
 +.imtagram.com
++.insideok.ru
 +.instaadder.com
 +.instachecker.com
 +.instafallow.com
@@ -460,7 +464,6 @@
 +.lnkd.in
 +.lnstagram-help.com
 +.login-account.net
-+.mail.ru
 +.maniakey.homes
 +.markzuckerberg.com
 +.mastodon.online
@@ -493,20 +496,25 @@
 +.mobilefacebook.com
 +.mof.kemomi.me
 +.moneywithfacebook.com
-+.mradx.net
++.ms.vk.com
++.ms.vk.ru
 +.msk.ilnk.info
 +.msk.kitazawa.me
 +.mvk.com
-+.mycdn.me
 +.myfbfans.com
 +.naver.jp
 +.newsfeed.com
 +.nextstop.com
 +.nhncorp.jp
 +.nijimiss.moe
++.odkl.ru
++.odnoklassniki.ru
 +.oekakiskey.com
++.ok.me
 +.ok.ru
 +.okcdn.ru
++.okl.lt
++.oktech.ru
 +.oninstagram.com
 +.online-deals.net
 +.online-instagram.com
@@ -527,6 +535,7 @@
 +.supportfacebook.com
 +.sushi.ski
 +.t.co
++.target.vk.ru
 +.tellapart.com
 +.terragraph.com
 +.thefacebook.com
@@ -555,40 +564,42 @@
 +.twttr.net
 +.twvid.com
 +.userapi.com
++.userapi.ru
 +.viewpointsfromfacebook.com
 +.vine.co
 +.vk-analytics.ru
-+.vk-apps.com
-+.vk-apps.ru
 +.vk-cdn.me
 +.vk-cdn.net
 +.vk-portal.net
 +.vk.cc
 +.vk.com
-+.vk.company
 +.vk.design
 +.vk.link
 +.vk.me
 +.vk.ru
-+.vk.team
 +.vkcache.com
++.vkcdnservice.com
 +.vkcloud-static.ru
-+.vkgo.app
-+.vklive.app
 +.vkmessenger.app
 +.vkmessenger.com
++.vkontakte.com
 +.vkontakte.ru
++.vkpay.app
++.vkpay.com
++.vkpay.io
++.vkpay.ru
++.vktech-static.ru
 +.vkuser.net
 +.vkuseraudio.com
 +.vkuseraudio.net
 +.vkuseraudio.ru
 +.vkusercdn.ru
++.vkuserlive.com
 +.vkuserlive.net
 +.vkuserphoto.ru
 +.vkuservideo.com
 +.vkuservideo.net
 +.vkuservideo.ru
-+.vkvideo.ru
 +.web-instagram.net
 +.whyfacebook.com
 +.workplace.com
@@ -602,9 +613,18 @@
 +.x.com
 +.zuckerberg.com
 +.zuckerberg.net
+adblogger.vk.com
+adblogger.vk.ru
+ads.vk.com
+ads.vk.ru
+adv.vk.ru
+advk.vk.ru
+analytics.vk.ru
 e122475.dscg.akamaiedge.net
 fbcdn-a.akamaihd.net
 licdn.cn.cdn20.com
 linkedin.sc.omtrdc.net
 st-ok-pts.cdn-vk.ru
 st-ok.cdn-vk.ru
+stats.vk-portal.net
+target.vk.com

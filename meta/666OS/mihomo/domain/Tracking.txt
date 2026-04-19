@@ -1,7 +1,7 @@
 # NAME: Tracking
 # AUTHOR: YYDS666
-# UPDATED: 2026-04-18 02:41:16
-# TOTAL: 540
+# UPDATED: 2026-04-20 02:31:57
+# TOTAL: 529
 +.adjust.com
 +.ads.linkedin.com
 +.airpr.com
@@ -36,6 +36,8 @@
 +.mparticle.com
 +.mvgroup.org
 +.nexac.com
++.nnm-club.cc
++.nnm-club.info
 +.nr-data.net
 +.pardot.com
 +.parrable.com
@@ -46,6 +48,7 @@
 +.quantserve.com
 +.rtbasia.com
 +.scorecardresearch.com
++.searchtor.to
 +.seewhy.com
 +.segment.com
 +.segment.io
@@ -140,7 +143,6 @@ bt.edwardk.info
 bt.firebit.org
 bt.hliang.com
 bt.ktrackers.com
-bt.nnm-club.info
 bt.okmp3.ru
 bt.poletracker.org
 bt.ptlsp.com
@@ -149,13 +151,12 @@ bt.rghost.net
 bt.sc-ol.com
 bt.unionpeer.org
 bt.zlofenix.org
-bt02.nnm-club.cc
-bt02.nnm-club.info
 bt1.archive.org
 bt1.xxxxbt.cc
 bt2.54new.com
 bt2.archive.org
 bt2.edwardk.info
+bt4.t-ru.org
 btfile.sdo.com
 btracker.top
 bttracker.debian.org
@@ -224,7 +225,6 @@ music-torrent.net
 mvgforumtracker.mvgroup.org
 mvgroup.org
 new-line.net
-nnmclub.to
 nyaa.tracker.wf
 o.clarity.ms
 odd-hd.fr
@@ -249,14 +249,7 @@ openbittorrent.com
 opentor.org
 opentracker.acgnx.com
 opentracker.acgnx.se
-opentracker.dg2.i2p
-opentracker.eeptorrent.i2p
-opentracker.fattydove.i2p
-opentracker.i2p.rocks
 opentracker.io
-opentracker.r4sas.i2p
-opentracker.simp.i2p
-opentracker.skank.i2p
 opentrackr.org
 oscar.reyesleon.xyz
 p2p.0g.cx
@@ -271,7 +264,6 @@ public.demonoid.ch
 public.tracker.vraphim.com
 pubt.net
 qg.lorzl.gq
-qimlze77z7w32lx2ntnwkuqslrzlsqy7774v3urueuarafyqik5a.b32.i2p
 retracker.ip.ncnet.ru
 retracker.lanta.me
 retracker.local
@@ -292,7 +284,6 @@ share.dmhy.org
 share.hkg-fansub.info
 shubt.net
 siambit.com
-sigmatracker.i2p
 su-data.com
 sugoi.pomf.se
 sukebei.tracker.wf
@@ -511,7 +502,6 @@ tracker2.ctix.cn
 tracker2.dler.com
 tracker2.dler.org
 tracker2.itzmx.com
-tracker2.postman.i2p
 tracker2.torrentino.com
 tracker3.dler.org
 tracker3.itzmx.com
@@ -537,7 +527,6 @@ xbtrutor.com
 xtremewrestlingtorrents.net
 y.paranoid.agency
 y.t-1.org
-yggtracker.i2p.rocks
 yolo.liberbear.com
 z.paranoid.agency
 zgsdk.zhugeio.com

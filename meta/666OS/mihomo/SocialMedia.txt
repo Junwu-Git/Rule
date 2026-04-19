@@ -1,7 +1,7 @@
 # NAME: SocialMedia
 # AUTHOR: YYDS666
-# UPDATED: 2026-04-18 02:41:16
-# TOTAL: 587
+# UPDATED: 2026-04-20 02:31:58
+# TOTAL: 595
 DOMAIN-SUFFIX,9ineverse.com
 DOMAIN-SUFFIX,aboutfacebook.com
 DOMAIN-SUFFIX,accessfacebookfromschool.com
@@ -12,8 +12,11 @@ DOMAIN-SUFFIX,acheter-followers-instagram.com
 DOMAIN-SUFFIX,acheterdesfollowersinstagram.com
 DOMAIN-SUFFIX,acheterfollowersinstagram.com
 DOMAIN-SUFFIX,ads-twitter.com
+DOMAIN-SUFFIX,adv.vk.com
 DOMAIN-SUFFIX,advancediddetection.com
 DOMAIN-SUFFIX,analytics.facebook.com
+DOMAIN-SUFFIX,analytics.vk.com
+DOMAIN-SUFFIX,apiok.ru
 DOMAIN-SUFFIX,askfacebook.net
 DOMAIN-SUFFIX,askfacebook.org
 DOMAIN-SUFFIX,atdmt2.com
@@ -28,6 +31,7 @@ DOMAIN-SUFFIX,buicha.social
 DOMAIN-SUFFIX,buyingfacebooklikes.com
 DOMAIN-SUFFIX,careersatfb.com
 DOMAIN-SUFFIX,carstagram.com
+DOMAIN-SUFFIX,cdn-vk.net
 DOMAIN-SUFFIX,cdn-vk.ru
 DOMAIN-SUFFIX,cdninstagram.com
 DOMAIN-SUFFIX,celebgramme.com
@@ -369,9 +373,9 @@ DOMAIN-SUFFIX,ig.me
 DOMAIN-SUFFIX,igcdn.com
 DOMAIN-SUFFIX,igsonar.com
 DOMAIN-SUFFIX,igtv.com
-DOMAIN-SUFFIX,imgsmail.ru
 DOMAIN-SUFFIX,imstagram.com
 DOMAIN-SUFFIX,imtagram.com
+DOMAIN-SUFFIX,insideok.ru
 DOMAIN-SUFFIX,instaadder.com
 DOMAIN-SUFFIX,instachecker.com
 DOMAIN-SUFFIX,instafallow.com
@@ -445,7 +449,6 @@ DOMAIN-SUFFIX,liverail.tv
 DOMAIN-SUFFIX,lnkd.in
 DOMAIN-SUFFIX,lnstagram-help.com
 DOMAIN-SUFFIX,login-account.net
-DOMAIN-SUFFIX,mail.ru
 DOMAIN-SUFFIX,maniakey.homes
 DOMAIN-SUFFIX,markzuckerberg.com
 DOMAIN-SUFFIX,mastodon.online
@@ -465,20 +468,25 @@ DOMAIN-SUFFIX,mk.yopo.work
 DOMAIN-SUFFIX,mobilefacebook.com
 DOMAIN-SUFFIX,mof.kemomi.me
 DOMAIN-SUFFIX,moneywithfacebook.com
-DOMAIN-SUFFIX,mradx.net
+DOMAIN-SUFFIX,ms.vk.com
+DOMAIN-SUFFIX,ms.vk.ru
 DOMAIN-SUFFIX,msk.ilnk.info
 DOMAIN-SUFFIX,msk.kitazawa.me
 DOMAIN-SUFFIX,mvk.com
-DOMAIN-SUFFIX,mycdn.me
 DOMAIN-SUFFIX,myfbfans.com
 DOMAIN-SUFFIX,naver.jp
 DOMAIN-SUFFIX,newsfeed.com
 DOMAIN-SUFFIX,nextstop.com
 DOMAIN-SUFFIX,nhncorp.jp
 DOMAIN-SUFFIX,nijimiss.moe
+DOMAIN-SUFFIX,odkl.ru
+DOMAIN-SUFFIX,odnoklassniki.ru
 DOMAIN-SUFFIX,oekakiskey.com
+DOMAIN-SUFFIX,ok.me
 DOMAIN-SUFFIX,ok.ru
 DOMAIN-SUFFIX,okcdn.ru
+DOMAIN-SUFFIX,okl.lt
+DOMAIN-SUFFIX,oktech.ru
 DOMAIN-SUFFIX,oninstagram.com
 DOMAIN-SUFFIX,online-deals.net
 DOMAIN-SUFFIX,online-instagram.com
@@ -499,6 +507,7 @@ DOMAIN-SUFFIX,submarin.online
 DOMAIN-SUFFIX,supportfacebook.com
 DOMAIN-SUFFIX,sushi.ski
 DOMAIN-SUFFIX,t.co
+DOMAIN-SUFFIX,target.vk.ru
 DOMAIN-SUFFIX,tellapart.com
 DOMAIN-SUFFIX,terragraph.com
 DOMAIN-SUFFIX,thefacebook.com
@@ -523,40 +532,38 @@ DOMAIN-SUFFIX,twttr.com
 DOMAIN-SUFFIX,twttr.net
 DOMAIN-SUFFIX,twvid.com
 DOMAIN-SUFFIX,userapi.com
+DOMAIN-SUFFIX,userapi.ru
 DOMAIN-SUFFIX,viewpointsfromfacebook.com
 DOMAIN-SUFFIX,vine.co
 DOMAIN-SUFFIX,vk-analytics.ru
-DOMAIN-SUFFIX,vk-apps.com
-DOMAIN-SUFFIX,vk-apps.ru
 DOMAIN-SUFFIX,vk-cdn.me
 DOMAIN-SUFFIX,vk-cdn.net
 DOMAIN-SUFFIX,vk-portal.net
 DOMAIN-SUFFIX,vk.cc
 DOMAIN-SUFFIX,vk.com
-DOMAIN-SUFFIX,vk.company
 DOMAIN-SUFFIX,vk.design
 DOMAIN-SUFFIX,vk.link
 DOMAIN-SUFFIX,vk.me
 DOMAIN-SUFFIX,vk.ru
-DOMAIN-SUFFIX,vk.team
 DOMAIN-SUFFIX,vkcache.com
+DOMAIN-SUFFIX,vkcdnservice.com
 DOMAIN-SUFFIX,vkcloud-static.ru
-DOMAIN-SUFFIX,vkgo.app
-DOMAIN-SUFFIX,vklive.app
 DOMAIN-SUFFIX,vkmessenger.app
 DOMAIN-SUFFIX,vkmessenger.com
+DOMAIN-SUFFIX,vkontakte.com
 DOMAIN-SUFFIX,vkontakte.ru
+DOMAIN-SUFFIX,vktech-static.ru
 DOMAIN-SUFFIX,vkuser.net
 DOMAIN-SUFFIX,vkuseraudio.com
 DOMAIN-SUFFIX,vkuseraudio.net
 DOMAIN-SUFFIX,vkuseraudio.ru
 DOMAIN-SUFFIX,vkusercdn.ru
+DOMAIN-SUFFIX,vkuserlive.com
 DOMAIN-SUFFIX,vkuserlive.net
 DOMAIN-SUFFIX,vkuserphoto.ru
 DOMAIN-SUFFIX,vkuservideo.com
 DOMAIN-SUFFIX,vkuservideo.net
 DOMAIN-SUFFIX,vkuservideo.ru
-DOMAIN-SUFFIX,vkvideo.ru
 DOMAIN-SUFFIX,web-instagram.net
 DOMAIN-SUFFIX,whyfacebook.com
 DOMAIN-SUFFIX,workplace.com
@@ -573,6 +580,7 @@ DOMAIN-SUFFIX,zuckerberg.net
 DOMAIN-KEYWORD,facebook
 DOMAIN-KEYWORD,misskey
 DOMAIN-KEYWORD,twitter
+DOMAIN-KEYWORD,vkpay
 IP-CIDR,103.2.28.0/22,no-resolve
 IP-CIDR,119.235.224.0/21,no-resolve
 IP-CIDR,119.235.232.0/23,no-resolve
