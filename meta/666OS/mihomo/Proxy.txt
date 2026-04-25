@@ -1,7 +1,7 @@
 # NAME: Proxy
 # AUTHOR: YYDS666
-# UPDATED: 2026-04-24 02:55:02
-# TOTAL: 3901
+# UPDATED: 2026-04-26 02:33:30
+# TOTAL: 3902
 DOMAIN-SUFFIX,000webhost.com
 DOMAIN-SUFFIX,1-apple.com.tw
 DOMAIN-SUFFIX,1000giri.net
@@ -2980,6 +2980,7 @@ DOMAIN-SUFFIX,tbsn.org
 DOMAIN-SUFFIX,tdesktop.com
 DOMAIN-SUFFIX,teachparentstech.org
 DOMAIN-SUFFIX,teams.microsoft.com
+DOMAIN-SUFFIX,techbang.com
 DOMAIN-SUFFIX,technews.tw
 DOMAIN-SUFFIX,techspot.com
 DOMAIN-SUFFIX,techviz.net

@@ -1,7 +1,7 @@
 # NAME: Proxy
 # AUTHOR: YYDS666
-# UPDATED: 2026-04-24 02:55:02
-# TOTAL: 4384
+# UPDATED: 2026-04-26 02:33:30
+# TOTAL: 4385
 +.000webhost.com
 +.1-apple.com.tw
 +.1000giri.net
@@ -3247,6 +3247,7 @@
 +.tdesktop.com
 +.teachparentstech.org
 +.teams.microsoft.com
++.techbang.com
 +.technews.tw
 +.techspot.com
 +.techviz.net

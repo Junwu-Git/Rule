@@ -1,7 +1,7 @@
 # NAME: Games
 # AUTHOR: YYDS666
-# UPDATED: 2026-04-24 02:52:51
-# TOTAL: 825
+# UPDATED: 2026-04-26 02:35:52
+# TOTAL: 826
 DOMAIN-SUFFIX,100classicbooks.com
 DOMAIN-SUFFIX,17roco.com
 DOMAIN-SUFFIX,2k.com
@@ -240,6 +240,7 @@ DOMAIN-SUFFIX,flightsimulator.com
 DOMAIN-SUFFIX,flipnotestudio.com
 DOMAIN-SUFFIX,forevernine.com
 DOMAIN-SUFFIX,forgecdn.net
+DOMAIN-SUFFIX,fortnite-vod.akamaized.net
 DOMAIN-SUFFIX,fortnite.com
 DOMAIN-SUFFIX,forza.net
 DOMAIN-SUFFIX,forzamotorsport.net
