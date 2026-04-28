@@ -1,7 +1,7 @@
 # NAME: AI
 # AUTHOR: YYDS666
-# UPDATED: 2026-04-26 02:35:54
-# TOTAL: 231
+# UPDATED: 2026-04-28 03:02:03
+# TOTAL: 232
 +.agentclientprotocol.com
 +.ai.com
 +.ai.studio
@@ -171,6 +171,7 @@
 +.youmind.ai
 +.youmind.com
 +.youmind.site
++.zed.dev
 ai.google.dev
 aistudio.google.com
 alkalicore-pa.clients6.google.com
