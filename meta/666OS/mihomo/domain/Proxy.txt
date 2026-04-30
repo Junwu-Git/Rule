@@ -1,7 +1,7 @@
 # NAME: Proxy
 # AUTHOR: YYDS666
-# UPDATED: 2026-04-28 03:04:24
-# TOTAL: 4385
+# UPDATED: 2026-04-30 03:05:35
+# TOTAL: 4386
 +.000webhost.com
 +.1-apple.com.tw
 +.1000giri.net
@@ -3571,6 +3571,7 @@
 +.upghsbc.com
 +.upmedia.mg
 +.uproxy.org
++.upsangel.com
 +.uptodown.com
 +.uraban.me
 +.urbandictionary.com

@@ -1,7 +1,7 @@
 # NAME: Proxy
 # AUTHOR: YYDS666
-# UPDATED: 2026-04-28 03:04:23
-# TOTAL: 3902
+# UPDATED: 2026-04-30 03:05:35
+# TOTAL: 3903
 DOMAIN-SUFFIX,000webhost.com
 DOMAIN-SUFFIX,1-apple.com.tw
 DOMAIN-SUFFIX,1000giri.net
@@ -3294,6 +3294,7 @@ DOMAIN-SUFFIX,updates.tdesktop.com
 DOMAIN-SUFFIX,upghsbc.com
 DOMAIN-SUFFIX,upmedia.mg
 DOMAIN-SUFFIX,uproxy.org
+DOMAIN-SUFFIX,upsangel.com
 DOMAIN-SUFFIX,uptodown.com
 DOMAIN-SUFFIX,uraban.me
 DOMAIN-SUFFIX,urbandictionary.com

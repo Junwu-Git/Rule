@@ -1,7 +1,7 @@
 # NAME: Advertising
 # AUTHOR: YYDS666
-# UPDATED: 2026-04-28 03:02:02
-# TOTAL: 966
+# UPDATED: 2026-04-30 03:05:39
+# TOTAL: 969
 +.17gouwuba.com
 +.186078.com
 +.189key.com
@@ -156,6 +156,7 @@
 +.adtrace.org
 +.advertising.com
 +.advertising.yahoo.com
++.advlion.com
 +.adwhirl.com
 +.adwo.com
 +.adxadserv.com
@@ -599,6 +600,7 @@
 +.tynt.com
 +.u-ad.info
 +.uberads.com
++.ubixioe.com
 +.uimserv.net
 +.ultraadserver.com
 +.undertone.com
@@ -689,6 +691,7 @@
 +.yukhj.com
 +.yumimobi.com
 +.yunqingugm.com
++.yunxish.com
 +.zapr.in
 +.zemanta.com
 +.zestads.com

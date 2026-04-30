@@ -1,6 +1,6 @@
 # NAME: NewsMedia
 # AUTHOR: YYDS666
-# UPDATED: 2026-04-28 03:04:24
+# UPDATED: 2026-04-30 03:05:37
 # TOTAL: 1446
 +.1degree.com.au
 +.47gyosei.jp
