@@ -1,6 +1,6 @@
 # NAME: Emby
 # AUTHOR: YYDS666
-# UPDATED: 2026-04-30 03:05:37
+# UPDATED: 2026-05-02 02:54:20
 # TOTAL: 220
 +.114514.quest
 +.123456.al
@@ -122,6 +122,7 @@
 +.misty.ltd
 +.mius.uk
 +.mjjemby.org
++.mobaiemby.site
 +.movie.xeton.dev
 +.mulgore.net
 +.nanflix.net
@@ -172,6 +173,7 @@
 +.tkremby.xyz
 +.trakt.tv
 +.tv.worldline.space
++.uhdnow.com
 +.uuuoo.cc
 +.wiri.tk
 +.xiaoyi.one
@@ -198,7 +200,6 @@ emby.nebula-media.org
 emby.revival.baby
 emby.yomo.lol
 favoritewife.com
-global.uhdnow.com
 jg.sfcj.org
 ju.sfcj.org
 notnetflix.cos.cat
@@ -218,7 +219,6 @@ starharn-cf.nebula-media.org
 starharn.nebula-media.org
 super.yezi.my
 us.nanflix.net
-v1.uhdnow.com
 web-starharn.nebula-media.org
 web.nebula-media.org
 z.sfcj.org

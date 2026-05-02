@@ -1,7 +1,7 @@
 # NAME: China
 # AUTHOR: YYDS666
-# UPDATED: 2026-04-30 03:07:51
-# TOTAL: 116170
+# UPDATED: 2026-05-02 02:56:38
+# TOTAL: 116169
 +.0.zone
 +.00.net
 +.000.link
@@ -108371,7 +108371,6 @@
 +.yodao.net
 +.yodao.org
 +.yodiya.com
-+.yodo1.com
 +.yodo1api.com
 +.yodou.com
 +.yoduzw.com
