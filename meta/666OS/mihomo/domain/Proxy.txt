@@ -1,7 +1,7 @@
 # NAME: Proxy
 # AUTHOR: YYDS666
-# UPDATED: 2026-05-02 02:54:21
-# TOTAL: 4386
+# UPDATED: 2026-05-04 02:42:49
+# TOTAL: 4383
 +.000webhost.com
 +.1-apple.com.tw
 +.1000giri.net
@@ -2939,9 +2939,6 @@
 +.savetibetstore.org
 +.saveuighur.org
 +.sbti.unun.dev
-+.scache.vzw.com
-+.scache1.vzw.com
-+.scache2.vzw.com
 +.schema.org
 +.scholar.google.com
 +.science.org
@@ -3072,6 +3069,7 @@
 +.socks-proxy.net
 +.sockslist.net
 +.softether-download.com
++.softether.co.jp
 +.softether.org
 +.softfamous.com
 +.softwarebychuck.com
@@ -3130,7 +3128,6 @@
 +.sproutcore.com
 +.squirrelvpn.com
 +.ss-link.com
-+.ss7.vzw.com
 +.ssl.webpack.de
 +.sspanel.net
 +.ssr.tools

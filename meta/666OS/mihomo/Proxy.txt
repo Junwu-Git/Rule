@@ -1,7 +1,7 @@
 # NAME: Proxy
 # AUTHOR: YYDS666
-# UPDATED: 2026-05-02 02:54:21
-# TOTAL: 3903
+# UPDATED: 2026-05-04 02:42:49
+# TOTAL: 3900
 DOMAIN-SUFFIX,000webhost.com
 DOMAIN-SUFFIX,1-apple.com.tw
 DOMAIN-SUFFIX,1000giri.net
@@ -2672,9 +2672,6 @@ DOMAIN-SUFFIX,savetibet.org
 DOMAIN-SUFFIX,savetibetstore.org
 DOMAIN-SUFFIX,saveuighur.org
 DOMAIN-SUFFIX,sbti.unun.dev
-DOMAIN-SUFFIX,scache.vzw.com
-DOMAIN-SUFFIX,scache1.vzw.com
-DOMAIN-SUFFIX,scache2.vzw.com
 DOMAIN-SUFFIX,schema.org
 DOMAIN-SUFFIX,scholar.google.com
 DOMAIN-SUFFIX,science.org
@@ -2805,6 +2802,7 @@ DOMAIN-SUFFIX,socialblade.com
 DOMAIN-SUFFIX,socks-proxy.net
 DOMAIN-SUFFIX,sockslist.net
 DOMAIN-SUFFIX,softether-download.com
+DOMAIN-SUFFIX,softether.co.jp
 DOMAIN-SUFFIX,softether.org
 DOMAIN-SUFFIX,softfamous.com
 DOMAIN-SUFFIX,softwarebychuck.com
@@ -2863,7 +2861,6 @@ DOMAIN-SUFFIX,springwood.me
 DOMAIN-SUFFIX,sproutcore.com
 DOMAIN-SUFFIX,squirrelvpn.com
 DOMAIN-SUFFIX,ss-link.com
-DOMAIN-SUFFIX,ss7.vzw.com
 DOMAIN-SUFFIX,ssl.webpack.de
 DOMAIN-SUFFIX,sspanel.net
 DOMAIN-SUFFIX,ssr.tools
