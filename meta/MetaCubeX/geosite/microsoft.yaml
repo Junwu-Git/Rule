@@ -9,6 +9,34 @@ payload:
     - location.microsoft.com
     - github-api.arkoselabs.com
     - github-cloud.s3.amazonaws.com
+    - github-production-release-asset-2e65be.s3.amazonaws.com
+    - github-production-repository-file-5c1aeb.s3.amazonaws.com
+    - github-production-repository-image-32fea6.s3.amazonaws.com
+    - github-production-upload-manifest-file-7fdce7.s3.amazonaws.com
+    - github-production-user-asset-6210df.s3.amazonaws.com
+    - productionresultssa0.blob.core.windows.net
+    - productionresultssa1.blob.core.windows.net
+    - productionresultssa2.blob.core.windows.net
+    - productionresultssa3.blob.core.windows.net
+    - productionresultssa4.blob.core.windows.net
+    - productionresultssa5.blob.core.windows.net
+    - productionresultssa6.blob.core.windows.net
+    - productionresultssa7.blob.core.windows.net
+    - productionresultssa8.blob.core.windows.net
+    - productionresultssa9.blob.core.windows.net
+    - productionresultssa10.blob.core.windows.net
+    - productionresultssa11.blob.core.windows.net
+    - productionresultssa12.blob.core.windows.net
+    - productionresultssa13.blob.core.windows.net
+    - productionresultssa14.blob.core.windows.net
+    - productionresultssa15.blob.core.windows.net
+    - productionresultssa16.blob.core.windows.net
+    - productionresultssa17.blob.core.windows.net
+    - productionresultssa18.blob.core.windows.net
+    - productionresultssa19.blob.core.windows.net
+    - copilot-proxy.githubusercontent.com
+    - copilot-workspace.githubnext.com
+    - copilotprodattachments.blob.core.windows.net
     - az764295.vo.msecnd.net
     - bingsettingssearch.trafficmanager.net
     - default.exp-tas.com
@@ -44,12 +72,12 @@ payload:
     - +.onedriveupdater
     - +.onedrive
     - +.yammer.com
-    - +.msidentity.com
+    - +.msudalosti.com
     - +.microsoft.cl
     - +.microsoft.com
     - +.microsoft.cz
     - +.microsoft.de
-    - +.masalladeloslimites.com
+    - +.microsoft.dk
     - +.microsoft.ee
     - +.microsoft.es
     - +.microsoft.eu
@@ -198,10 +226,10 @@ payload:
     - +.msgamesresearch.com
     - +.msgamestudios.com
     - +.mshome.net
-    - +.bingapis.com
+    - +.msidentity.com
     - +.msocdn.com
     - +.msturing.org
-    - +.msudalosti.com
+    - +.flipwithsurface.com
     - +.mymicrosoft.com
     - +.nextechafrica.net
     - +.nxta.org
@@ -279,11 +307,11 @@ payload:
     - +.microsoftdiplomados.com
     - +.azure-dns.org
     - +.azure-dns.net
-    - +.bing123.com
-    - +.flipwithsurface.com
-    - +.microsoft.dk
+    - +.atom.io
     - +.microsoft.ch
-    - +.office365love.com
+    - +.microsoftnewsforkids.com
+    - +.bingapis.com
+    - +.bingapistatistics.com
     - +.bingparachute.com
     - +.bingsandbox.com
     - +.bingvisualsearch.com
@@ -300,29 +328,29 @@ payload:
     - +.microsoftmxfilantropia.com
     - +.microsoftpartnersolutions.com
     - +.msunlimitedcloudsummit.com
-    - +.bingapistatistics.com
+    - +.office365love.com
     - +.office365tw.com
     - +.renovacionoffice.com
     - +.azure-dns.info
     - +.azure-dns.com
     - +.windowsazure.com
-    - +.githubnext.com
-    - +.git.io
-    - +.atom.io
+    - +.bing123.com
+    - +.dependabot.com
+    - +.gh.io
     - +.ghcr.io
-    - +.githubpreview.dev
+    - +.git.io
     - +.github.ai
     - +.github.blog
     - +.github.com
     - +.github.community
     - +.github.dev
     - +.github.io
-    - +.githubstatus.com
+    - +.githubapp.com
     - +.githubassets.com
     - +.githubhackathon.com
-    - +.gh.io
-    - +.dependabot.com
-    - +.githubapp.com
+    - +.githubnext.com
+    - +.githubpreview.dev
+    - +.githubstatus.com
     - +.githubuniverse.com
     - +.githubusercontent.com
     - +.myoctocat.com
@@ -330,11 +358,10 @@ payload:
     - +.opensource.guide
     - +.repo.new
     - +.thegithubshop.com
-    - +.npmjs.org
-    - +.githubcopilot.com
     - +.npm.community
     - +.npmjs.com
-    - +.tryfunctions.com
+    - +.npmjs.org
+    - +.githubcopilot.com
     - +.adaptivecards.io
     - +.api-extractor.com
     - +.apisof.net
@@ -386,13 +413,13 @@ payload:
     - +.vscode-cdn.net
     - +.vscode-unpkg.net
     - +.xamarin.com
-    - +.trafficmanager.net
+    - +.tryfunctions.com
     - +.msocsp.com
     - +.microsoftnews.cc
     - +.microsoftnews.com
     - +.microsoftnews.net
     - +.microsoftnews.org
-    - +.microsoftnewsforkids.com
+    - +.masalladeloslimites.com
     - +.microsoftnewsforkids.net
     - +.microsoftnewsforkids.org
     - +.microsoftnewskids.com
@@ -411,13 +438,13 @@ payload:
     - +.sharepoint.cn
     - +.livefilestore.com
     - +.1drv.com
+    - +.trafficmanager.net
     - +.serverlesslibrary.net
     - +.playfabapi.com
     - +.playfab.com
     - +.msn.net
     - +.microsoftiotcentral.com
     - +.microsofteca.com
-    - +.microsoftazuresponsorships.com
     - +.microsoft.be
     - +.gamepass.com
     - +.orithegame.com
@@ -502,12 +529,13 @@ payload:
     - +.management-azure-devices-int.net
     - +.management-azure-devices.net
     - +.microsoftazuread-sso.com
-    - +.visualstudio.co.uk
-    - +.live.com.au
+    - +.microsoftazuresponsorships.com
     - +.spoprod-a.akamaihd.net
     - +.skypedata.akadns.net
-    - +.microsoftstore.com.hk
+    - +.visualstudio.co.uk
     - +.skype-edf.akadns.net
+    - +.microsoftstore.com.hk
+    - +.live.com.au
     - +.dcg.microsoft.com
     - +.dynamics.cn
     - +.engkoo.com
@@ -590,7 +618,8 @@ payload:
     - bj1.api.bing.com
     - emoi-cncdn.bing.com
     - +.collector.github.com
-    - +.copilot-telemetry.githubusercontent.com
+    - copilot-telemetry-service.githubusercontent.com
+    - copilot-telemetry.githubusercontent.com
     - +.microsoftreactor.cn
     - +.microsoftreactor.com.cn
     - +.reactorms.com.cn
