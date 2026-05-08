@@ -1,7 +1,7 @@
 # NAME: AI
 # AUTHOR: YYDS666
-# UPDATED: 2026-05-06 03:04:52
-# TOTAL: 187
+# UPDATED: 2026-05-08 03:22:54
+# TOTAL: 189
 DOMAIN-SUFFIX,agentclientprotocol.com
 DOMAIN-SUFFIX,ai.com
 DOMAIN-SUFFIX,ai.studio
@@ -83,6 +83,8 @@ DOMAIN-SUFFIX,generativeai.google
 DOMAIN-SUFFIX,generativelanguage.googleapis.com
 DOMAIN-SUFFIX,githubcopilot.com
 DOMAIN-SUFFIX,githubnext.com
+DOMAIN-SUFFIX,googleapis.com
+DOMAIN-SUFFIX,googleusercontent.com
 DOMAIN-SUFFIX,grazie.ai
 DOMAIN-SUFFIX,grok.com
 DOMAIN-SUFFIX,grok.x.com

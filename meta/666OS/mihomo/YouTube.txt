@@ -1,6 +1,6 @@
 # NAME: YouTube
 # AUTHOR: YYDS666
-# UPDATED: 2026-05-06 03:04:53
+# UPDATED: 2026-05-08 03:25:04
 # TOTAL: 21
 DOMAIN,yt3.googleusercontent.com
 DOMAIN-SUFFIX,ads.youtube.com
