@@ -1,7 +1,7 @@
 # NAME: Games
 # AUTHOR: YYDS666
-# UPDATED: 2026-05-08 03:22:53
-# TOTAL: 1016
+# UPDATED: 2026-05-10 02:41:24
+# TOTAL: 1019
 +.100classicbooks.com
 +.17roco.com
 +.2k.com
@@ -759,6 +759,7 @@
 +.superpapermario.com
 +.supersmashbros.cn
 +.supersmashbros.com.cn
++.supr.cl
 +.supremacy.com
 +.supremacy.net
 +.swjedifallenorder.com
@@ -944,6 +945,8 @@ dlgarenanow-a.akamaihd.net
 dlmobilegarena-a.akamaihd.net
 ea.tt.omtrdc.net
 eaassets-a.akamaihd.net
+end-api.shallow.ink
+end.shallow.ink
 f3b7q2p3.ssl.hwcdn.net
 flightsimulator.azureedge.net
 gamedownloads-rockstargames-com.akamaized.net

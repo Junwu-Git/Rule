@@ -1,7 +1,7 @@
 # NAME: AI
 # AUTHOR: YYDS666
-# UPDATED: 2026-05-08 03:22:54
-# TOTAL: 189
+# UPDATED: 2026-05-10 02:41:25
+# TOTAL: 191
 DOMAIN-SUFFIX,agentclientprotocol.com
 DOMAIN-SUFFIX,ai.com
 DOMAIN-SUFFIX,ai.studio
@@ -14,6 +14,7 @@ DOMAIN-SUFFIX,algolia.net
 DOMAIN-SUFFIX,anthropic.com
 DOMAIN-SUFFIX,antigravity-unleash.goog
 DOMAIN-SUFFIX,antigravity.google
+DOMAIN-SUFFIX,anythingllm.com
 DOMAIN-SUFFIX,api.statsig.com
 DOMAIN-SUFFIX,api2d.com
 DOMAIN-SUFFIX,apis.google.com
@@ -138,6 +139,7 @@ DOMAIN-SUFFIX,openaicom.imgix.net
 DOMAIN-SUFFIX,openart.ai
 DOMAIN-SUFFIX,openclaw.ai
 DOMAIN-SUFFIX,openrouter.ai
+DOMAIN-SUFFIX,openspec.dev
 DOMAIN-SUFFIX,oystermercury.top
 DOMAIN-SUFFIX,pawan.krd
 DOMAIN-SUFFIX,perplexity.ai

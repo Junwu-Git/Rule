@@ -1,7 +1,7 @@
 # NAME: Games
 # AUTHOR: YYDS666
-# UPDATED: 2026-05-08 03:22:53
-# TOTAL: 826
+# UPDATED: 2026-05-10 02:41:24
+# TOTAL: 827
 DOMAIN-SUFFIX,100classicbooks.com
 DOMAIN-SUFFIX,17roco.com
 DOMAIN-SUFFIX,2k.com
@@ -668,6 +668,7 @@ DOMAIN-SUFFIX,supermariorun.com
 DOMAIN-SUFFIX,superpapermario.com
 DOMAIN-SUFFIX,supersmashbros.cn
 DOMAIN-SUFFIX,supersmashbros.com.cn
+DOMAIN-SUFFIX,supr.cl
 DOMAIN-SUFFIX,supremacy.com
 DOMAIN-SUFFIX,supremacy.net
 DOMAIN-SUFFIX,swjedifallenorder.com

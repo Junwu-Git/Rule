@@ -1,7 +1,7 @@
 # NAME: Microsoft
 # AUTHOR: YYDS666
-# UPDATED: 2026-05-08 03:22:54
-# TOTAL: 535
+# UPDATED: 2026-05-10 02:41:25
+# TOTAL: 533
 DOMAIN-SUFFIX,1drv.com
 DOMAIN-SUFFIX,1drv.ms
 DOMAIN-SUFFIX,21vbc.com
@@ -123,7 +123,6 @@ DOMAIN-SUFFIX,bingsandbox.com
 DOMAIN-SUFFIX,bingvisualsearch.com
 DOMAIN-SUFFIX,bingworld.com
 DOMAIN-SUFFIX,blazor.net
-DOMAIN-SUFFIX,blob.core.windows.net
 DOMAIN-SUFFIX,blueaggrestore.com
 DOMAIN-SUFFIX,bluecloudprod.com
 DOMAIN-SUFFIX,bluehatil.com
@@ -152,7 +151,6 @@ DOMAIN-SUFFIX,cn.bing.net
 DOMAIN-SUFFIX,cn.mm.bing.net
 DOMAIN-SUFFIX,codethemicrobit.com
 DOMAIN-SUFFIX,collector.github.com
-DOMAIN-SUFFIX,copilot-telemetry.githubusercontent.com
 DOMAIN-SUFFIX,cortanaanalytics.com
 DOMAIN-SUFFIX,cortanaskills.com
 DOMAIN-SUFFIX,cosmosdb.info

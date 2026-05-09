@@ -1,7 +1,7 @@
 # NAME: AI
 # AUTHOR: YYDS666
-# UPDATED: 2026-05-08 03:22:54
-# TOTAL: 235
+# UPDATED: 2026-05-10 02:41:25
+# TOTAL: 242
 +.agentclientprotocol.com
 +.ai.com
 +.ai.studio
@@ -14,6 +14,7 @@
 +.anthropic.com
 +.antigravity-unleash.goog
 +.antigravity.google
++.anythingllm.com
 +.api.statsig.com
 +.api2d.com
 +.apis.google.com
@@ -138,6 +139,7 @@
 +.openart.ai
 +.openclaw.ai
 +.openrouter.ai
++.openspec.dev
 +.oystermercury.top
 +.pawan.krd
 +.perplexity.ai
@@ -203,8 +205,13 @@ chat.openai.com.cdn.cloudflare.net
 cloudaicompanion.googleapis.com
 cloudcode-pa.googleapis.com
 console.anthropic.com
+copilot-proxy.githubusercontent.com
+copilot-telemetry-service.githubusercontent.com
+copilot-telemetry.githubusercontent.com
+copilot-workspace.githubnext.com
 copilot.github.com
 copilot.microsoft.com
+copilotprodattachments.blob.core.windows.net
 cp4.cloudflare.com
 d3ssuo6fbvr.cloudfront.net
 daily-cloudcode-pa.googleapis.com
