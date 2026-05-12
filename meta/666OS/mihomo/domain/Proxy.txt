@@ -1,7 +1,7 @@
 # NAME: Proxy
 # AUTHOR: YYDS666
-# UPDATED: 2026-05-10 02:41:25
-# TOTAL: 4412
+# UPDATED: 2026-05-12 03:26:48
+# TOTAL: 4414
 +.000webhost.com
 +.1-apple.com.tw
 +.1000giri.net
@@ -839,6 +839,7 @@
 +.darrenliuwei.com
 +.dashlane.com
 +.data-vocabulary.org
++.data18.com
 +.daum.net
 +.dawangidc.com
 +.daxa.cn
@@ -951,6 +952,7 @@
 +.dropbox.com
 +.dropboxapi.com
 +.dropboxusercontent.com
++.dt18.com
 +.dtiblog.com
 +.dtic.mil
 +.dubox.com

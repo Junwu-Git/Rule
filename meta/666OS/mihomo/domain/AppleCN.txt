@@ -1,6 +1,6 @@
 # NAME: AppleCN
 # AUTHOR: YYDS666
-# UPDATED: 2026-05-10 02:41:24
+# UPDATED: 2026-05-12 03:26:49
 # TOTAL: 39
 +.apple-cloudkit.com
 +.apple-dns.cn
