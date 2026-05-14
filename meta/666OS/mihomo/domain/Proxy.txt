@@ -1,7 +1,7 @@
 # NAME: Proxy
 # AUTHOR: YYDS666
-# UPDATED: 2026-05-12 03:26:48
-# TOTAL: 4414
+# UPDATED: 2026-05-14 03:28:01
+# TOTAL: 4415
 +.000webhost.com
 +.1-apple.com.tw
 +.1000giri.net
@@ -669,6 +669,7 @@
 +.chineseupress.com
 +.chingcheong.com
 +.chobit.cc
++.chonglangtv.org
 +.christianfreedom.org
 +.christianstudy.com
 +.christiantimes.org.hk

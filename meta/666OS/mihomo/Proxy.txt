@@ -1,7 +1,7 @@
 # NAME: Proxy
 # AUTHOR: YYDS666
-# UPDATED: 2026-05-12 03:26:48
-# TOTAL: 3931
+# UPDATED: 2026-05-14 03:28:01
+# TOTAL: 3932
 DOMAIN-SUFFIX,000webhost.com
 DOMAIN-SUFFIX,1-apple.com.tw
 DOMAIN-SUFFIX,1000giri.net
@@ -657,6 +657,7 @@ DOMAIN-SUFFIX,chineseradioseattle.com
 DOMAIN-SUFFIX,chineseupress.com
 DOMAIN-SUFFIX,chingcheong.com
 DOMAIN-SUFFIX,chobit.cc
+DOMAIN-SUFFIX,chonglangtv.org
 DOMAIN-SUFFIX,christianfreedom.org
 DOMAIN-SUFFIX,christianstudy.com
 DOMAIN-SUFFIX,christiantimes.org.hk
