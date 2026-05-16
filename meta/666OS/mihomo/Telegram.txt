@@ -1,6 +1,6 @@
 # NAME: Telegram
 # AUTHOR: YYDS666
-# UPDATED: 2026-05-14 03:30:09
+# UPDATED: 2026-05-16 03:13:47
 # TOTAL: 70
 DOMAIN,api.imem.app
 DOMAIN,api.swiftgram.app
