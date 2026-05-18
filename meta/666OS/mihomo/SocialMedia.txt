@@ -1,7 +1,7 @@
 # NAME: SocialMedia
 # AUTHOR: YYDS666
-# UPDATED: 2026-05-16 03:13:49
-# TOTAL: 595
+# UPDATED: 2026-05-18 02:50:45
+# TOTAL: 597
 DOMAIN-SUFFIX,9ineverse.com
 DOMAIN-SUFFIX,aboutfacebook.com
 DOMAIN-SUFFIX,accessfacebookfromschool.com
@@ -480,7 +480,8 @@ DOMAIN-SUFFIX,nextstop.com
 DOMAIN-SUFFIX,nhncorp.jp
 DOMAIN-SUFFIX,nijimiss.moe
 DOMAIN-SUFFIX,odkl.ru
-DOMAIN-SUFFIX,odnoklassniki.ru
+DOMAIN-SUFFIX,odnoklasniki.by
+DOMAIN-SUFFIX,odnoklasniki.ua
 DOMAIN-SUFFIX,oekakiskey.com
 DOMAIN-SUFFIX,ok.me
 DOMAIN-SUFFIX,ok.ru
@@ -579,6 +580,7 @@ DOMAIN-SUFFIX,zuckerberg.com
 DOMAIN-SUFFIX,zuckerberg.net
 DOMAIN-KEYWORD,facebook
 DOMAIN-KEYWORD,misskey
+DOMAIN-KEYWORD,odnoklassniki
 DOMAIN-KEYWORD,twitter
 DOMAIN-KEYWORD,vkpay
 IP-CIDR,103.2.28.0/22,no-resolve

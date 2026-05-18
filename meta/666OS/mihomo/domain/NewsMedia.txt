@@ -1,7 +1,7 @@
 # NAME: NewsMedia
 # AUTHOR: YYDS666
-# UPDATED: 2026-05-16 03:13:49
-# TOTAL: 1446
+# UPDATED: 2026-05-18 02:52:53
+# TOTAL: 1447
 +.1degree.com.au
 +.47gyosei.jp
 +.47news.jp
@@ -586,6 +586,7 @@
 +.geraldoatlarge.com
 +.getnews.jp
 +.gettr.com
++.getwsj.com
 +.gfashion.com
 +.gisplanning.com
 +.glasamerike.net

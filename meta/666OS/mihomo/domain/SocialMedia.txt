@@ -1,7 +1,7 @@
 # NAME: SocialMedia
 # AUTHOR: YYDS666
-# UPDATED: 2026-05-16 03:13:49
-# TOTAL: 626
+# UPDATED: 2026-05-18 02:50:45
+# TOTAL: 634
 +.9ineverse.com
 +.aboutfacebook.com
 +.accessfacebookfromschool.com
@@ -508,7 +508,15 @@
 +.nhncorp.jp
 +.nijimiss.moe
 +.odkl.ru
++.odnoklasniki.by
++.odnoklasniki.ua
++.odnoklassniki.am
++.odnoklassniki.by
++.odnoklassniki.co.ee
++.odnoklassniki.eu
++.odnoklassniki.lv
 +.odnoklassniki.ru
++.odnoklassniki.tj
 +.oekakiskey.com
 +.ok.me
 +.ok.ru

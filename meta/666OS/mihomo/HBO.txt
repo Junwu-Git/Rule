@@ -1,13 +1,14 @@
 # NAME: HBO
 # AUTHOR: YYDS666
-# UPDATED: 2026-05-16 03:16:22
-# TOTAL: 52
+# UPDATED: 2026-05-18 02:52:55
+# TOTAL: 53
 DOMAIN-SUFFIX,beforeigners.com
 DOMAIN-SUFFIX,brightline.tv
 DOMAIN-SUFFIX,cinemax.com
 DOMAIN-SUFFIX,discomax.com
 DOMAIN-SUFFIX,elpionero.es
 DOMAIN-SUFFIX,forthethrone.com
+DOMAIN-SUFFIX,hbo
 DOMAIN-SUFFIX,hbo-europe.com
 DOMAIN-SUFFIX,hbo.ba
 DOMAIN-SUFFIX,hbo.bg

@@ -1,7 +1,7 @@
 # NAME: NewsMedia
 # AUTHOR: YYDS666
-# UPDATED: 2026-05-16 03:13:49
-# TOTAL: 1298
+# UPDATED: 2026-05-18 02:52:53
+# TOTAL: 1299
 DOMAIN-SUFFIX,1degree.com.au
 DOMAIN-SUFFIX,47gyosei.jp
 DOMAIN-SUFFIX,47news.jp
@@ -510,6 +510,7 @@ DOMAIN-SUFFIX,gendai.net
 DOMAIN-SUFFIX,geraldoatlarge.com
 DOMAIN-SUFFIX,getnews.jp
 DOMAIN-SUFFIX,gettr.com
+DOMAIN-SUFFIX,getwsj.com
 DOMAIN-SUFFIX,gfashion.com
 DOMAIN-SUFFIX,gisplanning.com
 DOMAIN-SUFFIX,glasamerike.net

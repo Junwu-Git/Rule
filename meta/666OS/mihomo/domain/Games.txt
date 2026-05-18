@@ -1,7 +1,7 @@
 # NAME: Games
 # AUTHOR: YYDS666
-# UPDATED: 2026-05-16 03:13:44
-# TOTAL: 1019
+# UPDATED: 2026-05-18 02:50:45
+# TOTAL: 1022
 +.100classicbooks.com
 +.17roco.com
 +.2k.com
@@ -674,11 +674,13 @@
 +.scescdn.cn
 +.scid.cn
 +.scsentry.cn
++.sdo.com
 +.seagroup.com
 +.seaofsolitude.com
 +.seeurlpcl.com
 +.sekai.colorfulpalette.org
 +.shadowcomplex.com
++.shengqugames.com
 +.shyxhy.com
 +.sih-db.com
 +.sih.app
@@ -919,6 +921,7 @@
 +.zenlesszonezero.com
 +.zhuoyou.com
 +.zhuoyuegame.com
++.zjshulong.com
 +.zynga.com
 +.zyngaplayersupport.com
 +.zyngapoker.com
