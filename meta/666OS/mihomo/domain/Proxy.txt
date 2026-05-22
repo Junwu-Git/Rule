@@ -1,7 +1,7 @@
 # NAME: Proxy
 # AUTHOR: YYDS666
-# UPDATED: 2026-05-20 03:42:50
-# TOTAL: 4417
+# UPDATED: 2026-05-22 03:42:52
+# TOTAL: 4423
 +.000webhost.com
 +.1-apple.com.tw
 +.1000giri.net
@@ -1075,6 +1075,7 @@
 +.f-droid.org
 +.f2pool.com
 +.f8.com
++.f95zone.to
 +.facebook.com
 +.facebook.de
 +.facebook.design
@@ -1255,6 +1256,7 @@
 +.fxnetworks.com
 +.g-area.org
 +.g-queen.com
++.g.ai
 +.g.co
 +.g0v.social
 +.gab.com
@@ -2095,6 +2097,7 @@
 +.lematin.ch
 +.lemonde.fr
 +.lenwhite.com
++.leonardo.ai
 +.lesoir.be
 +.letscorp.net
 +.letsencrypt.org
@@ -2852,6 +2855,7 @@
 +.raidcall.com.tw
 +.rakuten.co.jp
 +.ramcity.com.au
++.raphael.app
 +.rapidmoviez.com
 +.rapidvpn.com
 +.rarbgprx.org
@@ -2932,6 +2936,7 @@
 +.rti.tw
 +.rtm.tnt-ea.com
 +.rts.ch
++.rule34.us
 +.rule34.xxx
 +.rule34video.com
 +.rumble.com
@@ -3115,6 +3120,7 @@
 +.sos.org
 +.sosad.fun
 +.sosreader.com
++.sotwe.com
 +.soulcaliburhentai.net
 +.soundcloud.com
 +.soundofhope.org

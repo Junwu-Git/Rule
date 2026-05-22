@@ -1,6 +1,6 @@
 # NAME: Apple
 # AUTHOR: YYDS666
-# UPDATED: 2026-05-20 03:42:51
+# UPDATED: 2026-05-22 03:42:53
 # TOTAL: 1212
 DOMAIN-SUFFIX,100beatscheap.com
 DOMAIN-SUFFIX,12diasdepresentesdeitunes.com
