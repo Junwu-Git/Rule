@@ -1,7 +1,7 @@
 # NAME: AI
 # AUTHOR: YYDS666
-# UPDATED: 2026-05-22 03:42:50
-# TOTAL: 242
+# UPDATED: 2026-05-24 02:52:22
+# TOTAL: 244
 +.agentclientprotocol.com
 +.ai.com
 +.ai.studio
@@ -123,6 +123,7 @@
 +.midjourney.com
 +.minimax.io
 +.mistral.ai
++.mozilla.ai
 +.notebooklm.google
 +.notebooklm.google.com
 +.oaifree.com
@@ -166,6 +167,7 @@
 +.stripe.com
 +.synthesia.io
 +.tabnine.com
++.tapnow.ai
 +.themeforest.net
 +.trae.ai
 +.turn.livekit.cloud

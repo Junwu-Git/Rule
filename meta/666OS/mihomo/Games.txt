@@ -1,7 +1,7 @@
 # NAME: Games
 # AUTHOR: YYDS666
-# UPDATED: 2026-05-22 03:42:50
-# TOTAL: 830
+# UPDATED: 2026-05-24 02:52:17
+# TOTAL: 846
 DOMAIN-SUFFIX,100classicbooks.com
 DOMAIN-SUFFIX,17roco.com
 DOMAIN-SUFFIX,2k.com
@@ -44,6 +44,7 @@ DOMAIN-SUFFIX,4399youxi.com
 DOMAIN-SUFFIX,4399yyy.com
 DOMAIN-SUFFIX,5054399.com
 DOMAIN-SUFFIX,5054399.net
+DOMAIN-SUFFIX,573.jp
 DOMAIN-SUFFIX,5wyxi.com
 DOMAIN-SUFFIX,71acg.com
 DOMAIN-SUFFIX,71acg.net
@@ -322,8 +323,19 @@ DOMAIN-SUFFIX,itch.zone
 DOMAIN-SUFFIX,joinsquad.com
 DOMAIN-SUFFIX,joyjoy.net
 DOMAIN-SUFFIX,juequling.com
+DOMAIN-SUFFIX,kgisystems.com
 DOMAIN-SUFFIX,kirbysepicyarn.com
 DOMAIN-SUFFIX,kirbysuperstarultra.com
+DOMAIN-SUFFIX,kiwi.jp
+DOMAIN-SUFFIX,konami-igaming.online
+DOMAIN-SUFFIX,konamicrossmedia.com
+DOMAIN-SUFFIX,konamigaming.com
+DOMAIN-SUFFIX,konamigaming.net
+DOMAIN-SUFFIX,konamigaming.online
+DOMAIN-SUFFIX,konamionline.com
+DOMAIN-SUFFIX,konamiopen.jp
+DOMAIN-SUFFIX,konamisportsclub.jp
+DOMAIN-SUFFIX,konamistyle.jp
 DOMAIN-SUFFIX,kraftonde.com
 DOMAIN-SUFFIX,kurogames.com
 DOMAIN-SUFFIX,kyurem.com
@@ -561,6 +573,8 @@ DOMAIN-SUFFIX,reachthefinals.com
 DOMAIN-SUFFIX,realcybertron.com
 DOMAIN-SUFFIX,realityscan.com
 DOMAIN-SUFFIX,renovacionxboxlive.com
+DOMAIN-SUFFIX,resella.jp
+DOMAIN-SUFFIX,resellablue.com
 DOMAIN-SUFFIX,rgpub.io
 DOMAIN-SUFFIX,riot-games.com
 DOMAIN-SUFFIX,riot.com
@@ -806,6 +820,7 @@ DOMAIN-SUFFIX,yostar.net
 DOMAIN-SUFFIX,yostarplat.com
 DOMAIN-SUFFIX,youba.com
 DOMAIN-SUFFIX,yuanshen.com
+DOMAIN-SUFFIX,yugioh-card.com
 DOMAIN-SUFFIX,yxdmgame.com
 DOMAIN-SUFFIX,yxhapi.com
 DOMAIN-SUFFIX,yxhhdl.com
@@ -823,6 +838,7 @@ DOMAIN-SUFFIX,zyngaplayersupport.com
 DOMAIN-SUFFIX,zyngapoker.com
 DOMAIN-KEYWORD,garena
 DOMAIN-KEYWORD,goto-game
+DOMAIN-KEYWORD,konami
 DOMAIN-KEYWORD,leagueoflegends
 DOMAIN-KEYWORD,nintendo
 DOMAIN-KEYWORD,nintendoswitch

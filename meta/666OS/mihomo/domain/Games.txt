@@ -1,7 +1,7 @@
 # NAME: Games
 # AUTHOR: YYDS666
-# UPDATED: 2026-05-22 03:42:50
-# TOTAL: 1022
+# UPDATED: 2026-05-24 02:52:17
+# TOTAL: 1042
 +.100classicbooks.com
 +.17roco.com
 +.2k.com
@@ -44,6 +44,7 @@
 +.4399yyy.com
 +.5054399.com
 +.5054399.net
++.573.jp
 +.5wyxi.com
 +.71acg.com
 +.71acg.net
@@ -336,8 +337,24 @@
 +.joinsquad.com
 +.joyjoy.net
 +.juequling.com
++.kgisystems.com
 +.kirbysepicyarn.com
 +.kirbysuperstarultra.com
++.kiwi.jp
++.konami
++.konami-igaming.online
++.konami.co.jp
++.konami.com
++.konami.net
++.konami.org
++.konamicrossmedia.com
++.konamigaming.com
++.konamigaming.net
++.konamigaming.online
++.konamionline.com
++.konamiopen.jp
++.konamisportsclub.jp
++.konamistyle.jp
 +.kraftonde.com
 +.kurogames.com
 +.kyurem.com
@@ -611,6 +628,8 @@
 +.realcybertron.com
 +.realityscan.com
 +.renovacionxboxlive.com
++.resella.jp
++.resellablue.com
 +.rgpub.io
 +.riot-games.com
 +.riot.com
@@ -910,6 +929,7 @@
 +.yostarplat.com
 +.youba.com
 +.yuanshen.com
++.yugioh-card.com
 +.yxdmgame.com
 +.yxhapi.com
 +.yxhhdl.com
