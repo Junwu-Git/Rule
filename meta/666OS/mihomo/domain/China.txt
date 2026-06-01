@@ -1,7 +1,7 @@
 # NAME: China
 # AUTHOR: YYDS666
-# UPDATED: 2026-05-30 04:06:52
-# TOTAL: 113146
+# UPDATED: 2026-06-01 03:01:45
+# TOTAL: 113145
 +.0.zone
 +.00.net
 +.000.link
@@ -12928,7 +12928,6 @@
 +.aryasec.com
 +.as-doll.com
 +.as-hitech.com
-+.as.mr
 +.as16.com
 +.as3f.com
 +.as5.com
