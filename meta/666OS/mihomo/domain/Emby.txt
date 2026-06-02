@@ -1,7 +1,7 @@
 # NAME: Emby
 # AUTHOR: YYDS666
-# UPDATED: 2026-06-01 02:59:42
-# TOTAL: 220
+# UPDATED: 2026-06-02 05:19:14
+# TOTAL: 218
 +.114514.quest
 +.123456.al
 +.16bit.cfd
@@ -113,6 +113,7 @@
 +.ju.dog
 +.liminalnet.com
 +.line.emby.men
++.lite.cn2gias.uk
 +.loseremby.org
 +.lucasmedia.top
 +.lyrebirdemby.com
@@ -191,8 +192,6 @@ cc.coemn.com
 cdn1.nebula-media.org
 cf-cdn1.nebula-media.org
 cf.sfcj.org
-cminf.sfcat.link
-cuinf.sfcat.link
 emby-cdn1.nebula-media.org
 emby.jingzhe.pro
 emby.my
@@ -202,7 +201,6 @@ emby.yomo.lol
 favoritewife.com
 jg.sfcj.org
 ju.sfcj.org
-notnetflix.cos.cat
 onatoshi.114514.quest
 pub1.emby.wtf
 pub2.emby.wtf
