@@ -1,6 +1,6 @@
 # NAME: Twitter
 # AUTHOR: YYDS666
-# UPDATED: 2026-06-04 04:46:26
+# UPDATED: 2026-06-06 03:30:04
 # TOTAL: 24
 +.ads-twitter.com
 +.cms-twdigitalassets.com

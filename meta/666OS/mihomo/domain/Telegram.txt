@@ -1,6 +1,6 @@
 # NAME: Telegram
 # AUTHOR: YYDS666
-# UPDATED: 2026-06-04 04:46:22
+# UPDATED: 2026-06-06 03:27:56
 # TOTAL: 36
 +.ayugram.one
 +.cdn-telegram.org

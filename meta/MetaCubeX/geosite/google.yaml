@@ -11,28 +11,6 @@ payload:
     - notebooklm.googleapis.com
     - antigravity-pa.googleapis.com
     - antigravity.googleapis.com
-    - alt7-mtalk.google.com
-    - alt8-mtalk.google.com
-    - mtalk-dev.google.com
-    - mtalk-staging.google.com
-    - mtalk4.google.com
-    - publicca.googleapis.com
-    - preprod-publicca.googleapis.com
-    - clients1.google.com
-    - pki.google.com
-    - yt3.googleusercontent.com
-    - firebase.google.com
-    - firebase.googleapis.com
-    - firebaseappcheck.googleapis.com
-    - firebasedynamiclinks-ipv4.googleapis.com
-    - firebasedynamiclinks-ipv6.googleapis.com
-    - firebasedynamiclinks.googleapis.com
-    - firebaseinappmessaging.googleapis.com
-    - firebaseinstallations.googleapis.com
-    - firebaselogging-pa.googleapis.com
-    - firebaselogging.googleapis.com
-    - firebaseperusertopics-pa.googleapis.com
-    - firebaseremoteconfig.googleapis.com
     - scholar.google.ae
     - scholar.google.at
     - scholar.google.be
@@ -109,7 +87,29 @@ payload:
     - scholar.google.sk
     - scholar.googleusercontent.com
     - scholar.l.google.com
+    - yt3.googleusercontent.com
+    - publicca.googleapis.com
+    - preprod-publicca.googleapis.com
+    - clients1.google.com
+    - pki.google.com
+    - alt7-mtalk.google.com
+    - alt8-mtalk.google.com
+    - mtalk-dev.google.com
+    - mtalk-staging.google.com
+    - mtalk4.google.com
     - android.googlesource.com
+    - firebase.google.com
+    - firebase.googleapis.com
+    - firebaseappcheck.googleapis.com
+    - firebasedynamiclinks-ipv4.googleapis.com
+    - firebasedynamiclinks-ipv6.googleapis.com
+    - firebasedynamiclinks.googleapis.com
+    - firebaseinappmessaging.googleapis.com
+    - firebaseinstallations.googleapis.com
+    - firebaselogging-pa.googleapis.com
+    - firebaselogging.googleapis.com
+    - firebaseperusertopics-pa.googleapis.com
+    - firebaseremoteconfig.googleapis.com
     - +.chrome
     - +.dclk
     - +.gbiz
@@ -126,7 +126,7 @@ payload:
     - +.android
     - +.youtube
     - +.quickoffice.com
-    - +.blogspot.ug
+    - +.dartlang.org
     - +.google.as
     - +.google.at
     - +.google.az
@@ -156,41 +156,6 @@ payload:
     - +.google.dj
     - +.fastlane.tools
     - +.fastlane.ci
-    - +.dartpad.dev
-    - +.dartlang.org
-    - +.dart.dev
-    - +.androidify.com
-    - +.android.com
-    - +.google.ad
-    - +.xn--p8j9a0d9c9a.xn--q9jyb4c
-    - +.new.day
-    - +.iam.soy
-    - +.hey.boo
-    - +.get.rsvp
-    - +.get.page
-    - +.get.new
-    - +.get.how
-    - +.get.dev
-    - +.get.app
-    - +.crr.com
-    - +.charlestonroadregistry.com
-    - +.golang.org
-    - +.golang.net
-    - +.golang.com
-    - +.godoc.org
-    - +.go.dev
-    - +.go-lang.org
-    - +.go-lang.net
-    - +.go-lang.com
-    - +.firebaseio.com
-    - +.firebaseapp.com
-    - +.firebase.io
-    - +.firebase.com
-    - +.polymerproject.org
-    - +.polymer-project.org
-    - +.pub.dev
-    - +.flutterapp.com
-    - +.flutter.dev
     - +.blogspot.mk
     - +.blogspot.md
     - +.blogspot.lu
@@ -230,6 +195,41 @@ payload:
     - +.blogspot.sk
     - +.blogspot.sn
     - +.blogspot.td
+    - +.blogspot.dk
+    - +.blogspot.ug
+    - +.blogspot.vn
+    - +.blogspot.cl
+    - +.blogspot.ch
+    - +.blogspot.cf
+    - +.blogspot.ca
+    - +.blogspot.bj
+    - +.blogspot.bg
+    - +.blogspot.be
+    - +.blogspot.ba
+    - +.blogspot.am
+    - +.blogspot.al
+    - +.blogspot.ae
+    - +.blogspot.mx
+    - +.blogspot.nl
+    - +.kaggleusercontent.com
+    - +.kaggle.net
+    - +.kaggle.io
+    - +.kaggle.com
+    - +.firebaseio.com
+    - +.firebaseapp.com
+    - +.firebase.io
+    - +.firebase.com
+    - +.androidify.com
+    - +.android.com
+    - +.google.ad
+    - +.golang.org
+    - +.golang.net
+    - +.golang.com
+    - +.godoc.org
+    - +.go.dev
+    - +.go-lang.org
+    - +.go-lang.net
+    - +.go-lang.com
     - +.google.dk
     - +.google.dm
     - +.google.dz
@@ -417,11 +417,11 @@ payload:
     - +.googlecert.net
     - +.googlecode.com
     - +.googlecommerce.com
-    - +.blogspot.dk
+    - +.dartpad.dev
     - +.screenwisetrendspanel.com
-    - +.blogspot.vn
-    - +.blogspot.cl
-    - +.blogspot.ch
+    - +.dart.dev
+    - +.schemer.com
+    - +.youtube.dk
     - +.googledanmark.com
     - +.googledomains.com
     - +.googledrive.com
@@ -459,7 +459,7 @@ payload:
     - +.haplorrhini.com
     - +.hdrplusdata.org
     - +.hindiweb.com
-    - +.blogspot.cf
+    - +.youtube.de
     - +.html5rocks.com
     - +.hwgo.com
     - +.iamremarkable.org
@@ -520,7 +520,7 @@ payload:
     - +.run.app
     - +.savethedate.foo
     - +.saynow.com
-    - +.blogspot.ca
+    - +.youtube.cz
     - +.onefifteen.net
     - +.google.am
     - +.sheets.new
@@ -542,7 +542,7 @@ payload:
     - +.tfhub.dev
     - +.thecleversense.com
     - +.thegooglestore.com
-    - +.blogspot.bj
+    - +.youtube.cr
     - +.thinkquarterly.com
     - +.thinkwithgoogle.com
     - +.tiltbrush.com
@@ -571,7 +571,7 @@ payload:
     - +.widevine.com
     - +.withgoogle.com
     - +.womenwill.com
-    - +.blogspot.bg
+    - +.youtube.es
     - +.womenwill.id
     - +.womenwill.in
     - +.womenwill.mx
@@ -585,40 +585,53 @@ payload:
     - +.xn--gogl-1nd42e.com
     - +.xplr.co
     - +.zukunftswerkstatt.de
-    - +.kaggle.com
-    - +.kaggle.io
-    - +.kaggle.net
-    - +.kaggleusercontent.com
+    - +.charlestonroadregistry.com
+    - +.crr.com
+    - +.get.app
+    - +.get.dev
+    - +.get.how
+    - +.get.new
+    - +.get.page
+    - +.get.rsvp
+    - +.hey.boo
+    - +.iam.soy
+    - +.new.day
+    - +.xn--p8j9a0d9c9a.xn--q9jyb4c
     - +.deps.dev
     - +.deps.info
     - +.opensourceinsight.dev
     - +.opensourceinsights.dev
+    - +.polymer-project.org
+    - +.polymerproject.org
+    - +.flutter.dev
+    - +.flutterapp.com
+    - +.pub.dev
     - +.deepmind.com
     - +.ai.studio
-    - +.blogspot.be
-    - +.blogspot.ba
-    - +.blogspot.am
-    - +.blogspot.al
-    - +.blogspot.ae
-    - +.blogspot.mx
-    - +.blogspot.nl
-    - +.schemer.com
-    - +.youtube.dk
-    - +.youtube.de
-    - +.youtube.cz
-    - +.youtube.cr
-    - +.youtube.es
     - +.youtube.fi
     - +.youtube.fr
     - +.youtube.ge
     - +.youtube.gr
-    - +.googleplay.com
-    - +.xn--ngstr-lra8j.com
     - +.youtube.gt
     - +.youtube.hk
     - +.youtube.hr
     - +.youtube.hu
     - +.youtube.ie
+    - +.youtube.in
+    - +.youtube.iq
+    - +.youtube.is
+    - +.youtube.it
+    - +.youtube.jo
+    - +.youtube.jp
+    - +.youtube.kr
+    - +.youtube.kz
+    - +.googleplay.com
+    - +.xn--ngstr-lra8j.com
+    - +.youtube.la
+    - +.youtube.lk
+    - +.youtube.lt
+    - +.youtube.lu
+    - +.youtube.lv
     - +.v8.dev
     - +.v8project.org
     - +.google.ae
@@ -692,28 +705,21 @@ payload:
     - +.youtube.md
     - +.youtube.ma
     - +.youtube.ly
-    - +.youtube.lv
-    - +.youtube.lu
-    - +.youtube.lt
-    - +.youtube.lk
-    - +.youtube.la
-    - +.youtube.kz
-    - +.youtube.kr
-    - +.youtube.jp
-    - +.youtube.jo
-    - +.youtube.it
-    - +.youtube.is
-    - +.youtube.iq
-    - +.youtube.in
     - +.google.com.vc
-    - +.googlecompare.co.uk
-    - +.youtube.com.ua
-    - +.youtube.co.zw
+    - +.google.co.ao
+    - +.google.co.bw
+    - +.youtube.co.ae
+    - +.womenwill.com.br
+    - +.thinkquarterly.co.uk
     - +.youtube.com.ve
-    - +.youtube.com.uy
-    - +.google.com.vn
-    - +.youtube.com.tw
     - +.howtogetmo.co.uk
+    - +.googlecompare.co.uk
+    - +.youtube.co.zw
+    - +.google.com.vn
+    - +.youtube.com.uy
+    - +.youtube.com.ua
+    - +.youtube.com.tw
+    - +.youtube.com.tr
     - +.youtube.com.tn
     - +.youtube.com.sv
     - +.youtube.com.sg
@@ -721,6 +727,7 @@ payload:
     - +.youtube.com.ro
     - +.youtube.com.qa
     - +.youtube.com.py
+    - +.youtube.com.pt
     - +.youtube.com.pk
     - +.youtube.com.ph
     - +.youtube.com.pe
@@ -778,14 +785,7 @@ payload:
     - +.youtube.co.hu
     - +.youtube.co.cr
     - +.youtube.co.at
-    - +.youtube.co.ae
-    - +.google.co.ao
-    - +.google.co.bw
-    - +.womenwill.com.br
-    - +.thinkquarterly.co.uk
-    - +.youtube.com.pt
-    - +.youtube.com.tr
-    - +.google.co.ma
+    - +.blogspot.com.br
     - +.google.com.uy
     - +.google.com.ua
     - +.google.com.tw
@@ -827,26 +827,6 @@ payload:
     - +.google.com.eg
     - +.google.com.ec
     - +.google.com.do
-    - +.blogspot.com.tr
-    - +.blogspot.com.es
-    - +.blogspot.com.uy
-    - +.blogspot.com.ar
-    - +.blogspot.com.cy
-    - +.blogspot.com.eg
-    - +.blogspot.com.ee
-    - +.blogspot.com.au
-    - +.blogspot.com.co
-    - +.blogspot.com.ng
-    - +.blogspot.com.br
-    - +.blogspot.com.mt
-    - +.blogspot.co.za
-    - +.blogspot.co.uk
-    - +.blogspot.co.nz
-    - +.blogspot.co.ke
-    - +.blogspot.co.il
-    - +.blogspot.co.id
-    - +.blogspot.co.at
-    - +.blogspot.com.by
     - +.google.com.cy
     - +.google.com.cu
     - +.google.com.co
@@ -873,6 +853,7 @@ payload:
     - +.google.co.th
     - +.google.co.nz
     - +.google.co.mz
+    - +.google.co.ma
     - +.google.co.ls
     - +.google.co.kr
     - +.google.co.ke
@@ -882,6 +863,25 @@ payload:
     - +.google.co.id
     - +.google.co.cr
     - +.google.co.ck
+    - +.blogspot.com.tr
+    - +.blogspot.com.es
+    - +.blogspot.com.uy
+    - +.blogspot.com.ar
+    - +.blogspot.com.cy
+    - +.blogspot.com.eg
+    - +.blogspot.com.ee
+    - +.blogspot.com.au
+    - +.blogspot.com.co
+    - +.blogspot.com.ng
+    - +.blogspot.com.mt
+    - +.blogspot.co.za
+    - +.blogspot.co.uk
+    - +.blogspot.co.nz
+    - +.blogspot.co.ke
+    - +.blogspot.co.il
+    - +.blogspot.co.id
+    - +.blogspot.co.at
+    - +.blogspot.com.by
     - +.google.cn
     - +.g.cn
     - +.gkecnapps.cn
@@ -1048,13 +1048,8 @@ payload:
     - www.gstatic.com
     - www.pxcc.com
     - redirector.c.play.google.com
-    - alt1-mtalk.google.com
-    - alt2-mtalk.google.com
-    - alt3-mtalk.google.com
-    - alt4-mtalk.google.com
-    - alt5-mtalk.google.com
-    - alt6-mtalk.google.com
-    - mtalk.google.com
+    - +.ggpht.cn
+    - +.ads.youtube.com
     - pki-goog.l.google.com
     - c.pki.goog
     - i.pki.goog
@@ -1062,6 +1057,11 @@ payload:
     - crl.pki.goog
     - crls.pki.goog
     - ocsp.pki.goog
-    - +.ggpht.cn
-    - +.ads.youtube.com
+    - alt1-mtalk.google.com
+    - alt2-mtalk.google.com
+    - alt3-mtalk.google.com
+    - alt4-mtalk.google.com
+    - alt5-mtalk.google.com
+    - alt6-mtalk.google.com
+    - mtalk.google.com
     - firebase-settings.crashlytics.com
