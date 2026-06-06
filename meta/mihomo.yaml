@@ -491,10 +491,9 @@ rule-providers:
 # 规则
 rules:
   # 防御类
-  - AND,((DST-PORT,443),(NETWORK,UDP),(NOT,((GEOIP,CN)))),REJECT  # 阻止海外 QUIC
   - RULE-SET,category-public-tracker,REJECT-DROP
   # - IP-CIDR,95.161.76.100/31,REJECT-DROP,no-resolve
-  
+  - AND,((DST-PORT,443),(NETWORK,UDP),(NOT,((GEOIP,CN,no-resolve)))),REJECT
   # 私有/修正类
   - RULE-SET,fix-direct,直连
   # - RULE-SET,xptv,直连
