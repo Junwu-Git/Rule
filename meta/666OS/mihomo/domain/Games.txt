@@ -1,7 +1,7 @@
 # NAME: Games
 # AUTHOR: YYDS666
-# UPDATED: 2026-06-06 03:30:02
-# TOTAL: 1042
+# UPDATED: 2026-06-08 03:05:27
+# TOTAL: 1047
 +.100classicbooks.com
 +.17roco.com
 +.2k.com
@@ -56,6 +56,7 @@
 +.acesofthunder.net
 +.activematter.game
 +.aki-game.com
++.aligames.com
 +.amiibo.com
 +.anthemgame.com
 +.anthemthegame.com
@@ -334,6 +335,8 @@
 +.instituteofwar.org
 +.itch.io
 +.itch.zone
++.jiaoyimao.cn
++.jiaoyimao.com
 +.joinsquad.com
 +.joyjoy.net
 +.juequling.com
@@ -357,6 +360,7 @@
 +.konamistyle.jp
 +.kraftonde.com
 +.kurogames.com
++.kurogames.net
 +.kyurem.com
 +.labycore.cn
 +.langrenclub.com
@@ -377,6 +381,7 @@
 +.ledu.com
 +.legendofzelda.cn
 +.legendofzelda.com.cn
++.lingxigames.com
 +.log-upload-os.hoyoverse.com
 +.log-upload.mihoyo.com
 +.lol-europe.com

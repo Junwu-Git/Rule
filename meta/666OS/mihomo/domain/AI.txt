@@ -1,7 +1,7 @@
 # NAME: AI
 # AUTHOR: YYDS666
-# UPDATED: 2026-06-06 03:30:02
-# TOTAL: 246
+# UPDATED: 2026-06-08 03:03:45
+# TOTAL: 247
 +.agentclientprotocol.com
 +.ai.com
 +.ai.studio
@@ -36,6 +36,7 @@
 +.claude.ai
 +.claude.com
 +.claudemcpclient.com
++.claudemcpcontent.com
 +.claudeusercontent.com
 +.clawhub.ai
 +.client-api.arkoselabs.com
