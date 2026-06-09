@@ -30,7 +30,7 @@ DOMAIN-SUFFIX,zeabur.app
 DOMAIN-SUFFIX,zeabur.com
 DOMAIN,sms-activate.io
 DOMAIN-SUFFIX,dnshe.com
-# DOMAIN-SUFFIX,browserleaks.com
+DOMAIN-SUFFIX,browserleaks.com
 
 # 禁
 DOMAIN-SUFFIX,177pica.com
