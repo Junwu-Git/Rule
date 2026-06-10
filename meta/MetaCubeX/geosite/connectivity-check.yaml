@@ -3,8 +3,6 @@ payload:
     - redirect.archlinux.org
     - nmcheck.gnome.org
     - connectivitycheck.gstatic.com
-    - www.gstatic.com
-    - www.google.com
     - networkcheck.kde.org
     - edge-http.microsoft.com
     - www.qualcomm.com
@@ -19,6 +17,7 @@ payload:
     - +.ipv6check-udp.steamserver.net
     - +.test.steampowered.com
     - +.captive.apple.com
+    - www.gstatic.com
     - connectivitycheck.platform.hihonorcloud.com
     - connectivitycheck.platform.hicloud.com
     - connect.rom.miui.com
