@@ -33,6 +33,7 @@ payload:
     - +.dependabot.com
     - +.gh.io
     - +.ghcr.io
+    - +.ghe.com
     - +.git.io
     - +.github.ai
     - +.github.blog
@@ -53,10 +54,10 @@ payload:
     - +.opensource.guide
     - +.repo.new
     - +.thegithubshop.com
-    - +.githubcopilot.com
     - +.npm.community
     - +.npmjs.com
     - +.npmjs.org
+    - +.githubcopilot.com
     - +.collector.github.com
     - copilot-telemetry-service.githubusercontent.com
     - copilot-telemetry.githubusercontent.com
