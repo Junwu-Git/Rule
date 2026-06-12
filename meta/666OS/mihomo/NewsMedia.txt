@@ -1,7 +1,7 @@
 # NAME: NewsMedia
 # AUTHOR: YYDS666
-# UPDATED: 2026-06-10 03:55:55
-# TOTAL: 1393
+# UPDATED: 2026-06-12 04:07:43
+# TOTAL: 1398
 DOMAIN-SUFFIX,1917live.red
 DOMAIN-SUFFIX,1degree.com.au
 DOMAIN-SUFFIX,1prime.ru
@@ -622,6 +622,7 @@ DOMAIN-SUFFIX,ind.sh
 DOMAIN-SUFFIX,india.com
 DOMAIN-SUFFIX,indiancolleges.com
 DOMAIN-SUFFIX,infoglobo.com.br
+DOMAIN-SUFFIX,infoq.com
 DOMAIN-SUFFIX,infotimes.com.tw
 DOMAIN-SUFFIX,infowars.com
 DOMAIN-SUFFIX,infowarsmedia.com
@@ -839,6 +840,10 @@ DOMAIN-SUFFIX,nexttv.com.tw
 DOMAIN-SUFFIX,nfsc.global
 DOMAIN-SUFFIX,nfscdict.com
 DOMAIN-SUFFIX,nfscofficial.com
+DOMAIN-SUFFIX,nhk
+DOMAIN-SUFFIX,nhk.jp
+DOMAIN-SUFFIX,nhk.or.jp
+DOMAIN-SUFFIX,nhkworld.jp
 DOMAIN-SUFFIX,nikkan-gendai.com
 DOMAIN-SUFFIX,nikkansports.com
 DOMAIN-SUFFIX,nikkei-cnbc.co.jp

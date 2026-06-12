@@ -1,7 +1,7 @@
 # NAME: Games
 # AUTHOR: YYDS666
-# UPDATED: 2026-06-10 03:55:53
-# TOTAL: 1047
+# UPDATED: 2026-06-12 04:07:35
+# TOTAL: 1052
 +.100classicbooks.com
 +.17roco.com
 +.2k.com
@@ -217,8 +217,6 @@
 +.electronicarts.fr
 +.embark-studios.com
 +.embark.games
-+.eneba.com
-+.eneba.games
 +.enlisted.net
 +.epicgames.com
 +.epicgames.dev
@@ -232,6 +230,7 @@
 +.fanatical.com
 +.feihuo.com
 +.ffbuddy.com
++.ficgs.com
 +.fifastreet.com
 +.fifastreet3.com
 +.fire-emblem-heroes.com
@@ -263,6 +262,8 @@
 +.gamemei.com
 +.gamepass.com
 +.gamesfirsthelsinki.com
++.gamesplanet.com
++.gametap.com
 +.garena.co.id
 +.garena.co.th
 +.garena.com
@@ -296,6 +297,7 @@
 +.goto-game.org
 +.gotolink.net
 +.gouhuo.qq.com
++.gpstatic.com
 +.gstore.val.manlaxy.com
 +.gtgres.com
 +.guoping123.com
@@ -490,7 +492,9 @@
 +.nexon.co.jp
 +.nexon.com
 +.nexon.io
++.nexon.net
 +.nexoncdn.co.kr
++.nexongames.co.kr
 +.nextstudios.com
 +.nextworkshop.net
 +.nexus-cdn.com
@@ -982,6 +986,7 @@ gog-cdn-fastly.gog.com
 gog-cdn.akamaized.net
 gog.qtlglb.com
 gogalaxy.gog-statics.com
+hb.imgix.net
 lazer.ppy.sh
 lolstatic-a.akamaihd.net
 lv.queniujq.cn

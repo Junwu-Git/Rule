@@ -1,7 +1,7 @@
 # NAME: Microsoft
 # AUTHOR: YYDS666
-# UPDATED: 2026-06-10 03:55:54
-# TOTAL: 717
+# UPDATED: 2026-06-12 04:07:35
+# TOTAL: 718
 +.1drv.com
 +.1drv.ms
 +.21vbc.com
@@ -206,6 +206,7 @@
 +.gfx.ms
 +.gh.io
 +.ghcr.io
++.ghe.com
 +.gigjam.com
 +.git.io
 +.github.ai

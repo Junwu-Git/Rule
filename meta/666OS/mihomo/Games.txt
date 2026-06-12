@@ -1,7 +1,7 @@
 # NAME: Games
 # AUTHOR: YYDS666
-# UPDATED: 2026-06-10 03:55:53
-# TOTAL: 851
+# UPDATED: 2026-06-12 04:07:35
+# TOTAL: 852
 DOMAIN-SUFFIX,100classicbooks.com
 DOMAIN-SUFFIX,17roco.com
 DOMAIN-SUFFIX,2k.com
@@ -217,8 +217,6 @@ DOMAIN-SUFFIX,electronicarts.com
 DOMAIN-SUFFIX,electronicarts.fr
 DOMAIN-SUFFIX,embark-studios.com
 DOMAIN-SUFFIX,embark.games
-DOMAIN-SUFFIX,eneba.com
-DOMAIN-SUFFIX,eneba.games
 DOMAIN-SUFFIX,enlisted.net
 DOMAIN-SUFFIX,epicgames.com
 DOMAIN-SUFFIX,epicgames.dev
@@ -232,6 +230,7 @@ DOMAIN-SUFFIX,faceit.com
 DOMAIN-SUFFIX,fanatical.com
 DOMAIN-SUFFIX,feihuo.com
 DOMAIN-SUFFIX,ffbuddy.com
+DOMAIN-SUFFIX,ficgs.com
 DOMAIN-SUFFIX,fifastreet.com
 DOMAIN-SUFFIX,fifastreet3.com
 DOMAIN-SUFFIX,fire-emblem-heroes.com
@@ -263,6 +262,8 @@ DOMAIN-SUFFIX,gameloop.com
 DOMAIN-SUFFIX,gamemei.com
 DOMAIN-SUFFIX,gamepass.com
 DOMAIN-SUFFIX,gamesfirsthelsinki.com
+DOMAIN-SUFFIX,gamesplanet.com
+DOMAIN-SUFFIX,gametap.com
 DOMAIN-SUFFIX,garenanow.com
 DOMAIN-SUFFIX,gcloudcs.com
 DOMAIN-SUFFIX,gcloudcstest.com
@@ -282,6 +283,7 @@ DOMAIN-SUFFIX,gog.com
 DOMAIN-SUFFIX,gooblox.com
 DOMAIN-SUFFIX,gotolink.net
 DOMAIN-SUFFIX,gouhuo.qq.com
+DOMAIN-SUFFIX,gpstatic.com
 DOMAIN-SUFFIX,gstore.val.manlaxy.com
 DOMAIN-SUFFIX,gtgres.com
 DOMAIN-SUFFIX,guoping123.com
@@ -460,10 +462,8 @@ DOMAIN-SUFFIX,needforspeedundergroundeast.com
 DOMAIN-SUFFIX,nentindo.net
 DOMAIN-SUFFIX,neoforged.net
 DOMAIN-SUFFIX,newsupermariobrosu.com
-DOMAIN-SUFFIX,nexon.co.jp
-DOMAIN-SUFFIX,nexon.com
-DOMAIN-SUFFIX,nexon.io
 DOMAIN-SUFFIX,nexoncdn.co.kr
+DOMAIN-SUFFIX,nexongames.co.kr
 DOMAIN-SUFFIX,nextstudios.com
 DOMAIN-SUFFIX,nextworkshop.net
 DOMAIN-SUFFIX,nexus-cdn.com
@@ -845,6 +845,7 @@ DOMAIN-KEYWORD,garena
 DOMAIN-KEYWORD,goto-game
 DOMAIN-KEYWORD,konami
 DOMAIN-KEYWORD,leagueoflegends
+DOMAIN-KEYWORD,nexon
 DOMAIN-KEYWORD,nintendo
 DOMAIN-KEYWORD,nintendoswitch
 DOMAIN-KEYWORD,riotgames

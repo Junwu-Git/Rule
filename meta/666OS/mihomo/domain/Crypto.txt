@@ -1,7 +1,7 @@
 # NAME: Crypto
 # AUTHOR: YYDS666
-# UPDATED: 2026-06-10 03:55:57
-# TOTAL: 441
+# UPDATED: 2026-06-12 04:07:44
+# TOTAL: 446
 +.1inch.io
 +.aave.com
 +.account-paypal.info
@@ -114,6 +114,7 @@
 +.coinalyze.net
 +.coinbase.com
 +.coindesk.com
++.coingate.com
 +.coingecko.com
 +.coinglass.com
 +.coinmap.org
@@ -161,6 +162,7 @@
 +.huobiasia.vip
 +.huobigroup.com
 +.huobitoken.com
++.hyperliquid.xyz
 +.i-o-u.info
 +.infura.io
 +.invity.io
@@ -169,6 +171,8 @@
 +.krakenjs.com
 +.kucoin.com
 +.kucoin.plus
++.lighter.exchange
++.lighter.xyz
 +.loanbuilder.com
 +.localbitcoins.com
 +.localbitcoinschain.com
@@ -436,6 +440,7 @@
 +.zb.com
 +.zb.io
 +.zb.live
++.zklighter.elliot.ai
 bybit-exchange.github.io
 bybit.ada.support
 d3r7nsslvs6aaf.cloudfront.net

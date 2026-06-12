@@ -1,7 +1,7 @@
 # NAME: Facebook
 # AUTHOR: YYDS666
-# UPDATED: 2026-06-10 03:55:52
-# TOTAL: 566
+# UPDATED: 2026-06-12 04:07:35
+# TOTAL: 572
 DOMAIN,fbcdn-a.akamaihd.net
 DOMAIN-SUFFIX,aboutfacebook.com
 DOMAIN-SUFFIX,accessfacebookfromschool.com
@@ -487,7 +487,7 @@ IP-CIDR,129.134.164.0/23,no-resolve
 IP-CIDR,129.134.168.0/21,no-resolve
 IP-CIDR,129.134.176.0/20,no-resolve
 IP-CIDR,129.134.194.0/23,no-resolve
-IP-CIDR,129.134.196.0/24,no-resolve
+IP-CIDR,129.134.196.0/23,no-resolve
 IP-CIDR,157.240.0.0/17,no-resolve
 IP-CIDR,157.240.128.0/23,no-resolve
 IP-CIDR,157.240.131.0/24,no-resolve
@@ -519,9 +519,16 @@ IP-CIDR,204.15.20.0/22,no-resolve
 IP-CIDR,31.13.24.0/21,no-resolve
 IP-CIDR,31.13.64.0/18,no-resolve
 IP-CIDR,45.64.40.0/22,no-resolve
-IP-CIDR,57.141.0.0/20,no-resolve
+IP-CIDR,57.141.0.0/24,no-resolve
+IP-CIDR,57.141.10.0/24,no-resolve
+IP-CIDR,57.141.12.0/23,no-resolve
+IP-CIDR,57.141.14.0/24,no-resolve
 IP-CIDR,57.141.16.0/22,no-resolve
-IP-CIDR,57.141.20.0/23,no-resolve
+IP-CIDR,57.141.2.0/23,no-resolve
+IP-CIDR,57.141.20.0/24,no-resolve
+IP-CIDR,57.141.4.0/23,no-resolve
+IP-CIDR,57.141.6.0/24,no-resolve
+IP-CIDR,57.141.8.0/24,no-resolve
 IP-CIDR,57.144.0.0/14,no-resolve
 IP-CIDR,66.220.144.0/20,no-resolve
 IP-CIDR,69.171.224.0/19,no-resolve
@@ -542,7 +549,6 @@ IP-CIDR6,2a03:2887:ff22::/47,no-resolve
 IP-CIDR6,2a03:2887:ff27::/48,no-resolve
 IP-CIDR6,2a03:2887:ff28::/46,no-resolve
 IP-CIDR6,2a03:2887:ff2e::/47,no-resolve
-IP-CIDR6,2a03:2887:ff30::/48,no-resolve
 IP-CIDR6,2a03:2887:ff33::/48,no-resolve
 IP-CIDR6,2a03:2887:ff37::/48,no-resolve
 IP-CIDR6,2a03:2887:ff38::/46,no-resolve
