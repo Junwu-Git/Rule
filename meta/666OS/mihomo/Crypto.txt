@@ -1,7 +1,7 @@
 # NAME: Crypto
 # AUTHOR: YYDS666
-# UPDATED: 2026-06-12 04:07:44
-# TOTAL: 371
+# UPDATED: 2026-06-14 03:06:35
+# TOTAL: 372
 DOMAIN-SUFFIX,1inch.io
 DOMAIN-SUFFIX,aave.com
 DOMAIN-SUFFIX,account-paypal.info
@@ -159,6 +159,7 @@ DOMAIN-SUFFIX,oklink.com
 DOMAIN-SUFFIX,okx-dns.com
 DOMAIN-SUFFIX,okx-dns1.com
 DOMAIN-SUFFIX,okx-dns2.com
+DOMAIN-SUFFIX,okx.ac
 DOMAIN-SUFFIX,okx.cab
 DOMAIN-SUFFIX,okx.com
 DOMAIN-SUFFIX,okx.com.cdn.cloudflare.net
