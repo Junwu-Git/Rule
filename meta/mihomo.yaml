@@ -173,7 +173,7 @@ proxies+:
 proxy-groups:
   - name: 默认选择
     type: select
-    proxies: [新加坡,香港,美国,全部节点,直连]
+    proxies: [香港,新加坡,美国,全部节点,直连]
     icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Proxy.png
 
   - name: AI助手
