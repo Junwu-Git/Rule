@@ -442,12 +442,6 @@ location.microsoft.com
 +.xboxservices.com
 +.xboxstudios.com
 +.xbx.lv
-+.beth.games
-+.bethesda.net
-+.bethesdagamestudios.com
-+.bethsoft.com
-+.doom.com
-+.elderscrolls.com
 +.forza.net
 +.forzamotorsport.net
 +.forzaracingchampionship.com
@@ -460,6 +454,12 @@ location.microsoft.com
 +.mojang.com
 +.asobostudio.com
 +.flightsimulator.com
++.beth.games
++.bethesda.net
++.bethesdagamestudios.com
++.bethsoft.com
++.doom.com
++.elderscrolls.com
 +.microsoft.be
 +.aadrm.com
 +.azure-devices-int.net

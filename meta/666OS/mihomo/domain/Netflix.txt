@@ -1,6 +1,6 @@
 # NAME: Netflix
 # AUTHOR: YYDS666
-# UPDATED: 2026-06-16 04:42:08
+# UPDATED: 2026-06-18 03:57:33
 # TOTAL: 24
 +.fast.com
 +.netflix.ca
