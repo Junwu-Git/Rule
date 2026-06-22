@@ -1,7 +1,7 @@
 # NAME: Proxy
 # AUTHOR: YYDS666
-# UPDATED: 2026-06-20 03:24:39
-# TOTAL: 26970
+# UPDATED: 2026-06-22 03:13:12
+# TOTAL: 27044
 +.000webhost.com
 +.01.org
 +.02weqj32.com
@@ -1846,6 +1846,7 @@
 +.appbridge.it
 +.appcenter.ms
 +.appcloud.com
++.appconsent.io
 +.appdomain.cloud
 +.appdynamics.co.uk
 +.appdynamics.com
@@ -2175,7 +2176,6 @@
 +.appmediagroup.com
 +.approvedusedbmw.com
 +.apps.evozi.com
-+.appsflayer.com
 +.appsmail.ru
 +.appsocks.net
 +.appsonebay.net
@@ -2745,6 +2745,7 @@
 +.awwcn.xyz
 +.awxcdn.com
 +.axbdoll.com.tw
++.axept.io
 +.axios.com
 +.axureformac.com
 +.ayabank.com
@@ -2925,6 +2926,7 @@
 +.barrons.com
 +.barss1207.pro
 +.barton.de
++.base.org
 +.basecamp.com
 +.baselinestudy.com
 +.baselinestudy.org
@@ -3626,6 +3628,7 @@
 +.bitflyer.jp
 +.bitget.com
 +.bithumb.com
++.bitlayer.org
 +.bitly.com
 +.bitly.is
 +.bitmex.com
@@ -3671,6 +3674,7 @@
 +.blacktowhite.net
 +.blackvpn.com
 +.blaoshi.cc
++.blast.io
 +.blazor.net
 +.bleepingcomputer.com
 +.blender.org
@@ -4247,11 +4251,14 @@
 +.bmwusfactory.com
 +.bmwusrideracademy.com
 +.bmwvalueservice.com
++.bmwweb.solutions
 +.bmwwholesaleconnect.com
 +.bmwworld.com
 +.bmwworld.net
 +.bmwworld.tv
 +.bmwzentrum.com
++.bnappweb.black
++.bnbchain.org
 +.bnbstatic.com
 +.bnef.com
 +.bnext.com.tw
@@ -4514,7 +4521,9 @@
 +.brutaltgp.com
 +.bs-adreview.com
 +.bs-awh.ne.jp
++.bsappapi.cc
 +.bsappapi.com
++.bscdnweb.com
 +.bsi.ir
 +.bsky.app
 +.bsky.network
@@ -5039,6 +5048,7 @@
 +.cdkworkshop.com
 +.cdmatech.com
 +.cdn-apple.com
++.cdn-cookieyes.com
 +.cdn-images.mailchimp.com
 +.cdn-telegram.org
 +.cdn-terapeak.com
@@ -5081,6 +5091,7 @@
 +.celebgramme.com
 +.celebmasta.live
 +.celebritygay.com
++.celebritymoviearchive.com
 +.celebritynakeds.com
 +.celebrityslips.com
 +.celebritystorysite.com
@@ -5137,6 +5148,7 @@
 +.cg.play-analytics.com
 +.ch
 +.ch9.ms
++.chainid.network
 +.championshipseriesleague.com
 +.change.org
 +.changp.com
@@ -5759,6 +5771,7 @@
 +.conquerwithcharacter.com
 +.conscrypt.com
 +.conscrypt.org
++.consentmanager.net
 +.consentpro.com
 +.constructware.com
 +.consul.io
@@ -5769,9 +5782,11 @@
 +.contest.com
 +.contests.twilio.com
 +.convrgencegame.com
++.cookiebot.com
 +.cookiechoices.org
 +.cookielaw.org
 +.cookiepro.com
++.cookieyes.com
 +.cool-comics.com
 +.cool18.com
 +.cool3c.com
@@ -5797,6 +5812,7 @@
 +.coqnu.com
 +.corbinfisher.com
 +.cordcloud.org
++.coredao.org
 +.coreduo.com
 +.coreextreme.com
 +.corel.com
@@ -6534,6 +6550,7 @@
 +.dewitwithdurex.com
 +.dexterhorn.com
 +.dezyred.com
++.dfvpn.com
 +.dgaqp.com
 +.dgg.gg
 +.dgwav.com
@@ -7074,6 +7091,7 @@
 +.dropboxpartners.com
 +.dropboxstatic.com
 +.dropboxusercontent.com
++.drpc.org
 +.drtuber.com
 +.drunk6.com
 +.drunkenstepfather.com
@@ -8397,6 +8415,8 @@
 +.fanswong.com
 +.fantasiasguatemala.com
 +.fantasti.cc
++.fantom.foundation
++.fantom.network
 +.fantv.hk
 +.fap-xxx.com
 +.fap18.net
@@ -8599,6 +8619,7 @@
 +.fi11.com
 +.fi11av1.com
 +.fi11tv1.com
++.fiat24.com
 +.fibank.bg
 +.fic.fan
 +.ficador.com
@@ -8757,6 +8778,7 @@
 +.fl310.com
 +.flagrasamadores.net
 +.flameunleashed.com
++.flare.network
 +.flaru.com
 +.flashtranny.com
 +.flatandfuckedmilfs.com
@@ -9061,6 +9083,7 @@
 +.foxweatherwatch.com
 +.fpacebook.com
 +.fpmtmexico.org
++.fpo.xxx
 +.fptolia.com
 +.fqcebook.com
 +.fqrouter.com
@@ -9175,6 +9198,8 @@
 +.freewallpaper4.me
 +.freewechat.com
 +.freeweibo.com
++.freexh.blog
++.freexh.live
 +.freexvideos.org
 +.freexxx.best
 +.freexxx.win
@@ -9338,6 +9363,7 @@
 +.futuesop.com
 +.futufin.com
 +.futuhk.com
++.futuhk1.com
 +.futuhk2.com
 +.futuhkapp.com
 +.futuhn.com
@@ -9346,12 +9372,14 @@
 +.futunited.com
 +.futuniuniu.com
 +.futunn.com
++.futuoa.com
 +.future-cs.ru
 +.futuremessage.org
 +.futureofbritishmanufacturing.com
 +.futureofbusinesssurvey.org
 +.futureofmaktingthings.com
 +.futureshop.ca
++.futusg.com
 +.futustatic.com
 +.fututrade.com
 +.fututrustee.com
@@ -9428,6 +9456,7 @@
 +.gamesstack.com
 +.gametap.com
 +.gameuxmasterguide.com
++.gamewtb.com
 +.gamez.com.tw
 +.gaming-notebooks.com
 +.gandhara.ru
@@ -9920,6 +9949,7 @@
 +.gockhuatviet.com
 +.godaddy
 +.godaddy.com
++.godaddy.net
 +.godbolt.org
 +.godfootsteps.org
 +.godoc.org
@@ -12598,6 +12628,7 @@
 +.irribay.com
 +.is.gd
 +.isaacmao.com
++.isafepal.com
 +.isbgpsafeyet.com
 +.isc.sans.edu
 +.isca-speech.org
@@ -13958,6 +13989,7 @@
 +.londonreal.tv
 +.lonestarnaughtygirls.com
 +.longbridge.cloud
++.longbridge.cn
 +.longbridge.com
 +.longbridge.global
 +.longbridge.hk
@@ -14610,6 +14642,7 @@
 +.mega.io
 +.mega.nz
 +.megacamz.com
++.megaeth.com
 +.megafilmporno.com
 +.megafon.com
 +.megafon.ru
@@ -14665,6 +14698,7 @@
 +.meridian.net
 +.meripet.com
 +.merit-times.com.tw
++.merkl.xyz
 +.meshmixer.com
 +.meshmixerforum.com
 +.messenger.com
@@ -14699,6 +14733,7 @@
 +.metrotoons.com
 +.meuhentai.com
 +.mewe.com
++.mexc.co
 +.mexc.com
 +.mexcsensors.com
 +.mfg-inspector.com
@@ -16286,6 +16321,7 @@
 +.nhncorp.jp
 +.nic.cz.cc
 +.nic.gov
++.nic.ru
 +.niceanimegames.com
 +.nicegram.app
 +.nicegram.cloud
@@ -16294,6 +16330,7 @@
 +.nicesshop.net
 +.nichepornsite.com
 +.nichepornsites.com
++.nichost.ru
 +.nickscipio.com
 +.nicky.xxx
 +.nico
@@ -16552,6 +16589,7 @@
 +.nodeimage.com
 +.nodejs.org
 +.nodequality.com
++.nodereal.io
 +.nodeseek.com
 +.nodesource.com
 +.noisullifb.com
@@ -16860,6 +16898,7 @@
 +.oanda.com
 +.oanencore.com
 +.oann.com
++.oasis.io
 +.oath.cloud
 +.oath.com
 +.oauthz.com
@@ -17049,6 +17088,7 @@
 +.onetrust.com
 +.onevps.com
 +.oneworldmanystories.com
++.onfinality.io
 +.onindiansex.com
 +.oninstagram.com
 +.onion.city
@@ -17798,6 +17838,7 @@
 +.pikpakdrive.com
 +.pillbeatsblackfridaysale.com
 +.pimg.tw
++.pimpbunny.com
 +.pin-cong.com
 +.pin.it
 +.pin6.com
@@ -18456,6 +18497,7 @@
 +.powershellgallery.com
 +.powersrv.de
 +.powersunitedvr.com
++.powfans.com
 +.pp-soc.com
 +.pp6.info
 +.ppaypal.com
@@ -18859,6 +18901,7 @@
 +.r-pool.net
 +.r-project.org
 +.r0.ru
++.r01.ru
 +.r10s.com
 +.r10s.jp
 +.r18.clickme.net
@@ -19140,6 +19183,9 @@
 +.referer.us
 +.reflectivecode.com
 +.reform-apple.com
++.reg.cloud
++.reg.com
++.reg.ru
 +.regex101.com
 +.regiongold.com
 +.registerhulu.com
@@ -19365,6 +19411,7 @@
 +.rsf.org
 +.rsg.sc
 +.rshb.ru
++.rsk.co
 +.rspao.com
 +.rsshub.app
 +.rssing.com
@@ -19521,6 +19568,7 @@
 +.saasexch.cc
 +.saasexch.co
 +.saasexch.com
++.saasexch.info
 +.saasexch.io
 +.sabuibo.net
 +.sacduc.com
@@ -19535,6 +19583,7 @@
 +.safechat.com
 +.safeguarddefenders.com
 +.safeliner.tech
++.safepal.com
 +.safervpn.com
 +.saffrontech.com
 +.sagabank.co.jp
@@ -19871,6 +19920,7 @@
 +.seqingx.com
 +.sequence.com
 +.ser7.cc
++.serakon.com
 +.serbiporno.net
 +.serialssolutions.com
 +.serlucap.lol
@@ -20429,6 +20479,7 @@
 +.skysports.ie
 +.skysportsonline.com
 +.skysportsracing.com
++.skytigris.cn
 +.skyvegas.com
 +.skyxvpn.com
 +.sl99mod.buzz
@@ -20598,6 +20649,7 @@
 +.solarcity.com
 +.solarsystem.nasa.gov
 +.solid.ru
++.solidifi.app
 +.solostudioksale.com
 +.solscan.io
 +.solutionstation.com
@@ -21055,6 +21107,7 @@
 +.steam.ru.qtlglb.com
 +.steam.tv
 +.steamcommunity.com
++.steamconnecttest.com
 +.steamcontent.com
 +.steamdb.info
 +.steamdeck.com
@@ -21224,7 +21277,6 @@
 +.supchina.com
 +.superadultgames.com
 +.supercell.com
-+.supercell.helpshift.com
 +.supercell.net
 +.supercellcreators.com
 +.supercellgames.com
@@ -21293,6 +21345,7 @@
 +.swapspace.co
 +.sway-cdn.com
 +.sway.com
++.sweb.ru
 +.sweetadult-tube.com
 +.sweetandmaxwell.co.uk
 +.sweetsext.com
@@ -21419,6 +21472,7 @@
 +.tagbank.ru
 +.tagwalk.com
 +.taiav.com
++.taiko.xyz
 +.tail-f.com
 +.tailf.com
 +.tails.net
@@ -21497,6 +21551,7 @@
 +.taylorandfrancis.com
 +.taylorfrancis.com
 +.tb-esim.ru
++.tb.pro
 +.tbank-online.com
 +.tbank.ru
 +.tbcollege.org
@@ -21625,6 +21680,7 @@
 +.teraperk.com
 +.terk.nl
 +.termius.com
++.termly.io
 +.termux.com
 +.termux.dev
 +.termux.org
@@ -21865,6 +21921,7 @@
 +.thinkwithgoogle.com
 +.thirdmill.org
 +.thirdns.de
++.thirdweb.com
 +.thisav.com
 +.thisisgame.com
 +.thisismoney.co.uk
@@ -21911,6 +21968,7 @@
 +.thumbzilla.com
 +.thunderbird.net
 +.thunderbolttechnology.net
++.thundermail.com
 +.thywords.com
 +.thz7.net
 +.thzu.cc
@@ -22294,6 +22352,7 @@
 +.truenas.com
 +.trunest.com
 +.trust-provider.com
++.trustarc.com
 +.trustcor.ca
 +.trustcor.com
 +.trustdoc.ch
@@ -23793,6 +23852,7 @@
 +.vscode-unpkg.net
 +.vscode.dev
 +.vsemrabota.ru
++.vsex.in
 +.vsezoo.com
 +.vsphere.com
 +.vsphere.net
@@ -24414,6 +24474,7 @@
 +.writesonic.com
 +.ws-blau.com
 +.ws-tcg.com
++.wsimg.com
 +.wsj.com
 +.wsj.jobs
 +.wsj.net
@@ -24607,6 +24668,7 @@
 +.xhamster2.com
 +.xhamster3.com
 +.xhamsterlive.com
++.xhapp.live
 +.xhcdn.com
 +.xhnews.live
 +.xhot.pro
@@ -24653,6 +24715,7 @@
 +.xkontakt18.com
 +.xkorean.cam
 +.xl-gaytube.com
++.xlayer.tech
 +.xlecx.org
 +.xlgirls.com
 +.xlinkz.to
@@ -26083,6 +26146,7 @@ cdngarenanow-a.akamaihd.net
 centurys.net
 certificate.revocationcheck.com
 cgdepot.org
+chatscc-hamivideo2.cdn.hinet.net
 china-review.com.ua
 china.ucanews.com
 chinanewscenter.com
@@ -26201,6 +26265,7 @@ ebay-25-assets.s3-us-west-1.amazonaws.com
 ecapi-pchome.cdn.hinet.net
 edu.tinkoff.ru
 education.tbank.ru
+efe8f8a4-abd5-44c9-bf5c-cd217442c52f.t.ssp.hinet.net
 efukt.com
 elib.maruzen.co.jp
 emule-ed2k.com
@@ -26298,6 +26363,7 @@ hkcoc.weather.com.hk
 hl2rcv.adobe.com
 hlrcv.stage.adobe.com
 hls-amt.itunes.apple.com
+hls-hamivideo.cdn.hinet.net
 hls.itunes.apple.com
 holoxx.f5.si
 homebrew.bintray.com
@@ -26553,6 +26619,7 @@ sa78gs.wpc.edgecastcdn.net
 saintyculture.com
 sberpro.vedomosti.ru
 sbme.me
+scc-hamivideo.cdn.hinet.net
 scc.ott.hinet.net
 scholar.google.ae
 scholar.google.at
@@ -26668,13 +26735,17 @@ steampipe-kr.akamaized.net
 steampipe-partner.akamaized.net
 steampipe.akamaized.net
 steamstore-a.akamaihd.net
+steamugcquincy.blob.core.windows.net
 steamusercontent-a.akamaihd.net
 steamuserimages-a.akamaihd.net
 steamvideo-a.akamaihd.net
 straitsx-826709081262441084-b790f87a2ae6fd417434295.freshchat.com
+supercell.helpshift.com
+supercell.zendesk.com
 superzooi.com
 suprememastertv.com
 surfeasy.com.au
+t.ssp.hinet.net
 t21.nikkei.co.jp
 t21ipau.nikkei.co.jp
 taa-usa.org
@@ -26829,6 +26900,7 @@ w3s.link
 wb-agora-hydra-file-storage-k1.s3.amazonaws.com
 webchannel-alkalimakersuite-pa.clients6.google.com
 weblive-hamivideo.cdn.hinet.net
+weblivea-hamivideo.cdn.hinet.net
 webvodad-hamivideo.cdn.hinet.net
 webwarper.net
 wego.here.com
@@ -26970,5 +27042,7 @@ yes-news.com
 yeyeclub.com
 yt3.googleusercontent.com
 zeenews-fonts.s3.amazonaws.com
+zftksc.cdn-settings.appsflyersdk.com
+zftksc.launches.appsflyersdk.com
 zhenxiang.biz
 zhongguo.ca

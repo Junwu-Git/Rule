@@ -1,7 +1,7 @@
 # NAME: Games
 # AUTHOR: YYDS666
-# UPDATED: 2026-06-20 03:24:27
-# TOTAL: 1054
+# UPDATED: 2026-06-22 03:13:03
+# TOTAL: 1069
 +.100classicbooks.com
 +.17roco.com
 +.2k.com
@@ -12,6 +12,10 @@
 +.2kweb.online
 +.3304399.com
 +.3304399.net
++.37.com
++.37.com.cn
++.37wan.net
++.37wanimg.com
 +.3839.com
 +.3839apk.com
 +.3839app.com
@@ -55,7 +59,6 @@
 +.ac-pocketcamp.com
 +.acesofthunder.net
 +.activematter.game
-+.aki-game.com
 +.aligames.com
 +.amiibo.com
 +.anthemgame.com
@@ -127,8 +130,10 @@
 +.camelotherald.net
 +.capitalgames.com
 +.capturingreality.com
++.cbjq.com
 +.cdncl.net
 +.championshipseriesleague.com
++.changyou.com
 +.chillingo.com
 +.chunkbase.com
 +.clash.com
@@ -150,6 +155,7 @@
 +.cubicmotion.com
 +.cubicodyssey.game
 +.curseforge.com
++.cy.com
 +.cygames.co.jp
 +.cygames.jp
 +.daoc.net
@@ -362,8 +368,6 @@
 +.konamisportsclub.jp
 +.konamistyle.jp
 +.kraftonde.com
-+.kurogames.com
-+.kurogames.net
 +.kyurem.com
 +.labycore.cn
 +.langrenclub.com
@@ -569,6 +573,7 @@
 +.playapex.com
 +.playartifact.com
 +.playbattlegrounds.com
++.playcool.com
 +.playhearthstone.com
 +.playnintendo.com
 +.playoverwatch.com
@@ -706,6 +711,9 @@
 +.sdo.com
 +.seagroup.com
 +.seaofsolitude.com
++.seasungames.cn
++.seasungames.com
++.seasunwbl.com
 +.seeurlpcl.com
 +.sekai.colorfulpalette.org
 +.shadowcomplex.com
@@ -759,6 +767,7 @@
 +.steam.tv
 +.steamchina.com
 +.steamcommunity.com
++.steamconnecttest.com
 +.steamcontent.com
 +.steamdb.info
 +.steamdeck.com
@@ -774,7 +783,6 @@
 +.stellasora.global
 +.stellasora.jp
 +.supercell.com
-+.supercell.helpshift.com
 +.supercell.net
 +.supercellcommunity.cn
 +.supercellcreators.com
@@ -805,6 +813,7 @@
 +.tellmewhygame.com
 +.tencent-gcloud.com
 +.tencentstart.com
++.testplus.cn
 +.texasholdemcup.cn
 +.texasholdemcup.com
 +.texasholdemcup.net
@@ -922,9 +931,12 @@
 +.xenoblade.com
 +.xhlsgs.com
 +.xinwuji.com
++.xishanju.com
 +.xn--mts47c3w9b1qr.cn
 +.xn--mts47c3w9b1qr.net
 +.xn--owtw8cc49ajfl.cn
++.xoyo.com
++.xoyocdn.com
 +.ycgame.com
 +.yingxiong.com
 +.ylands.com
@@ -1021,9 +1033,12 @@ steampipe-kr.akamaized.net
 steampipe-partner.akamaized.net
 steampipe.akamaized.net
 steamstore-a.akamaihd.net
+steamugcquincy.blob.core.windows.net
 steamusercontent-a.akamaihd.net
 steamuserimages-a.akamaihd.net
 steamvideo-a.akamaihd.net
+supercell.helpshift.com
+supercell.zendesk.com
 ubisoft-orbit-savegames.s3.amazonaws.com
 ubisoft-uplay-savegames.s3.amazonaws.com
 ubisoft.siteintercept.qualtrics.com

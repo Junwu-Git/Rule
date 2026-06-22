@@ -1,7 +1,7 @@
 # NAME: Dev
 # AUTHOR: YYDS666
-# UPDATED: 2026-06-20 03:24:32
-# TOTAL: 505
+# UPDATED: 2026-06-22 03:13:06
+# TOTAL: 504
 DOMAIN-SUFFIX,01.org
 DOMAIN-SUFFIX,accountkit.com
 DOMAIN-SUFFIX,acpica.com
@@ -102,7 +102,6 @@ DOMAIN-SUFFIX,dockerstatic.com
 DOMAIN-SUFFIX,docs.rs
 DOMAIN-SUFFIX,dot.net
 DOMAIN-SUFFIX,dotdeb.org
-DOMAIN-SUFFIX,download-cdn.jetbrains.com.cn
 DOMAIN-SUFFIX,draftjs.org
 DOMAIN-SUFFIX,ecr.aws
 DOMAIN-SUFFIX,electronjs.org

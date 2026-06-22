@@ -1,6 +1,6 @@
 # NAME: Dev
 # AUTHOR: YYDS666
-# UPDATED: 2026-06-20 03:24:32
+# UPDATED: 2026-06-22 03:13:06
 # TOTAL: 617
 +.01.org
 +.accountkit.com
@@ -102,7 +102,6 @@
 +.docs.rs
 +.dot.net
 +.dotdeb.org
-+.download-cdn.jetbrains.com.cn
 +.draftjs.org
 +.ecr.aws
 +.electronjs.org
@@ -240,6 +239,7 @@
 +.jetbrains.ai
 +.jetbrains.cloud
 +.jetbrains.com
++.jetbrains.com.cn
 +.jetbrains.net
 +.jetbrains.space
 +.jetbrains.team

@@ -1,7 +1,7 @@
 # NAME: Crypto
 # AUTHOR: YYDS666
-# UPDATED: 2026-06-20 03:24:30
-# TOTAL: 372
+# UPDATED: 2026-06-22 03:13:02
+# TOTAL: 399
 DOMAIN-SUFFIX,1inch.io
 DOMAIN-SUFFIX,aave.com
 DOMAIN-SUFFIX,account-paypal.info
@@ -14,10 +14,10 @@ DOMAIN-SUFFIX,aicoin.com
 DOMAIN-SUFFIX,anfutong.cn
 DOMAIN-SUFFIX,anfutong.com
 DOMAIN-SUFFIX,anfutong.com.cn
-DOMAIN-SUFFIX,appsflayer.com
 DOMAIN-SUFFIX,asproex.com
 DOMAIN-SUFFIX,asproexapi.com
 DOMAIN-SUFFIX,backpack.exchange
+DOMAIN-SUFFIX,base.org
 DOMAIN-SUFFIX,beibao.cn
 DOMAIN-SUFFIX,beibao.com
 DOMAIN-SUFFIX,beibao.com.cn
@@ -41,14 +41,19 @@ DOMAIN-SUFFIX,bitflyer.jp
 DOMAIN-SUFFIX,bitget.com
 DOMAIN-SUFFIX,bitget.site
 DOMAIN-SUFFIX,bithumb.com
+DOMAIN-SUFFIX,bitlayer.org
 DOMAIN-SUFFIX,bitmex.com
 DOMAIN-SUFFIX,bitquick.co
 DOMAIN-SUFFIX,bitsquare.io
 DOMAIN-SUFFIX,bitstamp.net
 DOMAIN-SUFFIX,bittrex.com
+DOMAIN-SUFFIX,blast.io
 DOMAIN-SUFFIX,blockchain.com
 DOMAIN-SUFFIX,blockfrost.io
 DOMAIN-SUFFIX,bml.info
+DOMAIN-SUFFIX,bmwweb.solutions
+DOMAIN-SUFFIX,bnappweb.black
+DOMAIN-SUFFIX,bnbchain.org
 DOMAIN-SUFFIX,bnbstatic.com
 DOMAIN-SUFFIX,bntrace.com
 DOMAIN-SUFFIX,braintreegateway.com
@@ -57,6 +62,7 @@ DOMAIN-SUFFIX,braintreepaymentsolutions.com
 DOMAIN-SUFFIX,braintreeps.com
 DOMAIN-SUFFIX,briantreepayments.net
 DOMAIN-SUFFIX,briantreepayments.tv
+DOMAIN-SUFFIX,bsappapi.cc
 DOMAIN-SUFFIX,bsappapi.com
 DOMAIN-SUFFIX,bscdnweb.com
 DOMAIN-SUFFIX,btcbox.co.jp
@@ -80,6 +86,7 @@ DOMAIN-SUFFIX,cash2.com
 DOMAIN-SUFFIX,cashify.com
 DOMAIN-SUFFIX,cashify.net
 DOMAIN-SUFFIX,cex.io
+DOMAIN-SUFFIX,chainid.network
 DOMAIN-SUFFIX,clearpool.finance
 DOMAIN-SUFFIX,coinalyze.net
 DOMAIN-SUFFIX,coinbase.com
@@ -92,6 +99,7 @@ DOMAIN-SUFFIX,coinmarketcap.com
 DOMAIN-SUFFIX,coinone.co.kr
 DOMAIN-SUFFIX,coinonecore.com
 DOMAIN-SUFFIX,coinonecorp.com
+DOMAIN-SUFFIX,coredao.org
 DOMAIN-SUFFIX,crypto.com
 DOMAIN-SUFFIX,cryptocompare.com
 DOMAIN-SUFFIX,cryptomus.com
@@ -102,13 +110,18 @@ DOMAIN-SUFFIX,deribit.com
 DOMAIN-SUFFIX,devcon.org
 DOMAIN-SUFFIX,devtools-paypal.com
 DOMAIN-SUFFIX,dogecoin.com
+DOMAIN-SUFFIX,drpc.org
 DOMAIN-SUFFIX,dydx.exchange
 DOMAIN-SUFFIX,ethereum.foundation
 DOMAIN-SUFFIX,ethereum.org
 DOMAIN-SUFFIX,etherscan.io
 DOMAIN-SUFFIX,experiencebillmelater.com
+DOMAIN-SUFFIX,fantom.foundation
+DOMAIN-SUFFIX,fantom.network
 DOMAIN-SUFFIX,ffbbbdc6d3c353211fe2ba39c9f744cd.com
+DOMAIN-SUFFIX,fiat24.com
 DOMAIN-SUFFIX,filipino-music.net
+DOMAIN-SUFFIX,flare.network
 DOMAIN-SUFFIX,fundingrates.xyz
 DOMAIN-SUFFIX,fundpaypal.com
 DOMAIN-SUFFIX,gate.io
@@ -132,6 +145,7 @@ DOMAIN-SUFFIX,hyperliquid.xyz
 DOMAIN-SUFFIX,i-o-u.info
 DOMAIN-SUFFIX,infura.io
 DOMAIN-SUFFIX,invity.io
+DOMAIN-SUFFIX,isafepal.com
 DOMAIN-SUFFIX,kraken.com
 DOMAIN-SUFFIX,kraken.onl
 DOMAIN-SUFFIX,krakenjs.com
@@ -145,7 +159,11 @@ DOMAIN-SUFFIX,localbitcoinschain.com
 DOMAIN-SUFFIX,login-paypal.com
 DOMAIN-SUFFIX,login-paypal.info
 DOMAIN-SUFFIX,maple.finance
+DOMAIN-SUFFIX,megaeth.com
+DOMAIN-SUFFIX,merkl.xyz
 DOMAIN-SUFFIX,metalpha.finance
+DOMAIN-SUFFIX,metamask.io
+DOMAIN-SUFFIX,mexc.co
 DOMAIN-SUFFIX,mexc.com
 DOMAIN-SUFFIX,mexcsensors.com
 DOMAIN-SUFFIX,mytokenapi.com
@@ -154,6 +172,8 @@ DOMAIN-SUFFIX,mywaytopay.net
 DOMAIN-SUFFIX,nexo.com
 DOMAIN-SUFFIX,nexo.io
 DOMAIN-SUFFIX,nftstatic.com
+DOMAIN-SUFFIX,nodereal.io
+DOMAIN-SUFFIX,oasis.io
 DOMAIN-SUFFIX,okex.com
 DOMAIN-SUFFIX,oklink.com
 DOMAIN-SUFFIX,okx-dns.com
@@ -166,6 +186,7 @@ DOMAIN-SUFFIX,okx.com.cdn.cloudflare.net
 DOMAIN-SUFFIX,onekey-asset.com
 DOMAIN-SUFFIX,onekey.so
 DOMAIN-SUFFIX,onekeycn.com
+DOMAIN-SUFFIX,onfinality.io
 DOMAIN-SUFFIX,opensea.io
 DOMAIN-SUFFIX,osl.com
 DOMAIN-SUFFIX,pa9pal.com
@@ -309,11 +330,14 @@ DOMAIN-SUFFIX,redotpay.com
 DOMAIN-SUFFIX,redotpay.zendesk.com
 DOMAIN-SUFFIX,ripple.com
 DOMAIN-SUFFIX,rp-static-apne1.s3.ap-northeast-1.amazonaws.com
+DOMAIN-SUFFIX,rsk.co
 DOMAIN-SUFFIX,s-xoom.com
+DOMAIN-SUFFIX,safepal.com
 DOMAIN-SUFFIX,satoshilabs.com
 DOMAIN-SUFFIX,secure-paypal.info
 DOMAIN-SUFFIX,securepaypal.info
 DOMAIN-SUFFIX,simility.com
+DOMAIN-SUFFIX,solidifi.app
 DOMAIN-SUFFIX,sslpaypal.org
 DOMAIN-SUFFIX,stealthex.io
 DOMAIN-SUFFIX,straitsx.com
@@ -323,9 +347,11 @@ DOMAIN-SUFFIX,swiftcapital.com
 DOMAIN-SUFFIX,swiftfinancial.com
 DOMAIN-SUFFIX,swiftfinancial.info
 DOMAIN-SUFFIX,swiftfinancial.net
+DOMAIN-SUFFIX,taiko.xyz
 DOMAIN-SUFFIX,theblock.co
 DOMAIN-SUFFIX,thepaypalshop.com
 DOMAIN-SUFFIX,theshoppingexpresslane.net
+DOMAIN-SUFFIX,thirdweb.com
 DOMAIN-SUFFIX,trezor.io
 DOMAIN-SUFFIX,truefi.io
 DOMAIN-SUFFIX,trustwallet.com
@@ -350,6 +376,7 @@ DOMAIN-SUFFIX,wwwxoom.com
 DOMAIN-SUFFIX,wynd.network
 DOMAIN-SUFFIX,wyndlabs.ai
 DOMAIN-SUFFIX,xhpjc6-cdn-settings.appsflyersdk.com
+DOMAIN-SUFFIX,xlayer.tech
 DOMAIN-SUFFIX,xn--bnq297cix3a.cn
 DOMAIN-SUFFIX,xoom-experience.com
 DOMAIN-SUFFIX,xoomcom.com
