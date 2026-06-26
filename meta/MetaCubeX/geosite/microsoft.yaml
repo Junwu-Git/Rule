@@ -6,6 +6,11 @@ payload:
     - statics-marketingsites-eas-ms-com.akamaized.net
     - statics-marketingsites-eus-ms-com.akamaized.net
     - statics-marketingsites-wcus-ms-com.akamaized.net
+    - crl.microsoft.com
+    - mscrl.microsoft.com
+    - ocsp.microsoft.com
+    - oneocsp.microsoft.com
+    - www.microsoft.com
     - flightsimulator.azureedge.net
     - prodforza.blob.core.windows.net
     - azure.microsoft.com
@@ -45,7 +50,6 @@ payload:
     - bingsettingssearch.trafficmanager.net
     - default.exp-tas.com
     - developer.microsoft.com
-    - download.visualstudio.microsoft.com
     - dtlgalleryint.cloudapp.net
     - packages.microsoft.com
     - poshtestgallery.cloudapp.net
@@ -57,11 +61,6 @@ payload:
     - vscode.blob.core.windows.net
     - vscode.search.windows.net
     - vsmarketplacebadge.apphb.com
-    - crl.microsoft.com
-    - mscrl.microsoft.com
-    - ocsp.microsoft.com
-    - oneocsp.microsoft.com
-    - www.microsoft.com
     - +.onedrive
     - +.hotmail
     - +.office
@@ -72,7 +71,7 @@ payload:
     - +.azure
     - +.xbox
     - +.onedriveupdater
-    - +.playfab.com
+    - +.msn.net
     - +.managedmeetingrooms.com
     - +.microsoft.com
     - +.microsoft.cz
@@ -104,7 +103,7 @@ payload:
     - +.microsoft.tv
     - +.microsoft.ua
     - +.microsoft.uz
-    - +.microsoftnews.org
+    - +.microsoftnews.net
     - +.femalefounderscomp.com
     - +.m12.vc
     - +.a-msedge.net
@@ -166,12 +165,12 @@ payload:
     - +.l-msedge.net
     - +.latampartneruniversity.com
     - +.live.com
-    - +.msocsp.com
+    - +.xamarin.com
     - +.live.eu
     - +.live.net
     - +.livingyourambition.com
     - +.makecode.org
-    - +.microsoftnewsforkids.com
+    - +.microsoftnews.org
     - +.meetfasttrack.com
     - +.meetyourdevices.com
     - +.mepn.com
@@ -203,7 +202,7 @@ payload:
     - +.microsoftready.com
     - +.microsoftsiteselection.com
     - +.microsoftstore.com
-    - +.xamarin.com
+    - +.vscodeedu.com
     - +.microsoftstream.com
     - +.microsoftteams.com
     - +.microsofttradein.com
@@ -307,14 +306,15 @@ payload:
     - +.winhec.com
     - +.winhec.net
     - +.yammer.com
-    - +.vscodeedu.com
     - +.vscodeedu.app
+    - +.vscode.dev
+    - +.msocsp.com
     - +.microsoftnews.cc
     - +.microsoftnews.com
-    - +.microsoftnews.net
     - +.microsoft.vn
     - +.microsoft.cl
-    - +.microsoftlatamholiday.com
+    - +.bing.com
+    - +.microsoftnewsforkids.net
     - +.microsoftnewsforkids.org
     - +.microsoftnewskids.com
     - +.microsoftnewskids.net
@@ -332,13 +332,13 @@ payload:
     - +.sharepoint.cn
     - +.livefilestore.com
     - +.1drv.com
-    - +.vscode.dev
     - +.vscode-webview.net
     - +.vscode-unpkg.net
     - +.vscode-cdn.net
     - +.vsassets.io
     - +.visualstudio.net
     - +.visualstudio.eu
+    - +.visualstudio.com
     - +.microsoft.ca
     - +.gamepass.com
     - +.orithegame.com
@@ -427,8 +427,8 @@ payload:
     - +.microsoftazuresponsorships.com
     - +.microsofteca.com
     - +.microsoftiotcentral.com
-    - +.msn.net
     - +.microsoft.be
+    - +.playfab.com
     - +.playfabapi.com
     - +.serverlesslibrary.net
     - +.trafficmanager.net
@@ -456,15 +456,15 @@ payload:
     - +.bingagencyawards.com
     - +.microsoft-give.com
     - +.microsoftcloudsummit.com
-    - +.bing.com
-    - +.microsoftnewsforkids.net
+    - +.microsoftnewsforkids.com
+    - +.microsoftlatamholiday.com
     - +.microsoftmxfilantropia.com
     - +.microsoftpartnersolutions.com
     - +.msunlimitedcloudsummit.com
     - +.office365love.com
     - +.office365tw.com
     - +.renovacionoffice.com
-    - +.visualstudio.com
+    - +.visualstudio.co
     - +.atom.io
     - +.dependabot.com
     - +.gh.io
@@ -491,10 +491,10 @@ payload:
     - +.opensource.guide
     - +.repo.new
     - +.thegithubshop.com
+    - +.githubcopilot.com
     - +.npm.community
     - +.npmjs.com
     - +.npmjs.org
-    - +.githubcopilot.com
     - +.adaptivecards.io
     - +.api-extractor.com
     - +.apisof.net
@@ -536,13 +536,12 @@ payload:
     - +.vfsforgit.com
     - +.vfsforgit.org
     - +.visualstudio-staging.com
-    - +.visualstudio.co
     - +.spoprod-a.akamaihd.net
     - +.skype-edf.akadns.net
     - +.skypedata.akadns.net
     - +.microsoftstore.com.hk
-    - +.visualstudio.co.uk
     - +.live.com.au
+    - +.visualstudio.co.uk
     - +.dynamics.cn
     - +.engkoo.com
     - +.lync.cn
@@ -596,7 +595,6 @@ payload:
     - ctldl.windowsupdate.com
     - developer.microsoft.com
     - download.microsoft.com
-    - download.visualstudio.microsoft.com
     - dreamspark.download.prss.microsoft.com
     - dreamsparkuat.download.prss.microsoft.com
     - f.c2r.ts.cdn.office.net
@@ -743,3 +741,4 @@ payload:
     - +.microsoftreactor.cn
     - +.microsoftreactor.com.cn
     - +.reactorms.com.cn
+    - download.visualstudio.microsoft.com

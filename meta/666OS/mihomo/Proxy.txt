@@ -1,7 +1,7 @@
 # NAME: Proxy
 # AUTHOR: YYDS666
-# UPDATED: 2026-06-24 03:47:04
-# TOTAL: 21874
+# UPDATED: 2026-06-26 03:44:04
+# TOTAL: 21876
 DOMAIN-SUFFIX,000webhost.com
 DOMAIN-SUFFIX,01.org
 DOMAIN-SUFFIX,02weqj32.com
@@ -4904,6 +4904,7 @@ DOMAIN-SUFFIX,crazyxxx3dworld.org
 DOMAIN-SUFFIX,crazyxxxworld.com
 DOMAIN-SUFFIX,crbug.com
 DOMAIN-SUFFIX,crchina.org
+DOMAIN-SUFFIX,creader.com
 DOMAIN-SUFFIX,creaders.net
 DOMAIN-SUFFIX,creamasia.com
 DOMAIN-SUFFIX,creamlemon.info
@@ -8090,6 +8091,7 @@ DOMAIN-SUFFIX,geraldoatlarge.com
 DOMAIN-SUFFIX,gerritcodereview.com
 DOMAIN-SUFFIX,gesoten.com
 DOMAIN-SUFFIX,get.app
+DOMAIN-SUFFIX,get.dappcdn.com
 DOMAIN-SUFFIX,get.dev
 DOMAIN-SUFFIX,get.how
 DOMAIN-SUFFIX,get.new
