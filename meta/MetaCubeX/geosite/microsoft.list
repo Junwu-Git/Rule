@@ -10,8 +10,8 @@ mscrl.microsoft.com
 ocsp.microsoft.com
 oneocsp.microsoft.com
 www.microsoft.com
-flightsimulator.azureedge.net
 prodforza.blob.core.windows.net
+flightsimulator.azureedge.net
 azure.microsoft.com
 azuremarketplace.microsoft.com
 location.microsoft.com
@@ -362,8 +362,6 @@ vsmarketplacebadge.apphb.com
 +.xboxservices.com
 +.xboxstudios.com
 +.xbx.lv
-+.asobostudio.com
-+.flightsimulator.com
 +.beth.games
 +.bethesda.net
 +.bethesdagamestudios.com
@@ -380,6 +378,8 @@ vsmarketplacebadge.apphb.com
 +.minecraftservices.com
 +.minecraftshop.com
 +.mojang.com
++.asobostudio.com
++.flightsimulator.com
 +.microsoft.by
 +.aadrm.com
 +.azure-devices-int.net
