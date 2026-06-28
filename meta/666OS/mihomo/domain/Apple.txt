@@ -1,7 +1,7 @@
 # NAME: Apple
 # AUTHOR: YYDS666
-# UPDATED: 2026-06-26 03:43:58
-# TOTAL: 1804
+# UPDATED: 2026-06-28 03:02:32
+# TOTAL: 1805
 +.100beatscheap.com
 +.12diasdepresentesdeitunes.com
 +.12diasderegalosdeitunes.cl
@@ -1707,6 +1707,7 @@ itunesconnect.apple.com
 js-cdn.music.apple.com
 km.support.apple.com
 maps.apple.com
+mensura.cdn-apple.com
 mesu-cdn.apple.com.akadns.net
 mesu-china.apple.com.akadns.net
 mesu.apple.com

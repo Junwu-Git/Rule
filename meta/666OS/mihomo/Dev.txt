@@ -1,12 +1,13 @@
 # NAME: Dev
 # AUTHOR: YYDS666
-# UPDATED: 2026-06-26 03:43:55
-# TOTAL: 504
+# UPDATED: 2026-06-28 03:02:32
+# TOTAL: 511
 DOMAIN-SUFFIX,01.org
 DOMAIN-SUFFIX,accountkit.com
 DOMAIN-SUFFIX,acpica.com
 DOMAIN-SUFFIX,adaptivecards.io
 DOMAIN-SUFFIX,adventofcode.com
+DOMAIN-SUFFIX,almalinux.org
 DOMAIN-SUFFIX,alpinelinux.org
 DOMAIN-SUFFIX,amp.dev
 DOMAIN-SUFFIX,ampproject.com
@@ -51,6 +52,7 @@ DOMAIN-SUFFIX,brew.sh
 DOMAIN-SUFFIX,buck.build
 DOMAIN-SUFFIX,buckbuild.com
 DOMAIN-SUFFIX,bugsnag.com
+DOMAIN-SUFFIX,busybox.net
 DOMAIN-SUFFIX,calendarserver.org
 DOMAIN-SUFFIX,canonical.com
 DOMAIN-SUFFIX,carekit.org
@@ -258,6 +260,7 @@ DOMAIN-SUFFIX,macruby.com
 DOMAIN-SUFFIX,macruby.net
 DOMAIN-SUFFIX,macruby.org
 DOMAIN-SUFFIX,makeitopen.com
+DOMAIN-SUFFIX,manjaro.org
 DOMAIN-SUFFIX,mariadb.org
 DOMAIN-SUFFIX,mate-desktop.org
 DOMAIN-SUFFIX,mathoverflow.net
@@ -386,6 +389,7 @@ DOMAIN-SUFFIX,researchandcare.org
 DOMAIN-SUFFIX,rocksdb.com
 DOMAIN-SUFFIX,rocksdb.net
 DOMAIN-SUFFIX,rocksdb.org
+DOMAIN-SUFFIX,rockylinux.org
 DOMAIN-SUFFIX,rpmfusion.org
 DOMAIN-SUFFIX,ruby-lang.org
 DOMAIN-SUFFIX,rubygems.org
@@ -473,7 +477,10 @@ DOMAIN-SUFFIX,visualstudio-staging.com
 DOMAIN-SUFFIX,vsassets.io
 DOMAIN-SUFFIX,vscode-cdn.net
 DOMAIN-SUFFIX,vscode-unpkg.net
+DOMAIN-SUFFIX,vscode-webview.net
 DOMAIN-SUFFIX,vscode.dev
+DOMAIN-SUFFIX,vscodeedu.app
+DOMAIN-SUFFIX,vscodeedu.com
 DOMAIN-SUFFIX,w.org
 DOMAIN-SUFFIX,wapm.io
 DOMAIN-SUFFIX,wasmer.io

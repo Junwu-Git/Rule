@@ -1,8 +1,9 @@
 # NAME: Spotify
 # AUTHOR: YYDS666
-# UPDATED: 2026-06-26 03:46:10
-# TOTAL: 26
+# UPDATED: 2026-06-28 03:02:35
+# TOTAL: 28
 +.byspotify.com
++.lifeatspotify.com
 +.pscdn.co
 +.scdn.co
 +.spoti.fi
@@ -15,6 +16,7 @@
 +.spotifycharts.com
 +.spotifycodes.com
 +.spotifyforbrands.com
++.spotifyforvendors.com
 +.spotifyjobs.com
 +.tospotify.com
 adeventtracker.spotify.com

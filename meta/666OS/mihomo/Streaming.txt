@@ -1,7 +1,7 @@
 # NAME: Streaming
 # AUTHOR: YYDS666
-# UPDATED: 2026-06-26 03:46:09
-# TOTAL: 358
+# UPDATED: 2026-06-28 03:02:34
+# TOTAL: 360
 DOMAIN-SUFFIX,20thcenturystudios.com.au
 DOMAIN-SUFFIX,20thcenturystudios.com.br
 DOMAIN-SUFFIX,20thcenturystudios.jp
@@ -187,6 +187,7 @@ DOMAIN-SUFFIX,kkbox.com
 DOMAIN-SUFFIX,kkbox.com.tw
 DOMAIN-SUFFIX,kktv.com.tw
 DOMAIN-SUFFIX,kktv.me
+DOMAIN-SUFFIX,lifeatspotify.com
 DOMAIN-SUFFIX,linetv.tw
 DOMAIN-SUFFIX,litv.tv
 DOMAIN-SUFFIX,marvel.com
@@ -261,6 +262,7 @@ DOMAIN-SUFFIX,spotifycdn.net
 DOMAIN-SUFFIX,spotifycharts.com
 DOMAIN-SUFFIX,spotifycodes.com
 DOMAIN-SUFFIX,spotifyforbrands.com
+DOMAIN-SUFFIX,spotifyforvendors.com
 DOMAIN-SUFFIX,spotifyjobs.com
 DOMAIN-SUFFIX,star-brasil.com
 DOMAIN-SUFFIX,star-latam.com

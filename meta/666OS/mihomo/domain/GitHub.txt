@@ -1,7 +1,7 @@
 # NAME: GitHub
 # AUTHOR: YYDS666
-# UPDATED: 2026-06-26 03:46:10
-# TOTAL: 62
+# UPDATED: 2026-06-28 03:02:35
+# TOTAL: 63
 +.atom.io
 +.collector.github.com
 +.dependabot.com
@@ -11,6 +11,7 @@
 +.git.io
 +.github.ai
 +.github.blog
++.github.career
 +.github.com
 +.github.community
 +.github.dev

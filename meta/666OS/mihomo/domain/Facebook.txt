@@ -1,6 +1,6 @@
 # NAME: Facebook
 # AUTHOR: YYDS666
-# UPDATED: 2026-06-26 03:43:58
+# UPDATED: 2026-06-28 03:00:29
 # TOTAL: 471
 +.aboutfacebook.com
 +.accessfacebookfromschool.com

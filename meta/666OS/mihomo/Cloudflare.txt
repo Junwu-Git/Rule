@@ -1,7 +1,7 @@
 # NAME: Cloudflare
 # AUTHOR: YYDS666
-# UPDATED: 2026-06-26 03:43:56
-# TOTAL: 872
+# UPDATED: 2026-06-28 03:02:34
+# TOTAL: 877
 DOMAIN-SUFFIX,argotunnel.com
 DOMAIN-SUFFIX,browser.run
 DOMAIN-SUFFIX,cf-china.info
@@ -412,9 +412,11 @@ IP-CIDR,199.33.230.0/23,no-resolve
 IP-CIDR,199.33.232.0/23,no-resolve
 IP-CIDR,199.5.242.0/24,no-resolve
 IP-CIDR,199.60.103.0/24,no-resolve
+IP-CIDR,199.65.62.0/24,no-resolve
 IP-CIDR,199.68.16.0/22,no-resolve
 IP-CIDR,200.73.67.0/24,no-resolve
 IP-CIDR,202.27.69.0/24,no-resolve
+IP-CIDR,202.49.114.0/24,no-resolve
 IP-CIDR,202.82.250.0/24,no-resolve
 IP-CIDR,203.13.32.0/24,no-resolve
 IP-CIDR,203.15.65.0/24,no-resolve
@@ -471,7 +473,6 @@ IP-CIDR,209.55.246.0/23,no-resolve
 IP-CIDR,209.55.253.0/24,no-resolve
 IP-CIDR,209.55.254.0/24,no-resolve
 IP-CIDR,210.1.232.0/23,no-resolve
-IP-CIDR,211.181.187.0/24,no-resolve
 IP-CIDR,211.188.26.0/23,no-resolve
 IP-CIDR,212.104.128.0/24,no-resolve
 IP-CIDR,212.239.86.0/24,no-resolve
@@ -534,7 +535,7 @@ IP-CIDR,45.148.100.0/24,no-resolve
 IP-CIDR,45.149.12.0/24,no-resolve
 IP-CIDR,45.153.7.0/24,no-resolve
 IP-CIDR,45.157.17.0/24,no-resolve
-IP-CIDR,45.192.222.0/23,no-resolve
+IP-CIDR,45.192.223.0/24,no-resolve
 IP-CIDR,45.192.224.0/24,no-resolve
 IP-CIDR,45.194.53.0/24,no-resolve
 IP-CIDR,45.195.153.0/24,no-resolve
@@ -667,6 +668,9 @@ IP-CIDR,8.42.55.0/24,no-resolve
 IP-CIDR,8.43.121.0/24,no-resolve
 IP-CIDR,8.43.122.0/23,no-resolve
 IP-CIDR,8.43.226.0/24,no-resolve
+IP-CIDR,8.44.0.0/23,no-resolve
+IP-CIDR,8.44.2.0/24,no-resolve
+IP-CIDR,8.44.60.0/24,no-resolve
 IP-CIDR,8.45.41.0/24,no-resolve
 IP-CIDR,8.47.12.0/23,no-resolve
 IP-CIDR,8.47.15.0/24,no-resolve
@@ -720,6 +724,7 @@ IP-CIDR6,2001:678:19c::/48,no-resolve
 IP-CIDR6,2001:df7:6e80::/48,no-resolve
 IP-CIDR6,2400:c760:a::/48,no-resolve
 IP-CIDR6,2400:cb00::/32,no-resolve
+IP-CIDR6,2401:9860::/32,no-resolve
 IP-CIDR6,2401:c2e0:8000::/44,no-resolve
 IP-CIDR6,2405:8100::/32,no-resolve
 IP-CIDR6,2405:b500::/32,no-resolve

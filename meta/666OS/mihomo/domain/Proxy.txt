@@ -1,7 +1,7 @@
 # NAME: Proxy
 # AUTHOR: YYDS666
-# UPDATED: 2026-06-26 03:44:05
-# TOTAL: 27046
+# UPDATED: 2026-06-28 03:00:28
+# TOTAL: 27074
 +.000webhost.com
 +.01.org
 +.02weqj32.com
@@ -1149,6 +1149,7 @@
 +.airtunes.com
 +.airtunes.info
 +.airtunes.net
++.airuniversity.af.edu
 +.airvpn.org
 +.airwatchexpress.com
 +.airwatchqa.com
@@ -1397,6 +1398,7 @@
 +.allspyclips.com
 +.allswingersclubs.org
 +.allthefallen.moe
++.almalinux.org
 +.alohatube.com
 +.alotporn.com
 +.alphabet.asia
@@ -4637,6 +4639,7 @@
 +.bustynudebabes.com
 +.bustyoldsluts.com
 +.bustysammieblack.com
++.busybox.net
 +.buy-from-shanghai.com
 +.buyaapl.com
 +.buyaapl.net
@@ -8020,6 +8023,7 @@
 +.exoav.com
 +.exotic-ghana.com
 +.exoticuganda.com
++.exp-tas.com
 +.expatshield.com
 +.expecthim.com
 +.expekt.com
@@ -9488,6 +9492,7 @@
 +.garudalinux.org
 +.gastrointestinalexam.com
 +.gate.cc
++.gate.com
 +.gate.io
 +.gatecoin.com
 +.gatedata.org
@@ -9809,6 +9814,7 @@
 +.githack.com
 +.github.ai
 +.github.blog
++.github.career
 +.github.com
 +.github.community
 +.github.dev
@@ -9960,8 +9966,10 @@
 +.gofucker.com
 +.gofuckmenow.com
 +.gofundme.com
++.gog-services.com
 +.gog-statics.com
 +.gog.com
++.gogalaxy.com
 +.gogettaxi.org
 +.gogle.com
 +.gogo-load.com
@@ -11019,6 +11027,7 @@
 +.hkheadline.com
 +.hklts.org.hk
 +.hkmap.live
++.hkong.hk
 +.hkopentv.com
 +.hkpeanut.com
 +.hkporn.net
@@ -13374,6 +13383,7 @@
 +.keytransparency.com
 +.keytransparency.foo
 +.keytransparency.org
++.kfor.com
 +.kfs.io
 +.kgisystems.com
 +.kgslb.com
@@ -13789,6 +13799,7 @@
 +.licensebuttons.net
 +.licenseparser.com
 +.life-global.org
++.lifeatspotify.com
 +.lifemiles.com
 +.lifeselector.com
 +.lifestyle-tec.ru
@@ -14295,6 +14306,7 @@
 +.manhwa24h.com
 +.manhwahentai.me
 +.maniakey.homes
++.manjaro.org
 +.manorama.com
 +.manoramanews.com
 +.manoramaonline.com
@@ -14755,6 +14767,7 @@
 +.mhqwe.xyz
 +.mhradio.org
 +.mhshosting.com
++.mhwindow.org
 +.mi.kochudaho.me
 +.mi.mashiro.site
 +.mi.nakn.jp
@@ -17641,6 +17654,7 @@
 +.pccw.com
 +.pccwglobal.com
 +.pccwsolutions.com
++.pcgamesn.com
 +.pcgamestorrents.com
 +.pchome.com.tw
 +.pchomeec.tw
@@ -19236,6 +19250,7 @@
 +.resoubang.buzz
 +.respawnbyrazer.com
 +.restnproducts.ru
++.restofworld.org
 +.restream-media.net
 +.restream.ru
 +.rethink.net
@@ -19357,6 +19372,7 @@
 +.rocksextube.com
 +.rockstargames.com
 +.rockstarnorth.com
++.rockylinux.org
 +.rojo.com
 +.roku.com
 +.rokutime.com
@@ -20805,6 +20821,7 @@
 +.soyjak.st
 +.sp.cool
 +.spaceexplored.com
++.spaceforce.mil
 +.spacely.com.au
 +.spacemail.com
 +.spaces.hightail.com
@@ -20885,6 +20902,7 @@
 +.spotifycharts.com
 +.spotifycodes.com
 +.spotifyforbrands.com
++.spotifyforvendors.com
 +.spotifyjobs.com
 +.spraynwash.com
 +.spreadprivacy.com
@@ -21308,6 +21326,7 @@
 +.supr.cl
 +.supremacy.com
 +.supremacy.net
++.supremecourt.gov
 +.sureporn.com
 +.surface.com
 +.surfeasy.com
@@ -21829,6 +21848,7 @@
 +.theinitium.com
 +.theinstagramhack.com
 +.theintelstore.com
++.theintercept.com
 +.theinventionworks.com
 +.theinventionworks.net
 +.thekarups.com
@@ -22342,6 +22362,7 @@
 +.trouw.nl
 +.trpger.us
 +.trt.net.tr
++.trtworld.com
 +.trueamateurmodels.com
 +.trueamateurs.com
 +.trueanal.com
@@ -22611,6 +22632,7 @@
 +.twoo.com
 +.twporn.net
 +.twreporter.org
++.twstalker.com
 +.twtrdns.net
 +.twttr.com
 +.twttr.net
@@ -23852,7 +23874,10 @@
 +.vscale.ru
 +.vscode-cdn.net
 +.vscode-unpkg.net
++.vscode-webview.net
 +.vscode.dev
++.vscodeedu.app
++.vscodeedu.com
 +.vsemrabota.ru
 +.vsex.in
 +.vsezoo.com
@@ -23949,6 +23974,7 @@
 +.washa.tv
 +.washingtondcbmw.com
 +.washingtonpost.com
++.washingtontimes.com
 +.waskucity.com
 +.wasmer.io
 +.watch-ebay.org
@@ -24962,6 +24988,7 @@
 +.xtubebdsm.com
 +.xtubezoo.com
 +.xu97.vip
++.xuan.com.my
 +.xuchao.net
 +.xuchao.org
 +.xuehua.us
@@ -26244,7 +26271,6 @@ dlmobilegarena-a.akamaihd.net
 dmqdd6hw24ucf.cloudfront.net
 docker-images-prod.6aa30f8b08e16409b46e0173d6de2f56.r2.cloudflarestorage.com
 docker-pinata-support.s3.amazonaws.com
-download.visualstudio.microsoft.com
 dqd0jw5gvbchn.cloudfront.net
 dqrpb9wgowsf5.cloudfront.net
 ds-linear-abematv.akamaized.net
@@ -26343,6 +26369,8 @@ github-production-user-asset-6210df.s3.amazonaws.com
 github.global.ssl.fastly.net
 gitlab-assets.oss-cn-hongkong.aliyuncs.com
 gmp4.com
+gog-cdn-lumen.secure2.footprint.net
+gog-cdn.akamaized.net
 gojet.krtco.com.tw
 google-ohttp-relay-safebrowsing.fastly-edge.com
 gu-chu-sum.org
@@ -26785,7 +26813,6 @@ time.apple.com
 time.asia.apple.com
 time.aws.com
 time.cloudflare.com
-time.com
 time.euro.apple.com
 time.facebook.com
 time.google.com
@@ -27026,6 +27053,7 @@ www.hustlercash.com
 www.idlcoyote.com
 www.kindleren.com
 www.m-sport.co.uk
+www.microsoft.com
 www.monlamit.org
 www.oxid.it
 www.quora.com.cdn.cloudflare.net

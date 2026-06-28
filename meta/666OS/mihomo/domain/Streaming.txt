@@ -1,7 +1,7 @@
 # NAME: Streaming
 # AUTHOR: YYDS666
-# UPDATED: 2026-06-26 03:46:09
-# TOTAL: 631
+# UPDATED: 2026-06-28 03:02:34
+# TOTAL: 633
 +.20thcenturystudios.com.au
 +.20thcenturystudios.com.br
 +.20thcenturystudios.jp
@@ -248,6 +248,7 @@
 +.kkbox.com.tw
 +.kktv.com.tw
 +.kktv.me
++.lifeatspotify.com
 +.linetv.tw
 +.litv.tv
 +.marvel.com
@@ -322,6 +323,7 @@
 +.spotifycharts.com
 +.spotifycodes.com
 +.spotifyforbrands.com
++.spotifyforvendors.com
 +.spotifyjobs.com
 +.star-brasil.com
 +.star-latam.com
