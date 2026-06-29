@@ -6,6 +6,26 @@ payload:
     - statics-marketingsites-eas-ms-com.akamaized.net
     - statics-marketingsites-eus-ms-com.akamaized.net
     - statics-marketingsites-wcus-ms-com.akamaized.net
+    - az764295.vo.msecnd.net
+    - bingsettingssearch.trafficmanager.net
+    - default.exp-tas.com
+    - developer.microsoft.com
+    - dtlgalleryint.cloudapp.net
+    - packages.microsoft.com
+    - poshtestgallery.cloudapp.net
+    - psg-int-centralus.cloudapp.net
+    - psg-int-eastus.cloudapp.net
+    - rink.hockeyapp.net
+    - vscode-sync-insiders.trafficmanager.net
+    - vscode-sync.trafficmanager.net
+    - vscode.blob.core.windows.net
+    - vscode.search.windows.net
+    - vsmarketplacebadge.apphb.com
+    - crl.microsoft.com
+    - mscrl.microsoft.com
+    - ocsp.microsoft.com
+    - oneocsp.microsoft.com
+    - www.microsoft.com
     - flightsimulator.azureedge.net
     - prodforza.blob.core.windows.net
     - azure.microsoft.com
@@ -41,37 +61,17 @@ payload:
     - copilot-proxy.githubusercontent.com
     - copilot-workspace.githubnext.com
     - copilotprodattachments.blob.core.windows.net
-    - az764295.vo.msecnd.net
-    - bingsettingssearch.trafficmanager.net
-    - default.exp-tas.com
-    - developer.microsoft.com
-    - dtlgalleryint.cloudapp.net
-    - packages.microsoft.com
-    - poshtestgallery.cloudapp.net
-    - psg-int-centralus.cloudapp.net
-    - psg-int-eastus.cloudapp.net
-    - rink.hockeyapp.net
-    - vscode-sync-insiders.trafficmanager.net
-    - vscode-sync.trafficmanager.net
-    - vscode.blob.core.windows.net
-    - vscode.search.windows.net
-    - vsmarketplacebadge.apphb.com
-    - crl.microsoft.com
-    - mscrl.microsoft.com
-    - ocsp.microsoft.com
-    - oneocsp.microsoft.com
-    - www.microsoft.com
     - +.onedrive
     - +.hotmail
     - +.office
     - +.skype
     - +.windows
-    - +.microsoft
     - +.bing
     - +.azure
+    - +.microsoft
     - +.xbox
     - +.onedriveupdater
-    - +.bingparachute.com
+    - +.forzamotorsport.net
     - +.managedmeetingrooms.com
     - +.microsoft.com
     - +.microsoft.cz
@@ -103,7 +103,7 @@ payload:
     - +.microsoft.tv
     - +.microsoft.ua
     - +.microsoft.uz
-    - +.microsoftpersonalcontent.com
+    - +.appcenter.ms
     - +.femalefounderscomp.com
     - +.m12.vc
     - +.a-msedge.net
@@ -165,12 +165,12 @@ payload:
     - +.l-msedge.net
     - +.latampartneruniversity.com
     - +.live.com
-    - +.start.com
+    - +.npmjs.org
     - +.live.eu
     - +.live.net
     - +.livingyourambition.com
     - +.makecode.org
-    - +.onedrive.com
+    - +.blazor.net
     - +.meetfasttrack.com
     - +.meetyourdevices.com
     - +.mepn.com
@@ -198,10 +198,11 @@ payload:
     - +.microsoftonline-p.com
     - +.microsoftonline.com
     - +.microsoftpartnercommunity.com
+    - +.microsoftpersonalcontent.com
     - +.microsoftready.com
     - +.microsoftsiteselection.com
     - +.microsoftstore.com
-    - +.microsoftstart.com
+    - +.npmjs.com
     - +.microsoftstream.com
     - +.microsoftteams.com
     - +.microsofttradein.com
@@ -305,183 +306,14 @@ payload:
     - +.winhec.com
     - +.winhec.net
     - +.yammer.com
-    - +.msnkids.com
-    - +.msnewskids.org
-    - +.microsoft.ch
-    - +.microsoft.cat
-    - +.microsoft.vn
-    - +.microsoft.cl
-    - +.github.com
-    - +.livefilestore.com
-    - +.1drv.com
-    - +.msnewskids.net
-    - +.msnewskids.com
-    - +.msn.com
-    - +.microsoftnewskids.org
-    - +.microsoftnewskids.net
-    - +.microsoftnewskids.com
-    - +.microsoftnewsforkids.org
-    - +.microsoft.ca
-    - +.gamepass.com
-    - +.orithegame.com
-    - +.renovacionxboxlive.com
-    - +.tellmewhygame.com
-    - +.xbox.co
-    - +.xbox.com
-    - +.xbox.eu
-    - +.xbox.org
-    - +.xbox360.co
-    - +.xbox360.com
-    - +.xbox360.eu
-    - +.xbox360.org
-    - +.xboxab.com
-    - +.xboxgamepass.com
-    - +.xboxgamestudios.com
-    - +.xboxlive.com
-    - +.xboxone.co
-    - +.xboxone.com
-    - +.xboxone.eu
-    - +.xboxplayanywhere.com
-    - +.xboxservices.com
-    - +.xboxstudios.com
-    - +.xbx.lv
-    - +.asobostudio.com
-    - +.flightsimulator.com
-    - +.beth.games
-    - +.bethesda.net
-    - +.bethesdagamestudios.com
-    - +.bethsoft.com
-    - +.doom.com
-    - +.elderscrolls.com
-    - +.forza.net
-    - +.forzamotorsport.net
-    - +.forzaracingchampionship.com
-    - +.forzarc.com
-    - +.callersbane.com
-    - +.minecraft-services.net
-    - +.minecraft.net
-    - +.minecraftservices.com
-    - +.minecraftshop.com
-    - +.mojang.com
-    - +.microsoft.by
-    - +.aadrm.com
-    - +.azure-devices-int.net
-    - +.azure-devices.net
-    - +.azure-mobile.net
-    - +.azure-sphere.com
-    - +.azure-test.net
-    - +.azure.com
-    - +.azure.net
-    - +.azurecomcdn.net
-    - +.azurecomm.net
-    - +.azurecontainer.io
-    - +.azurecosmos.net
-    - +.azurecosmosdb.com
-    - +.azurecosmosdb.info
-    - +.azurecosmosdb.net
-    - +.azuredatabricks.net
-    - +.azuredevopslaunch.com
-    - +.azuredigitaltwin.com
-    - +.azuredigitaltwins.com
-    - +.azuredigitaltwins.net
-    - +.azuredns-prd.info
-    - +.azuredns-prd.org
-    - +.azureedge-test.net
-    - +.azureedge.net
-    - +.azurefd.net
-    - +.azureiotcentral.com
-    - +.azureiotsolutions.com
-    - +.azureiotsuite.com
-    - +.azureplanetscale.info
-    - +.azureplanetscale.net
-    - +.azureserviceprofiler.com
-    - +.azuresmartspaces.net
-    - +.azurestackvalidation.com
-    - +.azurewebsites.net
-    - +.botframework.com
-    - +.cosmosdb.info
-    - +.cosmosdb.net
-    - +.devopsms.com
-    - +.gotcosmos.com
-    - +.management-azure-devices-int.net
-    - +.management-azure-devices.net
-    - +.microsoftazuread-sso.com
-    - +.microsoftazuresponsorships.com
-    - +.microsofteca.com
-    - +.microsoftiotcentral.com
-    - +.msn.net
-    - +.playfab.com
-    - +.playfabapi.com
-    - +.serverlesslibrary.net
-    - +.trafficmanager.net
-    - +.tryfunctions.com
-    - +.windowsazure.com
-    - +.azure-dns.com
-    - +.azure-dns.info
-    - +.azure-dns.net
-    - +.azure-dns.org
-    - +.microsoft.be
-    - +.microsoftdiplomados.com
-    - +.bing123.com
-    - +.flipwithsurface.com
-    - +.masalladeloslimites.com
-    - +.bingapis.com
-    - +.bingapistatistics.com
-    - +.microsoft.az
-    - +.bingsandbox.com
-    - +.bingvisualsearch.com
-    - +.bingworld.com
-    - +.bluehatnights.com
-    - +.dictate.ms
-    - +.sprinklesapp.com
-    - +.bing.net
-    - +.bingagencyawards.com
-    - +.microsoft-give.com
-    - +.microsoftcloudsummit.com
-    - +.bing.com
-    - +.microsoftlatamholiday.com
-    - +.microsoftmxfilantropia.com
-    - +.microsoftpartnersolutions.com
-    - +.msunlimitedcloudsummit.com
-    - +.office365love.com
-    - +.office365tw.com
-    - +.renovacionoffice.com
-    - +.microsoftnewsforkids.net
-    - +.atom.io
-    - +.dependabot.com
-    - +.gh.io
-    - +.ghcr.io
-    - +.ghe.com
-    - +.git.io
-    - +.github.ai
-    - +.github.blog
-    - +.github.career
-    - +.sharepoint.cn
-    - +.github.community
-    - +.github.dev
-    - +.github.io
-    - +.githubapp.com
-    - +.githubassets.com
-    - +.githubhackathon.com
-    - +.githubnext.com
-    - +.githubpreview.dev
-    - +.githubstatus.com
-    - +.githubuniverse.com
-    - +.githubusercontent.com
-    - +.myoctocat.com
-    - +.octocaptcha.com
-    - +.opensource.guide
-    - +.repo.new
-    - +.thegithubshop.com
-    - +.githubcopilot.com
     - +.npm.community
-    - +.npmjs.com
-    - +.npmjs.org
+    - +.githubcopilot.com
     - +.adaptivecards.io
     - +.api-extractor.com
     - +.apisof.net
-    - +.appcenter.ms
-    - +.blazor.net
+    - +.microsoft.vn
+    - +.microsoft.cl
+    - +.azuredigitaltwins.net
     - +.codethemicrobit.com
     - +.devopsassessment.net
     - +.dot.net
@@ -530,15 +362,183 @@ payload:
     - +.vscodeedu.app
     - +.vscodeedu.com
     - +.xamarin.com
-    - +.microsoftnewsforkids.com
+    - +.thegithubshop.com
     - +.msocsp.com
     - +.microsoftnews.cc
     - +.microsoftnews.com
     - +.microsoftnews.net
     - +.microsoftnews.org
-    - +.visualstudio.co.uk
-    - +.skypedata.akadns.net
+    - +.microsoftnewsforkids.com
+    - +.microsoftnewsforkids.net
+    - +.microsoftnewsforkids.org
+    - +.microsoftnewskids.com
+    - +.microsoftnewskids.net
+    - +.microsoftnewskids.org
+    - +.msn.com
+    - +.msnewskids.com
+    - +.msnewskids.net
+    - +.msnewskids.org
+    - +.msnkids.com
+    - +.microsoftstart.com
+    - +.start.com
+    - +.microsoft.ch
+    - +.microsoft.cat
+    - +.onedrive.com
+    - +.sharepoint.cn
+    - +.livefilestore.com
+    - +.1drv.com
+    - +.repo.new
+    - +.opensource.guide
+    - +.octocaptcha.com
+    - +.myoctocat.com
+    - +.githubusercontent.com
+    - +.githubuniverse.com
+    - +.githubstatus.com
+    - +.microsoft.ca
+    - +.gamepass.com
+    - +.orithegame.com
+    - +.renovacionxboxlive.com
+    - +.tellmewhygame.com
+    - +.xbox.co
+    - +.xbox.com
+    - +.xbox.eu
+    - +.xbox.org
+    - +.xbox360.co
+    - +.xbox360.com
+    - +.xbox360.eu
+    - +.xbox360.org
+    - +.xboxab.com
+    - +.xboxgamepass.com
+    - +.xboxgamestudios.com
+    - +.xboxlive.com
+    - +.xboxone.co
+    - +.xboxone.com
+    - +.xboxone.eu
+    - +.xboxplayanywhere.com
+    - +.xboxservices.com
+    - +.xboxstudios.com
+    - +.xbx.lv
+    - +.asobostudio.com
+    - +.flightsimulator.com
+    - +.beth.games
+    - +.bethesda.net
+    - +.bethesdagamestudios.com
+    - +.bethsoft.com
+    - +.doom.com
+    - +.elderscrolls.com
+    - +.forza.net
+    - +.microsoft.by
+    - +.forzaracingchampionship.com
+    - +.forzarc.com
+    - +.callersbane.com
+    - +.minecraft-services.net
+    - +.minecraft.net
+    - +.minecraftservices.com
+    - +.minecraftshop.com
+    - +.mojang.com
+    - +.microsoft.be
+    - +.aadrm.com
+    - +.azure-devices-int.net
+    - +.azure-devices.net
+    - +.azure-mobile.net
+    - +.azure-sphere.com
+    - +.azure-test.net
+    - +.azure.com
+    - +.azure.net
+    - +.azurecomcdn.net
+    - +.azurecomm.net
+    - +.azurecontainer.io
+    - +.azurecosmos.net
+    - +.azurecosmosdb.com
+    - +.azurecosmosdb.info
+    - +.azurecosmosdb.net
+    - +.azuredatabricks.net
+    - +.azuredevopslaunch.com
+    - +.azuredigitaltwin.com
+    - +.azuredigitaltwins.com
+    - +.botframework.com
+    - +.azuredns-prd.info
+    - +.azuredns-prd.org
+    - +.azureedge-test.net
+    - +.azureedge.net
+    - +.azurefd.net
+    - +.azureiotcentral.com
+    - +.azureiotsolutions.com
+    - +.azureiotsuite.com
+    - +.azureplanetscale.info
+    - +.azureplanetscale.net
+    - +.azureserviceprofiler.com
+    - +.azuresmartspaces.net
+    - +.azurestackvalidation.com
+    - +.azurewebsites.net
+    - +.cosmosdb.info
+    - +.cosmosdb.net
+    - +.devopsms.com
+    - +.gotcosmos.com
+    - +.management-azure-devices-int.net
+    - +.management-azure-devices.net
+    - +.microsoftazuread-sso.com
+    - +.microsoftazuresponsorships.com
+    - +.microsofteca.com
+    - +.microsoftiotcentral.com
+    - +.msn.net
+    - +.playfab.com
+    - +.playfabapi.com
+    - +.serverlesslibrary.net
+    - +.trafficmanager.net
+    - +.tryfunctions.com
+    - +.windowsazure.com
+    - +.azure-dns.com
+    - +.azure-dns.info
+    - +.azure-dns.net
+    - +.azure-dns.org
+    - +.microsoft.az
+    - +.microsoftdiplomados.com
+    - +.bing123.com
+    - +.flipwithsurface.com
+    - +.masalladeloslimites.com
+    - +.bingapis.com
+    - +.bingapistatistics.com
+    - +.bingparachute.com
+    - +.bingsandbox.com
+    - +.bingvisualsearch.com
+    - +.bingworld.com
+    - +.bluehatnights.com
+    - +.dictate.ms
+    - +.sprinklesapp.com
+    - +.bing.net
+    - +.bingagencyawards.com
+    - +.microsoft-give.com
+    - +.microsoftcloudsummit.com
+    - +.bing.com
+    - +.microsoftlatamholiday.com
+    - +.microsoftmxfilantropia.com
+    - +.microsoftpartnersolutions.com
+    - +.msunlimitedcloudsummit.com
+    - +.office365love.com
+    - +.office365tw.com
+    - +.renovacionoffice.com
+    - +.githubpreview.dev
+    - +.atom.io
+    - +.dependabot.com
+    - +.gh.io
+    - +.ghcr.io
+    - +.ghe.com
+    - +.git.io
+    - +.github.ai
+    - +.github.blog
+    - +.github.career
+    - +.github.com
+    - +.github.community
+    - +.github.dev
+    - +.github.io
+    - +.githubapp.com
+    - +.githubassets.com
+    - +.githubhackathon.com
+    - +.githubnext.com
     - +.spoprod-a.akamaihd.net
+    - +.skypedata.akadns.net
+    - +.visualstudio.co.uk
     - +.skype-edf.akadns.net
     - +.microsoftstore.com.hk
     - +.live.com.au
@@ -631,6 +631,14 @@ payload:
     - vscode.download.prss.microsoft.com
     - vz.download.prss.microsoft.com
     - windbg.download.prss.microsoft.com
+    - +.microsoftreactor.cn
+    - +.microsoftreactor.com.cn
+    - +.reactorms.com.cn
+    - download.visualstudio.microsoft.com
+    - +.microsoftnews.cn
+    - +.msn.cn
+    - +.browser.events.data.msn.cn
+    - +.browser.events.data.msn.com
     - +.xboxlive.cn
     - +.21vbc.com
     - +.21vbluecloud.com
@@ -734,11 +742,3 @@ payload:
     - +.collector.github.com
     - copilot-telemetry-service.githubusercontent.com
     - copilot-telemetry.githubusercontent.com
-    - +.microsoftreactor.cn
-    - +.microsoftreactor.com.cn
-    - +.reactorms.com.cn
-    - download.visualstudio.microsoft.com
-    - +.microsoftnews.cn
-    - +.msn.cn
-    - +.browser.events.data.msn.cn
-    - +.browser.events.data.msn.com
