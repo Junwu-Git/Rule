@@ -1,7 +1,7 @@
 # NAME: Proxy
 # AUTHOR: YYDS666
-# UPDATED: 2026-07-04 03:00:27
-# TOTAL: 27076
+# UPDATED: 2026-07-06 02:57:26
+# TOTAL: 27095
 +.000webhost.com
 +.01.org
 +.02weqj32.com
@@ -2107,6 +2107,7 @@
 +.applereach.com
 +.applereach.net
 +.apples-msk.ru
++.appleschoolcontent.com
 +.applescreensavers.com
 +.applescript.info
 +.appleshare.info
@@ -2195,6 +2196,7 @@
 +.aptoide.com
 +.apture.com
 +.apyle.com
++.apzones.com
 +.aqdlt.net
 +.arabianchicks.com
 +.arabicrt.ru
@@ -2749,6 +2751,7 @@
 +.axbdoll.com.tw
 +.axept.io
 +.axios.com
++.axm-usercontent-apple.com
 +.axureformac.com
 +.ayabank.com
 +.ayshdade.info
@@ -3675,6 +3678,7 @@
 +.blackstonespoliceservice.com
 +.blacktowhite.net
 +.blackvpn.com
++.blanc.ru
 +.blaoshi.cc
 +.blast.io
 +.blazor.net
@@ -4355,6 +4359,7 @@
 +.boswp.com
 +.botanwang.com
 +.botframework.com
++.botim.me
 +.botmechanic.io
 +.botorch.org
 +.botstop.com
@@ -5807,6 +5812,7 @@
 +.coova.com
 +.coova.net
 +.coova.org
++.copilot.com
 +.copilot.microsoft.com
 +.copro.pw
 +.copy-manga.com
@@ -6127,6 +6133,8 @@
 +.damplips.com
 +.danbooru.donmai.us
 +.dandalinvoa.com
++.dandanplay.com
++.dandanplay.net
 +.dandanzan.cc
 +.danemarket.com
 +.danke4china.net
@@ -11135,6 +11143,9 @@
 +.horizontal-systems.com
 +.horizontalglue.com
 +.horizontalsystems.com
++.hornet.com
++.hornetapp.com
++.hornetx.com
 +.hornyasianmilfs.com
 +.hornybitches.org
 +.hornybutt.com
@@ -13883,6 +13894,7 @@
 +.listentoyoutube.com
 +.listinganalytics.net
 +.litbus-anime.com
++.litecoin.org
 +.litenews.hk
 +.literatumonline.com
 +.literotica.com
@@ -16151,7 +16163,9 @@
 +.netflixtechblog.com
 +.netlify.app
 +.netlify.com
++.netlifydns.com
 +.netlifystatus.com
++.netlifyusercontent.com
 +.netlock.hu
 +.netme.cc
 +.netname.com.br
@@ -16698,6 +16712,7 @@
 +.ntdtvla.com
 +.ntdvideo.tw
 +.ntdvn.com
++.ntl.fyi
 +.ntnews.com.au
 +.ntp-os01.ocn.ad.jp
 +.ntp-tk01.ocn.ad.jp
@@ -22352,6 +22367,7 @@
 +.tribler.org
 +.trikepatrol.com
 +.triokini.com
++.tripo3d.ai
 +.tristatebmw.com
 +.trithucvn.net
 +.trithucvn.org
@@ -26050,6 +26066,7 @@ a4e8s8k3.map2.ssl.hwcdn.net
 a771.dscq.akamai.net
 aamacau.com
 abematv.akamaized.net
+acd89244c803f7181.awsglobalaccelerator.com
 acg18.me
 activate-sea.adobe.com
 activate-sjc0.adobe.com
@@ -26067,6 +26084,7 @@ adobe-dns.adobe.com
 adobeereg.com
 adpl.org.hk
 adult.friendfinder.com
+afa7f374f51cc8991.awsglobalaccelerator.com
 afantibbs.com
 ai.google.dev
 akademiye.org
@@ -26549,6 +26567,7 @@ onlytweets.com
 onthehunt.com
 ood.opsource.net
 openaiapi-site.azureedge.net
+openaiassets.blob.core.windows.net
 openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
 openaicom.imgix.net
 openaicomproductionae4b.blob.core.windows.net

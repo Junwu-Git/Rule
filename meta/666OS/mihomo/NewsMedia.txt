@@ -1,7 +1,7 @@
 # NAME: NewsMedia
 # AUTHOR: YYDS666
-# UPDATED: 2026-07-04 03:00:19
-# TOTAL: 1398
+# UPDATED: 2026-07-06 02:59:32
+# TOTAL: 1399
 DOMAIN-SUFFIX,1917live.red
 DOMAIN-SUFFIX,1degree.com.au
 DOMAIN-SUFFIX,1prime.ru
@@ -1152,6 +1152,7 @@ DOMAIN-SUFFIX,taste.com.au
 DOMAIN-SUFFIX,techatbloomberg.com
 DOMAIN-SUFFIX,technews.tw
 DOMAIN-SUFFIX,techradar.com
+DOMAIN-SUFFIX,techspot.com
 DOMAIN-SUFFIX,techtudo.com
 DOMAIN-SUFFIX,techtudo.com.br
 DOMAIN-SUFFIX,teenchoice.com

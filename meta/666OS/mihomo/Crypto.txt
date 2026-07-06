@@ -1,7 +1,7 @@
 # NAME: Crypto
 # AUTHOR: YYDS666
-# UPDATED: 2026-07-04 03:00:31
-# TOTAL: 399
+# UPDATED: 2026-07-06 02:59:31
+# TOTAL: 400
 DOMAIN-SUFFIX,1inch.io
 DOMAIN-SUFFIX,aave.com
 DOMAIN-SUFFIX,account-paypal.info
@@ -153,6 +153,7 @@ DOMAIN-SUFFIX,kucoin.com
 DOMAIN-SUFFIX,kucoin.plus
 DOMAIN-SUFFIX,lighter.exchange
 DOMAIN-SUFFIX,lighter.xyz
+DOMAIN-SUFFIX,litecoin.org
 DOMAIN-SUFFIX,loanbuilder.com
 DOMAIN-SUFFIX,localbitcoins.com
 DOMAIN-SUFFIX,localbitcoinschain.com

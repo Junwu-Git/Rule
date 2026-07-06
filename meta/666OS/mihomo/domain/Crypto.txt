@@ -1,7 +1,7 @@
 # NAME: Crypto
 # AUTHOR: YYDS666
-# UPDATED: 2026-07-04 03:00:31
-# TOTAL: 477
+# UPDATED: 2026-07-06 02:59:31
+# TOTAL: 478
 +.1inch.io
 +.aave.com
 +.account-paypal.info
@@ -187,6 +187,7 @@
 +.kucoin.plus
 +.lighter.exchange
 +.lighter.xyz
++.litecoin.org
 +.loanbuilder.com
 +.localbitcoins.com
 +.localbitcoinschain.com

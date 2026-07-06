@@ -1,7 +1,7 @@
 # NAME: Cloudflare
 # AUTHOR: YYDS666
-# UPDATED: 2026-07-04 03:00:20
-# TOTAL: 877
+# UPDATED: 2026-07-06 02:57:19
+# TOTAL: 878
 DOMAIN-SUFFIX,argotunnel.com
 DOMAIN-SUFFIX,browser.run
 DOMAIN-SUFFIX,cf-china.info
@@ -746,6 +746,7 @@ IP-CIDR6,2606:54c1:6::/47,no-resolve
 IP-CIDR6,2606:54c1:8::/46,no-resolve
 IP-CIDR6,2606:54c1::/48,no-resolve
 IP-CIDR6,2606:54c1:c::/47,no-resolve
+IP-CIDR6,2606:54c2:10::/48,no-resolve
 IP-CIDR6,2606:54c2:1::/48,no-resolve
 IP-CIDR6,2606:54c2:2::/47,no-resolve
 IP-CIDR6,2606:54c2:9::/48,no-resolve

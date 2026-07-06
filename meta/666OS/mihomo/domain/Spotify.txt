@@ -1,6 +1,6 @@
 # NAME: Spotify
 # AUTHOR: YYDS666
-# UPDATED: 2026-07-04 03:00:31
+# UPDATED: 2026-07-06 02:59:33
 # TOTAL: 28
 +.byspotify.com
 +.lifeatspotify.com
