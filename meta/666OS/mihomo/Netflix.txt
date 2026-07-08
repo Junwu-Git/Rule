@@ -1,6 +1,6 @@
 # NAME: Netflix
 # AUTHOR: YYDS666
-# UPDATED: 2026-07-06 02:59:32
+# UPDATED: 2026-07-08 03:32:28
 # TOTAL: 107
 DOMAIN,netflix.com.edgesuite.net
 DOMAIN-SUFFIX,fast.com
