@@ -1,7 +1,7 @@
 # NAME: Microsoft
 # AUTHOR: YYDS666
-# UPDATED: 2026-07-10 03:17:56
-# TOTAL: 747
+# UPDATED: 2026-07-12 02:43:46
+# TOTAL: 749
 +.1drv.com
 +.1drv.ms
 +.21vbc.com
@@ -52,6 +52,7 @@
 +.aztask.cn
 +.azure
 +.azure-api.cn
++.azure-api.net
 +.azure-apihub.cn
 +.azure-automation.cn
 +.azure-connectedvehicles-stage.cn
@@ -115,6 +116,7 @@
 +.azureserviceprofiler.com
 +.azuresmartspaces.net
 +.azurestackvalidation.com
++.azurestaticapps.net
 +.azurewebsites.net
 +.b2clogin.cn
 +.b3itech.cn

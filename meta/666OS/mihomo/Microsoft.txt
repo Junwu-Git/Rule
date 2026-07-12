@@ -1,7 +1,7 @@
 # NAME: Microsoft
 # AUTHOR: YYDS666
-# UPDATED: 2026-07-10 03:17:56
-# TOTAL: 543
+# UPDATED: 2026-07-12 02:43:46
+# TOTAL: 545
 DOMAIN-SUFFIX,1drv.com
 DOMAIN-SUFFIX,1drv.ms
 DOMAIN-SUFFIX,21vbc.com
@@ -51,6 +51,7 @@ DOMAIN-SUFFIX,azk8s.cn
 DOMAIN-SUFFIX,aznbcontent.cn
 DOMAIN-SUFFIX,aztask.cn
 DOMAIN-SUFFIX,azure-api.cn
+DOMAIN-SUFFIX,azure-api.net
 DOMAIN-SUFFIX,azure-apihub.cn
 DOMAIN-SUFFIX,azure-automation.cn
 DOMAIN-SUFFIX,azure-connectedvehicles-stage.cn
@@ -106,6 +107,7 @@ DOMAIN-SUFFIX,azuresandbox.cn
 DOMAIN-SUFFIX,azureserviceprofiler.com
 DOMAIN-SUFFIX,azuresmartspaces.net
 DOMAIN-SUFFIX,azurestackvalidation.com
+DOMAIN-SUFFIX,azurestaticapps.net
 DOMAIN-SUFFIX,azurewebsites.net
 DOMAIN-SUFFIX,b2clogin.cn
 DOMAIN-SUFFIX,b3itech.cn

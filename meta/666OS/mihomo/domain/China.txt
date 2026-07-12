@@ -1,7 +1,7 @@
 # NAME: China
 # AUTHOR: YYDS666
-# UPDATED: 2026-07-10 03:20:04
-# TOTAL: 112087
+# UPDATED: 2026-07-12 02:43:45
+# TOTAL: 112089
 +.0.zone
 +.00.net
 +.000.link
@@ -91104,6 +91104,7 @@
 +.twty.vip
 +.twwtn.com
 +.twyuxin.com
++.twyxh.com
 +.twyxi.com
 +.twz1t32lzy.com
 +.twzilla.com
@@ -111327,6 +111328,7 @@
 +.zwzyzx.com
 +.zx-tour.com
 +.zx-xcx.com
++.zx.com
 +.zx0093.com
 +.zx017.com
 +.zx017.net

@@ -1,7 +1,7 @@
 # NAME: Proxy
 # AUTHOR: YYDS666
-# UPDATED: 2026-07-10 03:18:02
-# TOTAL: 27095
+# UPDATED: 2026-07-12 02:41:43
+# TOTAL: 27106
 +.000webhost.com
 +.01.org
 +.02weqj32.com
@@ -1885,6 +1885,7 @@
 +.apple-pay.wang
 +.apple-store.net
 +.apple-store.wang
++.apple-studies.com
 +.apple-usa.net
 +.apple-watch.com.ru
 +.apple.ae
@@ -2387,6 +2388,7 @@
 +.atlassian-dev.net
 +.atlassian.com
 +.atlassian.net
++.atmeta.com
 +.atnext.com
 +.atokara.jp
 +.atom.io
@@ -2769,6 +2771,7 @@
 +.azirevpn.com
 +.aznude.com
 +.azure
++.azure-api.net
 +.azure-devices-int.net
 +.azure-devices.net
 +.azure-dns.com
@@ -2806,6 +2809,7 @@
 +.azureserviceprofiler.com
 +.azuresmartspaces.net
 +.azurestackvalidation.com
++.azurestaticapps.net
 +.azurewebsites.net
 +.b-cdn.net
 +.b-eroland.net
@@ -8835,6 +8839,8 @@
 +.flowgpt.com
 +.flowhongkong.net
 +.flowtype.org
++.flowwow-images.com
++.flowwow.com
 +.fluffychat.im
 +.fluidfxapp.com
 +.fluidpreview.com
@@ -9337,6 +9343,8 @@
 +.funkyimg.com
 +.funnyfacebook.org
 +.funnyordie.com
++.funpay.com
++.funpay.ru
 +.funshemale.com
 +.fuq.com
 +.fuqqt.com
@@ -17495,6 +17503,8 @@
 +.patreonusercontent.com
 +.paulsimon-music.com
 +.pavpal.com
++.pawchive.pw
++.pawchive.st
 +.pawoo.net
 +.paxful.com
 +.paxlicense.org
@@ -20168,6 +20178,7 @@
 +.sforce.com
 +.sfshibao.com
 +.sftuk.org
++.sfunpay.com
 +.sfx.ms
 +.sg
 +.sg120.me
@@ -22106,6 +22117,7 @@
 +.tilda.ws
 +.tildaapi.com
 +.tildacdn.com
++.tildacdn.net
 +.tiltbrush.com
 +.time-messenger.ru
 +.time.com
@@ -26439,7 +26451,6 @@ img-s-msn-com.akamaized.net
 img.dlsite.jp
 impala-media-production.s3.amazonaws.com
 imperial.insendi.com
-ingest.apple-studies.com
 insecam.org
 iportal.me
 islam.org.hk

@@ -1,7 +1,7 @@
 # NAME: Dev
 # AUTHOR: YYDS666
-# UPDATED: 2026-07-10 03:18:03
-# TOTAL: 511
+# UPDATED: 2026-07-12 02:41:45
+# TOTAL: 512
 DOMAIN-SUFFIX,01.org
 DOMAIN-SUFFIX,accountkit.com
 DOMAIN-SUFFIX,acpica.com
@@ -449,6 +449,7 @@ DOMAIN-SUFFIX,tilda.ru
 DOMAIN-SUFFIX,tilda.ws
 DOMAIN-SUFFIX,tildaapi.com
 DOMAIN-SUFFIX,tildacdn.com
+DOMAIN-SUFFIX,tildacdn.net
 DOMAIN-SUFFIX,timelinestoryteller.com
 DOMAIN-SUFFIX,timestamp.apple.com
 DOMAIN-SUFFIX,topcoder.com

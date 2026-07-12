@@ -1,7 +1,7 @@
 # NAME: Apple
 # AUTHOR: YYDS666
-# UPDATED: 2026-07-10 03:17:54
-# TOTAL: 1216
+# UPDATED: 2026-07-12 02:41:35
+# TOTAL: 1217
 DOMAIN-SUFFIX,100beatscheap.com
 DOMAIN-SUFFIX,12diasdepresentesdeitunes.com
 DOMAIN-SUFFIX,12joursdecadeauxdeitunes.com
@@ -86,6 +86,7 @@ DOMAIN-SUFFIX,apple-pay.wang
 DOMAIN-SUFFIX,apple-store.cn
 DOMAIN-SUFFIX,apple-store.net
 DOMAIN-SUFFIX,apple-store.wang
+DOMAIN-SUFFIX,apple-studies.com
 DOMAIN-SUFFIX,apple-usa.net
 DOMAIN-SUFFIX,apple-watch.com.ru
 DOMAIN-SUFFIX,appleaccount.net

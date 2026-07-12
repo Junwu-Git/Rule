@@ -1,7 +1,7 @@
 # NAME: Proxy
 # AUTHOR: YYDS666
-# UPDATED: 2026-07-10 03:18:01
-# TOTAL: 21920
+# UPDATED: 2026-07-12 02:41:42
+# TOTAL: 21932
 DOMAIN-SUFFIX,000webhost.com
 DOMAIN-SUFFIX,01.org
 DOMAIN-SUFFIX,02weqj32.com
@@ -1469,6 +1469,7 @@ DOMAIN-SUFFIX,apple-pay.rs
 DOMAIN-SUFFIX,apple-pay.wang
 DOMAIN-SUFFIX,apple-store.net
 DOMAIN-SUFFIX,apple-store.wang
+DOMAIN-SUFFIX,apple-studies.com
 DOMAIN-SUFFIX,apple-usa.net
 DOMAIN-SUFFIX,apple-watch.com.ru
 DOMAIN-SUFFIX,appleaccount.net
@@ -1775,6 +1776,7 @@ DOMAIN-SUFFIX,atlasonepoint.com
 DOMAIN-SUFFIX,atlassian-dev.net
 DOMAIN-SUFFIX,atlassian.com
 DOMAIN-SUFFIX,atlassian.net
+DOMAIN-SUFFIX,atmeta.com
 DOMAIN-SUFFIX,atnext.com
 DOMAIN-SUFFIX,atokara.jp
 DOMAIN-SUFFIX,atom.io
@@ -2157,6 +2159,7 @@ DOMAIN-SUFFIX,aziani.com
 DOMAIN-SUFFIX,azirevpn.com
 DOMAIN-SUFFIX,aznude.com
 DOMAIN-SUFFIX,azure
+DOMAIN-SUFFIX,azure-api.net
 DOMAIN-SUFFIX,azure-devices-int.net
 DOMAIN-SUFFIX,azure-devices.net
 DOMAIN-SUFFIX,azure-mobile.net
@@ -2190,6 +2193,7 @@ DOMAIN-SUFFIX,azureplanetscale.net
 DOMAIN-SUFFIX,azureserviceprofiler.com
 DOMAIN-SUFFIX,azuresmartspaces.net
 DOMAIN-SUFFIX,azurestackvalidation.com
+DOMAIN-SUFFIX,azurestaticapps.net
 DOMAIN-SUFFIX,azurewebsites.net
 DOMAIN-SUFFIX,b-cdn.net
 DOMAIN-SUFFIX,b-eroland.net
@@ -7348,6 +7352,8 @@ DOMAIN-SUFFIX,flowfront.net
 DOMAIN-SUFFIX,flowgpt.com
 DOMAIN-SUFFIX,flowhongkong.net
 DOMAIN-SUFFIX,flowtype.org
+DOMAIN-SUFFIX,flowwow-images.com
+DOMAIN-SUFFIX,flowwow.com
 DOMAIN-SUFFIX,fluffychat.im
 DOMAIN-SUFFIX,fluidfxapp.com
 DOMAIN-SUFFIX,fluidpreview.com
@@ -7823,6 +7829,8 @@ DOMAIN-SUFFIX,funimation.com
 DOMAIN-SUFFIX,funkyimg.com
 DOMAIN-SUFFIX,funnyfacebook.org
 DOMAIN-SUFFIX,funnyordie.com
+DOMAIN-SUFFIX,funpay.com
+DOMAIN-SUFFIX,funpay.ru
 DOMAIN-SUFFIX,funshemale.com
 DOMAIN-SUFFIX,fuq.com
 DOMAIN-SUFFIX,fuqqt.com
@@ -14466,6 +14474,8 @@ DOMAIN-SUFFIX,patreoncommunity.com
 DOMAIN-SUFFIX,patreonusercontent.com
 DOMAIN-SUFFIX,paulsimon-music.com
 DOMAIN-SUFFIX,pavpal.com
+DOMAIN-SUFFIX,pawchive.pw
+DOMAIN-SUFFIX,pawchive.st
 DOMAIN-SUFFIX,pawoo.net
 DOMAIN-SUFFIX,paxful.com
 DOMAIN-SUFFIX,paxlicense.org
@@ -16851,6 +16861,7 @@ DOMAIN-SUFFIX,sfmcompile.club
 DOMAIN-SUFFIX,sforce.com
 DOMAIN-SUFFIX,sfshibao.com
 DOMAIN-SUFFIX,sftuk.org
+DOMAIN-SUFFIX,sfunpay.com
 DOMAIN-SUFFIX,sfx.ms
 DOMAIN-SUFFIX,sg
 DOMAIN-SUFFIX,sg120.me
@@ -18519,6 +18530,7 @@ DOMAIN-SUFFIX,tilda.ru
 DOMAIN-SUFFIX,tilda.ws
 DOMAIN-SUFFIX,tildaapi.com
 DOMAIN-SUFFIX,tildacdn.com
+DOMAIN-SUFFIX,tildacdn.net
 DOMAIN-SUFFIX,tiltbrush.com
 DOMAIN-SUFFIX,time-messenger.ru
 DOMAIN-SUFFIX,time.com

@@ -1,7 +1,7 @@
 # NAME: Apple
 # AUTHOR: YYDS666
-# UPDATED: 2026-07-10 03:17:54
-# TOTAL: 1809
+# UPDATED: 2026-07-12 02:41:35
+# TOTAL: 1813
 +.100beatscheap.com
 +.12diasdepresentesdeitunes.com
 +.12diasderegalosdeitunes.cl
@@ -105,6 +105,7 @@
 +.apple-store.cn
 +.apple-store.net
 +.apple-store.wang
++.apple-studies.com
 +.apple-usa.net
 +.apple-watch.com.ru
 +.apple.ae
@@ -1568,6 +1569,7 @@ amp-api-updates.apps.apple.com
 amp-api.apps.apple.com
 amp-api.media.apple.com
 amp-api.music.apple.com
+amp-api.podcasts.apple.com
 aod-ssl.itunes.apple.com
 aod.itunes.apple.com
 api-edge.apps.apple.com
@@ -1585,7 +1587,6 @@ appleworldwidedeveloper.sc.omtrdc.net
 apps.apple.com
 apps.mzstatic.com
 apptrailers.itunes.apple.com
-auth.music.apple.com
 bag-cdn.itunes-apple.com.akadns.net
 bag.itunes.apple.com
 beatselectronicsllc.tt.omtrdc.net
@@ -1642,9 +1643,11 @@ devstreaming-cdn.apple.com
 discussionschinese.apple.com
 download.developer.apple.com
 downloaddispatch.itunes.apple.com
+entitlements-edge.itunes.apple.com
 experiments.apple.com
 fides-pol.apple.com
 fitness-content.apple.com
+fpinit.itunes.apple.com
 gs-loc-cn.apple.com
 gs-loc.apple.com
 gsp10-ssl-cn.ls.apple.com
@@ -1676,7 +1679,6 @@ images.apple.com.edgekey.net.globalredir.akadns.net
 inappcheck-cn.itunes-apple.com.akadns.net
 inappcheck-lb.itunes-apple.com.akadns.net
 inappcheck.itunes.apple.com
-ingest.apple-studies.com
 init-kt.apple.com
 init-p01md-lb.push-apple.com.akadns.net
 init-p01md.apple.com
@@ -1742,6 +1744,8 @@ pd.itunes.apple.com
 play-edge.itunes.apple.com
 play.itunes.apple.com
 play.music.apple.com
+podcasts.apple.com
+podcasts.itunes.apple.com
 probe.siri.apple.com
 prod-support.apple-support.akadns.net
 publicassets.cdn-apple.com
