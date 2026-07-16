@@ -1,7 +1,7 @@
 # NAME: China
 # AUTHOR: YYDS666
-# UPDATED: 2026-07-14 03:10:06
-# TOTAL: 112029
+# UPDATED: 2026-07-16 02:54:11
+# TOTAL: 112039
 +.0.zone
 +.00.net
 +.000.link
@@ -10079,6 +10079,7 @@
 +.ad77.com
 +.ad778.com
 +.ada-post.com
++.adacpp.com
 +.adamahf.com
 +.adamcdn.com
 +.adamcoder.com
@@ -24428,6 +24429,7 @@
 +.color-measure.com
 +.color365.com
 +.colorbird.com
++.colorfulclouds.com
 +.colorfulclouds.net
 +.colorfulltech.net
 +.colorimeter.com
@@ -30552,6 +30554,7 @@
 +.duoyi.com
 +.duoying.com
 +.duoyinsu.com
++.duoyiwangluo.com
 +.duoyoumi.com
 +.duozhi.com
 +.duozhuayu.com
@@ -39481,6 +39484,7 @@
 +.gtetern.com
 +.gtfund.com
 +.gtg56.com
++.gtgjtrip.com
 +.gtgqw.com
 +.gtgres.com
 +.gtht.com
@@ -58244,6 +58248,7 @@
 +.klhpw.com
 +.klhuyan.com
 +.klicen.com
++.kling-ai.com
 +.klingai.com
 +.klinlee.com
 +.klisedu.com
@@ -60640,6 +60645,7 @@
 +.leyoo.com
 +.leyoujia.com
 +.leyu.com
++.leyuansu.com
 +.leyue100.com
 +.leyuglobal.com
 +.leyun365.com
@@ -80897,6 +80903,7 @@
 +.shedongyun.com
 +.shedoor.com
 +.shedunews.com
++.shedunews.net
 +.sheec-tencentclb.cloud
 +.sheec-tencentclb.com
 +.sheec-tencentclb.net
@@ -98934,6 +98941,7 @@
 +.xiaomei.cc
 +.xiaomeiti.com
 +.xiaomeng1235.com
++.xiaomengai.com
 +.xiaomi.com
 +.xiaomi.hk
 +.xiaomi.net
@@ -103069,6 +103077,7 @@
 +.ygct.com
 +.ygdatabase.com
 +.ygdl.com
++.ygduoyi.com
 +.yge.me
 +.ygeer.com
 +.ygei.com
@@ -110456,6 +110465,7 @@
 +.zmsq.com
 +.zmssh.com
 +.zmtpc.com
++.zmtqsh.com
 +.zmtquan.com
 +.zmufivehospital.com
 +.zmumu.com
