@@ -406,8 +406,8 @@ payload:
     - z.paranoid.agency
     - zupix.online
     - +.peckservers.com
-    - +.zone-torrent.net
-    - +.all4nothin.net
+    - +.shnflac.net
+    - +.bitseduce.com
     - +.biztorrents.com
     - +.blackcats-games.net
     - +.elitezones.ro
@@ -419,16 +419,16 @@ payload:
     - +.mvgroup.org
     - +.nnm-club.cc
     - +.nnm-club.info
-    - +.bitseduce.com
-    - +.shnflac.net
     - +.bit-hdtv.com
-    - +.siambt.com
+    - +.all4nothin.net
     - +.thegeeks.bz
+    - +.siambt.com
+    - +.searchtor.to
     - +.theoccult.bz
     - +.theplace.bz
     - +.thetradersden.org
     - +.thevault.bz
-    - +.searchtor.to
+    - +.zone-torrent.net
     - +.torrentsnipe.info
     - +.tribalmixes.com
     - +.tvnihon.com
