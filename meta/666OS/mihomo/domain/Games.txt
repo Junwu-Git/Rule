@@ -1,7 +1,7 @@
 # NAME: Games
 # AUTHOR: YYDS666
-# UPDATED: 2026-07-18 02:49:55
-# TOTAL: 1088
+# UPDATED: 2026-07-20 02:47:22
+# TOTAL: 1093
 +.100classicbooks.com
 +.17173.com
 +.17173cdn.com
@@ -195,6 +195,9 @@
 +.dungeonkeeper.cn
 +.dungeonkeeper.com
 +.dungeonkeeper.com.cn
++.duoyi.com
++.duoyigroup.cn
++.duoyiwangluo.com
 +.ea-anz-press.com
 +.ea.com
 +.eaaccess.com
@@ -318,6 +321,7 @@
 +.guoping123.com
 +.hackyourconsole.com
 +.haohaowan.net
++.happyelements.com
 +.happyhlddz.com
 +.hayday.com
 +.haydaygame.com
@@ -362,7 +366,6 @@
 +.kirbysepicyarn.com
 +.kirbysuperstarultra.com
 +.kiwi.jp
-+.konami
 +.konami-igaming.online
 +.konami.co.jp
 +.konami.com
@@ -398,6 +401,7 @@
 +.ledu.com
 +.legendofzelda.cn
 +.legendofzelda.com.cn
++.leyuansu.com
 +.lingxigames.com
 +.log-upload-os.hoyoverse.com
 +.log-upload.mihoyo.com
@@ -959,6 +963,7 @@
 +.ycgame.com
 +.yeyou.com
 +.yeyoucdn.com
++.ygduoyi.com
 +.yingxiong.com
 +.yjwujian.cn
 +.ylands.com
