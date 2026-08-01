@@ -1,7 +1,7 @@
 # NAME: China
 # AUTHOR: YYDS666
-# UPDATED: 2026-07-30 02:53:30
-# TOTAL: 117059
+# UPDATED: 2026-08-01 03:05:16
+# TOTAL: 117065
 DOMAIN-SUFFIX,0.zone
 DOMAIN-SUFFIX,00.net
 DOMAIN-SUFFIX,000.link
@@ -11354,6 +11354,7 @@ DOMAIN-SUFFIX,alicache.com
 DOMAIN-SUFFIX,alicall.com
 DOMAIN-SUFFIX,alicaptcha.com
 DOMAIN-SUFFIX,alicdm.com
+DOMAIN-SUFFIX,alicdn.com
 DOMAIN-SUFFIX,alicloud.com
 DOMAIN-SUFFIX,alicloudapi-inner.com
 DOMAIN-SUFFIX,alicloudapi.com
@@ -11416,6 +11417,7 @@ DOMAIN-SUFFIX,aliog.com
 DOMAIN-SUFFIX,alionexpo.com
 DOMAIN-SUFFIX,alipan.com
 DOMAIN-SUFFIX,alipansou.com
+DOMAIN-SUFFIX,alipay.com
 DOMAIN-SUFFIX,alipcsec.com
 DOMAIN-SUFFIX,aliplay.com
 DOMAIN-SUFFIX,aliplus.com
@@ -11460,6 +11462,7 @@ DOMAIN-SUFFIX,aliyizhan.com
 DOMAIN-SUFFIX,aliypc.com
 DOMAIN-SUFFIX,aliyue.net
 DOMAIN-SUFFIX,aliyun-inc.com
+DOMAIN-SUFFIX,aliyun.com
 DOMAIN-SUFFIX,aliyuncs.com
 DOMAIN-SUFFIX,alizhaopin.com
 DOMAIN-SUFFIX,alizhizhu.com
@@ -86874,6 +86877,7 @@ DOMAIN-SUFFIX,taoad.com
 DOMAIN-SUFFIX,taoart.com
 DOMAIN-SUFFIX,taoban.com
 DOMAIN-SUFFIX,taobao.com
+DOMAIN-SUFFIX,taobaocdn.com
 DOMAIN-SUFFIX,taobeihai.com
 DOMAIN-SUFFIX,taobizhong.com
 DOMAIN-SUFFIX,taoc.cc
@@ -89004,6 +89008,7 @@ DOMAIN-SUFFIX,tm401k.com
 DOMAIN-SUFFIX,tm51.com
 DOMAIN-SUFFIX,tm5ad.com
 DOMAIN-SUFFIX,tmaill.com
+DOMAIN-SUFFIX,tmallcdn.com
 DOMAIN-SUFFIX,tmallgenie.com
 DOMAIN-SUFFIX,tmallgenieapi.com
 DOMAIN-SUFFIX,tmallplay.net
@@ -99875,6 +99880,7 @@ DOMAIN-SUFFIX,xmmtu.com
 DOMAIN-SUFFIX,xmmuye.com
 DOMAIN-SUFFIX,xmnjdwx.com
 DOMAIN-SUFFIX,xmocloud01.com
+DOMAIN-SUFFIX,xmoj.tech
 DOMAIN-SUFFIX,xmonecode.com
 DOMAIN-SUFFIX,xmos.tv
 DOMAIN-SUFFIX,xmov.ai
