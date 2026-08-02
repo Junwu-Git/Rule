@@ -1,7 +1,7 @@
 # NAME: Microsoft
 # AUTHOR: YYDS666
-# UPDATED: 2026-08-01 03:05:21
-# TOTAL: 751
+# UPDATED: 2026-08-02 02:50:09
+# TOTAL: 752
 +.1drv.com
 +.1drv.ms
 +.21vbc.com
@@ -230,6 +230,7 @@
 +.githubnext.com
 +.githubpreview.dev
 +.githubstatus.com
++.githubsupport.com
 +.githubuniverse.com
 +.githubusercontent.com
 +.gotcosmos.com

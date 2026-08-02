@@ -1,7 +1,7 @@
 # NAME: Advertising
 # AUTHOR: YYDS666
-# UPDATED: 2026-08-01 03:05:24
-# TOTAL: 969
+# UPDATED: 2026-08-02 02:52:26
+# TOTAL: 965
 +.17gouwuba.com
 +.186078.com
 +.189key.com
@@ -709,7 +709,6 @@
 +.zwaar.org
 +.zxrtb.com
 +.zzd6.com
-118.89.204.198
 a.wkanx.com
 abema-adx.ameba.jp
 ad-analysis.pconline.com.cn
@@ -844,7 +843,6 @@ api.ad.xiaomi.com
 api.adnet.mob.com
 api.newad.ifeng.com
 app-ad.variflight.com
-appcloud2.in.zhihu.com
 applogapi.autohome.com.cn
 appnext-a.akamaihd.net
 appnext.hs.llnwd.net
@@ -917,7 +915,6 @@ mobilead.kuwo.cn
 mobileads.msn.com
 mobilelog.kugou.com
 mopnativeadv.037201.com
-mqtt.zhihu.com
 n.3g.163.com
 nadvideo2.baidu.com
 nativeadv.dftoutiao.com
@@ -952,7 +949,6 @@ sdapprecv.app.cntvwb.cn
 splashimgbssdl.yun.kugou.com
 splashqqlive.gtimg.com
 stat.10jqka.com.cn
-sugar.zhihu.com
 t-ads.xiaohongshu.com
 t7z.cupid.iqiyi.com
 t7z.cupid.ptqy.gitv.tv
