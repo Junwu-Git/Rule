@@ -1,7 +1,7 @@
 # NAME: Proxy
 # AUTHOR: YYDS666
-# UPDATED: 2026-08-02 02:50:20
-# TOTAL: 22011
+# UPDATED: 2026-08-04 03:17:13
+# TOTAL: 22008
 DOMAIN-SUFFIX,000webhost.com
 DOMAIN-SUFFIX,01.org
 DOMAIN-SUFFIX,02weqj32.com
@@ -15652,7 +15652,6 @@ DOMAIN-SUFFIX,punishworld.com
 DOMAIN-SUFFIX,pure18.com
 DOMAIN-SUFFIX,pureapk.com
 DOMAIN-SUFFIX,pureconcepts.net
-DOMAIN-SUFFIX,puredns.org
 DOMAIN-SUFFIX,pureinsight.org
 DOMAIN-SUFFIX,purelov5.com
 DOMAIN-SUFFIX,purelyceleb.com
@@ -15840,7 +15839,6 @@ DOMAIN-SUFFIX,radioaustralia.net.au
 DOMAIN-SUFFIX,radiofarda.com
 DOMAIN-SUFFIX,radioglobo.com.br
 DOMAIN-SUFFIX,radiohilight.net
-DOMAIN-SUFFIX,radiojar.com
 DOMAIN-SUFFIX,radioline.co
 DOMAIN-SUFFIX,radiomango.fm
 DOMAIN-SUFFIX,radiomarsho.com
@@ -20523,7 +20521,6 @@ DOMAIN-SUFFIX,www-paypal.us
 DOMAIN-SUFFIX,www-sms-apple.com
 DOMAIN-SUFFIX,www.ajsands.com
 DOMAIN-SUFFIX,www.bing.com
-DOMAIN-SUFFIX,www.clashverge.dev
 DOMAIN-SUFFIX,www.hoyolab.com
 DOMAIN-SUFFIX,www.lorenzetti.com.br
 DOMAIN-SUFFIX,www.moztw.org

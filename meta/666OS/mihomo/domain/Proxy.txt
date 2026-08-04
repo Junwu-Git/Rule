@@ -1,7 +1,7 @@
 # NAME: Proxy
 # AUTHOR: YYDS666
-# UPDATED: 2026-08-02 02:50:20
-# TOTAL: 27207
+# UPDATED: 2026-08-04 03:17:13
+# TOTAL: 27204
 +.000webhost.com
 +.01.org
 +.02weqj32.com
@@ -18809,7 +18809,6 @@
 +.pure18.com
 +.pureapk.com
 +.pureconcepts.net
-+.puredns.org
 +.pureinsight.org
 +.purelov5.com
 +.purelyceleb.com
@@ -19028,7 +19027,6 @@
 +.radiofarda.com
 +.radioglobo.com.br
 +.radiohilight.net
-+.radiojar.com
 +.radioline.co
 +.radiomango.fm
 +.radiomarsho.com
@@ -24642,7 +24640,6 @@
 +.www-sms-apple.com
 +.www.ajsands.com
 +.www.bing.com
-+.www.clashverge.dev
 +.www.hoyolab.com
 +.www.lorenzetti.com.br
 +.www.moztw.org
