@@ -1,7 +1,7 @@
 # NAME: Facebook
 # AUTHOR: YYDS666
-# UPDATED: 2026-08-08 02:38:41
-# TOTAL: 471
+# UPDATED: 2026-08-10 02:21:39
+# TOTAL: 470
 +.aboutfacebook.com
 +.accessfacebookfromschool.com
 +.acebooik.com
@@ -448,7 +448,6 @@
 +.pixel.facebook.com
 +.reachtheworldonfacebook.com
 +.redkix.com
-+.rocksdb.org
 +.shopfacebook.com
 +.sportsfacebook.com
 +.sportstream.com

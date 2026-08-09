@@ -1,7 +1,7 @@
 # NAME: Dev
 # AUTHOR: YYDS666
-# UPDATED: 2026-08-08 02:36:40
-# TOTAL: 517
+# UPDATED: 2026-08-10 02:22:55
+# TOTAL: 522
 DOMAIN-SUFFIX,01.org
 DOMAIN-SUFFIX,accountkit.com
 DOMAIN-SUFFIX,acpica.com
@@ -242,7 +242,10 @@ DOMAIN-SUFFIX,k8s.io
 DOMAIN-SUFFIX,kali.org
 DOMAIN-SUFFIX,kde.org
 DOMAIN-SUFFIX,kernel.org
+DOMAIN-SUFFIX,kotl.in
+DOMAIN-SUFFIX,kotlinconf.com
 DOMAIN-SUFFIX,kotlinlang.org
+DOMAIN-SUFFIX,ktor.io
 DOMAIN-SUFFIX,kubernetes.io
 DOMAIN-SUFFIX,launchpad.net
 DOMAIN-SUFFIX,launchpadcontent.net
@@ -296,6 +299,7 @@ DOMAIN-SUFFIX,msinnovationchallenge.com
 DOMAIN-SUFFIX,mspairlift.com
 DOMAIN-SUFFIX,msropendata.com
 DOMAIN-SUFFIX,msys2.org
+DOMAIN-SUFFIX,myjetbrains.com
 DOMAIN-SUFFIX,myoctocat.com
 DOMAIN-SUFFIX,mysql.com
 DOMAIN-SUFFIX,mystrikingly.com
@@ -440,6 +444,7 @@ DOMAIN-SUFFIX,swift.org
 DOMAIN-SUFFIX,swiftui.cn
 DOMAIN-SUFFIX,swiftui.com.cn
 DOMAIN-SUFFIX,system76.com
+DOMAIN-SUFFIX,talkingkotlin.com
 DOMAIN-SUFFIX,tampermonkey.net
 DOMAIN-SUFFIX,termius.com
 DOMAIN-SUFFIX,termux.com

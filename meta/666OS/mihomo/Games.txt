@@ -1,7 +1,7 @@
 # NAME: Games
 # AUTHOR: YYDS666
-# UPDATED: 2026-08-08 02:36:41
-# TOTAL: 896
+# UPDATED: 2026-08-10 02:21:41
+# TOTAL: 897
 DOMAIN-SUFFIX,100classicbooks.com
 DOMAIN-SUFFIX,17173.com
 DOMAIN-SUFFIX,17173cdn.com
@@ -74,6 +74,7 @@ DOMAIN-SUFFIX,arcraiders.com
 DOMAIN-SUFFIX,arma3.com
 DOMAIN-SUFFIX,armaplatform.com
 DOMAIN-SUFFIX,artstation.com
+DOMAIN-SUFFIX,artstationmedia.com
 DOMAIN-SUFFIX,artstorm.com
 DOMAIN-SUFFIX,asobostudio.com
 DOMAIN-SUFFIX,astral-vector.com

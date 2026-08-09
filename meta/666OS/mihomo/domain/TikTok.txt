@@ -1,10 +1,9 @@
 # NAME: TikTok
 # AUTHOR: YYDS666
-# UPDATED: 2026-08-08 02:38:41
-# TOTAL: 37
+# UPDATED: 2026-08-10 02:23:05
+# TOTAL: 36
 +.analytics.tiktok.com
 +.bytedapm.com
-+.byteoversea.com
 +.muscdn.com
 +.musical.ly
 +.tik-tokapi.com

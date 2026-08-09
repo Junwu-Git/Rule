@@ -1,7 +1,7 @@
 # NAME: Dev
 # AUTHOR: YYDS666
-# UPDATED: 2026-08-08 02:36:40
-# TOTAL: 631
+# UPDATED: 2026-08-10 02:22:55
+# TOTAL: 649
 +.01.org
 +.accountkit.com
 +.acpica.com
@@ -246,7 +246,10 @@
 +.jetbrains.cloud
 +.jetbrains.com
 +.jetbrains.com.cn
++.jetbrains.dev
 +.jetbrains.net
++.jetbrains.org
++.jetbrains.ru
 +.jetbrains.space
 +.jetbrains.team
 +.jfrog.com
@@ -261,7 +264,10 @@
 +.kali.org
 +.kde.org
 +.kernel.org
++.kotl.in
++.kotlinconf.com
 +.kotlinlang.org
++.ktor.io
 +.kubernetes.io
 +.launchpad.net
 +.launchpadcontent.net
@@ -320,6 +326,7 @@
 +.mspairlift.com
 +.msropendata.com
 +.msys2.org
++.myjetbrains.com
 +.myoctocat.com
 +.mysql.com
 +.mystrikingly.com
@@ -476,6 +483,7 @@
 +.swiftui.cn
 +.swiftui.com.cn
 +.system76.com
++.talkingkotlin.com
 +.tampermonkey.net
 +.termius.com
 +.termux.com
@@ -562,7 +570,17 @@ appleworldwidedeveloper.hb-api.omtrdc.net
 appleworldwidedeveloper.sc.omtrdc.net
 az764295.vo.msecnd.net
 bingsettingssearch.trafficmanager.net
+cdn-cn.apple-mapkit.com
+cdn-cn1.apple-mapkit.com
+cdn-cn2.apple-mapkit.com
+cdn-cn3.apple-mapkit.com
+cdn-cn4.apple-mapkit.com
 cdn.ampproject.org
+cdn.apple-mapkit.com
+cdn1.apple-mapkit.com
+cdn2.apple-mapkit.com
+cdn3.apple-mapkit.com
+cdn4.apple-mapkit.com
 copilot-proxy.githubusercontent.com
 copilot-telemetry-service.githubusercontent.com
 copilot-telemetry.githubusercontent.com

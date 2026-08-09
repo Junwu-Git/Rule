@@ -1,7 +1,7 @@
 # NAME: Google
 # AUTHOR: YYDS666
-# UPDATED: 2026-08-08 02:36:39
-# TOTAL: 1068
+# UPDATED: 2026-08-10 02:22:58
+# TOTAL: 1071
 +.0emm.com
 +.1e100.net
 +.1ucrs.com
@@ -9,6 +9,7 @@
 +.2mdn-cn.net
 +.2mdn.net
 +.466453.com
++.actifio.com
 +.adgoogle.net
 +.admeld.com
 +.admob-cn.com
@@ -32,6 +33,7 @@
 +.angulardart.org
 +.api.ai
 +.apigee.com
++.app-ads-services.com
 +.app-analytics-services-att.com
 +.app-analytics-services.com
 +.app-measurement-cn.com
@@ -565,6 +567,7 @@
 +.opensourceinsights.dev
 +.openthread.io
 +.openweave.io
++.openxla.org
 +.orbitera.com
 +.page.link
 +.pagead.l.google.com

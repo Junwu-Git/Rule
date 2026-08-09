@@ -1,7 +1,7 @@
 # NAME: Proxy
 # AUTHOR: YYDS666
-# UPDATED: 2026-08-08 02:36:38
-# TOTAL: 27202
+# UPDATED: 2026-08-10 02:23:03
+# TOTAL: 27273
 +.000webhost.com
 +.01.org
 +.02weqj32.com
@@ -209,6 +209,7 @@
 +.2047.name
 +.2047.one
 +.2049bbs.xyz
++.20thcenturystudios.com
 +.20thcenturystudios.com.au
 +.20thcenturystudios.com.br
 +.20thcenturystudios.jp
@@ -237,10 +238,14 @@
 +.2bit8.com
 +.2buybeatsbydre.com
 +.2ch.hk
++.2ch.life
 +.2ch.net
++.2ch.org
++.2ch.su
 +.2chav.com
 +.2dgen.com
 +.2drdrebeats.com
++.2dust.link
 +.2gayboys.com
 +.2gis.ae
 +.2gis.am
@@ -622,6 +627,7 @@
 +.abc.xyz
 +.abcheadphones.com
 +.abclider.com
++.abcnews.com
 +.abeatsbydrdre.com
 +.abebooks.co.uk
 +.abebooks.com
@@ -720,6 +726,7 @@
 +.acs.org
 +.actalis.com
 +.actalis.it
++.actifio.com
 +.activelearnprimary.co.uk
 +.activelearnprimary.com.au
 +.activematter.game
@@ -1043,6 +1050,7 @@
 +.ai91porn.cc
 +.aiaa.org
 +.aiasahi.jp
++.aihub.top
 +.aimei133.com
 +.aimsciences.org
 +.aiosearch.com
@@ -1625,6 +1633,7 @@
 +.amnesty.org
 +.amnesty.org.hk
 +.amnestyusa.org
++.amnezia.org
 +.amodoll.com
 +.amourangels.com
 +.amp.dev
@@ -2884,6 +2893,7 @@
 +.baltnews.com
 +.baltnews.lt
 +.bamgrid.com
++.bamtech.net
 +.bamtoki.com
 +.banan.tv
 +.banana-vpn.com
@@ -2942,6 +2952,7 @@
 +.basecamp.com
 +.baselinestudy.com
 +.baselinestudy.org
++.basemaps.arcgis.com
 +.basilisk-browser.org
 +.bastillepost.com
 +.bastropfirestone.com
@@ -5488,10 +5499,13 @@
 +.claravenger.com
 +.clarivate.com
 +.clash.com
++.clashmi.app
 +.clashmini.com
 +.clashofclans.com
++.clashparty.org
 +.clashroyale.com
 +.clashroyaleapp.com
++.clashverge.dev
 +.clashyun.com
 +.clasporno.org
 +.classicalguitarblog.net
@@ -5554,9 +5568,11 @@
 +.cloudflare-ipfs.com
 +.cloudflare-quic.com
 +.cloudflare-terms-of-service-abuse.com
++.cloudflare.app
 +.cloudflare.com
 +.cloudflare.dev
 +.cloudflare.net
++.cloudflare.pay
 +.cloudflare.tv
 +.cloudflareaccess.com
 +.cloudflareapps.com
@@ -6290,6 +6306,8 @@
 +.deepfreeze.tech
 +.deepl.com
 +.deepmind.com
++.deepwiki.com
++.deepwiki.org
 +.deezer.com
 +.definebabe.com
 +.definefetish.com
@@ -6472,7 +6490,6 @@
 +.deluxe.com.hk
 +.delvenetworks.com
 +.demandware.com
-+.demdex.net
 +.demo.unlock-music.dev
 +.democracy.earth
 +.demonoid.is
@@ -6523,6 +6540,7 @@
 +.detaliczny.com
 +.detentiongirls.com
 +.detodosparatodos.org
++.detpress.com
 +.dettol-prize.com
 +.dettol.at
 +.dettol.be
@@ -6799,7 +6817,9 @@
 +.disney.ru
 +.disney.se
 +.disney.sg
++.disneyaccount.com
 +.disneyadsales.com
++.disneyanimation.com
 +.disneyarena.com
 +.disneyaulani.com
 +.disneybaby.com
@@ -6815,6 +6835,7 @@
 +.disneyinternationalhd.com
 +.disneyjunior.com
 +.disneyjuniortreataday.com
++.disneylandparis.com
 +.disneylatino.com
 +.disneymagicmoments.co.il
 +.disneymagicmoments.co.uk
@@ -6836,11 +6857,13 @@
 +.disneypeoplesurveys.com
 +.disneyplus.bn5x.net
 +.disneyplus.com
++.disneyprivacycenter.com
 +.disneyredirects.com
 +.disneysrivieraresort.com
 +.disneystore.com
 +.disneystreaming.com
 +.disneysubscription.com
++.disneytermsofuse.com
 +.disneytickets.co.uk
 +.disneyturkiye.com.tr
 +.disneytvajobs.com
@@ -7954,6 +7977,7 @@
 +.esforce.com
 +.esforce.ru
 +.esg.t91y.com
++.esim.redteago.com
 +.eskimotube.com
 +.eslite.com
 +.esm.run
@@ -8066,6 +8090,7 @@
 +.expecthim.com
 +.expekt.com
 +.experience-vmware.com
++.experience.arcgis.com
 +.experiencebillmelater.com
 +.expertmaker.com
 +.explicittube.com
@@ -8832,6 +8857,7 @@
 +.flatmates.com.au
 +.flatpak.org
 +.flatt.tech
++.flclashx.app
 +.fldz8.buzz
 +.flecheinthepeche.fr
 +.fleshbot.com
@@ -8867,6 +8893,7 @@
 +.flowgpt.com
 +.flowhongkong.net
 +.flowtype.org
++.flowvy.io
 +.flowwow-images.com
 +.flowwow.com
 +.fluffychat.im
@@ -8874,8 +8901,11 @@
 +.fluidpreview.com
 +.flutter.dev
 +.flutterapp.com
++.fly.dev
++.fly.io
 +.flyflv.com
 +.flyingjizz.com
++.flyio.net
 +.flypool.org
 +.flyvpn.com
 +.flyyindh-cc.sbs
@@ -9199,6 +9229,7 @@
 +.freefacebookads.net
 +.freefblikes.com
 +.freefbx.com
++.freeform.com
 +.freegao.com
 +.freegaypornhdtube.com
 +.freegaysexgames.com
@@ -9898,6 +9929,7 @@
 +.glass8.eu
 +.gle
 +.gleline.com
++.glitchwave.com
 +.global-sci.org
 +.global.bing.com
 +.global.ssl.fastly.net
@@ -11160,6 +11192,7 @@
 +.honestpornreviews.com
 +.hongjie10.xyz
 +.hongjie11.xyz
++.hongkongdisneyland.com
 +.hongkongdoll.tv
 +.hongkongdollvideo.org
 +.hongkongfp.com
@@ -12117,6 +12150,7 @@
 +.inclusivegrowthscore.com
 +.incommon-rsa.org
 +.incredibox.fr
++.incy.cc
 +.ind.sh
 +.indazn.com
 +.indaznlab.com
@@ -13040,7 +13074,10 @@
 +.jetbrains.ai
 +.jetbrains.cloud
 +.jetbrains.com
++.jetbrains.dev
 +.jetbrains.net
++.jetbrains.org
++.jetbrains.ru
 +.jetbrains.space
 +.jetbrains.team
 +.jetfuelapp.com
@@ -13347,6 +13384,7 @@
 +.karechat.ai
 +.karger.com
 +.karinahart.com
++.karing.app
 +.karlajames.com
 +.karmahelp.ru
 +.karta-banka-rf.ru
@@ -13594,6 +13632,8 @@
 +.korona.com
 +.koshelek.app
 +.kostenlosepornoclips.com
++.kotl.in
++.kotlinconf.com
 +.kotlinlang.org
 +.koubaibu.jp
 +.koukoku.jp
@@ -13621,6 +13661,7 @@
 +.kspcoin.com
 +.ksyp10.com
 +.ktech.team
++.ktor.io
 +.ktvu.com
 +.ktzhk.com
 +.ku77.xyz
@@ -14151,6 +14192,7 @@
 +.lubetube.com
 +.lucahmelayu.club
 +.lucasentertainment.com
++.lucasfilm.com
 +.luckydesigner.space
 +.luckyissue.com
 +.luckymobile.ca
@@ -15934,6 +15976,7 @@
 +.myicloud.net
 +.myiphide.com
 +.myipod.net
++.myjetbrains.com
 +.myjkwd.com
 +.myjs.tw
 +.mykomica.org
@@ -16127,6 +16170,7 @@
 +.nbys.tv
 +.nbys1.tv
 +.nbyy.tv
++.ncbi.nlm.nih.gov
 +.nchrd.org
 +.ncl.edu.tw
 +.ncloud.com
@@ -16156,6 +16200,7 @@
 +.neicad.com
 +.neiexplicit.com
 +.neifea.com
++.neigbuy.com
 +.neimotion.com
 +.neinastranincad.com
 +.neisoftware.com
@@ -16744,6 +16789,7 @@
 +.nsfw247.to
 +.nsfwmemes.com
 +.nsimg.net
++.nsloon.com
 +.nspk.ru
 +.ntc.party
 +.ntd.com
@@ -17176,6 +17222,7 @@
 +.onetrust.com
 +.onevps.com
 +.oneworldmanystories.com
++.onexray.com
 +.onfinality.io
 +.onindiansex.com
 +.oninstagram.com
@@ -17291,6 +17338,7 @@
 +.openweave.io
 +.openwebster.com
 +.openwrt.org
++.openxla.org
 +.opera.com
 +.opinionjournal.com
 +.oppai-doga.info
@@ -17418,14 +17466,17 @@
 +.ozon-credit.ru
 +.ozon-dostavka.ru
 +.ozon-tech.ru
++.ozon.app
 +.ozon.by
 +.ozon.com
 +.ozon.com.by
 +.ozon.com.kz
 +.ozon.dev
 +.ozon.express
++.ozon.global
 +.ozon.kz
 +.ozon.li
++.ozon.market
 +.ozon.ru
 +.ozon.tech
 +.ozon.tm
@@ -18014,6 +18065,7 @@
 +.piwheels.org
 +.pixanalytics.com
 +.pixapp.net
++.pixar.com
 +.pixate.com
 +.pixeldrain.com
 +.pixelqi.com
@@ -18694,6 +18746,7 @@
 +.privilege.hk
 +.privilege.tw
 +.privoxy.org
++.prizrak.app
 +.probit.com
 +.procopytips.com
 +.proctoscopeexam.com
@@ -19637,12 +19690,14 @@
 +.rutracker.org
 +.rutrk.org
 +.rutube.ru
++.rutube.sport
 +.rutubelist.ru
 +.ruvideos.net
 +.rwb.ru
 +.rwbautomation.ru
 +.rwbautomation.tech
 +.rwbgeo.ru
++.rym.fm
 +.ryokoyomiuri.co.jp
 +.ryukyubank.co.jp
 +.rzr.to
@@ -19935,6 +19990,7 @@
 +.search.com
 +.search.xxx
 +.search.yahoo.co.jp
++.searchlightpictures.com
 +.searx.me
 +.seasidestory.tokyo
 +.seattlefdc.com
@@ -20254,6 +20310,7 @@
 +.shadbase.com
 +.shadeyouvpn.com
 +.shadowcomplex.com
++.shadowlaunch.com
 +.shadowslaves.com
 +.shadowsocks.be
 +.shadowsocks.com
@@ -20693,6 +20750,7 @@
 +.snk-corp.co.jp
 +.snk-corp.info
 +.snkplaymore.info
++.snmc.io
 +.snow.me
 +.snowcorp.com
 +.snowmiku.com
@@ -20761,6 +20819,8 @@
 +.solv.finance
 +.solveforx.com
 +.somee.com
++.sonematic.net
++.sonemic.com
 +.songjianjun.com
 +.sonorousporn.com
 +.sony
@@ -21181,6 +21241,8 @@
 +.starwarsjedifallenorder.com
 +.starwarskids.com
 +.starwarstheoldrepublic.com
++.stash.wiki
++.stash.ws
 +.stateofthemap.com
 +.stateofthemap.org
 +.static-cisco.com
@@ -21612,6 +21674,7 @@
 +.talkatone.com
 +.talkboxapp.com
 +.talkcc.com
++.talkingkotlin.com
 +.talkonly.net
 +.talksport.com
 +.tamilsexvideos.cc
@@ -22013,6 +22076,7 @@
 +.theuab.net
 +.theverge.com
 +.thevirtualsexreview.com
++.thewaltdisneycompany.com
 +.theweek.com
 +.theweek.in
 +.thewgo.org
@@ -22270,6 +22334,7 @@
 +.tokyo-sports.co.jp
 +.tokyo-tosho.net
 +.tokyocn.com
++.tokyodisneyresort.jp
 +.tokyomotion.com
 +.tokyomotion.net
 +.tokyonightstyle.com
@@ -24031,6 +24096,7 @@
 +.walmart.com
 +.walmart.pharmacy
 +.walmartimages.com
++.waltdisneystudios.com
 +.waltermartin.com
 +.waltermartin.org
 +.wana-tv.sbs
@@ -24255,6 +24321,7 @@
 +.wforum.com
 +.wgcdn.co
 +.wgcrowd.io
++.wgtunnel.com
 +.whasil.xyz
 +.what-fan.net
 +.whatblocked.com
@@ -24472,6 +24539,7 @@
 +.wirelessreach.com
 +.wiremoneytoirelandwithxoomeasierandcheaper.com
 +.wireshark.org
++.wiresock.net
 +.wise-research.com
 +.wise.com
 +.wisecoin.com
@@ -26391,6 +26459,7 @@ dgeft87wbj63p.cloudfront.net
 digiland.tw
 discord-attachments-uploads-prd.storage.googleapis.com
 disk.yandex.com
+disneyplus.com.ssl.sc.omtrdc.net
 dl.begellhouse.com
 dlgarenanow-a.akamaihd.net
 dlmobilegarena-a.akamaihd.net
@@ -26585,11 +26654,13 @@ m1.ppy.sh
 maiplus.com
 martsangkagyuofficial.org
 mash.to
+matsuridayo.github.io
 mcaf.ee
 mdn.mozillademos.org
 media-rockstargames-com.akamaized.net
 medone-education.thieme.com
 merchant-rating.alibaba.com
+metacubex.github.io
 mindrolling.org
 mingpaony.com
 mingpaosf.com
@@ -26611,8 +26682,6 @@ mtalk4.google.com
 muse.jhu.edu
 mwf-service.akamaized.net
 na1r.services.adobe.com
-nab.demdex.net
-nationalaustraliaban.tt.omtrdc.net
 nbbb1bb7.pmhcjk.com
 nbtvpn.com
 netflix.com.edgesuite.net
@@ -26735,6 +26804,7 @@ q676790b.pmhcjk.com
 qmp4.com
 qualcomm.sc.omtrdc.net
 quran.com
+rabbit-hole-1.gitbook.io
 radiko.jp
 radio.itunes.apple.com
 raindrop.io
@@ -26914,6 +26984,7 @@ testflight.apple.com
 thedalailamamovie.com
 thegioitinhoc.vn
 theync.com
+throneproj.github.io
 thumbnail-hamivideo.cdn.hinet.net
 tibet3rdpole.org
 tibetancommunityuk.net

@@ -1,7 +1,7 @@
 # NAME: China
 # AUTHOR: YYDS666
-# UPDATED: 2026-08-08 02:38:40
-# TOTAL: 111334
+# UPDATED: 2026-08-10 02:22:54
+# TOTAL: 111337
 +.0.zone
 +.00.net
 +.000.link
@@ -63346,6 +63346,7 @@
 +.madajiefood.com
 +.madaomall.com
 +.madboxi.com
++.made-in-china.com
 +.madefuns.com
 +.madeinchinastone.com
 +.madewei.com
@@ -65078,6 +65079,7 @@
 +.microxiang.com
 +.microyan.com
 +.microzuji.com
++.micstatic.com
 +.mictormedical.com
 +.micu.hk
 +.micun.com
@@ -72718,6 +72720,7 @@
 +.powerchinayun.com
 +.powerde.com
 +.powereasy.net
++.poweremarket.com
 +.powerex1.com
 +.powerflow-tech.com
 +.powerfulchina.com

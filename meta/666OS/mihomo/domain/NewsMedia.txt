@@ -1,7 +1,7 @@
 # NAME: NewsMedia
 # AUTHOR: YYDS666
-# UPDATED: 2026-08-08 02:36:41
-# TOTAL: 1581
+# UPDATED: 2026-08-10 02:22:55
+# TOTAL: 1580
 +.1917live.red
 +.1degree.com.au
 +.1prime.ru
@@ -603,8 +603,6 @@
 +.fundfire.com
 +.funnyordie.com
 +.fxn.ws
-+.fxnetwork.com
-+.fxnetworks.com
 +.g-tvapp.com
 +.g1.com.br
 +.ganjing.com
@@ -896,6 +894,7 @@
 +.nbcudigitaladops.com
 +.nbcuni.com
 +.nbcuniversal.com
++.neigbuy.com
 +.neow.in
 +.neowin.net
 +.newcastlenewslocal.com.au

@@ -1,7 +1,7 @@
 # NAME: Apple
 # AUTHOR: YYDS666
-# UPDATED: 2026-08-08 02:36:40
-# TOTAL: 1813
+# UPDATED: 2026-08-10 02:22:59
+# TOTAL: 1815
 +.100beatscheap.com
 +.12diasdepresentesdeitunes.com
 +.12diasderegalosdeitunes.cl
@@ -1795,6 +1795,8 @@ sylvan.apple.com
 sync.itunes.apple.com
 tf-feedback.itunes.apple.com
 tj-pod1-smp-device.apple.com
+tj-pod2-smp-device.apple.com
+tj-pod3-smp-device.apple.com
 tv.apple.com
 tv.applemusic.com
 universal-activity-service.itunes.apple.com
