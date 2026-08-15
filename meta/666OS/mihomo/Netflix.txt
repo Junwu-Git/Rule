@@ -1,7 +1,7 @@
 # NAME: Netflix
 # AUTHOR: YYDS666
-# UPDATED: 2026-08-14 02:44:47
-# TOTAL: 136
+# UPDATED: 2026-08-16 02:13:15
+# TOTAL: 138
 DOMAIN,netflix.com.edgesuite.net
 DOMAIN-SUFFIX,fast.com
 DOMAIN-SUFFIX,netflix.ca
@@ -43,7 +43,8 @@ IP-CIDR,64.120.224.0/21,no-resolve
 IP-CIDR,64.120.234.0/23,no-resolve
 IP-CIDR,64.120.236.0/22,no-resolve
 IP-CIDR,64.120.240.0/20,no-resolve
-IP-CIDR,66.197.132.0/22,no-resolve
+IP-CIDR,66.197.133.0/24,no-resolve
+IP-CIDR,66.197.134.0/23,no-resolve
 IP-CIDR,66.197.136.0/21,no-resolve
 IP-CIDR,66.197.147.0/24,no-resolve
 IP-CIDR,66.197.148.0/22,no-resolve
@@ -64,7 +65,8 @@ IP-CIDR6,2620:10c:7000::/44,no-resolve
 IP-CIDR6,2a00:86c0:1000::/36,no-resolve
 IP-CIDR6,2a00:86c0:2000::/35,no-resolve
 IP-CIDR6,2a00:86c0:4000::/34,no-resolve
-IP-CIDR6,2a00:86c0:404::/46,no-resolve
+IP-CIDR6,2a00:86c0:405::/48,no-resolve
+IP-CIDR6,2a00:86c0:406::/47,no-resolve
 IP-CIDR6,2a00:86c0:408::/45,no-resolve
 IP-CIDR6,2a00:86c0:410::/44,no-resolve
 IP-CIDR6,2a00:86c0:422::/47,no-resolve

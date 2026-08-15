@@ -1,7 +1,7 @@
 # NAME: Games
 # AUTHOR: YYDS666
-# UPDATED: 2026-08-14 02:44:55
-# TOTAL: 1094
+# UPDATED: 2026-08-16 02:11:11
+# TOTAL: 1124
 +.100classicbooks.com
 +.17173.com
 +.17173cdn.com
@@ -62,6 +62,9 @@
 +.ac-pocketcamp.com
 +.acesofthunder.net
 +.activematter.game
++.activision.com
++.activisionblizzard.com
++.activisionblizzardmedia.com
 +.aligames.com
 +.amiibo.com
 +.anthemgame.com
@@ -97,6 +100,7 @@
 +.bcfmglobal.com
 +.bejeweledstars.com
 +.bejewled-stars.com
++.benefitsforeveryworld.com
 +.benghuai.com
 +.beth.games
 +.bethesda.net
@@ -129,9 +133,15 @@
 +.buke999.com
 +.bx1k.com
 +.callersbane.com
++.callofduty.com
++.callofdutyendowment.com
++.callofdutyendowment.org
++.callofdutyleague.com
++.callofdutymobile.com
 +.camelot-europe.com
 +.camelotherald.com
 +.camelotherald.net
++.candycrush.com
 +.capitalgames.com
 +.capturingreality.com
 +.cbjq.com
@@ -153,6 +163,7 @@
 +.conquerwithcharacter.com
 +.convrgencegame.com
 +.cowlevel.net
++.crashbandicoot.com
 +.crossout.net
 +.crsed.net
 +.crysis.jp
@@ -171,7 +182,10 @@
 +.dawngatechronicles.com
 +.dayz.com
 +.deadspacegame.com
++.demonware.net
++.diablo.com
 +.diablo3.com
++.diablo4.com
 +.diabloimmortal.com
 +.dialga.com
 +.dice.se
@@ -239,6 +253,7 @@
 +.epicgames.dev
 +.epicgamescdn.com
 +.escapefromtarkov.com
++.europeanwarzoneseries.com
 +.excitebots.com
 +.fab.com
 +.fabricmc.net
@@ -334,6 +349,7 @@
 +.heroesofthestorm.com
 +.heroesports.com
 +.herogame.com
++.highmoonstudios.com
 +.historyofdota.com
 +.historyofdota.net
 +.historyofdota.org
@@ -354,6 +370,7 @@
 +.img4399.com
 +.in.th
 +.industrialtoys.com
++.infinityward.com
 +.insights-collector.gog.com
 +.instituteofwar.org
 +.itch.io
@@ -364,6 +381,7 @@
 +.joyjoy.net
 +.juequling.com
 +.kgisystems.com
++.king.com
 +.kirbysepicyarn.com
 +.kirbysuperstarultra.com
 +.kiwi.jp
@@ -649,6 +667,7 @@
 +.quixel.com
 +.quixel.se
 +.radgametools.com
++.ravensoftware.com
 +.rayark.download
 +.rayark.net
 +.rblx.co
@@ -718,6 +737,7 @@
 +.roco.qq.com
 +.rowblocks.com
 +.rowblox.com
++.rsg.ms
 +.rsg.sc
 +.rstatic.net
 +.ruinedking.com
@@ -736,9 +756,11 @@
 +.seasunwbl.com
 +.seeurlpcl.com
 +.sekai.colorfulpalette.org
++.sekirothegame.com
 +.shadowcomplex.com
 +.shengqugames.com
 +.shyxhy.com
++.sierragames.com
 +.sih-db.com
 +.sih.app
 +.silicagame.com
@@ -747,10 +769,13 @@
 +.skate2.com
 +.sketchfab.com
 +.skydweller.cn
++.skylanders.com
 +.sl916.com
++.sledgehammergames.com
 +.snk-corp.co.jp
 +.snk-corp.info
 +.snkplaymore.info
++.solidstate.com
 +.sonyentertainmentnetwork.com
 +.spearhead.kr
 +.speedhunters.com
@@ -759,6 +784,7 @@
 +.splatoon2tournament.com
 +.spore.com
 +.spyjinx.com
++.spyrothedragon.com
 +.squadbusters.com
 +.ssx3.com
 +.st.dl.bscstorage.net
@@ -855,6 +881,9 @@
 +.timibase.com
 +.titanfall.com
 +.tnt-ea.com
++.tonyhawk.com
++.tonyhawkthegame.com
++.treyarch.com
 +.tuer123.com
 +.tuyoo.com
 +.twinmotion.com
@@ -927,6 +956,7 @@
 +.worldofwarcraft.com
 +.worldofwarplanes.com
 +.worldofwarships.com
++.worldseriesofwarzone.com
 +.wotblitz.com
 +.wowsblitz.com
 +.wtmobile.com
