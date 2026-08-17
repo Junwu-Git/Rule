@@ -1,7 +1,7 @@
 # NAME: Dev
 # AUTHOR: YYDS666
-# UPDATED: 2026-08-16 02:11:07
-# TOTAL: 532
+# UPDATED: 2026-08-18 02:21:46
+# TOTAL: 536
 DOMAIN-SUFFIX,01.org
 DOMAIN-SUFFIX,accountkit.com
 DOMAIN-SUFFIX,acpica.com
@@ -161,6 +161,11 @@ DOMAIN-SUFFIX,framerstatic.com
 DOMAIN-SUFFIX,framerusercontent.com
 DOMAIN-SUFFIX,freebsd.org
 DOMAIN-SUFFIX,frescolib.org
+DOMAIN-SUFFIX,fury.blog
+DOMAIN-SUFFIX,fury.co
+DOMAIN-SUFFIX,fury.dev
+DOMAIN-SUFFIX,fury.help
+DOMAIN-SUFFIX,fury.io
 DOMAIN-SUFFIX,gamesstack.com
 DOMAIN-SUFFIX,gcr.io
 DOMAIN-SUFFIX,gemfury.com
@@ -526,7 +531,6 @@ DOMAIN-SUFFIX,yogalayout.com
 DOMAIN-SUFFIX,youtrack.cloud
 DOMAIN-SUFFIX,ziglang.org
 DOMAIN-SUFFIX,zsh.org
-DOMAIN-KEYWORD,fury
 DOMAIN-KEYWORD,github
 DOMAIN-KEYWORD,jetbrains
 DOMAIN-KEYWORD,microsoftreactor

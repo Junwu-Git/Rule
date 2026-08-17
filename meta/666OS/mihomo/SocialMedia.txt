@@ -1,7 +1,7 @@
 # NAME: SocialMedia
 # AUTHOR: YYDS666
-# UPDATED: 2026-08-16 02:13:16
-# TOTAL: 596
+# UPDATED: 2026-08-18 02:21:47
+# TOTAL: 599
 DOMAIN-SUFFIX,9ineverse.com
 DOMAIN-SUFFIX,aboutfacebook.com
 DOMAIN-SUFFIX,accessfacebookfromschool.com
@@ -552,6 +552,10 @@ DOMAIN-SUFFIX,vkmessenger.app
 DOMAIN-SUFFIX,vkmessenger.com
 DOMAIN-SUFFIX,vkontakte.com
 DOMAIN-SUFFIX,vkontakte.ru
+DOMAIN-SUFFIX,vkpay.app
+DOMAIN-SUFFIX,vkpay.com
+DOMAIN-SUFFIX,vkpay.io
+DOMAIN-SUFFIX,vkpay.ru
 DOMAIN-SUFFIX,vktech-static.ru
 DOMAIN-SUFFIX,vkuser.net
 DOMAIN-SUFFIX,vkuseraudio.com
@@ -581,7 +585,6 @@ DOMAIN-KEYWORD,facebook
 DOMAIN-KEYWORD,misskey
 DOMAIN-KEYWORD,odnoklassniki
 DOMAIN-KEYWORD,twitter
-DOMAIN-KEYWORD,vkpay
 IP-CIDR,103.2.28.0/22,no-resolve
 IP-CIDR,119.235.224.0/21,no-resolve
 IP-CIDR,119.235.232.0/23,no-resolve

@@ -1,7 +1,7 @@
 # NAME: Porn
 # AUTHOR: YYDS666
-# UPDATED: 2026-08-16 02:11:10
-# TOTAL: 6409
+# UPDATED: 2026-08-18 02:21:33
+# TOTAL: 6419
 DOMAIN-SUFFIX,02weqj32.com
 DOMAIN-SUFFIX,04647.club
 DOMAIN-SUFFIX,0cgdklr5sfwj.com
@@ -4141,6 +4141,7 @@ DOMAIN-SUFFIX,porcore.com
 DOMAIN-SUFFIX,poringa.net
 DOMAIN-SUFFIX,porkahd.co
 DOMAIN-SUFFIX,porm.club
+DOMAIN-SUFFIX,porn
 DOMAIN-SUFFIX,porn-bokep.com
 DOMAIN-SUFFIX,porn-comic.com
 DOMAIN-SUFFIX,porn-discounts.com
@@ -4151,6 +4152,10 @@ DOMAIN-SUFFIX,porn-list.site
 DOMAIN-SUFFIX,porn-portal.com
 DOMAIN-SUFFIX,porn-sex-video.me
 DOMAIN-SUFFIX,porn-star.com
+DOMAIN-SUFFIX,porn.biz
+DOMAIN-SUFFIX,porn.com
+DOMAIN-SUFFIX,porn.to
+DOMAIN-SUFFIX,porn.xxx
 DOMAIN-SUFFIX,porn2012.com
 DOMAIN-SUFFIX,porn300.com
 DOMAIN-SUFFIX,porn300.online
@@ -5991,6 +5996,10 @@ DOMAIN-SUFFIX,xnxx-sex-videos.com
 DOMAIN-SUFFIX,xnxx-teens.com
 DOMAIN-SUFFIX,xnxx-tv.net
 DOMAIN-SUFFIX,xnxx-xxx.win
+DOMAIN-SUFFIX,xnxx.com
+DOMAIN-SUFFIX,xnxx.health
+DOMAIN-SUFFIX,xnxx.net
+DOMAIN-SUFFIX,xnxx.tv
 DOMAIN-SUFFIX,xnxx18.pro
 DOMAIN-SUFFIX,xnxx3.com
 DOMAIN-SUFFIX,xnxx4porn.com
@@ -6045,6 +6054,10 @@ DOMAIN-SUFFIX,xv1.monster
 DOMAIN-SUFFIX,xvds.tv
 DOMAIN-SUFFIX,xvedo.net
 DOMAIN-SUFFIX,xvideo-jp.com
+DOMAIN-SUFFIX,xvideo.com
+DOMAIN-SUFFIX,xvideo.org
+DOMAIN-SUFFIX,xvideo.run
+DOMAIN-SUFFIX,xvideo.vlog.br
 DOMAIN-SUFFIX,xvideo1.org
 DOMAIN-SUFFIX,xvideo2.org
 DOMAIN-SUFFIX,xvideoporno.tv
@@ -6403,11 +6416,8 @@ DOMAIN-KEYWORD,kingf-av
 DOMAIN-KEYWORD,missav
 DOMAIN-KEYWORD,nhentai
 DOMAIN-KEYWORD,nudevista
-DOMAIN-KEYWORD,porn
 DOMAIN-KEYWORD,porngames
-DOMAIN-KEYWORD,xnxx
 DOMAIN-KEYWORD,xnxx2
-DOMAIN-KEYWORD,xvideo
 DOMAIN-KEYWORD,xvideos
 DOMAIN-KEYWORD,xxxvideo
 DOMAIN-KEYWORD,zzdh

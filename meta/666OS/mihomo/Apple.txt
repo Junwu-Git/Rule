@@ -1,7 +1,7 @@
 # NAME: Apple
 # AUTHOR: YYDS666
-# UPDATED: 2026-08-16 02:11:11
-# TOTAL: 1217
+# UPDATED: 2026-08-18 02:21:35
+# TOTAL: 1274
 DOMAIN-SUFFIX,100beatscheap.com
 DOMAIN-SUFFIX,12diasdepresentesdeitunes.com
 DOMAIN-SUFFIX,12joursdecadeauxdeitunes.com
@@ -803,6 +803,13 @@ DOMAIN-SUFFIX,ilife.wang
 DOMAIN-SUFFIX,illianacomputerrecycling.com
 DOMAIN-SUFFIX,imac-apple.com
 DOMAIN-SUFFIX,imac-applecomputer.com
+DOMAIN-SUFFIX,imac.co
+DOMAIN-SUFFIX,imac.co.nz
+DOMAIN-SUFFIX,imac.com
+DOMAIN-SUFFIX,imac.eu
+DOMAIN-SUFFIX,imac.gr
+DOMAIN-SUFFIX,imac.one
+DOMAIN-SUFFIX,imac.rs
 DOMAIN-SUFFIX,imacapple.com
 DOMAIN-SUFFIX,imacapplecomputer.com
 DOMAIN-SUFFIX,imacsources.com
@@ -819,6 +826,10 @@ DOMAIN-SUFFIX,ioffergift.com
 DOMAIN-SUFFIX,ios-icloud.com
 DOMAIN-SUFFIX,iosinthecar.com
 DOMAIN-SUFFIX,ipa-iphone.net
+DOMAIN-SUFFIX,ipad.co.kr
+DOMAIN-SUFFIX,ipad.de
+DOMAIN-SUFFIX,ipad.host
+DOMAIN-SUFFIX,ipad.wang
 DOMAIN-SUFFIX,ipad3.com
 DOMAIN-SUFFIX,ipadaustralia.com
 DOMAIN-SUFFIX,ipadmini.cm
@@ -838,6 +849,17 @@ DOMAIN-SUFFIX,iphone-vip5.com
 DOMAIN-SUFFIX,iphone-x.tv
 DOMAIN-SUFFIX,iphone-yh.com
 DOMAIN-SUFFIX,iphone-zh.com
+DOMAIN-SUFFIX,iphone.cm
+DOMAIN-SUFFIX,iphone.com
+DOMAIN-SUFFIX,iphone.com.au
+DOMAIN-SUFFIX,iphone.com.gr
+DOMAIN-SUFFIX,iphone.es
+DOMAIN-SUFFIX,iphone.host
+DOMAIN-SUFFIX,iphone.net.gr
+DOMAIN-SUFFIX,iphone.pt
+DOMAIN-SUFFIX,iphone.rs
+DOMAIN-SUFFIX,iphone.ru
+DOMAIN-SUFFIX,iphone.wang
 DOMAIN-SUFFIX,iphone4.com
 DOMAIN-SUFFIX,iphone4.com.br
 DOMAIN-SUFFIX,iphone4s.com
@@ -860,6 +882,33 @@ DOMAIN-SUFFIX,iphonerip.net
 DOMAIN-SUFFIX,iphonese.tv
 DOMAIN-SUFFIX,iphoneunlockimei.com
 DOMAIN-SUFFIX,iphonexs.tv
+DOMAIN-SUFFIX,ipod.ca
+DOMAIN-SUFFIX,ipod.ch
+DOMAIN-SUFFIX,ipod.cm
+DOMAIN-SUFFIX,ipod.co
+DOMAIN-SUFFIX,ipod.co.nz
+DOMAIN-SUFFIX,ipod.co.uk
+DOMAIN-SUFFIX,ipod.co.za
+DOMAIN-SUFFIX,ipod.com
+DOMAIN-SUFFIX,ipod.com.au
+DOMAIN-SUFFIX,ipod.com.cn
+DOMAIN-SUFFIX,ipod.com.fr
+DOMAIN-SUFFIX,ipod.com.hk
+DOMAIN-SUFFIX,ipod.com.sg
+DOMAIN-SUFFIX,ipod.com.tw
+DOMAIN-SUFFIX,ipod.de
+DOMAIN-SUFFIX,ipod.es
+DOMAIN-SUFFIX,ipod.eu
+DOMAIN-SUFFIX,ipod.fr
+DOMAIN-SUFFIX,ipod.gr
+DOMAIN-SUFFIX,ipod.hk
+DOMAIN-SUFFIX,ipod.is
+DOMAIN-SUFFIX,ipod.net
+DOMAIN-SUFFIX,ipod.no
+DOMAIN-SUFFIX,ipod.pk
+DOMAIN-SUFFIX,ipod.rs
+DOMAIN-SUFFIX,ipod.ru
+DOMAIN-SUFFIX,ipod.tw
 DOMAIN-SUFFIX,ipodcentre.nl
 DOMAIN-SUFFIX,ipodcleaner.com
 DOMAIN-SUFFIX,ipoditouch.com
@@ -883,6 +932,16 @@ DOMAIN-SUFFIX,ituneas.com
 DOMAIN-SUFFIX,itunes-apple.cn
 DOMAIN-SUFFIX,itunes-apple.com.akadns.net
 DOMAIN-SUFFIX,itunes-radio.net
+DOMAIN-SUFFIX,itunes.apple.com
+DOMAIN-SUFFIX,itunes.ca
+DOMAIN-SUFFIX,itunes.co
+DOMAIN-SUFFIX,itunes.co.th
+DOMAIN-SUFFIX,itunes.com
+DOMAIN-SUFFIX,itunes.hk
+DOMAIN-SUFFIX,itunes.mx
+DOMAIN-SUFFIX,itunes.org
+DOMAIN-SUFFIX,itunes.rio
+DOMAIN-SUFFIX,itunes.us
 DOMAIN-SUFFIX,itunes12days.com
 DOMAIN-SUFFIX,itunesapple.cn
 DOMAIN-SUFFIX,itunesessentials.com
@@ -925,6 +984,10 @@ DOMAIN-SUFFIX,mac.eu
 DOMAIN-SUFFIX,mac.rs
 DOMAIN-SUFFIX,mac.wang
 DOMAIN-SUFFIX,macappsto.re
+DOMAIN-SUFFIX,macbook.co
+DOMAIN-SUFFIX,macbook.hk
+DOMAIN-SUFFIX,macbook.tw
+DOMAIN-SUFFIX,macbook.wang
 DOMAIN-SUFFIX,macbookpros.com
 DOMAIN-SUFFIX,macbooksale.com
 DOMAIN-SUFFIX,macboxset.com
@@ -1204,15 +1267,9 @@ DOMAIN-KEYWORD,beats1
 DOMAIN-KEYWORD,dvdstudiopro
 DOMAIN-KEYWORD,ibook
 DOMAIN-KEYWORD,icloud
-DOMAIN-KEYWORD,imac
-DOMAIN-KEYWORD,ipad
 DOMAIN-KEYWORD,ipadair
-DOMAIN-KEYWORD,iphone
 DOMAIN-KEYWORD,iphoto
-DOMAIN-KEYWORD,ipod
-DOMAIN-KEYWORD,itunes
 DOMAIN-KEYWORD,itunesradio
-DOMAIN-KEYWORD,macbook
 DOMAIN-KEYWORD,macbookair
 DOMAIN-KEYWORD,macbookpro
 DOMAIN-KEYWORD,quicktime

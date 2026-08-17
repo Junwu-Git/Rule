@@ -1,7 +1,7 @@
 # NAME: Microsoft
 # AUTHOR: YYDS666
-# UPDATED: 2026-08-16 02:11:09
-# TOTAL: 548
+# UPDATED: 2026-08-18 02:20:01
+# TOTAL: 555
 DOMAIN-SUFFIX,1drv.com
 DOMAIN-SUFFIX,1drv.ms
 DOMAIN-SUFFIX,21vbc.com
@@ -234,6 +234,10 @@ DOMAIN-SUFFIX,kidgrid.tv
 DOMAIN-SUFFIX,kumo.com
 DOMAIN-SUFFIX,l-msedge.net
 DOMAIN-SUFFIX,latampartneruniversity.com
+DOMAIN-SUFFIX,live.com
+DOMAIN-SUFFIX,live.com.au
+DOMAIN-SUFFIX,live.eu
+DOMAIN-SUFFIX,live.net
 DOMAIN-SUFFIX,livefilestore.com
 DOMAIN-SUFFIX,livingyourambition.com
 DOMAIN-SUFFIX,lync.cn
@@ -523,6 +527,11 @@ DOMAIN-SUFFIX,windowsupdate.com
 DOMAIN-SUFFIX,winhec.com
 DOMAIN-SUFFIX,winhec.net
 DOMAIN-SUFFIX,xamarin.com
+DOMAIN-SUFFIX,xbox
+DOMAIN-SUFFIX,xbox.co
+DOMAIN-SUFFIX,xbox.com
+DOMAIN-SUFFIX,xbox.eu
+DOMAIN-SUFFIX,xbox.org
 DOMAIN-SUFFIX,xboxab.com
 DOMAIN-SUFFIX,xboxgamepass.com
 DOMAIN-SUFFIX,xboxgamestudios.com
@@ -541,12 +550,10 @@ DOMAIN-KEYWORD,azure-dns
 DOMAIN-KEYWORD,bing
 DOMAIN-KEYWORD,github
 DOMAIN-KEYWORD,hotmail
-DOMAIN-KEYWORD,live
 DOMAIN-KEYWORD,microsoft
 DOMAIN-KEYWORD,microsoftnews
 DOMAIN-KEYWORD,microsoftreactor
 DOMAIN-KEYWORD,onedrive
 DOMAIN-KEYWORD,visualstudio
 DOMAIN-KEYWORD,windows
-DOMAIN-KEYWORD,xbox
 DOMAIN-KEYWORD,xbox360
