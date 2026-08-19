@@ -1,7 +1,7 @@
 # NAME: Proxy
 # AUTHOR: YYDS666
-# UPDATED: 2026-08-18 02:21:44
-# TOTAL: 27319
+# UPDATED: 2026-08-20 02:18:07
+# TOTAL: 27321
 +.000webhost.com
 +.01.org
 +.02weqj32.com
@@ -17175,6 +17175,7 @@
 +.older.tube
 +.oldhornymilfs.com
 +.oldje.com
++.oldmapsonline.org
 +.olehd.com
 +.olehdtv.com
 +.olelive.com
@@ -19751,6 +19752,7 @@
 +.s2csntp.miz.nao.ac.jp
 +.s2stagehance.com
 +.s3-ap-northeast-1.amazonaws.com
++.s3.dualstack.us-west-2.amazonaws.com
 +.s81c.com
 +.s8ds5gfm.xyz
 +.saas-support.com

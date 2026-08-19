@@ -1,6 +1,6 @@
 # NAME: PayPal
 # AUTHOR: YYDS666
-# UPDATED: 2026-08-18 02:21:50
+# UPDATED: 2026-08-20 02:18:08
 # TOTAL: 245
 +.account-paypal.info
 +.account-paypal.net

@@ -1,7 +1,7 @@
 # NAME: China
 # AUTHOR: YYDS666
-# UPDATED: 2026-08-18 02:21:32
-# TOTAL: 111349
+# UPDATED: 2026-08-20 02:17:55
+# TOTAL: 111350
 +.0.zone
 +.00.net
 +.000.link
@@ -74006,6 +74006,7 @@
 +.qianwanku.com
 +.qianwen.aliyun.com
 +.qianwen.com
++.qianwenai.com
 +.qianxiangbank.com
 +.qianxibj.net
 +.qianximiye.com
