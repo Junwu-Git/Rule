@@ -1,7 +1,7 @@
 # NAME: Proxy
 # AUTHOR: YYDS666
-# UPDATED: 2026-08-20 02:18:07
-# TOTAL: 22721
+# UPDATED: 2026-08-22 02:21:30
+# TOTAL: 22722
 DOMAIN-SUFFIX,000webhost.com
 DOMAIN-SUFFIX,01.org
 DOMAIN-SUFFIX,02weqj32.com
@@ -3630,6 +3630,7 @@ DOMAIN-SUFFIX,brew.sh
 DOMAIN-SUFFIX,brewmp.com
 DOMAIN-SUFFIX,briantreepayments.net
 DOMAIN-SUFFIX,briantreepayments.tv
+DOMAIN-SUFFIX,briarproject.org
 DOMAIN-SUFFIX,bridge-studio.co.uk
 DOMAIN-SUFFIX,bridgebim.com
 DOMAIN-SUFFIX,bridgestone-asiapacific.com
