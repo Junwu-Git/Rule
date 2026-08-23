@@ -1,7 +1,7 @@
 # NAME: Games
 # AUTHOR: YYDS666
-# UPDATED: 2026-08-22 02:19:47
-# TOTAL: 1124
+# UPDATED: 2026-08-24 02:14:18
+# TOTAL: 1123
 +.100classicbooks.com
 +.17173.com
 +.17173cdn.com
@@ -1122,7 +1122,6 @@ ubistatic6-a.akamaihd.net
 ubistatic7-a.akamaihd.net
 ubistatic8-a.akamaihd.net
 ubistatic9-a.akamaihd.net
-uplaypc-s-ubisoft.cdn.ubi.com
 videos-rockstargames-com.akamaized.net
 wb-agora-hydra-file-storage-k1.s3.amazonaws.com
 xz.pphimalayanrt.com

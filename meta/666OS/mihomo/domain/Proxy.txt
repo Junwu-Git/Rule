@@ -1,7 +1,7 @@
 # NAME: Proxy
 # AUTHOR: YYDS666
-# UPDATED: 2026-08-22 02:21:30
-# TOTAL: 27322
+# UPDATED: 2026-08-24 02:12:14
+# TOTAL: 27340
 +.000webhost.com
 +.01.org
 +.02weqj32.com
@@ -412,6 +412,7 @@
 +.59mvmv.com
 +.5axis-machining.com
 +.5beatsbydre.com
++.5ch.io
 +.5ch.net
 +.5fang.cc
 +.5i01.com
@@ -1606,6 +1607,7 @@
 +.amazonvideo.cc
 +.amazonvideo.com
 +.amazonvideodirect.com
++.amazonwebservices.com
 +.amazonworkdocs.com
 +.amc.com
 +.amcn.com
@@ -1819,6 +1821,7 @@
 +.api.palworldgame.com
 +.api.pureapk.com
 +.api.recaptcha.net
++.api.shuaiapi.com
 +.api.steampowered.com
 +.api5.futunn.com
 +.apiary.io
@@ -7111,6 +7114,7 @@
 +.dreamamateurs.com
 +.dreambmw.ca
 +.dreamforce.com
++.dreamgen.com
 +.dreammovies.com
 +.dreamorder.com
 +.dreamteamfc.com
@@ -8496,6 +8500,7 @@
 +.fans17.com
 +.fans66.tw
 +.fansking.tw
++.fansly.com
 +.fansnudes.com
 +.fansone.co
 +.fanspot.jp
@@ -11079,6 +11084,7 @@
 +.hippyhillscomix.com
 +.hipzoom.net
 +.hiroshimabank.co.jp
++.historylines.net
 +.historyofdota.com
 +.historyofdota.net
 +.historyofdota.org
@@ -13529,6 +13535,7 @@
 +.killwall.com
 +.kilmeadeandfriends.com
 +.kimchi.tv
++.kimi.ai
 +.kimogirl.cc
 +.kimosex.com
 +.kindgirls.com
@@ -13596,6 +13603,7 @@
 +.kitakyushubank.co.jp
 +.kiwi.jp
 +.kiwibrowser.com
++.kiwix.org
 +.kiyobank.co.jp
 +.kk-whys.co.jp
 +.kk.stream
@@ -14717,6 +14725,7 @@
 +.mcdonaldsapps.com
 +.mcdonaldsarabia.com
 +.mcdonaldsparties.co.nz
++.mceindex.com
 +.mcisco.com
 +.mcpeaceofmind.com
 +.mcrouter.net
@@ -15622,6 +15631,7 @@
 +.moon.fm
 +.moonbbs.com
 +.moonbingo.com
++.moonshot.ai
 +.moov.hk
 +.moozporn.com
 +.moptt.tw
@@ -16486,6 +16496,8 @@
 +.nickscipio.com
 +.nicky.xxx
 +.nico
++.nico.ms
++.nicochannel.jp
 +.nicodic.jp
 +.nicolepeters.com
 +.nicomanga.jp
@@ -16767,6 +16779,7 @@
 +.nonstopfap.com
 +.noodlemagazine.com
 +.noosferabank.ru
++.nordcdn.com
 +.nordpass.com
 +.nordstrom.com
 +.nordstromimage.com
@@ -16776,6 +16789,7 @@
 +.norsk.mobi
 +.norton.com
 +.nos.nl
++.notegpt.io
 +.notepad-plus-plus.org
 +.noticias-rt.com
 +.notimundo.press
@@ -16787,6 +16801,7 @@
 +.notion.so
 +.notionusercontent.com
 +.nottinghampost.com
++.novelai.net
 +.noveltrove.com
 +.novids.com
 +.novinhabucetuda.com
@@ -19722,6 +19737,7 @@
 +.rutracker.net
 +.rutracker.nl
 +.rutracker.org
++.rutracker.wiki
 +.rutrk.org
 +.rutube.ru
 +.rutube.sport
@@ -21714,6 +21730,7 @@
 +.talantix.ru
 +.talentlens.com
 +.taleofthenight.com
++.talkai.info
 +.talkatone.com
 +.talkboxapp.com
 +.talkcc.com
@@ -24814,6 +24831,7 @@
 +.x3guide.com
 +.x3vid.com
 +.x6av.com
++.x86.fr
 +.x99av.com
 +.xamarin.com
 +.xandr.com

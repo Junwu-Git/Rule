@@ -1,7 +1,7 @@
 # NAME: SocialMedia
 # AUTHOR: YYDS666
-# UPDATED: 2026-08-22 02:21:21
-# TOTAL: 599
+# UPDATED: 2026-08-24 02:12:06
+# TOTAL: 600
 DOMAIN-SUFFIX,9ineverse.com
 DOMAIN-SUFFIX,aboutfacebook.com
 DOMAIN-SUFFIX,accessfacebookfromschool.com
@@ -270,6 +270,7 @@ DOMAIN-SUFFIX,faecebok.com
 DOMAIN-SUFFIX,faesebook.com
 DOMAIN-SUFFIX,fafacebook.com
 DOMAIN-SUFFIX,faicbooc.com
+DOMAIN-SUFFIX,fansly.com
 DOMAIN-SUFFIX,fasebokk.com
 DOMAIN-SUFFIX,fasebook.com
 DOMAIN-SUFFIX,faseboox.com
