@@ -1,7 +1,7 @@
 # NAME: Proxy
 # AUTHOR: YYDS666
-# UPDATED: 2026-08-28 09:52:12
-# TOTAL: 27340
+# UPDATED: 2026-08-30 04:05:16
+# TOTAL: 27348
 +.000webhost.com
 +.01.org
 +.02weqj32.com
@@ -769,6 +769,7 @@
 +.adguard.io
 +.adguard.org
 +.adguardaccount.com
++.adguardaccount.net
 +.adguardcdn.com
 +.adguardvpn.com
 +.adhelpnews.com
@@ -1794,6 +1795,7 @@
 +.aoc.cat
 +.aodahl.com
 +.aokwholesale.net
++.aolcdn.com
 +.aomedia.org
 +.aomiwang.com
 +.aorus.com
@@ -10586,6 +10588,7 @@
 +.h-webtoon.com
 +.h0930.com
 +.h18ani1.vip
++.h264.io
 +.h2o.ai
 +.h2porn.com
 +.h528.com
@@ -16455,6 +16458,7 @@
 +.nftstorage.link
 +.nga.mil
 +.ngeo.com
++.ngfiles.com
 +.nginx.com
 +.nginx.org
 +.nginxconfig.io
@@ -17467,6 +17471,7 @@
 +.ourshemales.com
 +.oursteps.com.au
 +.ourtv.hk
++.ouryahoo.com
 +.out-app-purchase.com
 +.outbound.io
 +.outdoorpublicsex.com
@@ -19396,6 +19401,7 @@
 +.relay.firefox.com
 +.religionnews.com
 +.remirepo.net
++.remna.st
 +.rencapbank.ru
 +.renchead.com
 +.rencredit.ru
@@ -24731,6 +24737,7 @@
 +.wpoforum.com
 +.wpvip.com
 +.wrenchead.com
++.write.as
 +.writesonic.com
 +.ws-blau.com
 +.ws-tcg.com
@@ -25578,6 +25585,7 @@
 +.yahoodns.net
 +.yahoofinance.com
 +.yahoohealth.com
++.yahooinc.com
 +.yahoomusic.com
 +.yahoosandbox.com
 +.yahoosportsbook.com
