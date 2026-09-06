@@ -1,7 +1,7 @@
 # NAME: Dev
 # AUTHOR: YYDS666
-# UPDATED: 2026-09-04 04:13:09
-# TOTAL: 536
+# UPDATED: 2026-09-06 03:41:18
+# TOTAL: 535
 DOMAIN-SUFFIX,01.org
 DOMAIN-SUFFIX,accountkit.com
 DOMAIN-SUFFIX,acpica.com
@@ -22,7 +22,6 @@ DOMAIN-SUFFIX,android.com
 DOMAIN-SUFFIX,androidify.com
 DOMAIN-SUFFIX,apache.org
 DOMAIN-SUFFIX,api-extractor.com
-DOMAIN-SUFFIX,api2.amplitude.com
 DOMAIN-SUFFIX,apisof.net
 DOMAIN-SUFFIX,appcenter.ms
 DOMAIN-SUFFIX,apple-cloudkit.com

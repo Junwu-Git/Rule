@@ -1,7 +1,7 @@
 # NAME: Crypto
 # AUTHOR: YYDS666
-# UPDATED: 2026-09-04 04:15:19
-# TOTAL: 487
+# UPDATED: 2026-09-06 03:41:16
+# TOTAL: 490
 +.1inch.io
 +.aave.com
 +.account-paypal.info
@@ -158,7 +158,10 @@
 +.flare.network
 +.fundingrates.xyz
 +.fundpaypal.com
++.gate.com
 +.gate.io
++.gate.tv
++.gateapi.io
 +.gatedata.org
 +.gateimg.com
 +.gateio.live

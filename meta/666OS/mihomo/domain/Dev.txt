@@ -1,7 +1,7 @@
 # NAME: Dev
 # AUTHOR: YYDS666
-# UPDATED: 2026-09-04 04:13:09
-# TOTAL: 660
+# UPDATED: 2026-09-06 03:41:18
+# TOTAL: 659
 +.01.org
 +.accountkit.com
 +.acpica.com
@@ -22,7 +22,6 @@
 +.androidify.com
 +.apache.org
 +.api-extractor.com
-+.api2.amplitude.com
 +.apisof.net
 +.appcenter.ms
 +.apple-cloudkit.com
