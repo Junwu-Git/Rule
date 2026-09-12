@@ -1,7 +1,7 @@
 # NAME: Proxy
 # AUTHOR: YYDS666
-# UPDATED: 2026-09-10 04:10:21
-# TOTAL: 27363
+# UPDATED: 2026-09-12 04:09:36
+# TOTAL: 27347
 +.000webhost.com
 +.01.org
 +.02weqj32.com
@@ -1814,12 +1814,9 @@
 +.apexlegends.com
 +.apexprint.com.hk
 +.api-extractor.com
-+.api-gl.lbkrs.com
 +.api-secure.recaptcha.net
 +.api-verify.recaptcha.net
 +.api.ai
-+.api.futunn.com
-+.api.lbkrs.com
 +.api.moomoobull.com
 +.api.news
 +.api.palworldgame.com
@@ -1827,7 +1824,6 @@
 +.api.recaptcha.net
 +.api.shuaiapi.com
 +.api.steampowered.com
-+.api5.futunn.com
 +.apiary.io
 +.apiauto.ru
 +.apibay.org
@@ -5109,7 +5105,6 @@
 +.cdn-vk.net
 +.cdn-vk.ru
 +.cdn.arstechnica.net
-+.cdn.futustatic.com
 +.cdn.jwplayer.com
 +.cdn.printfriendly.com
 +.cdn.seatguru.com
@@ -5662,7 +5657,6 @@
 +.cmx.im
 +.cn.sandscotaicentral.com
 +.cn.theaustralian.com.au
-+.cn.uptodown.com
 +.cna.com.tw
 +.cnbbnews.wordpress.com
 +.cnbc.com
@@ -7078,7 +7072,6 @@
 +.dowjoneson.com
 +.download.com
 +.download.dappcdn.com
-+.download.futunn.com
 +.downloadpass.com
 +.downloadsforipod.com
 +.dpool.top
@@ -17341,12 +17334,8 @@
 +.openai.com
 +.openamt.com
 +.openapi-quote.longbridge.cn
-+.openapi-quote.longbridge.com
 +.openapi-trade.longbridge.cn
-+.openapi-trade.longbridge.com
-+.openapi.futunn.com
 +.openapi.longbridge.cn
-+.openapi.longbridge.com
 +.openapiplatform.com
 +.openapiservice.com
 +.openart.ai
@@ -19025,10 +19014,9 @@
 +.qstatus.com
 +.qt-project.org
 +.qt.io
-+.qtcard.futunn.com
-+.qtcardfthk.futufin.com
 +.qtlcdn.com
 +.qtrac.eu
++.quakemachinex.com
 +.qualcomm-email.com
 +.qualcomm-inc.com
 +.qualcomm.co.id
@@ -21547,7 +21535,6 @@
 +.supjav.com
 +.supplybestjerseys.com
 +.support-uber.com
-+.support.futunn.com
 +.supportfacebook.com
 +.supr.cl
 +.supremacy.com
@@ -22531,8 +22518,6 @@
 +.tracker.gg
 +.tracker.network
 +.tracking-location.com
-+.trade.futunn.com
-+.trade.longportapp.com
 +.tradeup.com
 +.tradevip1.com
 +.tradingview.com
@@ -26738,7 +26723,6 @@ lolstatic-a.akamaihd.net
 looktoronto.com
 lookup-api.apple.com
 lyfhk.net
-m.hkgalden.com
 m1.ppy.sh
 maiplus.com
 martsangkagyuofficial.org
