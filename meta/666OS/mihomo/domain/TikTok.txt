@@ -1,7 +1,7 @@
 # NAME: TikTok
 # AUTHOR: YYDS666
-# UPDATED: 2026-09-18 04:42:05
-# TOTAL: 36
+# UPDATED: 2026-09-20 03:44:41
+# TOTAL: 37
 +.analytics.tiktok.com
 +.bytedapm.com
 +.muscdn.com
@@ -33,6 +33,7 @@
 +.ttlivecdn.com
 +.ttoverseaus.net
 +.ttwstatic.com
+p16-tiktok-dm-sticker-sign-sg.ibyteimg.com
 p16-tiktokcdn-com.akamaized.net
 roovza-launches.appsflyersdk.com
 roovza.inapps.appsflyersdk.com
