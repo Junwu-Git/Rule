@@ -1,7 +1,7 @@
 # NAME: China
 # AUTHOR: YYDS666
-# UPDATED: 2026-09-24 04:48:20
-# TOTAL: 111044
+# UPDATED: 2026-09-26 04:50:55
+# TOTAL: 111045
 +.0.zone
 +.00.net
 +.000.link
@@ -82248,6 +82248,7 @@
 +.sjf029.com
 +.sjfcdn.com
 +.sjfh168.com
++.sjfls6.com
 +.sjfpro.com
 +.sjfzxm.com
 +.sjg8.com
