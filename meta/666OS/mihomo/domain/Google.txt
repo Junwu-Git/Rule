@@ -1,7 +1,7 @@
 # NAME: Google
 # AUTHOR: YYDS666
-# UPDATED: 2026-09-26 04:50:59
-# TOTAL: 1071
+# UPDATED: 2026-09-28 04:31:58
+# TOTAL: 1073
 +.0emm.com
 +.1e100.net
 +.1ucrs.com
@@ -191,6 +191,7 @@
 +.fflick.com
 +.financeleadsonline.com
 +.firebase.com
++.firebase.dev
 +.firebase.io
 +.firebaseapp.com
 +.firebaseio.com
@@ -897,9 +898,10 @@ doubleclick.net
 download.mlcc.google.com
 download.tensorflow.google.com
 firebase-settings.crashlytics.com
-firebase.google.com
 firebase.googleapis.com
 firebaseappcheck.googleapis.com
+firebaseappdistribution.googleapis.com
+firebaseapptesters.googleapis.com
 firebasedynamiclinks-ipv4.googleapis.com
 firebasedynamiclinks-ipv6.googleapis.com
 firebasedynamiclinks.googleapis.com

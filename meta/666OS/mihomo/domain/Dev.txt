@@ -1,7 +1,7 @@
 # NAME: Dev
 # AUTHOR: YYDS666
-# UPDATED: 2026-09-26 04:51:08
-# TOTAL: 659
+# UPDATED: 2026-09-28 04:31:59
+# TOTAL: 664
 +.01.org
 +.accountkit.com
 +.acpica.com
@@ -65,6 +65,7 @@
 +.cnpmjs.org
 +.codeberg.org
 +.codeberg.page
++.codebuff.com
 +.codeforaliving.io
 +.codethemicrobit.com
 +.collector.github.com
@@ -139,6 +140,8 @@
 +.fightforux.com
 +.filezilla-project.org
 +.firebase.com
++.firebase.dev
++.firebase.google.com
 +.firebase.io
 +.firebaseapp.com
 +.firebaseio.com
@@ -159,6 +162,7 @@
 +.framerstatic.com
 +.framerusercontent.com
 +.freebsd.org
++.freebuff.com
 +.frescolib.org
 +.fury.blog
 +.fury.co
@@ -605,9 +609,10 @@ docker-pinata-support.s3.amazonaws.com
 download.visualstudio.microsoft.com
 dtlgalleryint.cloudapp.net
 firebase-settings.crashlytics.com
-firebase.google.com
 firebase.googleapis.com
 firebaseappcheck.googleapis.com
+firebaseappdistribution.googleapis.com
+firebaseapptesters.googleapis.com
 firebasedynamiclinks-ipv4.googleapis.com
 firebasedynamiclinks-ipv6.googleapis.com
 firebasedynamiclinks.googleapis.com

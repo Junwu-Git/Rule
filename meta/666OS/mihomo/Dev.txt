@@ -1,7 +1,7 @@
 # NAME: Dev
 # AUTHOR: YYDS666
-# UPDATED: 2026-09-26 04:51:08
-# TOTAL: 535
+# UPDATED: 2026-09-28 04:31:59
+# TOTAL: 536
 DOMAIN-SUFFIX,01.org
 DOMAIN-SUFFIX,accountkit.com
 DOMAIN-SUFFIX,acpica.com
@@ -65,6 +65,7 @@ DOMAIN-SUFFIX,clojure.org
 DOMAIN-SUFFIX,cnpmjs.org
 DOMAIN-SUFFIX,codeberg.org
 DOMAIN-SUFFIX,codeberg.page
+DOMAIN-SUFFIX,codebuff.com
 DOMAIN-SUFFIX,codeforaliving.io
 DOMAIN-SUFFIX,codethemicrobit.com
 DOMAIN-SUFFIX,collector.github.com
@@ -138,8 +139,6 @@ DOMAIN-SUFFIX,fedoraproject.org
 DOMAIN-SUFFIX,ffmpeg.org
 DOMAIN-SUFFIX,fightforux.com
 DOMAIN-SUFFIX,filezilla-project.org
-DOMAIN-SUFFIX,firebase.com
-DOMAIN-SUFFIX,firebase.io
 DOMAIN-SUFFIX,firebaseapp.com
 DOMAIN-SUFFIX,firebaseio.com
 DOMAIN-SUFFIX,flathub.org
@@ -159,6 +158,7 @@ DOMAIN-SUFFIX,framercanvas.com
 DOMAIN-SUFFIX,framerstatic.com
 DOMAIN-SUFFIX,framerusercontent.com
 DOMAIN-SUFFIX,freebsd.org
+DOMAIN-SUFFIX,freebuff.com
 DOMAIN-SUFFIX,frescolib.org
 DOMAIN-SUFFIX,fury.blog
 DOMAIN-SUFFIX,fury.co
@@ -530,6 +530,7 @@ DOMAIN-SUFFIX,yogalayout.com
 DOMAIN-SUFFIX,youtrack.cloud
 DOMAIN-SUFFIX,ziglang.org
 DOMAIN-SUFFIX,zsh.org
+DOMAIN-KEYWORD,firebase
 DOMAIN-KEYWORD,github
 DOMAIN-KEYWORD,jetbrains
 DOMAIN-KEYWORD,microsoftreactor
