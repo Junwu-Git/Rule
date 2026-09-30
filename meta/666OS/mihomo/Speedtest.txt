@@ -1,7 +1,7 @@
 # NAME: Speedtest
 # AUTHOR: YYDS666
-# UPDATED: 2026-09-28 04:31:59
-# TOTAL: 597
+# UPDATED: 2026-09-30 05:36:09
+# TOTAL: 599
 DOMAIN-SUFFIX,07internet.ro
 DOMAIN-SUFFIX,099.net.il
 DOMAIN-SUFFIX,139site.com
@@ -451,8 +451,10 @@ DOMAIN-SUFFIX,soniknet.com.br
 DOMAIN-SUFFIX,soucbnet.com.br
 DOMAIN-SUFFIX,spacetelecom.com.br
 DOMAIN-SUFFIX,spdtst.saix.net
+DOMAIN-SUFFIX,speedtest.co
 DOMAIN-SUFFIX,speedtest.hrec.coop
 DOMAIN-SUFFIX,speedtest.net
+DOMAIN-SUFFIX,speedtestcustom.com
 DOMAIN-SUFFIX,speedy.com.ar
 DOMAIN-SUFFIX,speedy.it
 DOMAIN-SUFFIX,spotnet.co.il
