@@ -1,7 +1,7 @@
 # NAME: Google
 # AUTHOR: YYDS666
-# UPDATED: 2026-10-02 06:06:49
-# TOTAL: 1073
+# UPDATED: 2026-10-04 04:21:09
+# TOTAL: 1075
 +.0emm.com
 +.1e100.net
 +.1ucrs.com
@@ -918,6 +918,8 @@ g0.gstatic.com
 g1.gstatic.com
 g2.gstatic.com
 g3.gstatic.com
+geminiweb-pa.clients.google.com
+geminiweb-pa.clients6.google.com
 gonglchuangl.net
 gongyichuangyi.net
 google-analytics-cn.com

@@ -1,7 +1,7 @@
 # NAME: Proxy
 # AUTHOR: YYDS666
-# UPDATED: 2026-10-02 06:06:56
-# TOTAL: 22751
+# UPDATED: 2026-10-04 04:21:18
+# TOTAL: 22756
 DOMAIN-SUFFIX,000webhost.com
 DOMAIN-SUFFIX,01.org
 DOMAIN-SUFFIX,02weqj32.com
@@ -4562,6 +4562,7 @@ DOMAIN-SUFFIX,classymomsex.com
 DOMAIN-SUFFIX,clau.de
 DOMAIN-SUFFIX,claude.ai
 DOMAIN-SUFFIX,claude.com
+DOMAIN-SUFFIX,claude.dev
 DOMAIN-SUFFIX,claudemcpclient.com
 DOMAIN-SUFFIX,claudemcpcontent.com
 DOMAIN-SUFFIX,claudeusercontent.com
@@ -9844,6 +9845,7 @@ DOMAIN-SUFFIX,huanyuju.com
 DOMAIN-SUFFIX,huaren.us
 DOMAIN-SUFFIX,huarenav.com
 DOMAIN-SUFFIX,huarenporn.com
+DOMAIN-SUFFIX,huarun.win
 DOMAIN-SUFFIX,huashundg.com
 DOMAIN-SUFFIX,huati.cc
 DOMAIN-SUFFIX,huaxin-lls.xyz
@@ -12623,6 +12625,7 @@ DOMAIN-SUFFIX,messytube.com
 DOMAIN-SUFFIX,met-nude.com
 DOMAIN-SUFFIX,meta.ai
 DOMAIN-SUFFIX,meta.com
+DOMAIN-SUFFIX,metaaivm.com
 DOMAIN-SUFFIX,metabora.io
 DOMAIN-SUFFIX,metabrainz.org
 DOMAIN-SUFFIX,metacloud.com
@@ -14780,6 +14783,7 @@ DOMAIN-SUFFIX,openart.ai
 DOMAIN-SUFFIX,openbook.org.tw
 DOMAIN-SUFFIX,opencas.io
 DOMAIN-SUFFIX,openclaw.ai
+DOMAIN-SUFFIX,opencode.ai
 DOMAIN-SUFFIX,opencollective.com
 DOMAIN-SUFFIX,opencreate.org
 DOMAIN-SUFFIX,opencritic.com
@@ -17732,6 +17736,7 @@ DOMAIN-SUFFIX,sinara.ru
 DOMAIN-SUFFIX,sinchew.com.my
 DOMAIN-SUFFIX,sinchew.my
 DOMAIN-SUFFIX,sing-box.app
+DOMAIN-SUFFIX,sing-box.sagernet.org
 DOMAIN-SUFFIX,sing4.lat
 DOMAIN-SUFFIX,sing68.com
 DOMAIN-SUFFIX,singaporepools.com.sg
