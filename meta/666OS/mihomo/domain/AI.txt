@@ -1,7 +1,7 @@
 # NAME: AI
 # AUTHOR: YYDS666
-# UPDATED: 2026-10-10 05:58:21
-# TOTAL: 282
+# UPDATED: 2026-10-12 05:10:27
+# TOTAL: 283
 +.agentclientprotocol.com
 +.ai.com
 +.ai.studio
@@ -195,6 +195,7 @@
 +.stitch.withgoogle.com
 +.stripe.com
 +.synthesia.io
++.syntx.ai
 +.tabnine.com
 +.talkai.info
 +.tapnow.ai
