@@ -1,6 +1,6 @@
 # NAME: Microsoft
 # AUTHOR: YYDS666
-# UPDATED: 2026-10-14 06:03:48
+# UPDATED: 2026-10-16 04:39:31
 # TOTAL: 752
 +.1drv.com
 +.1drv.ms
