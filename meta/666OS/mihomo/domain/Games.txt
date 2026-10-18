@@ -1,7 +1,7 @@
 # NAME: Games
 # AUTHOR: YYDS666
-# UPDATED: 2026-10-16 04:39:29
-# TOTAL: 1123
+# UPDATED: 2026-10-18 03:46:10
+# TOTAL: 1124
 +.100classicbooks.com
 +.17173.com
 +.17173cdn.com
@@ -619,6 +619,7 @@
 +.playstation
 +.playstation.com
 +.playstation.net
++.playstationnetwork.com
 +.playvalorant.com
 +.playwarcraft3.com
 +.pogo.com
