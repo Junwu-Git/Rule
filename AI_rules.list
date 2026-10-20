@@ -5,4 +5,13 @@ DOMAIN-SUFFIX,opencode.ai
 DOMAIN-SUFFIX,openrouter.ai
 DOMAIN-SUFFIX,groq.com
 DOMAIN-SUFFIX,z.ai
+
+# workbuddy国际版
 DOMAIN-SUFFIX,workbuddy.ai
+DOMAIN-SUFFIX,codebuddy.ai
+DOMAIN-SUFFIX,workbuddy.agentos-worker.net
+DOMAIN-SUFFIX,staging.agentos-worker.net
+DOMAIN-SUFFIX,workbuddy-sandbox.com
+DOMAIN-SUFFIX,tencentsmh.com
+DOMAIN-SUFFIX,tgalileo.com
+DOMAIN-SUFFIX,ipify.org
