@@ -1,0 +1,48 @@
+# =============================================================================
+# WorkBuddy AI 国际版 - Clash rule-provider (behavior: classical)
+# -----------------------------------------------------------------------------
+# 只包含国际版链路（解析到 SG/HK 的域名）。
+# 国内版域名（workbuddy.cn / codebuddy.cn / qq.com / myqcloud.com COS）不在其中。
+#
+# 用法：
+#   rule-providers:
+#     workbuddy:
+#       type: file            # 或 http
+#       behavior: classical
+#       path: ./rules/workbuddy.yaml
+#       # url: https://raw.githubusercontent.com/<你的仓库>/workbuddy.yaml
+#       # interval: 86400
+#
+#   rules:
+#     - RULE-SET,workbuddy,WorkBuddy
+#     - GEOIP,CN,DIRECT
+#     - MATCH,🚀 节点选择
+# =============================================================================
+
+payload:
+  # 核心 API / 聊天 / 控制台 / Agent WebSocket（SG）
+  - DOMAIN-SUFFIX,workbuddy.ai
+  - DOMAIN-SUFFIX,codebuddy.ai
+
+  # 云端沙箱 / 编辑器预览
+  - DOMAIN-SUFFIX,workbuddy.agentos-worker.net
+  - DOMAIN-SUFFIX,staging.agentos-worker.net
+  - DOMAIN-SUFFIX,workbuddy-sandbox.com
+
+  # 知识库分享校验（SG）
+  - DOMAIN-SUFFIX,tencentsmh.com
+
+  # 国际版遥测（HK/SG）。不想走代理可删掉或改成 REJECT
+  - DOMAIN-SUFFIX,tgalileo.com
+
+  # 关键：应用启动时用 ipify 探测本机出口 IP，并带进遥测/风控。
+  # 不加这条，API 走代理也会把国内 IP 报给后端。
+  - DOMAIN-SUFFIX,ipify.org
+
+  # 可选：如果登录后仍被判定为国内 IP，再取消下面这行的注释。
+  # tencent.sso.codebuddy.cn 是 CN 域名，但它是国际版登录流程唯一会碰到的 CN 域名。
+  # - DOMAIN-SUFFIX,tencent.sso.codebuddy.cn
+
+  # 可选：tokenhub.tencentmaas.com 解析到广州电信（CN），默认不放。
+  # 如果你使用 WorkBuddy 自带模型，且希望模型请求也走代理，再取消注释。
+  # - DOMAIN-SUFFIX,tokenhub.tencentmaas.com
