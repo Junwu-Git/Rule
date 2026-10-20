@@ -271,6 +271,8 @@ payload:
     - imperial.insendi.com
     - incoming-telemetry.thunderbird.net
     - incoming.telemetry.mozilla.org
+    - kp-config-smart-tv.akamaized.net
+    - kp-configs-smart-tv.s3.eu-central-1.amazonaws.com
     - lastfm-img.freetls.fastly.net
     - lastfm.freetls.fastly.net
     - lazer.ppy.sh
@@ -828,8 +830,8 @@ payload:
     - +.apple
     - +.android
     - +.amazon
-    - +.jiangweiping.com
-    - +.xxxvirtualworld.com
+    - +.jiaochuanba26.buzz
+    - +.jm98.cc
     - +.12diasderegalosdeitunes.pe
     - +.12joursdecadeauxdeitunes.com
     - +.12vpn.com
@@ -4520,13 +4522,13 @@ payload:
     - +.youtube.kz
     - +.youtube.kr
     - +.blog.jp
+    - +.jjgirls.com
     - +.youtube.jp
     - +.youtube.jo
     - +.youtube.it
     - +.youtube.is
     - +.youtube.iq
     - +.youtube.in
-    - +.youtube.ie
     - +.blogblog.com
     - +.blogcatalog.com
     - +.blogcity.me
@@ -4549,14 +4551,15 @@ payload:
     - +.blogspot.cf
     - +.blogspot.ch
     - +.blogspot.cl
+    - +.youtube.ie
     - +.youtube.hu
     - +.youtube.hr
     - +.youtube.hk
     - +.youtube.gt
     - +.youtube.gr
     - +.youtube.ge
-    - +.youtube.fr
     - +.blogspot.com
+    - +.youtube.fr
     - +.youtube.fi
     - +.youtube.es
     - +.youtube.ee
@@ -4569,7 +4572,6 @@ payload:
     - +.youtube.cl
     - +.youtube.ch
     - +.youtube.cat
-    - +.youtube.ca
     - +.blogspot.cv
     - +.blogspot.cz
     - +.blogspot.de
@@ -4614,11 +4616,11 @@ payload:
     - +.blogtd.org
     - +.blogterest.net
     - +.bloodshed.net
+    - +.youtube.ca
     - +.youtube.by
     - +.youtube.bo
-    - +.youtube.bh
     - +.bloomberg.com
-    - +.youtube.bg
+    - +.youtube.bh
     - +.bloomberg.de
     - +.bloomberg.fm
     - +.bloomberg.tv
@@ -4686,7 +4688,7 @@ payload:
     - +.bmia.org
     - +.bmj.com
     - +.bml.info
-    - +.youtube.be
+    - +.youtube.bg
     - +.bmw-abudhabi.com
     - +.bmw-adventskalender.com
     - +.bmw-albania.com
@@ -4709,16 +4711,16 @@ payload:
     - +.bmw-connecteddrive.bg
     - +.bmw-connecteddrive.ca
     - +.bmw-connecteddrive.ch
+    - +.youtube.be
     - +.youtube.ba
     - +.youtube.az
-    - +.youtube.at
     - +.bmw-connecteddrive.com
+    - +.youtube.at
     - +.youtube.am
     - +.youtube.al
     - +.youtube.ae
     - +.youtube-nocookie.com
     - +.02weqj32.com
-    - +.youtu.be
     - +.bmw-connecteddrive.cz
     - +.bmw-connecteddrive.de
     - +.bmw-connecteddrive.dk
@@ -4750,7 +4752,7 @@ payload:
     - +.bmw-connecteddrive.tw
     - +.bmw-corporate-sales.com
     - +.bmw-diplomatic-sales.com
-    - +.youtrannytube.com
+    - +.youtu.be
     - +.bmw-drivingexperience.com
     - +.bmw-dubai.com
     - +.bmw-eg.com
@@ -4795,13 +4797,14 @@ payload:
     - +.bmw-motorrad.ch
     - +.bmw-motorrad.cl
     - +.bmw-motorrad.co
+    - +.youtrannytube.com
     - +.youtrack.cloud
     - +.youskbe.com
     - +.yousendit.com
     - +.yourxxxvideos.pro
     - +.yourwifemymeat.com
-    - +.yourvserver.net
     - +.bmw-motorrad.com
+    - +.yourvserver.net
     - +.yourvoyeurvideos.com
     - +.yourupskirt.com
     - +.yourporngod.com
@@ -4811,7 +4814,6 @@ payload:
     - +.yourmonsterbeats.com
     - +.yourmomsgotbigtits.com
     - +.yourmomlovesanal.com
-    - +.yourlust.com
     - +.bmw-motorrad.cr
     - +.bmw-motorrad.cz
     - +.bmw-motorrad.de
@@ -4855,7 +4857,7 @@ payload:
     - +.bmw-ottawa.ca
     - +.bmw-pakistan.com
     - +.bmw-plant-munich.com
-    - +.yourlisten.com
+    - +.yourlust.com
     - +.bmw-powertrain.com
     - +.bmw-product-highlights.com
     - +.bmw-qatar.com
@@ -4896,6 +4898,7 @@ payload:
     - +.bmw.cc
     - +.bmw.ch
     - +.bmw.cl
+    - +.yourlisten.com
     - +.yourgynexam.com
     - +.yourfreeporn.tv
     - +.yourflashporn.com
@@ -4906,8 +4909,8 @@ payload:
     - +.yourdailypornvideos.ws
     - +.yourbrain.com
     - +.yourassbig.com
-    - +.youramateurporn.com
     - +.bmw.com
+    - +.youramateurporn.com
     - +.your-storageshare.de
     - +.your-storagebox.de
     - +.your-server.de
@@ -4937,7 +4940,6 @@ payload:
     - +.youngamateursporn.com
     - +.young-xxx.net
     - +.young-webcam.net
-    - +.young-amateur-movies.com
     - +.bmw.cw
     - +.bmw.cz
     - +.bmw.de
@@ -5043,10 +5045,10 @@ payload:
     - +.bmwmontreal.ca
     - +.bmwmotorcycles.com
     - +.bmwmotorcycleusa.com
+    - +.young-amateur-movies.com
     - +.youmind.site
     - +.youmind.com
     - +.youmind.ai
-    - +.youmaker.com
     - +.bmwmotorradhk.com
     - +.bmwmotorshowblog.com
     - +.bmwmotorsport.com
@@ -5088,7 +5090,7 @@ payload:
     - +.bnbchain.org
     - +.bnbstatic.com
     - +.bnef.com
-    - +.youlucky.com
+    - +.youmaker.com
     - +.bnn.co
     - +.bnrmetal.com
     - +.bntrace.com
@@ -5103,10 +5105,10 @@ payload:
     - +.bocici.buzz
     - +.bod.asia
     - +.bodgirls.com
-    - +.youla.ru
+    - +.youlucky.com
     - +.bodyfluids-jav.com
     - +.bohemia.net
-    - +.youla.io
+    - +.youla.ru
     - +.bokep.net
     - +.bokepseks.org
     - +.bokepvidz.com
@@ -5126,7 +5128,7 @@ payload:
     - +.boodigo.com
     - +.boodigogo.com
     - +.book-catalog.ru
-    - +.jizzhut.com
+    - +.youla.io
     - +.book18.org
     - +.book1917.live
     - +.book4you.org
@@ -8038,7 +8040,7 @@ payload:
     - +.duckduckco.de
     - +.duckduckgo.ca
     - +.duckduckgo.co
-    - +.jizzle.com
+    - +.xxxvirtualworld.com
     - +.duckduckgo.com
     - +.xxxvidso.com
     - +.xxxvidos.vip
@@ -8688,7 +8690,7 @@ payload:
     - +.xxxfile.org
     - +.epochtimes.com
     - +.xxxengine.net
-    - +.xxxdinotube.com
+    - +.jizzle.com
     - +.xxxdesi.cc
     - +.xxxdan.com
     - +.xxxcomics.org
@@ -13983,9 +13985,9 @@ payload:
     - +.jhelab.org
     - +.jhxl.org
     - +.jhzyw.xyz
-    - +.000webhost.com
+    - +.jiangweiping.com
     - +.jiaochuanba25.buzz
-    - +.jiaochuanba26.buzz
+    - +.000webhost.com
     - +.jiaoyou8.com
     - +.jiayoulu.com
     - +.jibemobile.com
@@ -14018,11 +14020,11 @@ payload:
     - +.jiyou520.com
     - +.xboxone.com
     - +.jizzboom.com
-    - +.openspec.dev
-    - +.xboxone.co
+    - +.jizzbunker.com
+    - +.jizzhut.com
+    - +.xxxdinotube.com
     - +.12diasderegalosdeitunes.hn
-    - +.jizzonline.com
-    - +.jjgirls.com
+    - +.xboxone.co
     - +.jjsuo.sbs
     - +.jkb.cc
     - +.jkbeats.com
@@ -14039,7 +14041,7 @@ payload:
     - +.jm18c-uoi.net
     - +.jm365.work
     - +.jm365.xyz
-    - +.jm98.cc
+    - +.jizzonline.com
     - +.xboxlive.com
     - +.jmapibranch1.cc
     - +.jmapibranch2.cc
@@ -15219,6 +15221,7 @@ payload:
     - +.magestic.com
     - +.magicalmirai.com
     - +.magicmovies.com
+    - +.magnific.com
     - +.mahajantech.com
     - +.mahjongsoul.com
     - +.maidonanews.jp
@@ -16689,6 +16692,7 @@ payload:
     - +.mt0011.site
     - +.mtao.fun
     - +.mthruf.com
+    - +.mts-link.ru
     - +.mts-ws.net
     - +.mts.ru
     - +.mtsbank.ru
@@ -18238,7 +18242,7 @@ payload:
     - +.opensource.guide
     - +.opensourceinsight.dev
     - +.opensourceinsights.dev
-    - +.jizzbunker.com
+    - +.openspec.dev
     - +.openssl.org
     - +.openstreetmap.com
     - +.openstreetmap.net
@@ -19535,6 +19539,7 @@ payload:
     - +.postimages.org
     - +.postimg.cc
     - +.postini.com
+    - +.postman.com
     - +.wemigrate.org
     - +.posty.kr
     - +.postyourgirls.ws
@@ -25799,7 +25804,7 @@ payload:
     - +.jornaldacidadeonline.com.br
     - +.jobmarket.com.hk
     - +.jma.go.jp
-    - +.book.com.tw
+    - +.blog.martinoei.com
     - +.jiyu-kobo.co.jp
     - +.jiuse.com.co
     - +.jibunbank.co.jp
@@ -26707,6 +26712,7 @@ payload:
     - +.bookwalker.com.tw
     - +.booktopia.com.au
     - +.books.com.tw
+    - +.book.com.tw
     - +.boj.or.jp
     - +.bodyandsoul.com.au
     - +.bnext.com.tw
@@ -26763,8 +26769,8 @@ payload:
     - +.bmw-motorrad.com.mx
     - +.bmw-motorrad.com.hr
     - +.bmw-motorrad.com.do
-    - +.bmw-motorrad.com.br
     - +.yourtv.com.au
+    - +.bmw-motorrad.com.br
     - +.bmw-motorrad.com.au
     - +.bmw-motorrad.com.ar
     - +.bmw-motorrad.co.za
@@ -26792,7 +26798,6 @@ payload:
     - +.blogspot.com.tr
     - +.blogspot.com.ng
     - +.blogspot.com.mt
-    - +.blogspot.com.es
     - +.youtube.co.ae
     - +.youtube.co.at
     - +.youtube.co.cr
@@ -26812,7 +26817,7 @@ payload:
     - +.youtube.co.ve
     - +.youtube.co.za
     - +.youtube.co.zw
-    - +.blogspot.com.eg
+    - +.blogspot.com.es
     - +.youtube.com.ar
     - +.youtube.com.au
     - +.youtube.com.az
@@ -26863,6 +26868,7 @@ payload:
     - +.youtube.com.ua
     - +.youtube.com.uy
     - +.youtube.com.ve
+    - +.blogspot.com.eg
     - +.blogspot.com.ee
     - +.blogspot.com.cy
     - +.blogspot.com.co
@@ -26883,7 +26889,6 @@ payload:
     - +.blog.ranxiang.com
     - +.blog.pentalogic.net
     - +.blog.pathtosharepoint.com
-    - +.blog.martinoei.com
     - +.blog.jackjia.com
     - +.blog.fuckgfw233.org
     - +.blog.fizzik.com
