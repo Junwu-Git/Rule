@@ -1,7 +1,7 @@
 # NAME: AI
 # AUTHOR: YYDS666
-# UPDATED: 2026-10-24 04:43:42
-# TOTAL: 283
+# UPDATED: 2026-10-26 04:05:26
+# TOTAL: 298
 +.agentclientprotocol.com
 +.ai.com
 +.ai.studio
@@ -11,9 +11,12 @@
 +.aisandbox-pa.googleapis.com
 +.aistudio.google.com
 +.algolia.net
++.ant.dev
 +.anthropic.com
++.anthropic.team
 +.antigravity-unleash.goog
 +.antigravity.google
++.antspace.dev
 +.anythingllm.com
 +.api.statsig.com
 +.api2d.com
@@ -26,6 +29,7 @@
 +.cerebras.ai
 +.character.ai
 +.chat.com
++.chatbotclaude.com
 +.chatgpt.com
 +.chatgpt.livekit.cloud
 +.chatgpt.site
@@ -35,10 +39,16 @@
 +.ciciaicdn.com
 +.clau.de
 +.claude.ai
++.claude.app
 +.claude.com
 +.claude.dev
++.claude.new
++.claude.site
++.claudeacademy.com
 +.claudemcpclient.com
 +.claudemcpcontent.com
++.claudepages.dev
++.claudestudio.com
 +.claudeusercontent.com
 +.clawhub.ai
 +.client-api.arkoselabs.com
@@ -65,6 +75,7 @@
 +.cursor.com
 +.cursor.sh
 +.cursorapi.com
++.cursorvm.com
 +.d-id.com
 +.deepmind.com
 +.deepmind.google
@@ -132,6 +143,7 @@
 +.lmstudio.ai
 +.lovart.ai
 +.lpsnmedia.net
++.magnific.com
 +.makersuite.google.com
 +.manus.im
 +.manuscdn.com
@@ -161,6 +173,7 @@
 +.opal.google.com
 +.openai.com
 +.openai.com.cdn.cloudflare.net
++.openai.org
 +.openaiapi-site.azureedge.net
 +.openaicom.imgix.net
 +.openart.ai
@@ -203,6 +216,7 @@
 +.trae.ai
 +.tripo3d.ai
 +.turn.livekit.cloud
++.typesafe.ai
 +.windsurf.build
 +.windsurf.com
 +.x.ai
@@ -267,6 +281,7 @@ mj.run
 notebooklm-pa.googleapis.com
 notebooklm.googleapis.com
 o33249.ingest.sentry.io
+o33249.ingest.us.sentry.io
 openai-api.arkoselabs.com
 openai.qualtrics.com
 openaiapi-site.azureedge.net

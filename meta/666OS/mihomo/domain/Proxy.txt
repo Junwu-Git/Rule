@@ -1,7 +1,7 @@
 # NAME: Proxy
 # AUTHOR: YYDS666
-# UPDATED: 2026-10-24 04:43:51
-# TOTAL: 27505
+# UPDATED: 2026-10-26 04:05:19
+# TOTAL: 27585
 +.000webhost.com
 +.01.org
 +.02weqj32.com
@@ -39,6 +39,7 @@
 +.123-hp.com
 +.123av.com
 +.123av.me
++.123av.org
 +.123bin.cc
 +.123dapp.com
 +.123dappipad.com
@@ -224,6 +225,7 @@
 +.22112211.xyz
 +.233abc.com
 +.2371tom.com
++.24.place
 +.24h.tv
 +.24hbook.com
 +.24hjav.com
@@ -1770,6 +1772,7 @@
 +.anonymouse.org
 +.ansarbank.com
 +.ansin.erodayo.com
++.ant.dev
 +.antarvasnaclips.com
 +.antarvasnax.com
 +.antenna.co.kr
@@ -1777,9 +1780,11 @@
 +.anthemthegame.com
 +.anthonycalzadilla.com
 +.anthropic.com
++.anthropic.team
 +.antiphishing.nl
 +.antiphishing.ru
 +.antpool.com
++.antspace.dev
 +.anudetube.com
 +.anuneko.com
 +.anxiangxing.com
@@ -2364,7 +2369,6 @@
 +.asmr.gay
 +.asmrbuluo.com
 +.asn-online.org
-+.asobostudio.com
 +.asp-cc.com
 +.asp.net
 +.aspbjournals.org
@@ -2683,8 +2687,10 @@
 +.avinin.com
 +.avira.com
 +.avistaz.to
++.avito.com
 +.avito.ru
 +.avito.st
++.avito.tech
 +.avizoon.site
 +.avizoone.com
 +.avjb.com
@@ -3352,8 +3358,15 @@
 +.beforeigners.com
 +.befuck.com
 +.befuck.net
++.beget.app
++.beget.cloud
 +.beget.com
++.beget.de
++.beget.hosting
++.beget.pro
 +.beget.ru
++.beget.tech
++.begetcdn.cloud
 +.begin-trade.com
 +.behance.net
 +.behindthescreenz.com
@@ -3385,6 +3398,7 @@
 +.berlinerbericht.de
 +.berlintwitterwall.com
 +.beru.ru
++.beserver.ru
 +.best-sex-games.com
 +.best2pay.net
 +.best4bim.com
@@ -3495,6 +3509,7 @@
 +.bffshd.com
 +.bfnn.org
 +.bfsh.hk
++.bget.ru
 +.bgicdn.com
 +.bgm.tv
 +.bgme.me
@@ -3738,6 +3753,8 @@
 +.blizzardgearstore.com
 +.blockcast.it
 +.blockchain.com
++.blockchair.com
++.blockchair.net
 +.blockcn.com
 +.blockedbyhk.com
 +.blockfrost.io
@@ -5239,6 +5256,7 @@
 +.chat.com
 +.chat.lmsys.org
 +.chatango.com
++.chatbotclaude.com
 +.chatgpt.com
 +.chatgpt.livekit.cloud
 +.chatgpt.site
@@ -5556,10 +5574,16 @@
 +.classymomsex.com
 +.clau.de
 +.claude.ai
++.claude.app
 +.claude.com
 +.claude.dev
++.claude.new
++.claude.site
++.claudeacademy.com
 +.claudemcpclient.com
 +.claudemcpcontent.com
++.claudepages.dev
++.claudestudio.com
 +.claudeusercontent.com
 +.clawhub.ai
 +.clck.ru
@@ -5966,6 +5990,7 @@
 +.cqcorea.com
 +.crabporn.com
 +.crackle.com
++.craftifyx.com
 +.craigslist.org
 +.crankplayer.com
 +.crashbandicoot.com
@@ -6040,6 +6065,7 @@
 +.cruxpool.com
 +.crypto.com
 +.cryptocompare.com
++.cryptoid.info
 +.cryptomus.com
 +.crypton.co.jp
 +.crysis.jp
@@ -6122,6 +6148,7 @@
 +.cursor.com
 +.cursor.sh
 +.cursorapi.com
++.cursorvm.com
 +.curve.fi
 +.curvefish.com
 +.curvybbwwives.com
@@ -6381,6 +6408,7 @@
 +.delcamtv.com
 +.delcamuniversity.com
 +.delcamusa.com
++.delets.cash
 +.delets.online
 +.delicious.com.au
 +.delivery-club.ru
@@ -8527,6 +8555,7 @@
 +.fanbox.cc
 +.fandango.com
 +.fandom.com
++.fanfiction.net
 +.fanfictionero.com
 +.fanfox.net
 +.fangeqiang.com
@@ -8944,7 +8973,6 @@
 +.flickr
 +.flickr.com
 +.flickr.net
-+.flightsimulator.com
 +.flipboard.com
 +.flipfap.com
 +.flipkart.com
@@ -8974,6 +9002,17 @@
 +.fluidpreview.com
 +.flutter.dev
 +.flutterapp.com
++.fluxer.app
++.fluxer.com
++.fluxer.dev
++.fluxer.gg
++.fluxer.gift
++.fluxer.media
++.fluxer.tools
++.fluxerapp.com
++.fluxerstatic.com
++.fluxerstatus.com
++.fluxerusercontent.com
 +.fly.dev
 +.fly.io
 +.flyflv.com
@@ -9476,6 +9515,7 @@
 +.fundraisingwithfacebook.com
 +.fundsupermart.com
 +.funimation.com
++.funko.com
 +.funkyimg.com
 +.funnyfacebook.org
 +.funnyordie.com
@@ -9592,6 +9632,7 @@
 +.game-repack.site
 +.game735.com
 +.gameapps.hk
++.gamebanana.com
 +.gamebase.com.tw
 +.gamebeforethegame.com
 +.gamebiz.jp
@@ -9841,6 +9882,7 @@
 +.getpocket.com
 +.getporn.tv
 +.getprintersupports.com
++.getsafety.com
 +.getscorecash.com
 +.getsentry.com
 +.getsession.org
@@ -10009,6 +10051,8 @@
 +.glass8.eu
 +.gle
 +.gleline.com
++.glitchprod.com
++.glitchproductions.store
 +.glitchwave.com
 +.global-sci.org
 +.global.bing.com
@@ -13599,6 +13643,7 @@
 +.kimchi.tv
 +.kimi.ai
 +.kimogirl.cc
++.kimootoko.net
 +.kimosex.com
 +.kindgirls.com
 +.kindindianporn.com
@@ -13778,6 +13823,7 @@
 +.kumo.com
 +.kun66.xyz
 +.kundun1069.com
++.kurs.expert
 +.kurtmunger.com
 +.kusugurizanmai.com
 +.kutjeporno.com
@@ -14435,6 +14481,7 @@
 +.magestic.com
 +.magicalmirai.com
 +.magicmovies.com
++.magnific.com
 +.mahajantech.com
 +.mahjongsoul.com
 +.maidonanews.jp
@@ -14467,6 +14514,7 @@
 +.makemymood.com
 +.makerepeater.jp
 +.makesenseofdata.com
++.makeship.com
 +.makeshop.jp
 +.makingstartshere.com
 +.maktoob.com
@@ -15436,6 +15484,7 @@
 +.miniwindsor.com
 +.miniworkshop.com
 +.miniyaletown.ca
++.minkch.com
 +.minnano-av.com
 +.minne.com
 +.minneapolisbmw.com
@@ -15785,6 +15834,7 @@
 +.movidius.net
 +.movidius.org
 +.movie-erog.com
++.movie.eroterest.net
 +.movie1000.xyz
 +.moviefap.com
 +.moviepost.com
@@ -15903,6 +15953,7 @@
 +.mt0011.site
 +.mtao.fun
 +.mthruf.com
++.mts-link.ru
 +.mts-ws.net
 +.mts.ru
 +.mtsbank.ru
@@ -16830,6 +16881,7 @@
 +.nixpkgs.org
 +.niziero.info
 +.njactb.org
++.njav.com
 +.njav.tv
 +.njavtv.com
 +.njpw.co.jp
@@ -17428,6 +17480,7 @@
 +.opac-project.eu
 +.open.firstory.me
 +.openai.com
++.openai.org
 +.openamt.com
 +.openapi-quote.longbridge.cn
 +.openapi-trade.longbridge.cn
@@ -17586,6 +17639,7 @@
 +.ovpn.com
 +.ow.ly
 +.owltail.com
++.ownaj.com
 +.owxd.xyz
 +.oxfordaasc.com
 +.oxfordartonline.com
@@ -18329,6 +18383,7 @@
 +.pmem.org
 +.pmem.us
 +.pnas.org
++.po-kaki-to.com
 +.po2b.com
 +.pobeda.page
 +.pobl-content.com
@@ -18760,6 +18815,7 @@
 +.postimages.org
 +.postimg.cc
 +.postini.com
++.postman.com
 +.posts.careerengine.us
 +.posty.kr
 +.postyourgirls.ws
@@ -19035,6 +19091,7 @@
 +.pussyspace.net
 +.putinho.net
 +.putty.org
++.pv-cdn.net
 +.pvp.net
 +.pvp.tv
 +.pvt.sexy
@@ -19060,6 +19117,7 @@
 +.python.com.tw
 +.python.org
 +.pythonhosted.org
++.pyup.io
 +.pzforever.skin
 +.pzforever01.homes
 +.pzhanfor.today
@@ -19208,6 +19266,7 @@
 +.r18lu-avi.shop
 +.r18lu.com
 +.r2.dev
++.r2modman.com
 +.r34porn.net
 +.rabbitcounter.com
 +.rabbitscams.com
@@ -19904,6 +19963,7 @@
 +.safeliner.tech
 +.safepal.com
 +.safervpn.com
++.safetycli.com
 +.saffrontech.com
 +.sagabank.co.jp
 +.sage-observability.tech
@@ -20073,6 +20133,7 @@
 +.schwab.com.hk
 +.schwab.com.sg
 +.schwabassetmanagement.com
++.schwabcdn.com
 +.schwabplan.com
 +.sci-hub.ee
 +.sci-hub.it.nf
@@ -21232,6 +21293,7 @@
 +.springwood.me
 +.sprinklesapp.com
 +.sproutcore.com
++.sprut.io
 +.sptvbroadcast.com
 +.sputnikglobe.com
 +.sputnikimages.com
@@ -21455,6 +21517,7 @@
 +.steaminventoryhelper.com
 +.steamladder.com
 +.steamofporn.com
++.steamos.cloud
 +.steampowered.com
 +.steamserver.net
 +.steamstatic.com
@@ -22089,6 +22152,7 @@
 +.tgirlpostop.com
 +.tgp6.com
 +.tgstat.com
++.tgtime.store
 +.tgtube.com
 +.tgutube.com
 +.thai-xxx.com
@@ -22325,6 +22389,8 @@
 +.thunderbird.net
 +.thunderbolttechnology.net
 +.thundermail.com
++.thunderstore.io
++.thunderstore.org
 +.thywords.com
 +.thz7.net
 +.thzu.cc
@@ -22439,6 +22505,8 @@
 +.timestalks.com
 +.timeweb.cloud
 +.timeweb.com
++.timeweb.tech
++.timewebcloud.kz
 +.timi1.me
 +.timo0.com
 +.timtales.com
@@ -22489,6 +22557,7 @@
 +.tmdb.org
 +.tmei-taoyuan.com
 +.tmiaf.ru
++.tmimgcdn.com
 +.tmsnrt.rs
 +.tn1.shemalez.com
 +.tn2.shemalez.com
@@ -23004,6 +23073,7 @@
 +.typekit.net
 +.typenetwork.com
 +.typepad.com
++.typesafe.ai
 +.typeset.io
 +.typesquare.com
 +.typography.com
@@ -24850,6 +24920,7 @@
 +.worldoftanks.eu
 +.worldofwarcraft.com
 +.worldofwarplanes.com
++.worldofwarships.asia
 +.worldofwarships.com
 +.worldpornvideos.com
 +.worldscientific.com
@@ -25184,6 +25255,7 @@
 +.xn--90ab.com
 +.xn--90ab2c.xn--p1ai
 +.xn--90absjljw3g.xn--p1ai
++.xn--90aefb9d.xn--p1ai
 +.xn--90aifd0az.shop
 +.xn--90aifd0azb.xn--p1acf
 +.xn--90wwvt03e.com
@@ -25985,6 +26057,7 @@
 +.yourxxxvideos.pro
 +.yousendit.com
 +.youskbe.com
++.youtooz.com
 +.youtrack.cloud
 +.youtrannytube.com
 +.youtu.be
@@ -26381,6 +26454,7 @@
 +.zorrovpn.com
 +.zotero.org
 +.zozotown.com
++.zozovideo.com
 +.zpagov.net
 +.zpath.com
 +.zpn.im
@@ -26650,6 +26724,7 @@ d2vjef5jvl6bfs.cloudfront.net
 d2xmjdvx03ij56.cloudfront.net
 d31dormfno8pk4.cloudfront.net
 d33wubrfki0l68.cloudfront.net
+d348twzf7a8p5.cloudfront.net
 d36nr0u3xmc4mm.cloudfront.net
 d3aqoihi2n8ty8.cloudfront.net
 d3c27h4odz752x.cloudfront.net
@@ -26657,6 +26732,7 @@ d3c33hcgiwev3.cloudfront.net
 d3lh5kkip965lj.cloudfront.net
 d3nwj80emtnjeo.cloudfront.net
 d3r7nsslvs6aaf.cloudfront.net
+d3stzm2eumvgb4.cloudfront.net
 d3ucl0eqgl80l5.cloudfront.net
 d3vd9lfkzbru3h.cloudfront.net
 d6d4ismr40iw.cloudfront.net
@@ -26680,6 +26756,7 @@ deribit.cdn.prismic.io
 deutschewelle.h-cdn.com
 developer.microsoft.com
 developers.facebook.com
+devforum-uploads.s3.dualstack.us-east-2.amazonaws.com
 dfp6rglgjqszk.cloudfront.net
 dgeft87wbj63p.cloudfront.net
 digiland.tw
@@ -26692,6 +26769,7 @@ dlmobilegarena-a.akamaihd.net
 dmqdd6hw24ucf.cloudfront.net
 docker-images-prod.6aa30f8b08e16409b46e0173d6de2f56.r2.cloudflarestorage.com
 docker-pinata-support.s3.amazonaws.com
+doy2mn9upadnk.cloudfront.net
 dqd0jw5gvbchn.cloudfront.net
 dqrpb9wgowsf5.cloudfront.net
 ds-linear-abematv.akamaized.net
@@ -26761,7 +26839,6 @@ firebaseperusertopics-pa.googleapis.com
 firebaseremoteconfig.googleapis.com
 firstsearch.oclc.org
 fleursdeslettres.com
-flightsimulator.azureedge.net
 fontshop-prod-responsive-images.s3.amazonaws.com
 forum.cyberctm.com
 foxgay.com
@@ -26771,6 +26848,7 @@ freakshare.com
 freetibetanheroes.org
 freevpn.me
 fulione.com
+funko.my.site.com
 g6hentai.com
 gamedownloads-rockstargames-com.akamaized.net
 gamer-cds.cdn.hinet.net
@@ -26858,6 +26936,8 @@ jmscult.com
 juoaa.com
 kindleren.com
 kiwi.kz
+kp-config-smart-tv.akamaized.net
+kp-configs-smart-tv.s3.eu-central-1.amazonaws.com
 lab.skk.moe
 lastcombat.com
 lastfm-img.freetls.fastly.net

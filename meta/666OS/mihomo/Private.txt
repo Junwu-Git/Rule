@@ -1,7 +1,7 @@
 # NAME: Private
 # AUTHOR: YYDS666
-# UPDATED: 2026-10-24 04:45:43
-# TOTAL: 223
+# UPDATED: 2026-10-26 04:07:35
+# TOTAL: 233
 DOMAIN-SUFFIX,0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.ip6.arpa
 DOMAIN-SUFFIX,0.in-addr.arpa
 DOMAIN-SUFFIX,0.openwrt.pool.ntp.org
@@ -205,6 +205,8 @@ IP-CIDR,172.16.0.0/12,no-resolve
 IP-CIDR,192.0.0.0/24,no-resolve
 IP-CIDR,192.0.2.0/24,no-resolve
 IP-CIDR,192.168.0.0/16,no-resolve
+IP-CIDR,192.31.196.0/24,no-resolve
+IP-CIDR,192.52.193.0/24,no-resolve
 IP-CIDR,192.88.99.0/24,no-resolve
 IP-CIDR,198.18.0.0/15,no-resolve
 IP-CIDR,198.51.100.0/24,no-resolve
@@ -214,7 +216,15 @@ IP-CIDR,224.0.0.0/4,no-resolve
 IP-CIDR,240.0.0.0/4,no-resolve
 IP-CIDR,255.255.255.255/32,no-resolve
 IP-CIDR6,100::/64,no-resolve
+IP-CIDR6,100::/64,no-resolve
+IP-CIDR6,2001::/23,no-resolve
 IP-CIDR6,2001:db8::/32,no-resolve
+IP-CIDR6,2001:db8::/32,no-resolve
+IP-CIDR6,2620:4f:8000::/48,no-resolve
+IP-CIDR6,3fff::/20,no-resolve
+IP-CIDR6,5f00::/16,no-resolve
+IP-CIDR6,64:ff9b:1::/48,no-resolve
+IP-CIDR6,64:ff9b::/96,no-resolve
 IP-CIDR6,::/127,no-resolve
 IP-CIDR6,::/127,no-resolve
 IP-CIDR6,::/128,no-resolve

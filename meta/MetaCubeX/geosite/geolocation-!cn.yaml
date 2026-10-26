@@ -180,6 +180,7 @@ payload:
     - doy2mn9upadnk.cloudfront.net
     - dqd0jw5gvbchn.cloudfront.net
     - dqrpb9wgowsf5.cloudfront.net
+    - dropbox.zendesk.com
     - ds-linear-abematv.akamaized.net
     - ds-vod-abematv.akamaized.net
     - ds0h3roq6wcgc.cloudfront.net
@@ -832,8 +833,8 @@ payload:
     - +.apple
     - +.android
     - +.amazon
-    - +.jetbrains.space
-    - +.firestonetire.com
+    - +.jetbrains.dev
+    - +.2ch.hk
     - +.12diasderegalosdeitunes.hn
     - +.12diasderegalosdeitunes.pe
     - +.12joursdecadeauxdeitunes.com
@@ -1002,7 +1003,7 @@ payload:
     - +.2beeg.me
     - +.2bit8.com
     - +.2buybeatsbydre.com
-    - +.2ch.hk
+    - +.jintian.net
     - +.2ch.life
     - +.2ch.net
     - +.2ch.org
@@ -1524,6 +1525,7 @@ payload:
     - +.addthiscdn.com
     - +.addthisedge.com
     - +.addtoany.com
+    - +.addtodropbox.com
     - +.addyoutube.com
     - +.zuckerberg.net
     - +.adgoogle.net
@@ -7062,6 +7064,7 @@ payload:
     - +.darwinsource.org
     - +.darwinsourcecode.com
     - +.dasaob.online
+    - +.dash.ai
     - +.dashlane.com
     - +.dashly.app
     - +.dashly.help
@@ -7818,6 +7821,7 @@ payload:
     - +.docs.new
     - +.docs.rs
     - +.docs.rw
+    - +.docsend.com
     - +.doctor-videos.com
     - +.documentforce.com
     - +.documentingreality.com
@@ -8012,12 +8016,15 @@ payload:
     - +.dropboxapi.com
     - +.dropboxbusiness.com
     - +.dropboxcaptcha.com
+    - +.dropboxexperiment.com
     - +.dropboxforum.com
     - +.dropboxforums.com
     - +.dropboxinsiders.com
+    - +.dropboxlegal.com
     - +.dropboxmail.com
     - +.dropboxpartners.com
     - +.dropboxstatic.com
+    - +.dropboxteam.com
     - +.dropboxusercontent.com
     - +.drpc.org
     - +.drtuber.com
@@ -9702,7 +9709,7 @@ payload:
     - +.firestoneip.com
     - +.firestonerewards.com
     - +.firestonetire.ca
-    - +.jitouch.com
+    - +.firestonetire.com
     - +.firetweet.io
     - +.firewire.cl
     - +.firewire.eu
@@ -11735,9 +11742,11 @@ payload:
     - +.helixstudios.net
     - +.helloandroid.com
     - +.helloavgirls.com
+    - +.hellofax.com
     - +.hellokittybeats.com
     - +.hellomoto.com
     - +.helloqueer.com
+    - +.hellosign.com
     - +.hellosmartbook.com
     - +.hellporno.com
     - +.hellven.net
@@ -13548,7 +13557,7 @@ payload:
     - +.xdaimages.com
     - +.iphone.es
     - +.iphone.host
-    - +.xdaforums.com
+    - +.jinx.com
     - +.iphone.pt
     - +.iphone.rs
     - +.iphone.ru
@@ -14011,11 +14020,11 @@ payload:
     - +.jetbrains.ai
     - +.jetbrains.cloud
     - +.jetbrains.com
-    - +.jetbrains.dev
+    - +.000webhost.com
     - +.jetbrains.net
     - +.jetbrains.org
     - +.jetbrains.ru
-    - +.000webhost.com
+    - +.jetbrains.space
     - +.jetbrains.team
     - +.jetfuelapp.com
     - +.jetfuelapps.com
@@ -14046,13 +14055,13 @@ payload:
     - +.jimeng22.com
     - +.jims.net
     - +.jingpin.org
-    - +.jinrizhiyi.news
-    - +.jintian.net
-    - +.jinx.com
-    - +.jira-tcsbank.ru
-    - +.thaigirls100.net
+    - +.stuidok110.com
     - +.12diasderegalosdeitunes.gt
-    - +.nintendoswitch.com
+    - +.xdaforums.com
+    - +.jira-tcsbank.ru
+    - +.jira.com
+    - +.jitouch.com
+    - +.jitsi.org
     - +.jiuse.ai
     - +.xbox360.co
     - +.jiuse.icu
@@ -17633,7 +17642,7 @@ payload:
     - +.nintendonetwork.net
     - +.nintendonyc.com
     - +.nintendostore.com
-    - +.jitsi.org
+    - +.nintendoswitch.com
     - +.nintendoswitch.net
     - +.nintendoswitchtogether.com
     - +.nintendowii.com
@@ -22394,7 +22403,7 @@ payload:
     - +.studywatchbyverily.com
     - +.studywatchbyverily.org
     - +.stufferdb.com
-    - +.stuidok110.com
+    - +.jinrizhiyi.news
     - +.stumbleupon.com
     - +.stunnel.org
     - +.stupidcams.com
@@ -22922,7 +22931,7 @@ payload:
     - +.thaichix.com
     - +.thaicuties.com
     - +.thaigirls.net
-    - +.jira.com
+    - +.thaigirls100.net
     - +.thanksloyalty.com
     - +.thawte.com
     - +.thawte.de

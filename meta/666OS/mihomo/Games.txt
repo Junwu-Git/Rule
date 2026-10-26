@@ -1,7 +1,7 @@
 # NAME: Games
 # AUTHOR: YYDS666
-# UPDATED: 2026-10-24 04:43:43
-# TOTAL: 932
+# UPDATED: 2026-10-26 04:07:32
+# TOTAL: 937
 DOMAIN-SUFFIX,100classicbooks.com
 DOMAIN-SUFFIX,17173.com
 DOMAIN-SUFFIX,17173cdn.com
@@ -79,7 +79,6 @@ DOMAIN-SUFFIX,armaplatform.com
 DOMAIN-SUFFIX,artstation.com
 DOMAIN-SUFFIX,artstationmedia.com
 DOMAIN-SUFFIX,artstorm.com
-DOMAIN-SUFFIX,asobostudio.com
 DOMAIN-SUFFIX,astral-vector.com
 DOMAIN-SUFFIX,awayoutgame.com
 DOMAIN-SUFFIX,ayudanintendo.com
@@ -269,7 +268,6 @@ DOMAIN-SUFFIX,fire-emblem-heroes.com
 DOMAIN-SUFFIX,fireemblemawakening.com
 DOMAIN-SUFFIX,firesidegatherings.com
 DOMAIN-SUFFIX,fitgirl-repacks.site
-DOMAIN-SUFFIX,flightsimulator.com
 DOMAIN-SUFFIX,flipnotestudio.com
 DOMAIN-SUFFIX,forevernine.com
 DOMAIN-SUFFIX,forgecdn.net
@@ -288,6 +286,7 @@ DOMAIN-SUFFIX,gaijin.net
 DOMAIN-SUFFIX,gaijinent.com
 DOMAIN-SUFFIX,game-repack.site
 DOMAIN-SUFFIX,gameabc.com
+DOMAIN-SUFFIX,gamebanana.com
 DOMAIN-SUFFIX,gamebonfire.com
 DOMAIN-SUFFIX,gameitop.com
 DOMAIN-SUFFIX,gameloop.com
@@ -609,6 +608,7 @@ DOMAIN-SUFFIX,qqgameapp.com
 DOMAIN-SUFFIX,quiltmc.org
 DOMAIN-SUFFIX,quixel.com
 DOMAIN-SUFFIX,quixel.se
+DOMAIN-SUFFIX,r2modman.com
 DOMAIN-SUFFIX,radgametools.com
 DOMAIN-SUFFIX,ravensoftware.com
 DOMAIN-SUFFIX,rayark.download
@@ -721,6 +721,7 @@ DOMAIN-SUFFIX,steamdb.info
 DOMAIN-SUFFIX,steamdeck.com
 DOMAIN-SUFFIX,steamgames.com
 DOMAIN-SUFFIX,steaminventoryhelper.com
+DOMAIN-SUFFIX,steamos.cloud
 DOMAIN-SUFFIX,steampowered.com
 DOMAIN-SUFFIX,steampowered.com.8686c.com
 DOMAIN-SUFFIX,steamserver.net
@@ -776,6 +777,8 @@ DOMAIN-SUFFIX,thesims3.com
 DOMAIN-SUFFIX,thesims4.com
 DOMAIN-SUFFIX,thesimssocial.com
 DOMAIN-SUFFIX,thewonderful101.com
+DOMAIN-SUFFIX,thunderstore.io
+DOMAIN-SUFFIX,thunderstore.org
 DOMAIN-SUFFIX,tiancity.com
 DOMAIN-SUFFIX,tiancitycdn.com
 DOMAIN-SUFFIX,tiberiumalliances.com
@@ -853,10 +856,12 @@ DOMAIN-SUFFIX,worldoftanks.com
 DOMAIN-SUFFIX,worldoftanks.eu
 DOMAIN-SUFFIX,worldofwarcraft.com
 DOMAIN-SUFFIX,worldofwarplanes.com
+DOMAIN-SUFFIX,worldofwarships.asia
 DOMAIN-SUFFIX,worldofwarships.com
 DOMAIN-SUFFIX,worldseriesofwarzone.com
 DOMAIN-SUFFIX,wotblitz.com
 DOMAIN-SUFFIX,wowsblitz.com
+DOMAIN-SUFFIX,wplace.live
 DOMAIN-SUFFIX,wtmobile.com
 DOMAIN-SUFFIX,xbox
 DOMAIN-SUFFIX,xbox.co
