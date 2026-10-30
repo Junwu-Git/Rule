@@ -1,7 +1,7 @@
 # NAME: China
 # AUTHOR: YYDS666
-# UPDATED: 2026-10-28 05:34:14
-# TOTAL: 110192
+# UPDATED: 2026-10-30 06:10:25
+# TOTAL: 110194
 +.0.zone
 +.00.net
 +.000.link
@@ -33524,6 +33524,7 @@
 +.fillersmart.com
 +.fillseo.com
 +.film-yuelongchina.com
++.filmorigin.com
 +.fily.fun
 +.fim34s.com
 +.fimmu.com
@@ -56029,6 +56030,7 @@
 +.kakappt.com
 +.kakashuzi.net
 +.kakatx.com
++.kakaxing.com
 +.kakayuy.net
 +.kaken-china.com
 +.kaku-scdn.com
