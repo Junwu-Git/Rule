@@ -1,7 +1,7 @@
 # NAME: Streaming
 # AUTHOR: YYDS666
-# UPDATED: 2026-10-30 06:08:17
-# TOTAL: 698
+# UPDATED: 2026-11-01 04:44:26
+# TOTAL: 701
 +.112263.com
 +.20thcenturystudios.com
 +.20thcenturystudios.com.au
@@ -373,6 +373,7 @@
 +.spoti.fi
 +.spotify-everywhere.com
 +.spotify.com
++.spotify.com.edgesuite.net
 +.spotify.design
 +.spotify.link
 +.spotifycdn.com
@@ -412,11 +413,14 @@
 +.tiktokglobalshopv.com
 +.tiktokminis.us
 +.tiktokrow-cdn.com
++.tiktokshop.com
++.tiktokstaticb.com
 +.tiktokv.com
 +.tiktokv.com.edgekey.net
 +.tiktokv.com.edgesuite.net
 +.tiktokv.eu
 +.tiktokv.us
++.tiktokvapp.com
 +.tiktokw.eu
 +.tiktokw.us
 +.tokyodisneyresort.jp
@@ -688,7 +692,6 @@ roovza.inapps.appsflyersdk.com
 roovza.launches.appsflyersdk.com
 roovza.skadsdk.appsflyersdk.com
 s3-ap-southeast-1.amazonaws.com
-spotify.com.edgesuite.net
 spotify.map.fastly.net
 spotify.map.fastlylb.net
 theater-kktv.cdn.hinet.net

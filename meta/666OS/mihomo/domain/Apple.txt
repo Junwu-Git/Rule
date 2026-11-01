@@ -1,7 +1,7 @@
 # NAME: Apple
 # AUTHOR: YYDS666
-# UPDATED: 2026-10-30 06:08:15
-# TOTAL: 1815
+# UPDATED: 2026-11-01 04:44:17
+# TOTAL: 1816
 +.100beatscheap.com
 +.12diasdepresentesdeitunes.com
 +.12diasderegalosdeitunes.cl
@@ -1005,7 +1005,6 @@
 +.icloud-isupport.com
 +.icloud-sandbox.com
 +.icloud.ch
-+.icloud.cn
 +.icloud.com
 +.icloud.com.cn
 +.icloud.de
@@ -1764,7 +1763,9 @@ seed-swallow.siri.apple.com
 seed.siri.apple.com
 sequoia.apple.com
 sf-api-token-service.itunes.apple.com
+sh-pod1-smp-device.apple.com
 sh-pod2-smp-device.apple.com
+sh-pod3-smp-device.apple.com
 shazam-insights.cdn-apple.com
 smp-device-content.apple.com
 sp.itunes.apple.com

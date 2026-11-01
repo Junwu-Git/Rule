@@ -1,7 +1,7 @@
 # NAME: Games
 # AUTHOR: YYDS666
-# UPDATED: 2026-10-30 06:08:18
-# TOTAL: 1131
+# UPDATED: 2026-11-01 04:44:17
+# TOTAL: 1138
 +.100classicbooks.com
 +.17173.com
 +.17173cdn.com
@@ -66,6 +66,7 @@
 +.activisionblizzard.com
 +.activisionblizzardmedia.com
 +.aligames.com
++.amdgaming.com
 +.amiibo.com
 +.anthemgame.com
 +.anthemthegame.com
@@ -145,6 +146,10 @@
 +.capturingreality.com
 +.cbjq.com
 +.cdncl.net
++.cdpred.services
++.cdprojekt.com
++.cdprojekt.red
++.cdprojektred.com
 +.cgyouxi.com
 +.championshipseriesleague.com
 +.changyou.com
@@ -172,6 +177,7 @@
 +.cubicodyssey.game
 +.curseforge.com
 +.cy.com
++.cyberpunk.net
 +.cygames.co.jp
 +.cygames.jp
 +.daoc.net
@@ -312,7 +318,6 @@
 +.gclouddolphin.com
 +.gcloudsdk.com
 +.gcloudsvcs.com
-+.gdtimg.com
 +.genshinimpact.com
 +.ghostgames.com
 +.giratina.com
@@ -611,6 +616,7 @@
 +.playartifact.com
 +.playbattlegrounds.com
 +.playcool.com
++.playgwent.com
 +.playhearthstone.com
 +.playnintendo.com
 +.playoverwatch.com
@@ -875,6 +881,7 @@
 +.thesims3.com
 +.thesims4.com
 +.thesimssocial.com
++.thewitcher.com
 +.thewonderful101.com
 +.thunderstore.io
 +.thunderstore.org

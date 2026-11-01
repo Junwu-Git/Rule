@@ -1,16 +1,13 @@
 # NAME: Spotify
 # AUTHOR: YYDS666
-# UPDATED: 2026-10-30 06:10:27
-# TOTAL: 17
+# UPDATED: 2026-11-01 04:46:28
+# TOTAL: 15
 DOMAIN-SUFFIX,byspotify.com
 DOMAIN-SUFFIX,lifeatspotify.com
 DOMAIN-SUFFIX,pscdn.co
 DOMAIN-SUFFIX,scdn.co
 DOMAIN-SUFFIX,spoti.fi
 DOMAIN-SUFFIX,spotify-everywhere.com
-DOMAIN-SUFFIX,spotify.com
-DOMAIN-SUFFIX,spotify.design
-DOMAIN-SUFFIX,spotify.link
 DOMAIN-SUFFIX,spotifycdn.com
 DOMAIN-SUFFIX,spotifycdn.net
 DOMAIN-SUFFIX,spotifycharts.com
@@ -19,3 +16,4 @@ DOMAIN-SUFFIX,spotifyforbrands.com
 DOMAIN-SUFFIX,spotifyforvendors.com
 DOMAIN-SUFFIX,spotifyjobs.com
 DOMAIN-SUFFIX,tospotify.com
+DOMAIN-KEYWORD,spotify

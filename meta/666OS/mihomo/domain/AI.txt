@@ -1,7 +1,7 @@
 # NAME: AI
 # AUTHOR: YYDS666
-# UPDATED: 2026-10-30 06:08:16
-# TOTAL: 298
+# UPDATED: 2026-11-01 04:44:16
+# TOTAL: 307
 +.agentclientprotocol.com
 +.ai.com
 +.ai.studio
@@ -24,6 +24,7 @@
 +.app-analytics-services.com
 +.apps.mzstatic.com
 +.arena.ai
++.artificialanalysis.ai
 +.auth0.com
 +.bard.google.com
 +.cerebras.ai
@@ -52,6 +53,7 @@
 +.claudeusercontent.com
 +.clawhub.ai
 +.client-api.arkoselabs.com
++.cline.bot
 +.clipdrop.co
 +.cocopilot.org
 +.codeium.com
@@ -64,6 +66,8 @@
 +.comfy.org
 +.comfyci.org
 +.comfyregistry.org
++.commandcode.ai
++.context7.com
 +.copilot-stg.com
 +.copilot.cloud.microsoft
 +.copilot.com
@@ -149,6 +153,7 @@
 +.manuscdn.com
 +.marscode.com
 +.meta.ai
++.metaaiusercontent.com
 +.metaaivm.com
 +.microsoft-copilot.com
 +.midjourney.com
@@ -162,6 +167,7 @@
 +.notebooklm.google
 +.notebooklm.google.com
 +.notegpt.io
++.nousresearch.com
 +.novelai.net
 +.oaifree.com
 +.oaistatic.com
@@ -246,6 +252,9 @@ apple-relay.apple.com
 apple-relay.cloudflare.com
 apple-relay.fastly-edge.com
 apps.mzstatic.com
+appsgenaiserver-pa.clients.google.com
+appsgenaiserver-pa.clients6.google.com
+appsgenaiserver-pa.googleapis.com
 auth0.openai.com
 bard.google.com
 browser-intake-datadoghq.com

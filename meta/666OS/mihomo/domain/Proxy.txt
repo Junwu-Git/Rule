@@ -1,7 +1,7 @@
 # NAME: Proxy
 # AUTHOR: YYDS666
-# UPDATED: 2026-10-30 06:08:27
-# TOTAL: 27585
+# UPDATED: 2026-11-01 04:44:25
+# TOTAL: 27597
 +.000webhost.com
 +.01.org
 +.02weqj32.com
@@ -121,6 +121,7 @@
 +.18comic-god.xyz
 +.18comic.cc
 +.18comic.company
++.18comic.ink
 +.18comic.org
 +.18comic.vip
 +.18commic.com
@@ -179,6 +180,7 @@
 +.1password.co
 +.1password.com
 +.1password.community
++.1password.dev
 +.1password.eu
 +.1password.io
 +.1passwordservices.com
@@ -758,6 +760,7 @@
 +.addthiscdn.com
 +.addthisedge.com
 +.addtoany.com
++.addtodropbox.com
 +.addyoutube.com
 +.adelaidenow.com.au
 +.adgoogle.net
@@ -1779,6 +1782,7 @@
 +.anthemgame.com
 +.anthemthegame.com
 +.anthonycalzadilla.com
++.anthropic.auth0.com
 +.anthropic.com
 +.anthropic.team
 +.antiphishing.nl
@@ -1833,6 +1837,7 @@
 +.api.recaptcha.net
 +.api.shuaiapi.com
 +.api.steampowered.com
++.api.themoviedb.org
 +.apiary.io
 +.apiauto.ru
 +.apibay.org
@@ -2293,6 +2298,7 @@
 +.arteldoc.com
 +.arteldoc.tv
 +.articles.sk
++.artificialanalysis.ai
 +.artixlinux.org
 +.artnudegalleries.com
 +.artoferotica.info
@@ -3652,6 +3658,7 @@
 +.bingoporno.com
 +.bingparachute.com
 +.bingsandbox.com
++.bingstatic.com
 +.bingvisualsearch.com
 +.bingworld.com
 +.bingx.com
@@ -4602,6 +4609,7 @@
 +.bscdnweb.com
 +.bsi.ir
 +.bsky.app
++.bsky.chat
 +.bsky.network
 +.bsky.social
 +.bspb.ru
@@ -5168,6 +5176,10 @@
 +.cdp1998.org
 +.cdp2006.org
 +.cdpeu.org
++.cdpred.services
++.cdprojekt.com
++.cdprojekt.red
++.cdprojektred.com
 +.cdpuk.co.uk
 +.cdpweb.org
 +.cdpwu.org
@@ -5598,6 +5610,7 @@
 +.click-url.com
 +.clickedu.co.uk
 +.climate-server.com
++.cline.bot
 +.clinica-tibet.ru
 +.clinical-videos.com
 +.clinicalkey.com
@@ -5843,6 +5856,7 @@
 +.comixzilla.com
 +.comm-verse.com
 +.commandandconquer.com
++.commandcode.ai
 +.comments.app
 +.commentshk.com
 +.commerceos.com
@@ -5899,6 +5913,7 @@
 +.contentful.com
 +.contest.com
 +.contests.twilio.com
++.context7.com
 +.convrgencegame.com
 +.cookiebot.com
 +.cookiechoices.org
@@ -6181,6 +6196,7 @@
 +.cybercrimecon.com
 +.cyberghostvpn.com
 +.cybermondaybeats4sale.com
++.cyberpunk.net
 +.cybersport.ru
 +.cybertrust.co.jp
 +.cybertrust.ne.jp
@@ -6283,6 +6299,7 @@
 +.darwinsource.org
 +.darwinsourcecode.com
 +.dasaob.online
++.dash.ai
 +.dashlane.com
 +.dashly.app
 +.dashly.help
@@ -6295,6 +6312,7 @@
 +.data-tscbank.ru
 +.data-vocabulary.org
 +.data.com
++.data.microsoft.com
 +.data18.com
 +.databank.ru
 +.datacloudmy.com
@@ -7044,6 +7062,7 @@
 +.docs.new
 +.docs.rs
 +.docs.rw
++.docsend.com
 +.doctor-videos.com
 +.documentforce.com
 +.documentingreality.com
@@ -7237,12 +7256,15 @@
 +.dropboxapi.com
 +.dropboxbusiness.com
 +.dropboxcaptcha.com
++.dropboxexperiment.com
 +.dropboxforum.com
 +.dropboxforums.com
 +.dropboxinsiders.com
++.dropboxlegal.com
 +.dropboxmail.com
 +.dropboxpartners.com
 +.dropboxstatic.com
++.dropboxteam.com
 +.dropboxusercontent.com
 +.drpc.org
 +.drtuber.com
@@ -10025,6 +10047,7 @@
 +.githubassets.com
 +.githubcopilot.com
 +.githubhackathon.com
++.githubhelp.com
 +.githubnext.com
 +.githubpreview.dev
 +.githubstatus.com
@@ -10932,9 +10955,11 @@
 +.helixstudios.net
 +.helloandroid.com
 +.helloavgirls.com
++.hellofax.com
 +.hellokittybeats.com
 +.hellomoto.com
 +.helloqueer.com
++.hellosign.com
 +.hellosmartbook.com
 +.hellporno.com
 +.hellven.net
@@ -12272,6 +12297,7 @@
 +.imtintl.com
 +.imzog.com
 +.in-bank.ru
++.in.applicationinsights.azure.com
 +.inaporn.com
 +.inasian.club
 +.inbox.ru
@@ -12960,6 +12986,7 @@
 +.iutunes.com
 +.ivacy.com
 +.ivi.ru
++.ivi.tv
 +.ivicdn.tv
 +.ivintageporn.com
 +.ivonblog.com
@@ -14028,6 +14055,7 @@
 +.librarylovefest.com
 +.libraryofthumbs.com
 +.libredd.it
++.librewolf.dev
 +.librewolf.net
 +.libsolutions.app
 +.libsolutions.domains
@@ -14980,6 +15008,7 @@
 +.met-nude.com
 +.meta.ai
 +.meta.com
++.metaaiusercontent.com
 +.metaaivm.com
 +.metabora.io
 +.metabrainz.org
@@ -15921,6 +15950,7 @@
 +.msfteducation.ca
 +.msftncsi.com
 +.msftnet.org
++.msftstatic.com
 +.msgamesresearch.com
 +.msgamestudios.com
 +.msha.gov
@@ -16947,6 +16977,7 @@
 +.notion.so
 +.notionusercontent.com
 +.nottinghampost.com
++.nousresearch.com
 +.novelai.net
 +.noveltrove.com
 +.novids.com
@@ -18334,6 +18365,7 @@
 +.playfabapi.com
 +.playfamily.ru
 +.playforceone.com
++.playgwent.com
 +.playhearthstone.com
 +.playmation.com
 +.playmeow.com
@@ -20810,7 +20842,6 @@
 +.situero.com
 +.six-degrees.io
 +.six9dy.pw
-+.sixte.st
 +.sjcollect.com
 +.sjhsp1.buzz
 +.skate2.com
@@ -22063,6 +22094,7 @@
 +.telegramdownload.com
 +.telekom.com
 +.telekom.de
++.telemetry.microsoft.com
 +.telerik.com
 +.telesco.pe
 +.telesec.de
@@ -22106,29 +22138,6 @@
 +.teslaenergy.services
 +.teslamotors.com
 +.teslazta.net
-+.test-ipv6.alpinedc.ch
-+.test-ipv6.arauc.br
-+.test-ipv6.belwue.net
-+.test-ipv6.carnet.hr
-+.test-ipv6.cl
-+.test-ipv6.com
-+.test-ipv6.cs.umd.edu
-+.test-ipv6.csclub.uwaterloo.ca
-+.test-ipv6.cz
-+.test-ipv6.epic.network
-+.test-ipv6.fratec.net
-+.test-ipv6.freerangecloud.com
-+.test-ipv6.go6.si
-+.test-ipv6.hu
-+.test-ipv6.is
-+.test-ipv6.iu13.net
-+.test-ipv6.ke.liquidtelecom.net
-+.test-ipv6.noroutetohost.net
-+.test-ipv6.roedu.net
-+.test-ipv6.se
-+.test-ipv6.sin.vr.org
-+.test-ipv6.ttk.ru
-+.testipv6.de
 +.testonfox.com
 +.tetrika-school.ru
 +.tettediferro.it
@@ -22325,6 +22334,7 @@
 +.theweek.in
 +.thewgo.org
 +.thewirechina.com
++.thewitcher.com
 +.thewonderful101.com
 +.theyxxx.com
 +.thieme-connect.com
@@ -22336,6 +22346,7 @@
 +.thinkgeek.com
 +.thinkingtaiwan.com
 +.thinkofliving.com
++.thinkorswim.com
 +.thinkquarterly.co.uk
 +.thinkquarterly.com
 +.thinkwithgoogle.com
@@ -22478,11 +22489,14 @@
 +.tiktokglobalshopv.com
 +.tiktokminis.us
 +.tiktokrow-cdn.com
++.tiktokshop.com
++.tiktokstaticb.com
 +.tiktokv.com
 +.tiktokv.com.edgekey.net
 +.tiktokv.com.edgesuite.net
 +.tiktokv.eu
 +.tiktokv.us
++.tiktokvapp.com
 +.tiktokw.eu
 +.tiktokw.us
 +.tilda.cc
@@ -22665,6 +22679,7 @@
 +.torproject.org
 +.torrentgalaxy.to
 +.torrentkitty.tv
++.torrentleech.org
 +.torrentprivacy.com
 +.torrenty.org
 +.torrindex.net
@@ -25275,15 +25290,15 @@
 +.xn--d4ty0ojsqzfd.com
 +.xn--e1adjldbbpv.xn--90ais
 +.xn--e1aigb.xn--p1ai
-+.xn--fiqs8s1bxp3anr7a.hk
-+.xn--fiqs8s1bxp3anr7a.xn--j6w193g
-+.xn--fiqs8s1byzqyvl.hk
-+.xn--fiqs8s1byzqyvl.xn--j6w193g
++.xn--fiq80y.hk
++.xn--fiq80y.xn--j6w193g
++.xn--fiq80y3xbiwr.hk
++.xn--fiq80y3xbiwr.xn--j6w193g
++.xn--fiq80y3xbiwrs0kiu9d.hk
++.xn--fiq80y3xbiwrs0kiu9d.xn--j6w193g
 +.xn--fiqs8sxootzz.xn--hxt814e
 +.xn--flw351e
 +.xn--flw351e.com
-+.xn--gdt08a.hk
-+.xn--gdt08a.xn--j6w193g
 +.xn--ggle-55da.com
 +.xn--gmq348bujlxrb.com
 +.xn--gmq92kd2rm1kx34a.com
@@ -25303,8 +25318,6 @@
 +.xn--kput3imi374g.xn--hxt814e
 +.xn--mts47c3w9b1qr.net
 +.xn--mtswd61ejxq.com
-+.xn--mxtq18a.hk
-+.xn--mxtq18a.xn--j6w193g
 +.xn--ngstr-lra8j.com
 +.xn--noss43i.com
 +.xn--oiq.cc
@@ -25312,14 +25325,10 @@
 +.xn--pearsonenespaol-brb.com
 +.xn--pssu7ci2j23mp9ny48b.hk
 +.xn--pssu7ci2j23mp9ny48b.xn--j6w193g
-+.xn--pssu7cv61af1tcs59bnvd.hk
-+.xn--pssu7cv61af1tcs59bnvd.xn--j6w193g
++.xn--pssu7ci3q5oge0ai91q.xn--j6w193g
 +.xn--pssu7cv61af44b.hk
 +.xn--pssu7cv61af44b.xn--j6w193g
-+.xn--pssu7cv61ahw8aq79bztd.hk
-+.xn--pssu7cv61ahw8aq79bztd.xn--j6w193g
-+.xn--pssu7cv61ahwcb1p2yk.hk
-+.xn--pssu7cv61ahwcb1p2yk.xn--j6w193g
++.xn--pssu7cz8nr8ibkx1e8a.xn--j6w193g
 +.xn--q41am8x.com
 +.xn--qcka1pmc
 +.xn--qoq462m.com
@@ -25335,11 +25344,7 @@
 +.xn--uis44a.xn--j6w193g
 +.xn--urs05q.jp
 +.xn--vuqv2cf7wzyig79c.com
-+.xn--wcv22d.hk
-+.xn--wcv22d.xn--j6w193g
 +.xn--wcvs22d.xn--j6w193g
-+.xn--wcvs22d1m.hk
-+.xn--wcvs22d1m.xn--j6w193g
 +.xn--x-qeu1ji09tzlg.biz
 +.xn--x-qeu1ji09tzlg.net
 +.xn--xsq421m.com
@@ -26227,6 +26232,7 @@
 +.youtubekids.com
 +.youtubemobilesupport.com
 +.youversion.com
++.youversionapi.com
 +.youwin.com
 +.youwuss.com
 +.youx.xxx
@@ -26580,6 +26586,9 @@ apple.comscoreresearch.com
 appleworldwidedeveloper.hb-api.omtrdc.net
 appleworldwidedeveloper.sc.omtrdc.net
 apps.apple.com
+appsgenaiserver-pa.clients.google.com
+appsgenaiserver-pa.clients6.google.com
+appsgenaiserver-pa.googleapis.com
 appshopper.com
 as-dash-uk-live.akamaized.net
 as-hls-uk-live.akamaized.net
@@ -26746,6 +26755,8 @@ databank.worldbank.org
 database.asahi.com
 datarouter.apps.netherrealm.com
 david-kilgour.com
+dc.applicationinsights.azure.com
+dc.services.visualstudio.com
 dcb0z5ovq92mz.cloudfront.net
 ddacn6pr5v0tl.cloudfront.net
 ddpjwstwtpszg.cloudfront.net
@@ -26772,6 +26783,7 @@ docker-pinata-support.s3.amazonaws.com
 doy2mn9upadnk.cloudfront.net
 dqd0jw5gvbchn.cloudfront.net
 dqrpb9wgowsf5.cloudfront.net
+dropbox.zendesk.com
 ds-linear-abematv.akamaized.net
 ds-vod-abematv.akamaized.net
 ds0h3roq6wcgc.cloudfront.net
@@ -26953,6 +26965,7 @@ link-o-rama.com
 link.theplatform.com
 linkedin.sc.omtrdc.net
 live-patreon-marketing.pantheonsite.io
+live.applicationinsights.azure.com
 lm.licenses.adobe.com
 lmlicenses.wip4.adobe.com
 location.microsoft.com
@@ -26995,7 +27008,6 @@ mwf-service.akamaized.net
 na1r.services.adobe.com
 nbbb1bb7.pmhcjk.com
 nbtvpn.com
-netflix.com.edgesuite.net
 new.c.mi.com
 newcenturymc.com
 news-assets.apple.com
@@ -27149,6 +27161,7 @@ rsshub.rssforever.com
 rsshub.umzzz.com
 rsshub.woodland.cafe
 rsshub2.asailor.org
+rt.services.visualstudio.com
 rtm.tnt-ea.com
 rxhj.net
 s3-ap-northeast-1.amazonaws.com
@@ -27249,7 +27262,6 @@ socrec.org
 softwaredownload.gitbooks.io
 soubory.com
 spectator.ppy.sh
-spotify.com.edgesuite.net
 spotify.map.fastly.net
 spotify.map.fastlylb.net
 ssglobal.co

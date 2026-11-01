@@ -1,7 +1,7 @@
 # NAME: Google
 # AUTHOR: YYDS666
-# UPDATED: 2026-10-30 06:08:20
-# TOTAL: 1075
+# UPDATED: 2026-11-01 04:46:27
+# TOTAL: 1078
 +.0emm.com
 +.1e100.net
 +.1ucrs.com
@@ -864,6 +864,9 @@ app-analytics-services.com
 app-measurement-cn.com
 app-measurement.com
 apps5.oingo.com
+appsgenaiserver-pa.clients.google.com
+appsgenaiserver-pa.clients6.google.com
+appsgenaiserver-pa.googleapis.com
 avail.googleflights.net
 beacons.gcp.gvt2.com
 beacons.gvt2.com
