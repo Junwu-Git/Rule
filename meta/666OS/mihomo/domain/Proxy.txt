@@ -1,7 +1,7 @@
 # NAME: Proxy
 # AUTHOR: YYDS666
-# UPDATED: 2026-11-02 05:26:28
-# TOTAL: 27597
+# UPDATED: 2026-11-04 06:38:39
+# TOTAL: 27598
 +.000webhost.com
 +.01.org
 +.02weqj32.com
@@ -3590,6 +3590,7 @@
 +.bili2.cc
 +.bili888.com
 +.bili999.com
++.bilibili.tv
 +.bilinovel.com
 +.biliplus.com
 +.bill-safe.com
