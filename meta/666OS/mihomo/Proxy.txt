@@ -1,7 +1,7 @@
 # NAME: Proxy
 # AUTHOR: YYDS666
-# UPDATED: 2026-11-04 06:38:39
-# TOTAL: 22966
+# UPDATED: 2026-11-06 07:00:04
+# TOTAL: 22965
 DOMAIN-SUFFIX,000webhost.com
 DOMAIN-SUFFIX,01.org
 DOMAIN-SUFFIX,02weqj32.com
@@ -12569,7 +12569,6 @@ DOMAIN-SUFFIX,maturetube.com
 DOMAIN-SUFFIX,maturewifeporn.cc
 DOMAIN-SUFFIX,maturewomenanal.com
 DOMAIN-SUFFIX,maturexxxvideos.cc
-DOMAIN-SUFFIX,maven.neoforged.net
 DOMAIN-SUFFIX,max-tcs.ru
 DOMAIN-SUFFIX,max.com
 DOMAIN-SUFFIX,max.ru
