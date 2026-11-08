@@ -1,6 +1,6 @@
 # NAME: PayPal
 # AUTHOR: YYDS666
-# UPDATED: 2026-11-06 07:00:07
+# UPDATED: 2026-11-08 05:11:34
 # TOTAL: 206
 DOMAIN,venmo.s3.amazonaws.com
 DOMAIN-SUFFIX,account-paypal.info

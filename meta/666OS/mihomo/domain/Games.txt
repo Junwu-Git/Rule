@@ -1,11 +1,10 @@
 # NAME: Games
 # AUTHOR: YYDS666
-# UPDATED: 2026-11-06 06:59:58
-# TOTAL: 1138
+# UPDATED: 2026-11-08 05:10:14
+# TOTAL: 1059
 +.100classicbooks.com
 +.17173.com
 +.17173cdn.com
-+.17roco.com
 +.2k.com
 +.2kcoretech.online
 +.2kct.onl
@@ -70,7 +69,6 @@
 +.amiibo.com
 +.anthemgame.com
 +.anthemthegame.com
-+.anticheatexpert.com
 +.apexlegends.com
 +.appeeres.com
 +.arcaea.cn
@@ -85,7 +83,6 @@
 +.ayudanintendo.com
 +.battle.net
 +.battlebreakers.com
-+.battlecare.net
 +.battlefield.com
 +.battlefield1943.com
 +.battlefield3.com
@@ -97,7 +94,6 @@
 +.battlefront2.com
 +.battlefrontii.com
 +.battlelog.com
-+.bcfmglobal.com
 +.bejeweledstars.com
 +.bejewled-stars.com
 +.benefitsforeveryworld.com
@@ -127,7 +123,6 @@
 +.bohemia.net
 +.boombeach.com
 +.bowsersinsidestory.com
-+.brawlstars.cn
 +.brawlstars.com
 +.brawlstarsgame.com
 +.buke999.com
@@ -162,7 +157,6 @@
 +.clashroyaleapp.com
 +.client-update.queniuqe.com
 +.cncrivals.com
-+.codm.com
 +.commandandconquer.com
 +.conquerwithcharacter.com
 +.convrgencegame.com
@@ -266,7 +260,6 @@
 +.faceit.com
 +.fanatical.com
 +.feihuo.com
-+.ffbuddy.com
 +.ficgs.com
 +.fifastreet.com
 +.fifastreet3.com
@@ -293,9 +286,6 @@
 +.game-repack.site
 +.gameabc.com
 +.gamebanana.com
-+.gamebonfire.com
-+.gameitop.com
-+.gameloop.com
 +.gamemei.com
 +.gamepass.com
 +.gamesfirsthelsinki.com
@@ -312,12 +302,6 @@
 +.garena.tw
 +.garena.vn
 +.garenanow.com
-+.gcloudcs.com
-+.gcloudcstest.com
-+.gcloudcstestonly.com
-+.gclouddolphin.com
-+.gcloudsdk.com
-+.gcloudsvcs.com
 +.genshinimpact.com
 +.ghostgames.com
 +.giratina.com
@@ -329,24 +313,14 @@
 +.gog.com
 +.gogalaxy.com
 +.gooblox.com
-+.goto-game.com
-+.goto-game.mobi
-+.goto-game.net.cn
-+.goto-game.org
-+.gotolink.net
-+.gouhuo.qq.com
 +.gpstatic.com
 +.gstore.val.manlaxy.com
-+.gtgres.com
 +.guoping123.com
 +.hackyourconsole.com
 +.haohaowan.net
 +.happyelements.com
-+.happyhlddz.com
 +.hayday.com
 +.haydaygame.com
-+.haydaypop.cn
-+.hdyxgame.com
 +.heavenlywind.cc
 +.hero.com
 +.heroesofdragonage.com
@@ -357,7 +331,6 @@
 +.historyofdota.com
 +.historyofdota.net
 +.historyofdota.org
-+.hkgcloudcs.com
 +.honkaiimpact3.com
 +.honkaistarrail.com
 +.hoyo.link
@@ -368,11 +341,8 @@
 +.hutpromos.com
 +.hyprsense.com
 +.i3839.com
-+.ihappystudio.cn
-+.ihappystudio.com
 +.ihykb.com
 +.img4399.com
-+.in.th
 +.industrialtoys.com
 +.infinityward.com
 +.insights-collector.gog.com
@@ -404,7 +374,6 @@
 +.konamistyle.jp
 +.kraftonde.com
 +.kyurem.com
-+.labycore.cn
 +.langrenclub.com
 +.laohu.com
 +.lcsmerch.com
@@ -425,6 +394,9 @@
 +.legendofzelda.cn
 +.legendofzelda.com.cn
 +.leyuansu.com
++.limbuscompany.global
++.limbuscompanyapi.com
++.limbuscompanycdn.org
 +.lingxigames.com
 +.log-upload-os.hoyoverse.com
 +.log-upload.mihoyo.com
@@ -442,17 +414,11 @@
 +.loverslab.com
 +.lowiro.com
 +.lpl.com.cn
-+.ludosuperstar.cn
-+.ludoworld.net
 +.maddenchampionship.com
 +.maddenrewards.com
 +.maddenseason.info
 +.maddenseason.net
 +.maddenseason.org
-+.mahjongai.net
-+.mahjongcup.cn
-+.mahjongcup.com
-+.mahjongcup.net
 +.mail4399.com
 +.maindown4399.com
 +.makearmanotwar.com
@@ -468,10 +434,8 @@
 +.masteroforion.com
 +.maxis.com
 +.me4399.com
-+.metalrevolution.com
 +.mhystatic.com
 +.mhyurl.cn
-+.midasbuy.com
 +.mihayo.com
 +.mihayou.com
 +.mihoyo.com
@@ -500,9 +464,6 @@
 +.mojang.com
 +.molesports.com
 +.morefreegame.com
-+.mszdld.cn
-+.mszdld.com
-+.mszdld.net
 +.muvluv-girls-garden.com
 +.my4399.com
 +.mysims.com
@@ -512,7 +473,6 @@
 +.mythicentertainment.net
 +.mythicgames.com
 +.n0vadesktop.com
-+.nagcloudcs.com
 +.nalrer.cn
 +.namemc.com
 +.needforspeed.com
@@ -538,8 +498,6 @@
 +.nexon.net
 +.nexoncdn.co.kr
 +.nexongames.co.kr
-+.nextstudios.com
-+.nextworkshop.net
 +.nexus-cdn.com
 +.nexusmods.com
 +.nfsworld.com
@@ -656,19 +614,15 @@
 +.priconne-redive.jp
 +.prismlauncher.org
 +.projectapex.com
++.projectmoon.studio
 +.protondb.com
-+.proximabeta.com
 +.pubg.com
-+.pubghelper.com
-+.pubgno1.cn
-+.pubgtool.com
 +.pvp.net
 +.pvp.tv
 +.pvzgw2.com
 +.pvzheroes.com
 +.qq163.com
 +.qq163.net
-+.qqgameapp.com
 +.quiltmc.org
 +.quixel.com
 +.quixel.se
@@ -686,7 +640,6 @@
 +.rbxlabs.com
 +.rbxtrk.com
 +.reachthefinals.com
-+.realcybertron.com
 +.realityscan.com
 +.renovacionxboxlive.com
 +.resella.jp
@@ -705,7 +658,6 @@
 +.riotgames.tv
 +.riotpin.com
 +.riotpoints.com
-+.rmwxgame.com
 +.ro-blox.com
 +.roadblocks.com
 +.roblocks.com
@@ -713,7 +665,6 @@
 +.roblox.ca
 +.roblox.cc
 +.roblox.cl
-+.roblox.cn
 +.roblox.co.jp
 +.roblox.co.uk
 +.roblox.com
@@ -730,18 +681,15 @@
 +.roblox.org
 +.roblox.ph
 +.roblox.pt
-+.roblox.qq.com
 +.roblox.sk
 +.roblox.tv
 +.roblox.uk
 +.roblox.us
 +.roblox.vn
-+.robloxdev.cn
 +.robloxlabs.com
 +.roborecall.com
 +.rockstargames.com
 +.rockstarnorth.com
-+.roco.qq.com
 +.rowblocks.com
 +.rowblox.com
 +.rsg.ms
@@ -750,11 +698,6 @@
 +.ruinedking.com
 +.s.team
 +.sanguosha.com
-+.sccreator.cn
-+.sccreators.cn
-+.scescdn.cn
-+.scid.cn
-+.scsentry.cn
 +.sdo.com
 +.seagroup.com
 +.seaofsolitude.com
@@ -775,7 +718,7 @@
 +.simcity.com
 +.skate2.com
 +.sketchfab.com
-+.skydweller.cn
++.skinswap.com
 +.skylanders.com
 +.sl916.com
 +.sledgehammergames.com
@@ -827,6 +770,7 @@
 +.steamgames.com
 +.steaminventoryhelper.com
 +.steamos.cloud
++.steampeek.hu
 +.steampowered.com
 +.steampowered.com.8686c.com
 +.steamserver.net
@@ -838,12 +782,10 @@
 +.stellasora.jp
 +.supercell.com
 +.supercell.net
-+.supercellcommunity.cn
 +.supercellcreators.com
 +.supercellgames.com
 +.supercellid.com
 +.supercellstore.com
-+.supercellsupport.cn
 +.supermario.com
 +.supermario3dworld.com
 +.supermariobros.com.cn
@@ -859,19 +801,12 @@
 +.swjfo.com
 +.swtor.com
 +.swtor.net
-+.syxlgame.com
 +.take2games.com
 +.tanwan.com
 +.tarkov.com
-+.tcfmglobal.com
 +.teamneedforspeed.com
 +.tellmewhygame.com
-+.tencent-gcloud.com
-+.tencentstart.com
 +.testplus.cn
-+.texasholdemcup.cn
-+.texasholdemcup.com
-+.texasholdemcup.net
 +.tgpro.top
 +.tgprocs.net
 +.thedreadwolfrises.com
@@ -889,7 +824,6 @@
 +.tiancitycdn.com
 +.tiberiumalliances.com
 +.tiburon.com
-+.timibase.com
 +.titanfall.com
 +.tnt-ea.com
 +.tonyhawk.com
@@ -917,7 +851,6 @@
 +.uplay.com
 +.valve.net
 +.valvesoftware.com
-+.videoxiaoyouxi.com
 +.vigorgame.com
 +.visceralgames.com
 +.vrchat.cloud
@@ -938,13 +871,8 @@
 +.wbagora.com
 +.wbgames.com
 +.wbinsights.com
-+.wcbygame.com
 +.we4399.com
 +.webgame163.com
-+.wegame.com
-+.wegame.com.cn
-+.wegameplus.com
-+.werepository.com.cn
 +.wgcdn.co
 +.wgcrowd.io
 +.wii-u.com
@@ -1001,7 +929,6 @@
 +.xishanju.com
 +.xn--mts47c3w9b1qr.cn
 +.xn--mts47c3w9b1qr.net
-+.xn--owtw8cc49ajfl.cn
 +.xoyo.com
 +.xoyocdn.com
 +.ycgame.com
@@ -1024,18 +951,12 @@
 +.youba.com
 +.yuanshen.com
 +.yugioh-card.com
-+.yxdmgame.com
 +.yxhapi.com
 +.yxhhdl.com
 +.yxhimg.com
-+.yximg.cn
-+.yxwsgame.com
 +.yysls.cn
-+.yzyxgame.com
-+.zcjbgame.com
 +.zenlesszonezero.com
 +.zhuoyou.com
-+.zhuoyuegame.com
 +.zjshulong.com
 +.zx.com
 +.zynga.com
