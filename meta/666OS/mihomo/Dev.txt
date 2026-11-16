@@ -1,7 +1,7 @@
 # NAME: Dev
 # AUTHOR: YYDS666
-# UPDATED: 2026-11-14 07:00:04
-# TOTAL: 558
+# UPDATED: 2026-11-16 06:12:31
+# TOTAL: 560
 DOMAIN-SUFFIX,01.org
 DOMAIN-SUFFIX,accountkit.com
 DOMAIN-SUFFIX,acpica.com
@@ -215,6 +215,8 @@ DOMAIN-SUFFIX,godoc.org
 DOMAIN-SUFFIX,golang.com
 DOMAIN-SUFFIX,golang.net
 DOMAIN-SUFFIX,golang.org
+DOMAIN-SUFFIX,grafana.com
+DOMAIN-SUFFIX,grafana.net
 DOMAIN-SUFFIX,graphengine.io
 DOMAIN-SUFFIX,grazie.ai
 DOMAIN-SUFFIX,greenend.org.uk

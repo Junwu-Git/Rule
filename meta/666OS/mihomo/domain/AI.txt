@@ -1,7 +1,7 @@
 # NAME: AI
 # AUTHOR: YYDS666
-# UPDATED: 2026-11-14 06:58:34
-# TOTAL: 307
+# UPDATED: 2026-11-16 06:12:39
+# TOTAL: 311
 +.agentclientprotocol.com
 +.ai.com
 +.ai.studio
@@ -120,6 +120,7 @@
 +.grazie.aws.intellij.net
 +.grok.com
 +.grok.x.com
++.grokbot.com
 +.grokipedia.com
 +.groq.com
 +.h2o.ai
@@ -284,11 +285,13 @@ geminiweb-pa.clients.google.com
 geminiweb-pa.clients6.google.com
 gspe1-ssl.ls.apple.com
 guzzoni.apple.com
+http-intake.logs.us5.datadoghq.com
 imagine.meta.com
 makersuite.google.com
 mj.run
 notebooklm-pa.googleapis.com
 notebooklm.googleapis.com
+o1158394.ingest.us.sentry.io
 o33249.ingest.sentry.io
 o33249.ingest.us.sentry.io
 openai-api.arkoselabs.com
@@ -303,6 +306,7 @@ play.googleapis.com
 ppl-ai-file-upload.s3.amazonaws.com
 pplx-res.cloudinary.com
 proactivebackend-pa.googleapis.com
+production-copilot-host-westus.webpubsub.azure.com
 production-openaicom-storage.azureedge.net
 servd-anthropic-website.b-cdn.net
 static.cloudflareinsights.com

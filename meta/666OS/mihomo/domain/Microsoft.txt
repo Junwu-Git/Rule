@@ -1,7 +1,7 @@
 # NAME: Microsoft
 # AUTHOR: YYDS666
-# UPDATED: 2026-11-14 07:00:11
-# TOTAL: 758
+# UPDATED: 2026-11-16 06:12:40
+# TOTAL: 759
 +.1drv.com
 +.1drv.ms
 +.21vbc.com
@@ -712,6 +712,7 @@ osrelease.download.prss.microsoft.com
 packages.microsoft.com
 poshtestgallery.cloudapp.net
 prodforza.blob.core.windows.net
+production-copilot-host-westus.webpubsub.azure.com
 productionresultssa0.blob.core.windows.net
 productionresultssa1.blob.core.windows.net
 productionresultssa10.blob.core.windows.net

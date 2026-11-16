@@ -1,7 +1,7 @@
 # NAME: Dev
 # AUTHOR: YYDS666
-# UPDATED: 2026-11-14 07:00:04
-# TOTAL: 688
+# UPDATED: 2026-11-16 06:12:31
+# TOTAL: 691
 +.01.org
 +.accountkit.com
 +.acpica.com
@@ -226,6 +226,8 @@
 +.golang.com
 +.golang.net
 +.golang.org
++.grafana.com
++.grafana.net
 +.graphengine.io
 +.grazie.ai
 +.greenend.org.uk
@@ -660,6 +662,7 @@ notary-submissions-prod.s3.us-west-2.amazonaws.com
 p-events-delivery.akamaized.net
 packages.microsoft.com
 poshtestgallery.cloudapp.net
+production-copilot-host-westus.webpubsub.azure.com
 productionresultssa0.blob.core.windows.net
 productionresultssa1.blob.core.windows.net
 productionresultssa10.blob.core.windows.net
