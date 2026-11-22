@@ -1,10 +1,12 @@
 # NAME: Games
 # AUTHOR: YYDS666
-# UPDATED: 2026-11-20 08:01:32
-# TOTAL: 870
+# UPDATED: 2026-11-22 06:31:22
+# TOTAL: 873
 DOMAIN-SUFFIX,100classicbooks.com
 DOMAIN-SUFFIX,17173.com
 DOMAIN-SUFFIX,17173cdn.com
+DOMAIN-SUFFIX,1y.com
+DOMAIN-SUFFIX,1ycdn.com
 DOMAIN-SUFFIX,2k.com
 DOMAIN-SUFFIX,2kcoretech.online
 DOMAIN-SUFFIX,2kct.onl
@@ -173,6 +175,7 @@ DOMAIN-SUFFIX,curseforge.com
 DOMAIN-SUFFIX,cy.com
 DOMAIN-SUFFIX,cyberpunk.net
 DOMAIN-SUFFIX,cygames.co.jp
+DOMAIN-SUFFIX,cygames.com
 DOMAIN-SUFFIX,cygames.jp
 DOMAIN-SUFFIX,daoc.net
 DOMAIN-SUFFIX,darkageofcamelot.com

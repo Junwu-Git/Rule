@@ -1,10 +1,12 @@
 # NAME: Games
 # AUTHOR: YYDS666
-# UPDATED: 2026-11-20 08:01:32
-# TOTAL: 1059
+# UPDATED: 2026-11-22 06:31:22
+# TOTAL: 1062
 +.100classicbooks.com
 +.17173.com
 +.17173cdn.com
++.1y.com
++.1ycdn.com
 +.2k.com
 +.2kcoretech.online
 +.2kct.onl
@@ -173,6 +175,7 @@
 +.cy.com
 +.cyberpunk.net
 +.cygames.co.jp
++.cygames.com
 +.cygames.jp
 +.daoc.net
 +.darkageofcamelot.com
