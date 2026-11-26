@@ -1,6 +1,6 @@
 # NAME: Spotify
 # AUTHOR: YYDS666
-# UPDATED: 2026-11-24 11:34:34
+# UPDATED: 2026-11-26 09:17:00
 # TOTAL: 15
 DOMAIN-SUFFIX,byspotify.com
 DOMAIN-SUFFIX,lifeatspotify.com
