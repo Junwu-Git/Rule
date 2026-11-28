@@ -1,7 +1,7 @@
 # NAME: Proxy
 # AUTHOR: YYDS666
-# UPDATED: 2026-11-26 09:16:57
-# TOTAL: 22880
+# UPDATED: 2026-11-28 08:46:31
+# TOTAL: 22883
 DOMAIN-SUFFIX,000webhost.com
 DOMAIN-SUFFIX,01.org
 DOMAIN-SUFFIX,02weqj32.com
@@ -918,6 +918,7 @@ DOMAIN-SUFFIX,ai7995.site
 DOMAIN-SUFFIX,ai91porn.cc
 DOMAIN-SUFFIX,aiaa.org
 DOMAIN-SUFFIX,aiasahi.jp
+DOMAIN-SUFFIX,aicu.cc
 DOMAIN-SUFFIX,aidc.com.tw
 DOMAIN-SUFFIX,aihub.top
 DOMAIN-SUFFIX,aimei133.com
@@ -5241,6 +5242,7 @@ DOMAIN-SUFFIX,dandanplay.com
 DOMAIN-SUFFIX,dandanplay.net
 DOMAIN-SUFFIX,dandanzan.cc
 DOMAIN-SUFFIX,danke4china.net
+DOMAIN-SUFFIX,danmakus.com
 DOMAIN-SUFFIX,danmarkbeatsbydrdre.com
 DOMAIN-SUFFIX,danskpornofilm.com
 DOMAIN-SUFFIX,dansmovies.com
@@ -18163,6 +18165,7 @@ DOMAIN-SUFFIX,soyjak.party
 DOMAIN-SUFFIX,soyjak.st
 DOMAIN-SUFFIX,sp.cool
 DOMAIN-SUFFIX,spacebattles.com
+DOMAIN-SUFFIX,spacedesk.net
 DOMAIN-SUFFIX,spaceexplored.com
 DOMAIN-SUFFIX,spaceforce.mil
 DOMAIN-SUFFIX,spacely.com.au
